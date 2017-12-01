@@ -1,17 +1,17 @@
 THE JUDAS VALLEY
 By GERALD VANCE
-  _Why did everybody step off the ship in this strange valley
+  Why did everybody step off the ship in this strange valley
   and promptly drop dead? How could a well-equipped corps of
   tough spacemen become a field of rotting skeletons in this
   quiet world of peace and contentment? It was a mystery Peter
-  and Sherri had to solve. If they could live long enough!_
+  and Sherri had to solve. If they could live long enough!
 Peter Wayne took the letter out of the machine, broke the seal, and
 examined it curiously. It was an official communication from the
 Interstellar Exploration Service. It read:
   FROM: Lieutenant General Martin Scarborough, I.E.S.
   TO: Captain Peter Wayne, Preliminary Survey Corps
-  Report immediately to this office for assignment to I.E.S. _Lord
-  Nelson_. Full briefing will be held at 2200 hours, 14 April 2103.
+  Report immediately to this office for assignment to I.E.S. Lord
+  Nelson. Full briefing will be held at 2200 hours, 14 April 2103.
   By order of the Fleet Commandant.
 It was short, brief, and to the point. And it gave no information
 whatsoever. Peter Wayne shrugged resignedly, put the letter down on his
@@ -23,11 +23,11 @@ intriguingly combined desirability and crisp military bearing.
 appeared on her screen, she grinned. "Hi, Pete. What's up?"
 "Listen, Sherri," Wayne said quickly. "I'm going to have to cancel that
 date we had for tomorrow night. I just got my orders."
-The girl laughed. "I was just going to call _you_, I got a fac-sheet
+The girl laughed. "I was just going to call you, I got a fac-sheet
 too. Looks as though we won't see each other for a while, Pete."
 "What ship are you getting?"
-"The _Lord Nelson_."
-It was Wayne's turn to laugh. "It looks as though we _will_ be seeing
+"The Lord Nelson."
+It was Wayne's turn to laugh. "It looks as though we will be seeing
 each other. That's my ship too. We can keep our date in the briefing
 room."
 Her face brightened. "Good! I'll see you there, then," she said. "I've
@@ -52,7 +52,7 @@ The room was starting to fill up, with men and women Wayne knew well,
 had worked with on other expeditions, had lived with since he'd joined
 the IES. They looked just as puzzled as he probably did, he saw; they
 knew they were being called in on something big, and in the IES big
-meant _big_.
+meant big.
 At precisely 2200, Lieutenant General Scarborough emerged from the inner
 office, strode briskly up the aisle of the briefing room, and took his
 customary stance on the platform in front. His face looked stern, and he
@@ -65,7 +65,7 @@ why the order to report here wasn't more specific. There are two reasons
 for that. In the first place, we have reason to believe that we have
 found a substantial deposit of double-nucleus beryllium."
 There was a murmur of sound in the briefing room. Wayne felt his heart
-starting to pound; D-N beryllium _was_ big. So big that a whole fleet of
+starting to pound; D-N beryllium was big. So big that a whole fleet of
 IES ships did nothing but search the galaxy for it, full time.
 "Naturally," the general continued, "we don't want any of this
 information to leak out, just in case it should prove false. The
@@ -81,7 +81,7 @@ General Scarborough, on the platform, said, "There's a second reason for
 secrecy. I think it can better be explained by a man who has the
 evidence first-hand."
 He paused and looked around the room. "Four weeks ago, the Scout Ship
-_Mavis_ came back from Fomalhaut V." There was a dead silence in the
+Mavis came back from Fomalhaut V." There was a dead silence in the
 briefing room.
 "Lieutenant Jervis, will you tell the crew exactly what happened on
 Fomalhaut V?"
@@ -144,7 +144,7 @@ you ventured into space again.
 were lying scattered every which way, with no clues at all." The small
 man's fingers were trembling from relived fright. "Bellows and I were
 pretty scared, I'll have to admit. We couldn't find a sign of what had
-killed the men--they'd just--just _died_."
+killed the men--they'd just--just died."
 There was a quiver in his voice. It was obvious he could never take the
 story lightly, no matter how many times he had to tell it.
 Wayne heard Private Manetti mutter, "There's always a price for D-N
@@ -161,9 +161,9 @@ immediately, of course, to make sure I wasn't carrying anything. The
 medics checked me over carefully. I wasn't and am not now carrying any
 virus or bacteria unknown to Terrestrial medicine.
 "Since I'm the only one who knows exactly where this valley is, the
-general has asked me to guide the _Lord Nelson_ to the exact spot.
+general has asked me to guide the Lord Nelson to the exact spot.
 Actually, it could be found eventually with the D-N beryllium as a
-guide. But the _Mavis_ was in orbit around Fomalhaut V for two weeks
+guide. But the Mavis was in orbit around Fomalhaut V for two weeks
 before we found the D-N beryllium deposit, and the Service feels that we
 shouldn't waste any time."
 The lieutenant sat down, and General Scarborough resumed his place on
@@ -172,21 +172,21 @@ the platform.
 "That's the situation," Scarborough said bluntly. "You know the setup,
 now--and I think some of you see how your specialities are going to fit
 into the operation. As Lieutenant Jervis pointed out, we don't know what
-killed the crew of the _Mavis_; therefore, we are going to take every
+killed the crew of the Mavis; therefore, we are going to take every
 possible precaution. As far as we know, there are no inimical life forms
 on Fomalhaut V--but it's possible that there are things we don't know
 about, such as airborne viruses that kill in a very short time. If so,
 then Lieutenant Jervis is immune to the virus and is not a transmitter
 or carrier of it.
 "However, to guard against such a possibility, no one will leave the
-_Lord Nelson_, once it has landed, without wearing a spacesuit. The air
+Lord Nelson, once it has landed, without wearing a spacesuit. The air
 is breathable, but we're taking no chances. Also, no one will go out
 alone; scouting parties will always be in pairs, with wide open
 communication with the ship. And at no time will more than ten percent
 of the ship's company be outside at any one time."
-Wayne made a rough mental computation. _The_ Lord Nelson _holds sixty.
+Wayne made a rough mental computation. The Lord Nelson holds sixty.
 That means no more than six out at any single time. They really must be
-worried._
+worried.
 "Aside from those orders, which were decided on by the Service Command,
 you'll be under the direct orders of Colonel Nels Petersen. Colonel
 Petersen."
@@ -196,8 +196,8 @@ He stepped forward and stared intently at the assembled crew.
 "Our job is to make the preliminary preparations for getting D-N
 beryllium out of the crust of Fomalhaut V. We're supposed to stay alive
 while we do it. Therefore, our secondary job is to find out what it was
-that killed the scouting expedition of the _Mavis_. There are sixty of
-us going aboard the _Lord Nelson_ tomorrow, and I'd like to have sixty
+that killed the scouting expedition of the Mavis. There are sixty of
+us going aboard the Lord Nelson tomorrow, and I'd like to have sixty
 aboard when we come back. Got that?"
 He leaned forward, stretched upward on his toes, and smiled
 mechanically. "Fine. Now, you all know your jobs, but we're going to
@@ -212,10 +212,10 @@ means we can't afford to have anyone aboard who doesn't know what he's
 doing or doesn't care. Is that clear?"
 It was.
 "All right," said the colonel. "Let's go out and get acquainted with the
-_Lord Nelson_."
+Lord Nelson."
   *  *  *  *  *
 The briefing session broke up well past midnight, and the group that
-shortly would become the crew of the _Lord Nelson_ filtered out of the
+shortly would become the crew of the Lord Nelson filtered out of the
 building and into the cool spring air. Each man had a fairly good idea
 of his job and each man knew the dangers involved. No one had backed
 out.
@@ -257,7 +257,7 @@ He guzzled the drink and looked up at Sherri, who was sucking down the
 last of the soda. "Let's get going, Lieutenant James. The noncoms are
 coming, and we don't want them to make nasty remarks about us."
   *  *  *  *  *
-The _Lord Nelson_ blasted off the next evening, after a frenzied day of
+The Lord Nelson blasted off the next evening, after a frenzied day of
 hurried preparations. The crew of sixty filed solemnly aboard, Colonel
 Petersen last, and the great hatch swung closed.
 There was the usual routine loudspeaker-business while everyone quickly
@@ -273,7 +273,7 @@ double-nucleus beryllium was located. It wasn't going to be an easy job;
 the terrain was rough, the wind, according to Jervis, whipped ragingly
 through the hills, and the jagged peaks thrust into the air like the
 teeth of some mythical dragon.
-Study of the three-dimensional aerial photographs taken from the _Mavis_
+Study of the three-dimensional aerial photographs taken from the Mavis
 showed that the best route was probably up through one end of the
 valley, through a narrow pass that led around the mountain, and up the
 west slope, which appeared to offer better handholds and was less
@@ -300,24 +300,24 @@ to concentrate on details."
 Wayne nodded and said nothing. Sherri was right. There was one thought
 in everyone's mind: what was the deadly secret of the valley?
 There was another thought, after that:
-_Will we find it out in time?_
+Will we find it out in time?
   *  *  *  *  *
 After two weeks of flight through the vast blackness of interstellar
-space, the _Lord Nelson_ came out of overdrive and set itself in an
+space, the Lord Nelson came out of overdrive and set itself in an
 orbit around Fomalhaut V. Lieutenant Jervis, the sole survivor of the
-ill-fated _Mavis_, located the small valley between the giant crags that
+ill-fated Mavis, located the small valley between the giant crags that
 covered the planet, and the huge spherical bulk of the spaceship settled
 gently to the floor of the valley.
 They were gathered in the central room of the ship ten minutes after the
-_all-clear_ rang through the corridors, informing everyone that the
+all-clear rang through the corridors, informing everyone that the
 landing had been safely accomplished. From the portholes they could see
-the white bones of the _Mavis's_ crew lying on the reddish sand of the
+the white bones of the Mavis's crew lying on the reddish sand of the
 valley bottom.
 "There they are," Jervis said quietly. "Just bones. Those were my
 shipmates."
 Wayne saw Sherri repress a shudder. Little heaps of bones lay here and
 there on the sand, shining brightly in the hot sun. That was the crew of
-the _Mavis_--or what was left of them.
+the Mavis--or what was left of them.
 Colonel Petersen entered the room and confronted the crew. "We're here,"
 he said. "You know the schedule from now on. No one's to leave the ship
 until we've made a check outside, and after that--assuming it's OK to go
@@ -400,10 +400,10 @@ Wayne frowned and shook his head. Both hypotheses made sense.
 "Do you have any suggestions, Doctor?" Petersen said.
 "Since we don't have any direct information about why those men died,
 Colonel, I can't make any definite statements. But I can offer one bit
-of advice to everyone: _wear your suits and be alert_."
+of advice to everyone: wear your suits and be alert."
   *  *  *  *  *
 During the week that followed, several groups went out without suffering
-any ill effects. A short service was held for the eight of the _Mavis_
+any ill effects. A short service was held for the eight of the Mavis
 and then the skeletons were buried in the valley.
 They ran a check on the double-nucleus beryllium toward the end of the
 week, after it had been fairly safely established that no apparent harm
@@ -560,8 +560,8 @@ blasting in, knocking the breath out of him. A third blow, and the
 sergeant collapsed on the sand.
 Wayne paused and caught his breath. The sergeant remained unconscious.
 Wayne shook his head uncertainly, wondering what had come over the
-mild-mannered Boggs. A chilling thought struck him: _was this what
-happened to the crew of the Mavis?_
+mild-mannered Boggs. A chilling thought struck him: was this what
+happened to the crew of the Mavis?
   *  *  *  *  *
 He looked up the cliff, where the other two men were still peering over
 the edge.
@@ -571,7 +571,7 @@ a potato-sack, and waited for the two men to come down. They drew near.
 "Boggs must have gone out of his head," Wayne said. "He jumped me like
 a madman."
 They had nothing to say, so he turned and began to trudge back to the
-_Lord Nelson_, trying to assemble the facts in his mind. They followed
+Lord Nelson, trying to assemble the facts in his mind. They followed
 alongside.
 What was behind the attack? After seeing the monster, why had Boggs
 attempted to push his superior officer over into the sand? There were
@@ -585,7 +585,7 @@ its cycle and the antibacterial spray covered them.
   *  *  *  *  *
 Colonel Petersen looked at him across the desk and put the palms of his
 hands together. "Then, as I understand it, Captain, Sergeant Boggs tried
-to push you over into the sand when this--ah--_monster_ jabbed you in
+to push you over into the sand when this--ah--monster jabbed you in
 the foot?"
 "That's right, sir," Wayne said. He felt uncomfortable. This wasn't a
 formal court-martial; it was simply an inquiry into the sergeant's
@@ -598,7 +598,7 @@ MacPherson and Private Manetti stood stiffly at attention.
 The colonel looked at Boggs. "What's your side of the story, Sergeant?"
 The non-com's face didn't change. "Sir, the captain's statement isn't
 true."
-"_What's that?_" Wayne asked angrily.
+"What's that?" Wayne asked angrily.
 "Quiet, Captain," Petersen said. "Go ahead, Boggs."
 The sergeant licked his bruised lips. "I was about to start up the rope
 when, for no reason at all, he struck me in the stomach. Then he hit me
@@ -611,7 +611,7 @@ up to?
 "Yes, sir," the small man said, stepping a pace forward.
 "Describe it."
 "Well, sir, we were up on top of the cliff, and we called--or rather,
-_I_ called for the captain and the sergeant to come on up. Sergeant
+I called for the captain and the sergeant to come on up. Sergeant
 Boggs took a hold of the rope and then the captain hit him in the belly,
 sir. He hit him twice more and the sergeant fell down. Then the captain
 told us to come down, which we did, sir. That was all." He gestured with
@@ -646,7 +646,7 @@ hold that in your favor."
 "Thank you, sir."
 "On the other hand, the evidence here definitely indicates that your
 story is not quite true. Now, we know that Lieutenant Jervis acted
-peculiarly after the crew of the _Mavis_ met its mysterious end, and the
+peculiarly after the crew of the Mavis met its mysterious end, and the
 Medical Corps thinks that whatever is causing the deaths could also
 cause mental confusion. Therefore, I am remanding you to the custody of
 the Medical Corps for observation. You'll be kept in close confinement
@@ -657,7 +657,7 @@ Peter Wayne sat in his cell in the hospital sector and stared at the
 wall in confusion. What in blazes was going on? What possible motive
 would three enlisted men have to frame him in this way? It didn't make
 any sense.
-Was it possible that he really _had_ gone off his rocker? Had he
+Was it possible that he really had gone off his rocker? Had he
 imagined the little beast under the sand?
 He lifted his foot and looked again at the sole. There it was: a little
 pit about an eighth of an inch deep.
@@ -665,7 +665,7 @@ The colonel had explained it away easily enough, saying that he might
 possibly have stepped on a sharp rock. Wayne shook his head. He knew he
 wasn't nuts. But what the hell was going on?
 There were no answers. But he knew that the eventual answer, when it
-came, would have something to do with the mystery of the _Mavis's_ eight
+came, would have something to do with the mystery of the Mavis's eight
 corpses.
 It was late that afternoon when Sherri James came storming into the
 hospital sector. She was wearing a spacesuit, and she was brandishing a
@@ -807,7 +807,7 @@ taken from the cabinet.
 The bottles of liquid and the hypo gun went into his belt pouch. He
 tucked the big bottle of white powder under his left arm and cautiously
 unbolted and opened the door. There was no sign of anyone in the
-corridor. _Good_, he thought. It was a lucky thing Harrenburg had
+corridor. Good, he thought. It was a lucky thing Harrenburg had
 blundered along just then, and not two minutes later.
 He stepped outside the Medic Section and locked the door behind him with
 the key he'd taken from Stevelman. After turning the needle gun back to
@@ -837,7 +837,7 @@ gun. "Seems to me you ought to be in the brig, and--"
 Wayne made no reply. He brought his gun up in a rapid motion and beamed
 the man down. The guard toppled, a hurt expression on his face.
 Wayne raced to the airlock. He didn't bother with a spacesuit--not
-_now_, when he knew that the air was perfectly harmless outside. He
+now, when he knew that the air was perfectly harmless outside. He
 opened the inner door, closed it, and opened the outer door.
 Then, grinning gleefully, he pressed the button that would start the
 pumping cycle. The outer door started to close automatically, and Wayne
@@ -851,7 +851,7 @@ rocks were as good a place as any to hide out.
   *  *  *  *  *
 It was dark. Fomalhaut had set, leaving the moonless planet in utter
 blackness, broken only by the cold gleam of the stars. The lights
-streaming from the portholes of the _Lord Nelson_ gave a small degree of
+streaming from the portholes of the Lord Nelson gave a small degree of
 illumination to the valley.
 The valley. It was spread out before him, calm and peaceful, rippling
 dunes of sand curling out toward the mountains. The valley, he knew, was
@@ -861,7 +861,7 @@ He started to walk, and moistened his lips. He knew he was going to get
 awfully thirsty in the next few hours, but there was not the slightest
 help for it. There hadn't been any way to carry water from the ship.
 "I can wait," he told himself. He stared back at the circular bulk of
-the _Lord Nelson_ behind him, and his fingers trembled a little. He had
+the Lord Nelson behind him, and his fingers trembled a little. He had
 known, when he joined the Corps, that space was full of traps like this
 one--but this was the first time he had actually experienced anything
 like this. It was foul.
@@ -878,11 +878,11 @@ frantically, like blood-red giant crabs, sidling up and down beneath the
 valley, searching upward for things to strike at. How they must hate his
 metamagnetic boots, he thought!
 He kept on walking, expecting to feel the impact of another thrust
-momentarily, but he was not molested again. _They must be getting wise_,
-he thought. _They know they can't get through my boots, and so they're
-leaving me alone. That way they don't call attention to themselves._
+momentarily, but he was not molested again. They must be getting wise,
+he thought. They know they can't get through my boots, and so they're
+leaving me alone. That way they don't call attention to themselves.
 A new, more chilling question struck him:
-_Just how smart are they?_
+Just how smart are they?
 He had made it to the wall and was climbing up the treacherous slope
 when the airlock door opened, and someone stood outlined in the bright
 circle of light that cut into the inky blackness. An amplified voice
@@ -915,8 +915,8 @@ it, just as they had searched out the double-nucleus beryllium.
 Wayne frowned. It was a possibility he hadn't thought about. They could
 easily detect the metal in his boots! And he didn't dare take them off;
 he'd never make it back across that hellish stretch of sand without
-them. He glanced uneasily at his watch. _How much longer do I have to
-keep evading them?_ he wondered. It was a wearing task.
+them. He glanced uneasily at his watch. How much longer do I have to
+keep evading them? he wondered. It was a wearing task.
 It looked as though it would be much too long.
 The muzzle of the detector began to swing back and forth slowly and
 precisely, covering the valley inch by inch. He heard their whispered
@@ -933,7 +933,7 @@ wouldn't spot him with the detector. He wished he had the metamagnetic
 hand grapples with him. For one thing, the sharp rock outcroppings
 sliced his hands like so much meat. For another, he could have dropped
 the grapples somewhere as a decoy.
-_Oh, well, you can't think of everything_, Wayne told himself. He
+Oh, well, you can't think of everything, Wayne told himself. He
 glanced at his watch. How long was it going to take?
 He heard the scrape of boot leather on a rock somewhere ahead of him. He
 glanced up sharply, seeing nothing, and scowled. They had spotted him.
@@ -954,11 +954,11 @@ over and delivered a hard punch to the solar plexus. "Sorry, Dave," he
 said softly. The metallurgist gasped and curled up in a tight ball.
 Wayne stood up. It was brutal, but it was the only place you could hit a
 man wearing a space helmet.
-_One down_, Wayne thought. _Fifty-eight to go._ He was alone against the
+One down, Wayne thought. Fifty-eight to go. He was alone against the
 crew--and, for all he knew, against all fifty-nine of them.
 Hollingwood groaned and stretched. Wayne bent and, for good measure,
 took off the man's helmet and tapped him none too gently on the skull.
-There was the sound of footsteps, the harsh _chitch-chitch_ of feet
+There was the sound of footsteps, the harsh chitch-chitch of feet
 against the rock. "He's up that way," he heard a deep voice boom.
 That meant the others had heard the rock hitting Hollingwood's plexalloy
 helmet. They were coming toward him.
@@ -968,7 +968,7 @@ Otherwise things could become really complicated, as they hunted him
 relentlessly through the twisted gulleys.
 He hated to have to knock out too many of the men; it just meant more
 trouble later. Still, there was no help for it, if he wanted there to be
-any later. He thought of the bleached bones of the crew of the _Mavis_,
+any later. He thought of the bleached bones of the crew of the Mavis,
 and shuddered.
 It was something of an advantage not to be wearing a helmet. Even with
 the best of acoustical systems, hearing inside a helmet tended to be
@@ -978,8 +978,8 @@ little more noise than he did.
 A space boot came into view around a big rock, and Wayne aimed his
 needle-beam at the spot where the man's head would appear.
 When the head came around the rock, Wayne fired. The man dropped
-instantly. _Sorry, friend_, Wayne apologized mentally. _Two down.
-Fifty-seven to go._ The odds were still pretty heavy.
+instantly. Sorry, friend, Wayne apologized mentally. Two down.
+Fifty-seven to go. The odds were still pretty heavy.
 He knew he had to move quickly now; the others had seen the man drop,
 and by now they should have a pretty good idea exactly where Wayne was.
 He picked up a rock and lobbed it over a nearby boulder, then started
@@ -987,7 +987,7 @@ moving cat-like in the other direction. He climbed up onto another
 boulder and watched two men move away from him. They were stepping
 warily, their beam guns in their hands. Wayne wiped away a bead of
 perspiration, aimed carefully, and squeezed the firing stud twice.
-_Four down. Fifty-five to go._
+Four down. Fifty-five to go.
   *  *  *  *  *
 A moment later, something hissed near his ear. Without waiting, he spun
 and rolled off the boulder, landing cat-like on his feet. Another
@@ -1004,7 +1004,7 @@ for him--afterwards."
 of the boulder--just in time to have a hard-pitched rock come thunking
 into his midsection.
 "Oof!" he grunted, took a couple of steps backwards, and collapsed.
-_Five down. Fifty-four to go._ It could go on forever this way.
+Five down. Fifty-four to go. It could go on forever this way.
 "What's the matter?" asked the man who had replied to the first one with
 those chilling words.
 "Nothing," said Wayne, in a fair imitation of the prostrate crewman's
@@ -1017,7 +1017,7 @@ pounded two swift punches into the amazed crewman, who responded with a
 woozy, wild blow. Wayne ducked and let the fist glide past his ear, then
 came in hard with a solid body-blow and let the man sag to the ground.
 He took a deep breath.
-_Six down and only fifty-three to go._
+Six down and only fifty-three to go.
   *  *  *  *  *
 He crawled back to the edge of the precipice and peered down into the
 valley. There was no one to be seen. It was obvious that Colonel
@@ -1034,7 +1034,7 @@ Wayne thumbed his own needle-beam pistol up to full and fired hastily
 at the distant figure. At that distance, even the full beam would only
 stun. The figure collapsed backwards into the airlock, and Wayne grinned
 in satisfaction.
-_Seven down. Fifty-two to go._
+Seven down. Fifty-two to go.
 He kept an eye on the airlock door and a finger on his firing stud,
 waiting to see if anyone else would come out. No one else did.
 As soon as Sherri was safely up to the top of the precipice, Wayne ran
@@ -1061,7 +1061,7 @@ He glanced at his wristwatch while waiting for his nerves to stop
 tingling. Sherri must have been the last one--the drug must have taken
 effect at last, and not a moment too soon. He decided to wait another
 half hour before he tried to get into the spaceship, just the same.
-The huge globe of the _Lord Nelson_ stood forlornly in the center of the
+The huge globe of the Lord Nelson stood forlornly in the center of the
 valley. The airlock door stayed open; no one tried to close it.
 Wayne's mouth was growing dry; his tongue felt like sandpaper.
 Nevertheless, he forced himself to sit quietly, watching the ship
@@ -1082,7 +1082,7 @@ back and forth from the base of the cliff to the ship.
 When he had dumped the seven unconscious ones all inside the airlock, he
 closed the outer door and opened the inner one. There was not a sound
 from within.
-_Fifty-nine down_, he thought, _and none to go_.
+Fifty-nine down, he thought, and none to go.
 He entered the ship and dashed down the winding staircase to the water
 purifiers to change the water in the reservoir tanks. Thirsty as he
 was, he was not going to take a drink until the water had been cleared
@@ -1112,7 +1112,7 @@ small monsters and who had not, so he was taking no chances.
 Then he went to the colonel's room. He wanted to be there when the
 Commanding Officer awoke.
   *  *  *  *  *
-The entire crew of the _Lord Nelson_ was gathered in the big mess hall.
+The entire crew of the Lord Nelson was gathered in the big mess hall.
 Wayne stared down at the tired, frightened faces of the puzzled people
 looking up at him, and continued his explanation.
 "Those of you who were under the control of the monsters know what it
@@ -1128,7 +1128,7 @@ stuns it. That way, the spider remains alive and fresh so that young
 wasps can feed upon it at their leisure."
 Wayne glanced over to his right. "Lieutenant Jervis, you've been under
 the effect of the drug longer than any of us. Would you explain what
-_really_ happened when the _Mavis_ landed?"
+really happened when the Mavis landed?"
 The young officer stood up. He was pale and shaken, but his voice was
 clear and steady.
 "Just about the same thing that almost happened here," Jervis said. "We
@@ -1138,9 +1138,9 @@ got hit ourselves. When we had all been enslaved, we were ready to do
 their bidding. They can't talk, but they can communicate by means of
 nerve messages when that needle is stuck into you."
 Nearly half the crew nodded in sympathy. Wayne studied them, wondering
-what it must have been like. They _knew_; he could only guess.
+what it must have been like. They knew; he could only guess.
 "Naturally," Jervis went on, "those who have already been injected with
-the drug try to get others injected. When everyone aboard the _Mavis_
+the drug try to get others injected. When everyone aboard the Mavis
 had been stung, they ordered me to take the ship home and get another
 load of Earthmen. Apparently they like our taste. I had to obey; I was
 completely under their power. You know what it's like."
@@ -1165,7 +1165,7 @@ Sergeant Boggs came up to him. "Sir, I want you to understand that--"
 "I know, Boggs," Wayne said. "Let's forget all about it. There's work to
 be done."
 "I'm sorry I misjudged you, Wayne. If it hadn't been for your quick
-action, this crew would have gone the way of the _Mavis_."
+action, this crew would have gone the way of the Mavis."
 "Just luck, Colonel," Wayne said. "If it hadn't been for those
 heavy-soled climbing boots, I'd probably be lying out there with the
 rest of you right now."

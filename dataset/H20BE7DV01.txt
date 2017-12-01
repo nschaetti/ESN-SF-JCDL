@@ -16,7 +16,7 @@ In 1930, it was Wobblies.
 In 1957, it was fellow-travelers.
 In 1971, it was insane telepaths.
 And, in 1973:
-"We don't know _what_ it is," said Andrew J. Burris, Director of the
+"We don't know what it is," said Andrew J. Burris, Director of the
 FBI. He threw his hands in the air and looked baffled and confused.
 Kenneth J. Malone tried to appear sympathetic. "What what is?"
 Burris frowned and drummed his fingers on his big desk. "Malone," he
@@ -100,7 +100,7 @@ me any orders--but only because they know they can't make one stick.
 They suggested it pretty strongly."
 "Any reasons?" Malone said. The whole idea interested him strangely.
 It was odd--and he found himself almost liking odd cases, lately. That
-is, he amended hurriedly, if they didn't get _too_ odd.
+is, he amended hurriedly, if they didn't get too odd.
 "Oh, they had reasons, all right," Burris said. "It took a little
 coaxing, but I managed to pry some loose. You see, every one of them
 found inefficiency in his own department. And every one knows that
@@ -110,7 +110,7 @@ other men are investigating inefficiency."
 to prove that the goof-ups in his particular department weren't his
 fault. That covers them in case one of the others happens to light
 into the department."
-"Well, it must be _somebody's_ fault," Malone said.
+"Well, it must be somebody's fault," Malone said.
 "It isn't theirs," Burris said wearily. "I ought to know. They told
 me. At great length, Malone."
 Malone felt a stab of honest pity. "How many so far?" he said.
@@ -140,14 +140,14 @@ enemies all around, working against him."
 "Oh," Malone said. "Paranoid?" He had always thought Senator Lefferts
 was slightly on the batty side, and the idea of real paranoia didn't
 come as too much of a surprise. After all, when a man was batty to
-start out with ... and he even _looked_ like a vampire, Malone thought
+start out with ... and he even looked like a vampire, Malone thought
 confusedly.
 "As far as paranoia is concerned," Burris said, "I checked with one of
 our own psych men, and he'll back it up. Lefferts has definite
 paranoid tendencies, he says."
 Malone said, "That's that."
 Burris shook his head. "It isn't that simple," he said. "You see,
-Malone, there's some evidence that somebody _is_ working against him."
+Malone, there's some evidence that somebody is working against him."
 "The American public, with any luck at all," Malone said.
 "No," Burris said. "An enemy. Somebody sabotaging his plans. Really."
 Malone shook his head. "You're crazy," he said.
@@ -190,7 +190,7 @@ wasn't succeeding very well.
 "I'll come right back," Malone said instantly.
 "No," Burris said. "You keep on looking."
 "I do?"
-"You do," Burris said. "After all, there has to be _something_ wrong."
+"You do," Burris said. "After all, there has to be something wrong."
 "Sure," Malone said, "if you say so. But--"
 "There are the interview tapes," Burris said, "and the reports the
 congressmen brought in. You can go through those."
@@ -390,7 +390,7 @@ Fred nodded very slowly. "But I can't just ... just leave them there,"
 he said piteously. "In ... pieces and everything. It isn't right,
 Malone. It just isn't right."
 "Well, then," Malone said with energy, "you go right ahead and repair
-them, if you want to. Fix 'em all up. But you can do that _after_ you
+them, if you want to. Fix 'em all up. But you can do that after you
 make the report to me, can't you?"
 "I--" Fred hesitated. "I had planned to check and repair each machine
 on an individual basis--"
@@ -570,7 +570,7 @@ technical reports, it tended to be boring and just a trifle obscure to
 someone who wasn't completely familiar with the field involved. Malone
 and cybernetics were not exactly bosom buddies, and by the time he
 finished reading through the report he was suffering from an extreme
-case of _ennui_.
+case of ennui.
 There were no new clues in the report, either; Mitchell's phone
 conversation had covered all of the main points. Malone put the sheaf
 of papers down on his desk and looked at them for a minute as if he
@@ -707,7 +707,7 @@ Boyd looked at it. "It is?" he said.
 "Sure is," Malone said, hoping he sounded sufficiently innocent.
 "Smells like a cigar or something."
 Boyd sniffed the air for a second, his face wrinkled. Then he looked
-down at his cigarette again. "You're right, Ken. It _does_ smell like
+down at his cigarette again. "You're right, Ken. It does smell like
 a cigar." He came over to Malone's desk, looked around for an ashtray
 and didn't find one, and finally went to the window and tossed the
 cigarette out into the Washington breeze. "How are things, anyhow,
@@ -770,7 +770,7 @@ nervous breakdown."
 "I didn't hear about it," Malone said.
 Boyd shrugged. "We hushed it up," he said. "But Farnsworth's got
 delusions of persecution. He apparently thinks somebody's out to get
-him. As a matter of fact, he thinks _everybody's_ out to get him."
+him. As a matter of fact, he thinks everybody's out to get him."
 "Now that," Malone said, "sounds familiar."
 Boyd leaned back a little more in his chair. "Here's the funny thing,
 though," he said. "The others all act as if they're suspicious of
@@ -861,14 +861,14 @@ In the meantime, we have one more interesting question."
 "Sure we do," Malone said. "The question is: How?"
 Boyd said: "Hm-m-m." Then there was silence for a little while.
 "How are the saboteurs doing all this?" Malone said. "It just doesn't
-seem very probable that _all_ the technicians in the Senate Office
+seem very probable that all the technicians in the Senate Office
 Building, for instance, are spies. It makes even less sense that the
 labor unions are composed mostly of spies. Or, for that matter, the
 Mafia and the organizations like it. What would spies be doing in the
 Mafia?"
 "Learning Italian," Boyd said instantly.
 "Don't be silly," Malone said. "If there were that many spies in this
-country, the Russians wouldn't have to fight at all. They could _vote_
+country, the Russians wouldn't have to fight at all. They could vote
 the Communists into power--and by a nice big landslide, too."
 "Wait a minute," Boyd said. "If there aren't so many spies, then how
 is all this getting done?"
@@ -886,7 +886,7 @@ Boyd shut his eyes. "I'm not going to stand for it," he announced.
 dreams. Now, look, Ken: I can't even see a pitchfork any more without
 thinking of Greek letters."
 Malone took a breath. "Which Greek letter?" he said.
-"You know very well," Boyd said. "What a pitchfork looks like. _Psi_.
+"You know very well," Boyd said. "What a pitchfork looks like. Psi.
 And I'm not even going to think about it."
 "Well," Malone said equably, "you won't have to. If you'd rather start
 with the Russian spy end of things, you can do that."
@@ -990,7 +990,7 @@ dredged up the idea that you had to have a hat in case somebody asked
 you to keep something under it. But the FBI was firm about its
 rulings. No matter what the weather, an agent wore a hat. Malone
 thought bitterly that he might just as well wear a red, white and blue
-luminous sign that said _FBI_ in great winking letters, and maybe a
+luminous sign that said FBI in great winking letters, and maybe a
 hooting siren, too. Still, the Federal Bureau of Investigation was not
 supposed to be a secret organization--no matter what occasional
 critics might say. And the hats, at least as long as the weather
@@ -1018,9 +1018,9 @@ And the forecast, he told himself bitterly, was for continued warm.
 He forced himself to take his mind off his own troubles and get back
 to the troubles of the FBI in general, such as the problem at hand. It
 was an effort, but he frowned and kept walking, and within a block he
-was concentrating again on the _psi_ powers.
+was concentrating again on the psi powers.
   *  *  *  *  *
-_Psi_, he told himself, was behind the whole mess. In spite of Boyd's
+Psi, he told himself, was behind the whole mess. In spite of Boyd's
 horrified refusal to believe such a thing, Malone was sure of it.
 Three years ago, of course, he wouldn't have considered the notion
 either. But since then a great many things had happened, and his
@@ -1038,7 +1038,7 @@ bother him much. After all, the psionic spectrum--if it was a spectrum
 at all--was just as much a natural phenomenon as gravity, or
 magnetism.
 It was just a little hard for some people to get used to.
-And, of course, he didn't fully understand _how_ it worked, or _why_.
+And, of course, he didn't fully understand how it worked, or why.
 This put him in the position, he told himself, of an Australian
 aborigine. He tried to imagine an Australian aborigine in a hat on a
 hot day, decided the aborigine would have too much sense, and got back
@@ -1182,7 +1182,7 @@ O'Connor nodded, a trifle impatiently. "Yes," he said. "I know that."
 impossible; it was too complicated, and it might violate governmental
 secrecy somewhere along the line. He decided to wrap it up in a
 hypothetical situation. "Doctor," he said, "I know that all the
-various manifestations of the _psi_ powers were investigated and named
+various manifestations of the psi powers were investigated and named
 long before responsible scientists became interested in the subject."
 "That," O'Connor said with some reluctance, "is true." He looked sad,
 as if he wished they'd waited on naming some of the psionic
@@ -1240,7 +1240,7 @@ Rope Trick, or perhaps the sale of a useless product through
 television or through other advertising." Again his face moved, ever
 so slightly, in what he obviously believed to be a smile. "The usual
 name for such a phenomenon is 'mass hypnotism,' Mr. Malone," he said.
-"But that is not, strictly speaking, a _psi_ phenomenon at all.
+"But that is not, strictly speaking, a psi phenomenon at all.
 Studies in that area belong to the field of mob psychology; they are
 not properly in my scope." He looked vastly superior to anything and
 everything that was outside his scope. Malone concentrated on looking
@@ -1434,8 +1434,8 @@ that he was bothered.
 He climbed out of the shower and started drying himself. Up to now, he
 thought, he had depended on Dr. Thomas O'Connor for edifying,
 trustworthy and reasonably complete information about psionics and
-_psi_ phenomena in general. He had looked on O'Connor as a sort of
-living version of an extremely good edition of the _Britannica_,
+psi phenomena in general. He had looked on O'Connor as a sort of
+living version of an extremely good edition of the Britannica,
 always available for reference.
 And now O'Connor had failed him. That, Malone thought, was hardly
 fair. O'Connor had no business failing him--particularly when there
@@ -1490,15 +1490,15 @@ beings could not possibly exist in it. Malone took an elevator to the
 sixth floor, stepped out into a small, equally polished hall, and
 hurriedly looked off to his right. A small door stood there, with a
 legend engraved in elegantly small letters. It said:
-   _The Psychical Research Society_
-  _Push_
+   The Psychical Research Society
+  Push
 Malone obeyed instructions. The door swung noiselessly open, and then
 closed behind him.
 He was in a large square-looking room which had a couch and chair set
 at one corner, and a desk at the far end. Behind the desk was a brass
 plate, on which was engraved:
-  _The Psychical Research Society_
-  _Main Offices_
+  The Psychical Research Society
+  Main Offices
 To Malone's left was a hall that angled off into invisibility, and to
 the left of the desk was another one, going straight back past doors
 and two radiators until it ran into a right-angled turn and also
@@ -1704,7 +1704,7 @@ would you go about that?" he said, a little hopelessly.
 "I haven't the foggiest," Sir Lewis admitted cheerfully. "But I will
 have it looked up for you." He made a note. "Anything else?"
 Malone tried to think. "Yes," he said at last. "Can you give me a
-condensed report on what is known--and I mean _known_--on telepathy
+condensed report on what is known--and I mean known--on telepathy
 and teleportation?"
 "What you want," Sir Lewis said, "are those cases proven genuine, not
 the ones in which we have established fraud, or those still in doubt."
@@ -1812,12 +1812,12 @@ figured out the beginnings of a new line of attack.
 personally. And don't open the bundle."
 "Why not?" the agent-in-charge asked.
 "Because I don't want the things to get loose and run around saying
-_Boo!_ to everybody," Malone said brightly, and went on.
+Boo! to everybody," Malone said brightly, and went on.
   *  *  *  *  *
 He opened the door of his private office, went inside and sat down at
 the desk there. He took his time about framing a thought, a single,
 clear, deliberate thought:
-_Your Majesty, I'd like to speak to you._
+Your Majesty, I'd like to speak to you.
 [Illustration]
 He hardly had time to finish it. A flash of color appeared in the
 room, just a few feet from his desk. The flash resolved itself into a
@@ -1880,7 +1880,7 @@ doesn't matter at all."
 been picking up these flashes since you were assigned to this new
 case, Sir Kenneth. And--" She paused.
 "Well?" Malone said.
-"And they only appear," Her Majesty said, "when I'm tuned to _your_
+"And they only appear," Her Majesty said, "when I'm tuned to your
 mind!"
 [Illustration]
 V
@@ -1933,7 +1933,7 @@ there?"
 "Well, sir, it's this way," the sergeant explained. "He's fired about
 sixty rounds since he's been out there, and he hasn't hit anything
 yet. We're afraid if we get rid of him they'll put up somebody who
-_can_ shoot."
+can shoot."
 This was standard FBI policy when dealing with minor spies. A great
 many had been spotted, including four in the Department of Fisheries.
 But known spies are easier to keep track of than unknown ones. And, as
@@ -1973,7 +1973,7 @@ now."
 "I'm sorry," she said sincerely. "I do agree that matters are confused
 enough already. Please go on."
 "Thank you, Your Majesty," Malone said. "Well, then. Do you mean that
-_I'm_ the one causing all this ... mental static?"
+I'm the one causing all this ... mental static?"
 "Oh, no," she said. "Not at all. It's definitely coming from somewhere
 else, and it's beamed at you, or beamed around you."
 "But--"
@@ -2002,7 +2002,7 @@ It's just as disturbing and as meaningless as that."
 "I don't know," she said.
 "Nor what the purpose of it is?" he said.
 Her Majesty shook her head slowly. "Sir Kenneth," she said, "I don't
-even know whether or not there _is_ any purpose."
+even know whether or not there is any purpose."
 Malone sighed deeply. Nothing in the case seemed to make any sense. It
 wasn't that there were no clues, or no information for him to work
 with. There were a lot of clues, and there was a lot of information.
@@ -2142,7 +2142,7 @@ lifetime.
 "Well," Malone said, equally bored, "we might be able to get a few
 corroborative details."
 Brubitsch swallowed hard. Malone ignored him.
-"Now, just look at him," Boyd said. "He certainly doesn't _look_ like
+"Now, just look at him," Boyd said. "He certainly doesn't look like
 the head of a spy ring, does he?"
 "Of course he doesn't," Malone said. "That's probably why the Russians
 used him. They figured nobody would ever look twice at a fat slob like
@@ -2190,7 +2190,7 @@ Brubitsch with a wary eye.
 don't know when they happened."
 "Then how can you have an alibi?" Boyd snapped.
 "Because I didn't do them!" Brubitsch said tearfully. "If I didn't,
-then I _must_ have alibi!"
+then I must have alibi!"
 "You'd be surprised," Malone said. "Now, about these murders--"
 "Was no murder, not by me," Brubitsch said firmly. "Was never any
 killing of anybody, not even by accident."
@@ -2212,7 +2212,7 @@ of the story, then," he said easily. "If you didn't commit any
 murders--"
 "I am a small child," Brubitsch announced.
 "O.K.," Boyd said. "But if you didn't commit any murders, just what
-_have_ you been doing since you've been in this country as a Soviet
+have you been doing since you've been in this country as a Soviet
 agent?"
 [Illustration]
 "I will say nothing," Brubitsch announced. "I am a small child. It is
@@ -2224,12 +2224,12 @@ The telephone rang loudly, and Malone scooped it up with a practiced
 hand. "Malone here," he said.
 Her Majesty's voice was excited. "Sir Kenneth!" she said. "I just got
 a tremendous burst of--static!"
-Malone blinked. _Is my mind acting up again?_ he thought, knowing she
-would pick it up. _Am I being interfered with?_
+Malone blinked. Is my mind acting up again? he thought, knowing she
+would pick it up. Am I being interfered with?
 He didn't feel any different. But then, how was he supposed to feel?
-"It's not _your_ mind, Sir Kenneth," Her Majesty said. "Not this time.
-It's _his_ mind. That sneaky-thinking Brubitsch fellow."
-_Brubitsch?_ Malone thought. _Now what is that supposed to mean?_
+"It's not your mind, Sir Kenneth," Her Majesty said. "Not this time.
+It's his mind. That sneaky-thinking Brubitsch fellow."
+Brubitsch? Malone thought. Now what is that supposed to mean?
 "I don't know, Sir Kenneth," Her Majesty said. "But get on back to
 your questioning. He's ready to talk now."
 "O.K.," Malone said aloud. "Fine." He hung up and looked back to the
@@ -2314,7 +2314,7 @@ our country in song. And a policeman came and talked to us. He took us
 down to the police station."
 "Why?" Boyd said.
 "He was suspicious," Brubitsch said. "We were singing the
-_Internationale_, and he was suspicious. It is unreasonable."
+Internationale, and he was suspicious. It is unreasonable."
 "Oh, I don't know," Boyd said. "What happened then?"
 "He took us to the police station," Brubitsch said, "and then after a
 little while he let us go. I do not understand this."
@@ -2566,8 +2566,8 @@ those superiors. It was a common fiction, a sort of handy oil on the
 wheels of social intercourse.
 And all Her Majesty had ever insisted on was the same sort of
 treatment.
-"Bless you," she'd said, "I can't help the way you _think_, but, as
-Queen, I do have some control over the way you _act_."
+"Bless you," she'd said, "I can't help the way you think, but, as
+Queen, I do have some control over the way you act."
 The funny thing, as far as Malone was concerned, was that the two
 parts of his personality were becoming more and more alike. He didn't
 actually believe that Her Majesty was Queen Elizabeth I, and he hoped
@@ -2730,7 +2730,7 @@ succeeded."
 Boyd nodded his head. "Well--" he began.
 "Oh, yes, Sir Thomas," Her Majesty said. "What you're thinking is
 certainly possible. It may even be true."
-"What _is_ he thinking?" Malone said.
+"What is he thinking?" Malone said.
 "He thinks," Her Majesty said, "that I may not have the talent for
 this particular effect--and perhaps I don't. But, talent or not, I
 know what's possible and what isn't. And the way Mr. Taylor describes
@@ -2802,7 +2802,7 @@ disrupt our own work here."
 "I know all that," Malone said. "But--"
 Burris held up a pink, patient hand. Malone stared at it, fascinated.
 It had five pink, patient fingers on it. "Malone," Burris said slowly,
-"just what's bothering you? Don't you think those men _are_ spies? Is
+"just what's bothering you? Don't you think those men are spies? Is
 that it?"
 "Spies?" Malone said, slightly confused.
 "You know," Burris said. "The men you arrested, Malone. The men you
@@ -2910,7 +2910,7 @@ sweet, little old lady. I admit that."
 Malone, than the entire Order Chiroptera, including Count Dracula and
 all his happy friends."
 "She only thinks she's Queen Elizabeth I," Malone said defensively.
-"That," Burris said, "is a large sort of _only_. Malone, you've got to
+"That," Burris said, "is a large sort of only. Malone, you've got to
 look at the facts sensibly. Square in the face."
 Malone pictured a lot of facts going by with square faces. He didn't
 like the picture. "All right," he said.
@@ -2932,7 +2932,7 @@ thing."
 "Even your own star witness," Burris said, "even the Queen herself,
 told you it couldn't be done."
 "Nevertheless--" Malone began. But he felt puzzled. There was no way,
-he decided, to finish a sentence that started with _nevertheless_. It
+he decided, to finish a sentence that started with nevertheless. It
 was the wrong kind of word.
 "What are you trying to do?" Burris said. "Beat your head against a
 stone wall?"
@@ -2957,7 +2957,7 @@ Suppose you were a spy."
 "All right," Burris said. "I'm a spy." Something in his tone made
 Malone look at him with a sudden suspicion. Burris, he thought, was
 humoring him.
-Is it possible, Malone asked himself, that _I_ am the one who is as a
+Is it possible, Malone asked himself, that I am the one who is as a
 little child?
 Little children, he told himself with decision, do not capture Russian
 spies and then argue about it. They go home, eat supper and go to bed.
@@ -2987,7 +2987,7 @@ wouldn't fall for a trick like that any more than you would. There are
 obviously more members in this spy ring. Brubitsch, Borbitsch and
 Garbitsch are just a start."
 "Well, then--" Malone began.
-"_I'm_ not going to be taken in by what these three say," Burris said.
+"I'm not going to be taken in by what these three say," Burris said.
 "But now, Malone, we know what to look for. All we have to do is
 pretend to be taken in. Get it?"
 "Sure," Malone said. "We pretend to be taken in. And in the meantime I
@@ -3042,7 +3042,7 @@ it, Malone. The water in it."
 as the water in a water cooler."
 "I didn't say that," Burris went on. "But what do you think was in
 that water cooler, Malone?"
-"Water," Malone said. "_Cool_ water."
+"Water," Malone said. "Cool water."
 "Congratulations," Burris said, in the hearty tones usually reserved
 for announcers on programs where housewives win trips to Nome. "You
 are just a shade less than ninety-nine point nine nine per cent
@@ -3230,7 +3230,7 @@ complicate it, Ken. None at all."
   *  *  *  *  *
 Glumly, Malone made his farewells and then teleported himself from the
 Justice Department Building back to his own apartment. There, slowly
-and sadly, he began to pack. He hadn't yet decided just where he _was_
+and sadly, he began to pack. He hadn't yet decided just where he was
 going, but that was a minor detail. The important thing was that he
 was going. If the Director of the FBI tells you that you need a rest
 cure, Malone thought, you do not argue with him. Argument may result
@@ -3242,7 +3242,7 @@ and go into private practice as a lawyer. The name of Malone, he told
 himself proudly, had not been entirely forgotten in Chicago, by any
 means. But he didn't feel happy about the idea. He knew, perfectly
 well, that he didn't want to live by trading on his father's
-reputation. And besides, he _liked_ being an FBI agent. It had
+reputation. And besides, he liked being an FBI agent. It had
 glamour. It had standing.
 It had everything. It even had trouble.
 Malone caught his whirling mind and forced it back to a landing.
@@ -3250,7 +3250,7 @@ Where, he asked himself, was he going?
 He thought about that for a second. Perhaps, as Burris had apparently
 suspected, he was going nuts. When he considered it, it even sounded
 like a good possibility.
-After all, what evidence _did_ he have for his psionic theory? Her
+After all, what evidence did he have for his psionic theory? Her
 Majesty had told him about those peculiar bursts of metal energy,
 true. But there wasn't anything else. And, come to think of it, wasn't
 it possible that Her Majesty had slipped just a little off the trolley
@@ -3263,7 +3263,7 @@ package, not to mention Jack and the Game, he added disconsolately.
 "Nevertheless," he muttered, and stopped. He blinked and started over
 again. In spite of all that, he told himself, the Burris Theory
 certainly looked a lot sounder when you considered it objectively.
-The big question was whether or not he _wanted_ to consider it
+The big question was whether or not he wanted to consider it
 objectively. But he put this aside for the future, and continued
 packing slowly and carefully. When at last he snapped shut the last
 suitcase, he still hadn't made up his mind as to the best spot for a
@@ -3277,7 +3277,7 @@ she had misled him now and again, but even when she felt misleading
 necessary she hadn't lied; she had merely juggled the truth a little.
 And Malone was sure she would continue to tell him the truth as she
 knew it.
-Of course, that was the stopper: _as she knew it_. And she might have
+Of course, that was the stopper: as she knew it. And she might have
 developed another delusion. In which case, he thought sadly, Burris
 was very probably right.
 But she might also be telling the actual truth. And that meant, Malone
@@ -3285,8 +3285,8 @@ thought, that little pops of energy were occasionally bursting in
 various minds. These little pops had an effect, or an apparent effect:
 they made people change their minds about doing one thing or another.
 And that meant--Malone stopped, his cigar halfway to his mouth.
-_Wasn't it possible that just such a burst of energy had made Burris
-call him off the case?_
+Wasn't it possible that just such a burst of energy had made Burris
+call him off the case?
 It seemed like a long time before the cigar reached his mouth. Malone
 felt slightly appalled. The flashes that had been going on in his own
 mind had already been bothering him, and he'd decided that he'd have
@@ -3457,7 +3457,7 @@ Japanese-style bridges crossed over the roadway. On these, Malone saw
 uniformed men standing motionless, one to a bridge. They all looked
 identical, and each one had a small gold stripe sewn to the chest of
 the red uniform. Malone read the letters on the stripe as they passed
-the third man. It said: _Guide_.
+the third man. It said: Guide.
 "Now, you live in Q-wing, sir," the bellman was saying in a nasal, but
 rather pleasant voice as Malone looked away. "You're not far from the
 Tower Lobby, so you won't have a lot to remember. It's not like living
@@ -3540,7 +3540,7 @@ scholarly; instead, he looked rather like Alec Guinness made up for a
 role as a Naval lieutenant. He rose as Malone entered, and stretched a
 hand across the desk. "Glad to see you, Sir Kenneth," he said. "Very
 glad."
-Malone shook hands and raised his eyebrows. "_Sir_ Kenneth?" he said.
+Malone shook hands and raised his eyebrows. "Sir Kenneth?" he said.
 Dr. Marshall shrugged slightly. "She prefers it," he said. "And since
 there's no telling whose mind she might look into--" He smiled. "After
 all," he finished, "why not?"
@@ -3649,7 +3649,7 @@ Majesty has been blocked in the direction of communication--that is,
 in the direction of one of her most important sexual sublimations.
 Such communication as she can have, therefore, is to be highly
 treasured by her; it provides the nearest thing to sex that she may
-have. As the Virgin Queen, she may still certainly _converse_ in any
+have. As the Virgin Queen, she may still certainly converse in any
 way possible. She would not injure that valuable possession and right
 by falsifying it. It's quite impossible, Sir Kenneth. Quite
 impossible."
@@ -3758,8 +3758,8 @@ stand there, I can't read anything!
 PART 3
 IX
 Malone stared at Her Majesty for what seemed like a long time. "Not
-thinking at all?" he said at last, weakly. "But I _am_ thinking. At
-least, I _think_ I am." He suddenly felt as if he had gone René
+thinking at all?" he said at last, weakly. "But I am thinking. At
+least, I think I am." He suddenly felt as if he had gone René
 Descartes one better. It wasn't a pleasant feeling.
 Her Majesty regarded Malone for an interminable, silent second. Then
 she turned to Lady Barbara. "My dear," she said, "I would like to
@@ -3805,7 +3805,7 @@ blinked. "It's not exactly like that, you understand," she finished.
 "I get the idea," Malone said. "Or I think I do. But what's causing
 it? Sunspots? Little green men?"
 "Not so little," Her Majesty said with some return of her old humor,
-"and not green, either. As a matter of fact, _you_ are, Sir Kenneth."
+"and not green, either. As a matter of fact, you are, Sir Kenneth."
 Malone opened his mouth, shut it again and finally managed to say:
 "Me?" in a batlike squeal of surprise.
 "I don't know how, Sir Kenneth," Her Majesty went on, "but you are.
@@ -3964,11 +3964,11 @@ nonexistent as all that?
 Even the best detective, Malone told himself irritably, needed clues
 of some kind. And this thing, whatever it was, was not playing fair.
 It didn't go around leaving bloody fingerprints or lipsticked
-cigarette butts or packets of paper matches with _Ciro's, Hollywood_,
+cigarette butts or packets of paper matches with Ciro's, Hollywood,
 written on them. It didn't even have an alibi for anything that could
 be cracked, or leave tire marks or footprints behind that could be
 photographed. Hell, Malone thought disgustedly, it wasn't that the
-trail was cold. It just _wasn't_.
+trail was cold. It just wasn't.
 Of course, there were ways to get clues, he reflected. He thought of
 his father. His father would have gone to the scene of the crime, or
 questioned some of the witnesses. But the scene of the crime was
@@ -3985,14 +3985,14 @@ As an afterthought, he got up, found a pencil and paper with the
 hotel's name stamped on them in gold and came back to the chair.
 Clearing the ashtray aside, he put the paper on the table and divided
 the paper into three vertical columns with the pencil. He headed the
-first one _Method_, the second _Motive_ and the third _Opportunity_.
+first one Method, the second Motive and the third Opportunity.
 He stared at the paper for a while, and decided with some trepidation
-to take the columns one by one. Under _Method_, he put down: "Little
+to take the columns one by one. Under Method, he put down: "Little
 bursts. Who knows cause?" Some more thought gave him another item, and
 he set it down under the first one: "Psionic. Look for psionic
 people?"
 That apparently was all there was to the first column. After a while
-he moved to number two, _Motive_. "Confuse things," he wrote with
+he moved to number two, Motive. "Confuse things," he wrote with
 scarcely a second's reflection. But that didn't seem like enough. A
 few minutes more gave him several other items, written down one under
 the other. "Disrupt entire US. Set US up for invasion? Martians?
@@ -4000,22 +4000,22 @@ Russians? CK: Is Russia having trble?" That seemed to exhaust the
 subject and with some relief he went on. But the title of the next
 column nearly stopped him completely.
 [Illustration]
-_Opportunity._ There wasn't anything he could put down under that one,
+Opportunity. There wasn't anything he could put down under that one,
 Malone told himself, until he knew a great deal more about method. As
-things stood at present, the best entry under _Opportunity_ was a
+things stood at present, the best entry under Opportunity was a
 large, tastefully done question mark. He made one, and then sat back
 to look at the entire list and see what help it gave him:
-_Method_
+Method
 Little bursts. Who knows cause?
 Psionic. Look for psionic people?
-_Motive_
+Motive
 Confuse things.
 Disrupt entire US.
 Set US up for invasion?
 Martians?
 Russians?
 CK: Is Russia having trble?
-_Opportunity_
+Opportunity
 ?
 Somehow, it didn't seem to be much help, when he thought about it. It
 had a lot of information on it, but none of the information seemed to
@@ -4053,7 +4053,7 @@ everywhere.
 There was no sense in causing suspicion, Malone told himself. Instead,
 he reached for the phone and called the desk.
 "Great Universal, good afternoon," a pleasant voice said in his ear.
-Malone blinked. "What time _is_ it?" he said.
+Malone blinked. "What time is it?" he said.
 "A few minutes before six," the voice said. "In the evening, sir."
 "Oh," Malone said. It was later than he'd thought; the list had taken
 some time. "This is Kenneth J. Malone," he went on, "in Room--" He
@@ -4154,7 +4154,7 @@ know them, they know me, nothing goes wrong. Get what I mean?"
 "Believe me, every time they can make life tough for a cabbie, they do
 it. It's hatred, that's what it is. They hate cabbies. That's the
 sheriff's office for you."
-"Tough," Malone said. "But the roadblock--what _was_ it for, anyhow?"
+"Tough," Malone said. "But the roadblock--what was it for, anyhow?"
 The cabbie looked back at the road, avoided an oncoming car with a
 casual sweep of the wheel, and sighed gustily. "Mister," he said, "you
 don't ask questions, I don't give out answers. Fair?"
@@ -4187,7 +4187,7 @@ but I didn't get the straight story yet. That true?"
 "Far as I know," Malone said. "There's a lot of strange things
 happening lately, aren't there?"
 "Lots," the cabbie said eagerly. He meandered slowly around a couple
-of bright-red convertibles. "A guy owned the _Last Stand_, he killed
+of bright-red convertibles. "A guy owned the Last Stand, he killed
 himself with a gun today. It's in the papers. Listen, Mister, funny
 things happen all the time around here. I remember last week there was
 a lady in my cab, nice old bat, looked like she wouldn't take off an
@@ -4275,11 +4275,11 @@ himself in. He lit a fresh cigar and started through the papers. Las
 Vegas was the one on top, and he gave it a quick going-over. Sure
 enough, the suicide of the Golden Palace owner was on page one, along
 with a lot of other local news.
-_Mayor Resigns Under Council Pressure_, one headline read. On page 3
-another story was headlined: _County Attorney Indicted by Grand Jury
-in Bribery Case_. And at the bottom of page 1, complete with pictures
+Mayor Resigns Under Council Pressure, one headline read. On page 3
+another story was headlined: County Attorney Indicted by Grand Jury
+in Bribery Case. And at the bottom of page 1, complete with pictures
 of baffled phone operators and linemen, was a double column spread:
-_Damage to Phone Relay Station Isolates City Five Hours_.
+Damage to Phone Relay Station Isolates City Five Hours.
 Carson City, the State Capitol, came in for lots of interesting news,
 too. Three headlines caught Malone's attention:
  LT.-GOVERNOR MORRIS SWORN IN AS GOVERNOR TWELVE MEMBERS OF
@@ -4302,12 +4302,12 @@ pages 2 and 3 attracted his startled attention:
 [Illustration]
  HOUSING AUTHORITY DENIES, THEN CONFESSES GRAFT CHARGE
 Malone wiped a streaming brow. Apparently all hell was busting loose.
-Under the _Post_ was the San Francisco _Examiner_, its crowded front
+Under the Post was the San Francisco Examiner, its crowded front
 page filled with all sorts of strange and startling news items. Malone
 looked over a few at random. A wildcat waterfront strike had been
 called off after the resignation of the union local's president. The
 "Nob Hill Mob," which had grown notorious in the past few years, had
-been rounded up and captured _in toto_ after what the paper described
+been rounded up and captured in toto after what the paper described
 only as a "police tipoff." Two headlines caught his special attention:
  BERSERK POLICE CAPTAIN KILLS TWO AIDES, SELF: CORRUPTION
  HINTED
@@ -4317,7 +4317,7 @@ Malone felt a pang of nostalgia. Conquering it after a brief struggle,
 he went on to the next paper. From Los Angeles, its front page showed
 that Hollywood, at least, was continuing to hold its own:
  LAVISH FUNERAL PLANNED FOR WONDER DOG TOMORROW
-But the Washington _Times-Herald_ brought things back to the mess
+But the Washington Times-Herald brought things back to the mess
 Malone had expected. All sorts of things were going on:
  PRESIDENT ACCEPTS RESIGNATION OF THREE CABINET MEMBERS
  New Appointees Not Yet Named
@@ -4389,7 +4389,7 @@ It wasn't necessary, but Malone turned obediently to survey the huge
 gambling hall. It was roofed over by a large golden dome that seemed
 to make the place look even emptier than it could possibly be. There
 were still plenty of people around the various tables, and something
-approaching a big crowd clustered around the _chemin de fer_ layout.
+approaching a big crowd clustered around the chemin de fer layout.
 But it was possible to breathe in the place, and even move from table
 to table without stepping into anybody's pocket. Las Vegas was
 definitely sliding downhill at the moment, Malone thought.
@@ -4492,7 +4492,7 @@ whatever you do. I want some wide-talent stuff, you know, for the
 place. Class."
 The girl smiled even wider. Malone was sure her teeth were about to
 fall out onto the floor, probably in a neat arrangement that spelled
-out _Will You Kiss Me In The Dark Baby_. That would take an awful lot
+out Will You Kiss Me In The Dark Baby. That would take an awful lot
 of teeth, he reflected, but the stripper looked as if she could manage
 the job. "I dance and sing," she said. "I could do a dance for you,
 but my music is upstairs. You want me to go and get it?"
@@ -4675,7 +4675,7 @@ go on happening."
 Malone stood up and heaved a sigh. "Well," he said, "I'll see what I
 can do."
 "I'd appreciate it, Malone," Palveri said. "And when Primo Palveri
-appreciates something, he _appreciates_ it. Get what I mean?"
+appreciates something, he appreciates it. Get what I mean?"
 "Sure," Malone said. "I'll report back and let you know what happens."
 Palveri looked just as anxious, but a little hopeful. "I need the
 dough," he said. "I really need it."
@@ -4703,7 +4703,7 @@ The gaming room wasn't any fuller, he noticed. He wended his way back
 to the bar for a bourbon-and-water and greeted the bartender morosely.
 The drink came along and he sipped at it quietly, trying to put things
 together in his mind. The talk with Palveri, he felt sure, had
-provided an essential clue--maybe _the_ essential clue--to what was
+provided an essential clue--maybe the essential clue--to what was
 going on. But he couldn't find it.
 "Mess," he said quietly. "Everything's in a mess. And so what?"
 A voice behind him picked that second to say: "Gezundheit." Malone
@@ -4742,7 +4742,7 @@ don't let's talk about cookies. Let's talk about Martinis."
 Malone opened his mouth, tried to think of something clever to say,
 and shut it again. Luba Ardanko was, perfectly obviously, altogether
 too fast for him. But then, he reflected, I've had a hard day. "All
-right," he said at last. "What _about_ Martinis?"
+right," he said at last. "What about Martinis?"
 Luba's smile broadened. "I'd like one," she said. "And since you're a
 wealthy cookie manufacturer--"
 "Be my guest," Malone said. "On the other hand, why not buy your own?
@@ -4802,7 +4802,7 @@ red-uniformed waiters scurried around bearing drinks, food and even
 occasional plug-in telephones. There seemed to be more of the last
 than Malone remembered as usual; people were worrying about
 investments and businesses, and even those who had decided to stick it
-out grimly at Las Vegas and, _enjoy_ themselves had to check up with
+out grimly at Las Vegas and, enjoy themselves had to check up with
 the home folks in order to know when to start pricing windows in high
 buildings. Malone wondered how many people were actually getting their
 calls through. Since the first breakdown two weeks before, Las Vegas
@@ -4831,7 +4831,7 @@ attractive undressed than Luba did in a complete wardrobe. Malone
 wondered what the funny feeling creeping up his spine was. After a
 second he realized that it wasn't love. Luba's hand was tickling him.
 He shifted slightly and the hand left, but the funny feeling remained.
-Maybe it _was_ love, he thought. He didn't know whether or not to hope
+Maybe it was love, he thought. He didn't know whether or not to hope
 so.
 Luba was pressed close to him. He wondered how to open the
 conversation, and decided that a sudden passionate declaration would
@@ -4968,7 +4968,7 @@ The cabbie, a fiftyish man with a bald, wrinkled head and surprisingly
 bright blue eyes, nodded without turning his head. "Maybe you think
 this is bad," he said. "You would not recognize the place an hour
 earlier, friend. During the real rush hour, I mean. Things are what
-they call _meshuggah_, friend. It means crazy."
+they call meshuggah, friend. It means crazy."
 "How come?" Malone said.
 "The subway is on strike since last week," the cabbie said. "The buses
 are also on strike. This means that everybody is using a car. They
@@ -5044,7 +5044,7 @@ toward Malone. But the reflexes gave out as he found himself staring
 down a rifled steel tube which, though hardly more than
 seven-sixteenths of an inch in diameter, must have looked as though a
 high-speed locomotive might come roaring out of it at any second.
-Malone hardly needed to bark: "_Drop it!_" The revolver hit the seat
+Malone hardly needed to bark: "Drop it!" The revolver hit the seat
 next to the cabbie.
 "Driver," Malone said in a conversational voice, "can you handle a
 gun?"
@@ -5356,15 +5356,15 @@ store with drawn revolver, his eyes scanning the passers-by warily
 while he waited for help. Behind him, the smashed plate glass and
 broken bottles and the sprawled figure just inside the door told a
 fairly complete story.
-Down the block, Malone saw several stores that carried _Closed_ or
-_Gone Out Of Business_ signs. The whole depressing picture gave him
+Down the block, Malone saw several stores that carried Closed or
+Gone Out Of Business signs. The whole depressing picture gave him
 the feeling that all the tragedies of the 1930-1935 period had somehow
 been condensed into the past two weeks.
 Ahead there was a chain drugstore, and Malone headed for it. Two
 uniformed men wearing Special Police badges were standing near the
 door eyeing everyone with suspicion, but Malone managed to get past
 them and went on to a telephone booth. He tried dialling the
-Washington number of the FBI, but got only a continuous _beep-beep_,
+Washington number of the FBI, but got only a continuous beep-beep,
 indicating a service delay. Finally he managed to get a special
 operator, who told him sorrowfully that calls to Washington were
 jamming all available trunk lines.
@@ -5445,7 +5445,7 @@ And there wasn't any other theory, was there?
 Well, Malone reflected, there was one, or at least a part of one. Her
 Majesty had said that everything was somehow tied up with the mental
 bursts--and that sounded a lot more probable. Assuming that the bursts
-and the rest of the mixups were _not_ connected made, as a matter of
+and the rest of the mixups were not connected made, as a matter of
 fact, very little sense; it was multiplying hypotheses without reason.
 When two unusual things happen, they have at least one definite
 connection: they're both unusual. The sensible thing to do, Malone
@@ -5457,7 +5457,7 @@ the only trouble with that, Malone reflected sadly, was that all
 telepaths were in the Yucca Flats laboratory.
 It was at this point that he sat upright in the tub, splashing water
 over the floor and gripping the soap with a strange excitement. Who'd
-ever said that _all_ the telepaths were in Yucca Flats? All the ones
+ever said that all the telepaths were in Yucca Flats? All the ones
 so far discovered were--but that, obviously, was an entirely different
 matter.
 Her majesty didn't know about any others, true. But Malone thought of
@@ -5467,7 +5467,7 @@ to point the other way--but they only went for telepaths like Her
 Majesty, who were psychotic. A sane telepath, Malone thought, might
 conceivably develop such a mind-shield.
 All known telepaths were nuts, he told himself. Now, he began to see
-why. He'd started out, two years before, _hunting_ for nuts, and for
+why. He'd started out, two years before, hunting for nuts, and for
 idiots. But they wouldn't even know anything about sane telepaths--the
 sane ones probably wouldn't even want to communicate with them.
 A sane telepath was pretty much of an unknown quantity. But that,
@@ -5636,7 +5636,7 @@ The agent-in-charge produced a large box. "A messenger brought it," he
 said. "From the Psychical Research Society," he said. "What is it,
 ghosts?"
 "Dehydrated," Malone said. "Just add ectoplasm and out they come,
-shouting _Boo!_ at everybody."
+shouting Boo! at everybody."
 "Sounds wonderful," the agent-in-charge said. "Can I come to the
 party?"
 "First," Malone said judiciously, "you'd have to be dead. Of course I
@@ -5737,7 +5737,7 @@ least--a known group, masquerading as something else.
 So far, everything made sense. Malone frowned and tried to think.
 Where, he wondered, did he go from here?
 Maybe this time a list would help. He found a pencil and a piece of
-paper, and headed the paper: _Organization_. Then he started putting
+paper, and headed the paper: Organization. Then he started putting
 down what he knew about it, and what he'd figured out:
 1. Large
 2. Old
@@ -5856,7 +5856,7 @@ this morning. The room is unoccupied."
 Malone swallowed hard. It was all true, then. Sir Lewis' note hadn't
 simply been one last wave of the red cape before an angry bull. Luba
 was one of them.
-_Miss Ardanko_, he corrected himself savagely.
+Miss Ardanko, he corrected himself savagely.
 "What time?" he said.
 The operator consulted an information board before him. "Approximately
 one o'clock, sir," he said.
@@ -5964,7 +5964,7 @@ Now, he told himself sadly, he had the evidence to start the FBI in
 motion. The only trouble was that he could think of nowhere for them
 to go.
 And, though he had evidence that might convince Burris--the PRS
-members, after all, _had_ done a rather unusual fadeout--he had
+members, after all, had done a rather unusual fadeout--he had
 nowhere near enough to carry the case into court, much less make a
 try at getting the case to stand up once carried in. That was one
 thing he couldn't do, he realized, he couldn't issue warrants for the
@@ -6027,7 +6027,7 @@ against it at last. He swallowed some orange juice and toast and
 then, heaving a great sigh of resignation and brushing crumbs off his
 shirt, he teleported himself over to his office.
 Now he knew that, sooner or later, he was going to have to talk to
-Burris. Burris _had_ to know, even if there was nothing to be done.
+Burris. Burris had to know, even if there was nothing to be done.
 And now was just as good--or as bad--a time as any.
 He didn't hesitate. He punched the button on his intercom for Burris'
 office and then sat back, with his eyes closed, waiting for the
@@ -6165,7 +6165,7 @@ clear, and then turned right upside down in his mind and changed into
 something else entirely--something that told him not only who, and
 where, but also why, he became absolutely sure of one thing.
 He knew the final answer.
-And it _was_ obvious. Obvious as all hell!
+And it was obvious. Obvious as all hell!
 XIV
 There was, of course, only one thing to do and only one place to go.
 Malone teleported to the New York offices of the FBI and went
@@ -6184,7 +6184,7 @@ happy cab driver two days before. He wasn't in any hurry now, after
 all. He had all the time in the world, and he knew it. They--and, for
 once, Malone could put real names to that "they"--would still be
 waiting for him when he got there.
-_If_ he got there, he thought suddenly, turning a corner and being
+If he got there, he thought suddenly, turning a corner and being
 confronted with a great mass of automobiles wedged solidly fender to
 fender as far as the eye could see. The noise of honking horns was
 deafening, and great clouds of smoke rose up to make the scene look
@@ -6234,25 +6234,25 @@ sight. Malone wondered what the tanks were for, and then dismissed it
 from his mind. It certainly wasn't very pleasant to think about, no
 matter how necessary it turned out to be.
 He started up again. There were few cars on the road, although a lot
-of them were parked along the sides. A series of _Closed_ signs on
+of them were parked along the sides. A series of Closed signs on
 filling stations explained that, and Malone began to be grateful for
 the national emergency. It allowed him to drive without much
 interference, anyhow.
   *  *  *  *  *
-_And a hearty good afternoon to all, he thought--especially to Miss
+And a hearty good afternoon to all, he thought--especially to Miss
 Luba Ardanko. I hope she's tuned in ... and, if she isn't, I hope
 somebody alerts her. Frankly, I'd rather talk to her than to anyone
 else I can think of at the moment. As a matter of fact, it's a little
-easier to concentrate if I talk out loud, so I think I'll do that._
+easier to concentrate if I talk out loud, so I think I'll do that.
 He swerved the car at this point, neatly avoiding a broken wooden
 crate that crouched in wait for him. "Road hog," he told it bitterly,
 and went on.
 "Nothing personal," he went on after a second. "I don't care if you're
-_all_ listening in, as a matter of fact. And I'm not going to hide
+all listening in, as a matter of fact. And I'm not going to hide
 anything." He thought a second, and then added: "Frankly, I'm not sure
 I've got anything to hide."
 He paused and, in his imagination, he could almost hear Luba's voice.
-_I'm listening, Kenneth,_ she said. _Go on._
+I'm listening, Kenneth, she said. Go on.
 He fished around in his mind for a second, wondering exactly where to
 start. Then he decided, in the best traditions of the detective story,
 not to mention "Alice in Wonderland," to start at the beginning.
@@ -6280,8 +6280,8 @@ dumbfounded, as Malone drew his gun and shot them. Then he removed the
 sawhorses, got back in his car, reloaded the .44, put it back in his
 holster and drove on.
 "Now," he said in a thoughtful tone. "Where was I?"
-He imagined Luba's voice saying: _You were telling us how, all this
-time, it's hardly surprising--_
+He imagined Luba's voice saying: You were telling us how, all this
+time, it's hardly surprising--
 "Oh, yes," he said. "Well, then. So you solved some of the problems,
 you'd set. You learned how to use and control telepathy and
 teleportation, maybe, long before scientific boys like Dr. O'Connor
@@ -6355,7 +6355,7 @@ on by.
 After a moment, he said: "Pardon the interruption. I trust that all
 the devoted listeners to Uncle Kenneth's Happy Hour are still tuned
 in."
-_Go ahead,_ said Lou's voice.
+Go ahead, said Lou's voice.
 "All right, let's take a look at what you've been doing. You've caused
 people to change their minds about what they've been intending to do.
 You can cause all sorts of hell to break loose that way. You have a
@@ -6393,7 +6393,7 @@ riots in which innocent people have died; you've caused thousands more
 to lose their businesses and their savings. And only God Himself knows
 how many more are going to die of starvation and murder before this
 thing is over.
-"And you can't tell me that _all_ of those people deserve to die."
+"And you can't tell me that all of those people deserve to die."
 He slowed down as he came to a small town, and for the first time in
 many miles he focused on the road ahead with his full mind. The town,
 he saw, looked like a shambles. There were four cars tastefully
@@ -6410,8 +6410,8 @@ The town was a small one, and Malone was glad to get out of it so
 quickly.
 "That's the kind of thing I mean," he said aloud. Then he paused. "Are
 you there, anybody?"
-He imagined he heard Luba's voice saying: _Yes, Ken. Yes, I'm here.
-Listening to you._
+He imagined he heard Luba's voice saying: Yes, Ken. Yes, I'm here.
+Listening to you.
 Imagination was fine but, of course, there was no way for them to get
 through to him. They were telepathic, but Kenneth J. Malone, he told
 himself sadly, was not.
@@ -6535,7 +6535,7 @@ efficient. So it was obvious."
 Malone shrugged. "I thought you'd been keeping me on vacation because
 your mind was being changed," he said. "Now I can see you were doing
 it of your own free will."
-"Yes," Sir Lewis said. "But how did you know you'd find us _here_,
+"Yes," Sir Lewis said. "But how did you know you'd find us here,
 Malone?"
 There was a shadow in the room, but not a visible one. Malone felt the
 chill of sudden danger. Whatever was going to happen, he realized, he
@@ -6583,9 +6583,9 @@ you forced decision on the rest of society."
 "Now, dammit, Malone!" Burris said suddenly. "You know those bursts
 take a lot of energy, and only last for a fraction of a second!"
 Malone blinked. "Then you ... didn't--"
-_Of course I didn't force anything on you, Kenneth. I can't. Not all
+Of course I didn't force anything on you, Kenneth. I can't. Not all
 the power of the entire PRS could force anything through your shield.
-But you opened it to me._
+But you opened it to me.
 It was Luba's mental "voice." Malone opened his mouth, shut it and
 then, belatedly, snapped shut the channel through which he'd contacted
 her. Luba gave him a wry look, but said nothing. "You mean I'm a
@@ -6739,7 +6739,7 @@ sure. Now he was looking at things from the amoeba's side, and fate
 was terrible.
 "No, Ken," the psiontist said. "It needn't be at all like that."
 "Oh, yes, it need," Malone said positively. "It need be even worse.
-When I have some more to drink, it'll _be_ even worse. Wait and see."
+When I have some more to drink, it'll be even worse. Wait and see."
 "Ken," Luba said softly, "you don't have to suffer this way."
 "No," Malone said agreeably, "I don't. You could shoot me and then I'd
 be dead. Just quit all this amoebing around, O.K.?"
@@ -6802,7 +6802,7 @@ Queen Elizabeth's theory of politeness toward superiors: people, she'd
 said, act as if they believed their bosses were superior to them, but
 they didn't believe it.
 On the other hand, he thought, when a man knows and believes that
-someone actually _is_ superior--then, he doesn't mind at all. He can
+someone actually is superior--then, he doesn't mind at all. He can
 depend on that superiority to help him. And love, ordinary
 man-and-woman love, just can't exist.
 Nor, Malone told himself, would anyone want it to. It would, after

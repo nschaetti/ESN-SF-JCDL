@@ -1,8 +1,8 @@
 Brain Twister
 Mark Phillips
-A shorter version of this work appeared in _Astounding
-Science Fiction_ under the title of _That Sweet Little
-Old Lady_.
+A shorter version of this work appeared in Astounding
+Science Fiction under the title of That Sweet Little
+Old Lady.
 Prologue
 In nineteen-fourteen, it was enemy aliens.
 In nineteen-thirty, it was Wobblies.
@@ -125,7 +125,7 @@ He pushed his chair back from his desk and stood up, a chunky little
 man with bright blue eyes and large hands. He paced to the window and
 looked out at Washington, and then he came back to the desk. A
 persistent office rumor held that he had become head of the FBI purely
-because he happened to have an initial _J_ in his name, but in his
+because he happened to have an initial J in his name, but in his
 case the J stood for Jeremiah. And, at the moment, his tone expressed
 all the hopelessness of that Old Testament prophet's lamentations.
 "We're helpless," he said, looking at the young man with the crisp
@@ -145,7 +145,7 @@ he could neither understand nor explain, no one seemed willing to
 attribute his record to luck.
 "I know you will," Burris said. "And if anybody can crack this case,
 Malone, you're the man. It's just that--everything sounds so
-_impossible_. Even after all the conferences we've had."
+impossible. Even after all the conferences we've had."
 "Conferences?" Malone said vaguely. He wished the Chief would get to
 the point. Any point. He smiled gently across the desk and tried to
 look competent and dependable and reassuring. Burris' expression
@@ -157,9 +157,9 @@ his hands. Malone waited patiently. After a few seconds, Burris looked
 up. "Did you read books when you were a child?" he asked.
 Malone said: "What?"
 "Books," Burris said. "When you were a child. Read them."
-"Sure I did," Malone said. _"Bomba the Jungle Boy_, and _Doctor
-Doolittle_, and _Lucky Starr_, and _Little Women_--"
-_"Little Women?"_
+"Sure I did," Malone said. "Bomba the Jungle Boy, and Doctor
+Doolittle, and Lucky Starr, and Little Women--"
+"Little Women?"
 "When Beth died," Malone said, "I wanted to cry. But I didn't. My
 father said big boys don't cry."
 "And your father was right," Burris said. "Why, when I was a--never
@@ -183,7 +183,7 @@ Lucky Starr books. That was all just for kids, wasn't it?"
 "Well, I don't know," Malone said slowly.
 "Sure it was all for kids," Burris said. "It was laughable. Nobody
 took it seriously."
-"Well, _somebody_ must--"
+"Well, somebody must--"
 "You just keep quiet and listen," Burris said.
 "Yes, sir," Malone said.
 Burris nodded. His hands were clasped behind his back. "We're not
@@ -260,8 +260,8 @@ That was no good. He went to the corner and turned off, down the
 block. He had, he told himself, nothing at all to see the President
 about.
 Not yet, anyhow.
-The streets were dark and very peaceful. _I get my best ideas while
-walking_, Malone said without convincing himself. He thought back to
+The streets were dark and very peaceful. I get my best ideas while
+walking, Malone said without convincing himself. He thought back to
 the video tapes.
 The report on the original use of the machine itself had been on one
 of the first tapes, and Malone could still see and hear it. That was
@@ -342,7 +342,7 @@ could remember how he'd felt, himself, when that law professor had
 come up with a particularly baffling question in class.
 "This machine," Dr. O'Connor said with authority, "detects the slight
 variations in mental activity that occur when a person's mind is
-_being_ read."
+being read."
 "You mean, if my mind were being read right now--"
 "Not right now," Dr. O'Connor said. "You see, the bulk of this machine
 is in Nevada; the structure is both too heavy and too delicate for
@@ -483,7 +483,7 @@ telepathic spy, I know what will."
 "What?" Malone had asked.
 "It's simple," Burris had said. "Another telepath. There has to be one
 around somewhere. Westinghouse did have one, after all, and the
-Russians _still_ have one. Malone, that's your job: go out and find me
+Russians still have one. Malone, that's your job: go out and find me
 a telepath."
 Burris had an answer for everything, all right, Malone thought. But he
 couldn't see where the answer did him very much good. After all, if it
@@ -504,7 +504,7 @@ But he'd have had to find a telepath, Malone thought. Malone
 determined that he would do likewise, If Thomas Jefferson could do it,
 the least he, Malone, could do was to give it a good try.
 There was only one little problem:
-_Where_, Malone thought, _do I start looking?_
+Where, Malone thought, do I start looking?
     2
 Early the next morning, Malone awoke on a plane, heading across the
 continent toward Nevada. He had gone home to sleep, and he'd had to
@@ -633,7 +633,7 @@ that overrode it:
 Dr. Walker speaking. The voice you are about to hear belongs to
 Charles O'Neill: chronological age fourteen years, three months;
 mental age, approximately five years. Further data on this case will
-be found in the file _O'Neill_."
+be found in the file O'Neill."
 There was a slight pause, filled with more tape hiss.
 Then the voice began.
 "... push the switch for record ... in the park last Wednesday ... and
@@ -658,7 +658,7 @@ hell of a vocabulary for an imbecile."
 "Vocabulary?" Dr. O'Connor said softly.
 "That's right," Malone said. "Where'd an imbecile get words like
 'psychocerebral?' I don't think I know what that means, myself."
-"Ah," Dr. O'Connor said. "But that's not _his_ vocabulary, you see.
+"Ah," Dr. O'Connor said. "But that's not his vocabulary, you see.
 What Charlie is doing is simply repeating the thoughts of those around
 him. He jumps from mind to mind, simply repeating whatever he
 receives." His face assumed the expression of a man remembering a bad
@@ -691,7 +691,7 @@ left hand.
 said, "and connected him to the detector. He was to read from a book--
 a book that was not too common. This was, of course, to obviate the
 chance that some other person nearby might be reading it, or might
-have read it in the past. We picked _The Blood is the Death_ by
+have read it in the past. We picked The Blood is the Death by
 Hieronymus Melanchthon, which, as you may know, is a very rare book
 indeed."
 "Sure," Malone said. He had never heard of the book, but he was, after
@@ -704,7 +704,7 @@ reactions of the machine's indicators, if you follow me."
 Malone nodded helplessly.
 "At the same time," Dr. O'Connor continued blithely, "we had Charlie
 in a nearby room, recording his babblings. Every so often, he would
-come out with quotations from _The Blood is the Death_, and these
+come out with quotations from The Blood is the Death, and these
 quotations corresponded exactly with what our test subject was reading
 at the time, and also corresponded with the abnormal fluctuations of
 the detector."
@@ -771,7 +771,7 @@ on checking the machine. It was during this period that we found
 someone else reading the minds of our test subjects--sometimes for a
 few seconds, sometimes for several minutes."
 "Aha," Malone said. Things were beginning to make sense again.
-_Someone else._ That, of course, was the spy.
+Someone else. That, of course, was the spy.
 "I found," Dr. O'Connor said, "on interrogating the subjects more
 closely, that they were, in effect, thinking on two levels. They were
 reading the book mechanically, noting the words and sense, but simply
@@ -787,7 +787,7 @@ Charlie had ever attained. He seems to be able to retain contact as
 long as he can find useful information flowing in the mind being
 read."
 "Wait a minute," Malone said. "Wait a minute. If this spy is so
-clever, how come he didn't read _your_ mind?"
+clever, how come he didn't read your mind?"
 "It is very likely that he has," O'Connor said. "What does that have
 to do with it?"
 "Well," Malone said, "if he knows you and your group are working on
@@ -800,7 +800,7 @@ no one in the entire world was, had been, or ever would be. "I do have
 a theory, however," he said, brightening up a trifle.
 Malone waited patiently.
 "He must know our limitations," Dr. O'Connor said at last. "He must be
-perfectly well aware that there's not a single thing we can _do_ about
+perfectly well aware that there's not a single thing we can do about
 him. He must know that we can neither find nor stop him. Why should he
 worry? He can afford to ignore us--or even bait us. We're helpless,
 and he knows it."
@@ -892,7 +892,7 @@ did you go about it? Did you just knock on hospital doors and ask them
 if they had anybody who could read minds?
 "You know," Malone told himself in a surprised tone, "that isn't such
 a bad idea." It would, at any rate, let him know whether the hospital
-had any patients who _thought_ they could read minds. From them on, it
+had any patients who thought they could read minds. From them on, it
 would probably be simple to apply a test, and separate the telepathic
 sheep from the psychotic goats.
 The image that created in his mind was so odd that Malone, in self-
@@ -1198,7 +1198,7 @@ capable of semirational English speech.
 "It certainly is," Malone said. "Who's calling?"
 "San Francisco is calling," the voice said primly.
 Malone repressed a desire to tell the voice that he didn't want to
-talk to St. Francis, not even in Spanish, and said instead: _"Who_ in
+talk to St. Francis, not even in Spanish, and said instead: "Who in
 San Francisco?"
 There was a momentary hiatus, and then the voice said: "Mr. Thomas
 Boyd is calling, sir. He says this is a scramble call."
@@ -1212,9 +1212,9 @@ of the FBI," the voice offered.
 "One moment," There was a pause, a click, another pause and then
 another click. At last the operator said: "Your party is ready, sir."
 Then there was still another pause.
-Malone stared at the audio receiver. He began to whistle _When Irish
-Eyes Are Smiling_.
-_... And the sound of Irish laughter...._ "Hello? Malone?"
+Malone stared at the audio receiver. He began to whistle When Irish
+Eyes Are Smiling.
+... And the sound of Irish laughter.... "Hello? Malone?"
 "I'm here, Tom," Malone said guiltily. "This is me. What's the
 trouble?"
 "Trouble?" Boyd said. "There isn't any trouble. Well, not really. Or
@@ -1323,7 +1323,7 @@ all, we had instructions to follow up every possible lead."
 "And I talked to her," Boyd said. "I'm not entirely sure of anything
 myself. But--well, hell. You take a look at her."
 He pulled the car up to a parking space, slid nonchalantly into a slot
-marked _Reserved_--_Executive Director Sutton_, and slid out from
+marked Reserved--Executive Director Sutton, and slid out from
 under the wheel while Malone got out the other side.
 They marched up the broad steps, through the doorway and into the
 glass-fronted office of the receptionist.
@@ -1368,9 +1368,9 @@ not when the hand was just lying around, so to speak, attached to its
 wrist but not doing anything in particular. But these hands, long,
 slender and tapering, white and cool-looking....
 And yet, it wasn't just the sheer physical beauty of the girl. She had
-something else, something more and something different. _(Something
-borrowed_, Malone thought in a semidelirious haze, _and something
-blue.)_ Personality? Character? Soul?
+something else, something more and something different. (Something
+borrowed, Malone thought in a semidelirious haze, and something
+blue.) Personality? Character? Soul?
 Whatever it was, Malone decided, this girl had it. She had enough of
 it to supply the entire human race, and any others that might exist in
 the Universe. Malone smiled at the girl and she smiled back.
@@ -1399,14 +1399,14 @@ She smiled sweetly. "Oh, my, no," she said.
 There was a long silence. Malone looked at her. Then he looked at the
 unbelievably beautiful Miss Wilson. Then he looked at Dr. Harman. And,
 at last, he looked at Boyd.
-"All right," he said. "I get it. _You're_ Miss Thompson."
+"All right," he said. "I get it. You're Miss Thompson."
 "Now, wait a minute, Malone," Boyd began.
 "Wait a minute?" Malone said. "There are four people here, not
 counting me. I know I'm not Miss Thompson. I never was, not even as a
 child. And Dr. Harman isn't, and Miss Wilson isn't, and Whistler's
 Great-Grandmother isn't, either. So you must be. Unless she isn't
 here. Or unless she's invisible. Or unless I'm crazy."
-"It isn't _you_, Malone," Boyd said. "What isn't me?"
+"It isn't you, Malone," Boyd said. "What isn't me?"
 "That's crazy," Boyd said.
 "Okay," Malone said. "I'm not crazy. Then will somebody please tell
 me--"
@@ -1447,7 +1447,7 @@ Jimmy--cousin Mary's boy, I mean--said I was dead and claimed the
 Throne, I decided to change my name and all. And that's what I did.
 But I am Elizabeth Regina." She smiled, and her eyes twinkled merrily.
 Malone stared at her for a long minute.
-_Burris_, he thought, _is going to love this._
+Burris, he thought, is going to love this.
 "Oh, I'm so glad," the little old lady said. "Do your really think he
 will? Because I'm sure I'll like your Mr. Burris, too. All of you FBI
 men are so charming. Just like poor, poor Essex."
@@ -1461,8 +1461,8 @@ The long silence was broken by the voice of Miss Wilson.
 "Mr. Malone," she said. "You've been thinking." She stopped. "I mean,
 you've been so quiet."
 "I like being quiet," Malone said patiently. "Besides--" He stopped
-and turned to the little old lady. _Can you really read my mind?_ he
-thought deliberately. After a second he added: ... _your Majesty?_
+and turned to the little old lady. Can you really read my mind? he
+thought deliberately. After a second he added: ... your Majesty?
 "How sweet of you, Mr. Malone," she said. "Nobody's called me that for
 centuries. But of course I can. Although it's not reading, really.
 After all, that would be like asking if I can read your voice. Of
@@ -1499,19 +1499,19 @@ Thompson was a telepath. How'd you know?"
 mind your calling me Miss Thompson, not right now, anyhow."
 "Thanks," Malone said faintly.
 Dr. Harman was blinking in a kind of befuddled astonishment. "You mean
-she really _is_ a--" He stopped and brought his tenor voice to a
+she really is a--" He stopped and brought his tenor voice to a
 squeaking halt, regained his professional poise, and began again. "I'd
 rather not discuss the patient in her presence, Mr. Malone," he said.
 "If you'll just come into my office--"
-"Oh, _bosh_, Dr. Harman," the little old lady said primly. "I do wish
+"Oh, bosh, Dr. Harman," the little old lady said primly. "I do wish
 you'd give your own Queen credit for some ability. Goodness knows you
-think _you're_ smart enough."
+think you're smart enough."
 "Now, now, Miss Thompson," he said in what was obviously his best
 Grade A Choice Government Inspected couchside manner. "Don't--"
 "--upset yourself," she finished for him. "Now, really, Doctor. I know
 what you're going to tell them."
 "But Miss Thompson, I--"
-"You didn't honestly think I _was_ a telepath," the little old lady
+"You didn't honestly think I was a telepath," the little old lady
 said. "Heavens, we know that. And you're going to tell them how I used
 to say I could read minds--oh, years and years ago. And because of
 that you thought it might be worthwhile to tell the FBI about me--
@@ -1547,7 +1547,7 @@ Malone broke in suddenly, fascinated. "Why didn't you prove you were
 telepathic before now?" he said.
 The little old lady smiled at him. "Why, because you wouldn't have
 believed me," she said. She dropped her knitting neatly in her lap and
-folded her hands over it. '"None of you _wanted_ to believe me," she
+folded her hands over it. '"None of you wanted to believe me," she
 said, and sniffed. Miss Wilson moved nervously and she looked up. "And
 don't tell me it's going to be all right. I know it's going to be all
 right. I'm going to make sure of that."
@@ -1606,7 +1606,7 @@ reading my mind! My mind. She's been reading ... looking right into
 my mind, or whatever it is."
 "Whatever what is?" Malone asked, sincerely interested. He had dropped
 gratefully into a chair near Boyd's, across the desk from Dr. Harman.
-"Whatever my _mind_ is," Dr. Harmon said. "Reading it. Oh, my."
+"Whatever my mind is," Dr. Harmon said. "Reading it. Oh, my."
 "Dr. Harman," Malone began, but the psychiatrist gave him a bright
 blank stare.
 "Don't you understand?" he said. "She's a telepath."
@@ -1651,7 +1651,7 @@ original one. She also claims she's immortal."
 "Lives forever?" Burris said. "You mean like that?"
 "Immortal," Malone said. "Right."
 Burris nodded. Then he looked worried. "Tell me, Malone," he said.
-"She _isn't_, is she?"
+"She isn't, is she?"
 "Isn't immortal, you mean?" Malone said. Burris nodded. Malone said
 confidently: "Of course not."
 There was a little pause. Malone thought things over.
@@ -1795,7 +1795,7 @@ As she saw the expression on three faces, she stopped.
 "What's wrong?" she said.
 "Miss Wilson," Malone said, "we--may I call you by your first name?"
 "Of course, Mr. Malone," she said. There was a little silence.
-"Miss Wilson," Malone said, "what _is_ your first name?"
+"Miss Wilson," Malone said, "what is your first name?"
 She smiled now, very gently. Malone wanted to walk through mountains,
 or climb fire. He felt confused, but wonderful. "Barbara," she said.
 "Lovely," he said. "Well, Barbara--and please call me Ken. It's short
@@ -1814,11 +1814,11 @@ he muttered. "That's a soundproof door. She couldn't have heard us."
 for the national security."
 "She heard us thinking," Dr. Harman muttered. "That's what; she heard
 us thinking. Behind a soundproof door. She can see inside their minds.
-She can even see inside _my_ mind."
+She can even see inside my mind."
 "She's a sick woman," Barbara said. "But you have to understand--"
 "Vital necessity," Boyd put in. "Absolutely vital."
 "Nevertheless--" Barbara said. "She can read minds," Dr. Harman
-whispered in an awed tone. "She knows. Everything. She _knows_."
+whispered in an awed tone. "She knows. Everything. She knows."
 "It's out of the question," Barbara said. "Whether you like it or not,
 Miss Thompson is not going to leave this hospital. Why, what could she
 do outside these walls? She hasn't left in over forty years! And
@@ -1833,7 +1833,7 @@ I've been outside more often then you imagine."
 yours. I remember that nice young man--what was his name?--"
 "Never mind his name," Barbara said, flushing furiously.
 Malone felt instantly jealous of every nice young man he had ever even
-heard of. _He_ wasn't a nice young man; he was an FBI agent, and he
+heard of. He wasn't a nice young man; he was an FBI agent, and he
 liked to get drunk and smoke cigars and carouse with loose women.
 Anyway, reasonably loose women.
 All nice young men, he decided, should be turned into ugly old men as
@@ -1867,8 +1867,8 @@ she needs," he said, "is a trained psychiatric nurse."
 Barbara Wilson gave him a look that had carloads of U235 stacked away
 in it, but Malone barely minded. She'd get over it, he told himself.
 "Now, wasn't that sweet of you to think of that," the little old lady
-said. Malone looked at her and was rewarded with another wink. _Good
-God_, he thought. _She reads minds!_
+said. Malone looked at her and was rewarded with another wink. Good
+God, he thought. She reads minds!
 "I'm certainly glad you thought of Barbara," the little old lady went
 on. "You will go with me, won't you, dear? I'll make you a duchess.
 Wouldn't you like to be a duchess, dear?"
@@ -1891,7 +1891,7 @@ last, from all of my loyal subjects. You'll see." She paused and
 Malone felt a faint stirring of stark, chill fear.
 "Won't it be wonderful?" said the little old lady.
     4
-"You're _where_?" Andrew J. Burris said.
+"You're where?" Andrew J. Burris said.
 Malone looked at the surprised face on the screen and wished he hadn't
 called. He had to report in, of course--but, if he'd had any sense,
 he'd have ordered Boyd to do the job for him.
@@ -1930,7 +1930,7 @@ says she'll help us find our spy, all right, but we've got to do it
 her way--or else she won't cooperate."
 "Do it her way, then," Burris said. "That spy--"
 "Chief, are you sure?"
-Burris blinked. "Well, then," he said, "what _is_ her way?"
+Burris blinked. "Well, then," he said, "what is her way?"
 Malone took a deep breath. "First," he said, "we had to come here and
 pick this guy up. This William Logan, who's in a private sanitarium
 just outside of Las Vegas. That's number one. Miss Thompson wants to
@@ -1975,7 +1975,7 @@ When the Director's image had vanished, he got up and went to the
 window of the hotel room. Outside, a huge sign told the world, and
 Malone, that this was the Thunderbird-Hilton-Zeckendorf Hotel, but
 Malone ignored it. He didn't need a sign; he knew where he was.
-In hot water, he thought. _That's_ where he was.
+In hot water, he thought. That's where he was.
 Behind him, the door opened. Malone turned as Boyd came in.
 "I found a costume shop, Ken," he said.
 "Great," Malone said. "The Chief authorized it."
@@ -2017,7 +2017,7 @@ Malone shook his head. "No, I haven't," he said. "I just wish I had.
 It would be a relief."
 "Me too," Boyd said. He started for the door and turned. "I wish I
 could have stayed in San Francisco," he said. "Why should she insist
-on taking _me_ along?"
+on taking me along?"
 "The beard," Malone said. "My beard?" Boyd recoiled.
 "Right," Malone said. "She says it reminds her of someone she knows.
 Frankly, it reminds me of someone, too. Only I don't know who."
@@ -2088,7 +2088,7 @@ you must be made the Duke of Poughkeepsie."
 "Thank you, Your Majesty," Boyd said. Malone thought he detected a
 note of pride in the man's voice, and shot a glance at Boyd, but the
 agent was driving with a serene face and an economy of motion.
-_Duke of Poughkeepsie!_ Malone thought. _Hah!_
+Duke of Poughkeepsie! Malone thought. Hah!
 He leaned back and adjusted his fur-trimmed coat. The plume that fell
 from his cap kept tickling his neck, and he brushed at it without
 success.
@@ -2145,7 +2145,7 @@ agents following up the rear. Since they were not a part of Her
 Majesty's personal retinue, they had not been required to wear court
 costumes. In a way, Malone was beginning to feel sorry for them. He
 himself cut a nice figure in the outfit, he thought--rather like Errol
-Flynn in the old black-and-white print of _The Prince and the Pauper_.
+Flynn in the old black-and-white print of The Prince and the Pauper.
 But there was no denying that the procession looked strange. File
 clerks and receptionists stopped their work to gape at the four
 bedizened walkers and their plainly dressed satellites. Malone needed
@@ -2238,7 +2238,7 @@ said.
 While they were talking, Queen Elizabeth I sidled quietly up to Malone
 and tapped him on the shoulder.
 "Sir Kenneth," she whispered in the faintest of voices, "I know where
-your telepathic spy is. And I know _who_ he is."
+your telepathic spy is. And I know who he is."
 "Who?" Malone said. "What? Why? Where?" He blinked and whirled. It
 couldn't be true. They couldn't solve the case so easily.
 But the Queen's face was full of a majestic assurance. "He's right
@@ -2321,7 +2321,7 @@ It was not a human face. Its complete lack of emotion or expression
 could have belonged to a sleeping child of ten--or to a member of a
 different race. Malone looked at the boy, and looked away.
 Was it possible that Logan knew what he was thinking?
-_Answer me_, he thought, directly at the still boy.
+Answer me, he thought, directly at the still boy.
 There was no reply, none at all. Malone forced himself to look away.
 But the air in the room seemed to have become much colder.
 The attendants stood on either side of him, waiting. For one long
@@ -2330,7 +2330,7 @@ and produced a sheaf of papers.
 "If you'll sign these for the government," he said, "you may have Mr.
 Logan. There seems little else that I can do, Mr. Malone--in spite of
 my earnest pleas--"
-"I'm sorry," Malone said. After all, he _needed_ Logan, didn't he?
+"I'm sorry," Malone said. After all, he needed Logan, didn't he?
 After a look at the boy, he wasn't sure any more--but the Queen had
 said she wanted him, and the Queen's word was law. Or what passed for
 law, anyhow, at least for the moment.
@@ -2361,7 +2361,7 @@ procession back to Boyd's automobile, a procession that consisted (in
 order) of Sir Kenneth Malone, prospective Duke of Columbia, Queen
 Elizabeth I, Lady Barbara, prospective Duchess of an unspecified
 county, and Sir Thomas Boyd, prospective Duke of Poughkeepsie. Malone
-hummed a little of the first _Pomp and Circumstance_ march as they
+hummed a little of the first Pomp and Circumstance march as they
 walked; somehow, he thought it was called for.
 They piled into the car, Boyd at the wheel with Malone next to him,
 and the two ladies in back, with Queen Elizabeth sitting directly
@@ -2381,7 +2381,7 @@ sanatorium of his, you know--and, of course, the others will be
 joining us."
 "Don't you think it's time for your nap, dear?" Lady Barbara put in
 suddenly.
-"My _what_?" It was obvious that Queen Elizabeth was Not Amused.
+"My what?" It was obvious that Queen Elizabeth was Not Amused.
 "Your nap, dear," Lady Barbara said.
 "Don't call me dear," Her Majesty snapped.
 "I'm sorry, Your Majesty," Barbara murmured. "But really--"
@@ -2394,7 +2394,7 @@ In the hospital, you know, we had a little joke--the patients for
 Insulin Shock Therapy used to say: 'If we don't stick together, we'll
 all be stuck separately.' Do you see, Sir Thomas?"
 "But," Sir Kenneth Malone said, trying desperately to return to the
-point. _"Six?"_ He had counted them up in his mind. Burris had
+point. "Six?" He had counted them up in his mind. Burris had
 mentioned one found in St. Elizabeths, and two more picked up later.
 With Queen Elizabeth, and now William Logan, that made five.
 Unless the Queen was counting him in. There didn't seem any good
@@ -2437,8 +2437,8 @@ rational.
 "There's me, of course," Her Majesty said.
 Lady Barbara gulped audibly. Boyd said nothing, but gripped the wheel
 of the car more tightly.
-And Malone thought to himself: _That's right. There's Queen
-Elizabeth--who says she isn't crazy._
+And Malone thought to himself: That's right. There's Queen
+Elizabeth--who says she isn't crazy.
 And then he thought of one more sane telepath. But the knowledge
 didn't make him feel any better.
 It was, of course, the spy.
@@ -2483,15 +2483,15 @@ other telepaths before?" he said. "You could have saved us a lot of
 work."
 "Oh, heavens to Betsy, Sir Kenneth," Her Majesty exclaimed. "How could
 I? After all, the proper precautions had to be taken first, didn't
-they? I told you all the others were crazy--_really_ crazy, I mean.
+they? I told you all the others were crazy--really crazy, I mean.
 And they just wouldn't be safe without the proper precautions."
 "Perhaps you ought to go back to the hospital, too," Barbara said, and
 added: "Your Majesty," just in time.
 "But if I did, dear," Her Majesty said, "you'd lose your chance to
 become a Duchess, and that wouldn't be at all nice. Besides, I'm
-having so much _fun_!" She trilled a laugh again. "Riding around like
+having so much fun!" She trilled a laugh again. "Riding around like
 this is just wonderful!" she said.
-_And you're important for national security_, Malone said to himself.
+And you're important for national security, Malone said to himself.
 "That's right, Sir Kenneth," the Queen said. "The country needs me,
 and I'm happy to serve. That is the job of a sovereign."
 "Fine," Malone said, hoping it was.
@@ -2502,8 +2502,8 @@ it?"
 was always feeling confused lately.
 "Don't be silly, Sir Kenneth," Her Majesty said. "There are times and
 times."
-"Sure," Malone said at random. _And time and a half_, he thought.
-_Possibly for overtime._ "What is Your Majesty thinking of?" he asked
+"Sure," Malone said at random. And time and a half, he thought.
+Possibly for overtime. "What is Your Majesty thinking of?" he asked
 with trepidation.
 "I want to take a tour of Las Vegas," Her Majesty said primly.
 Lady Barbara shook her head. "I'm afraid that's not possible, Your
@@ -2531,15 +2531,15 @@ shouldn't be--but it is. Please?"
 "Certainly, Sir Kenneth, if you wish," the Queen said. She folded her
 hands in her lap and waited quietly.
 "Okay," Malone said. "Now, if you can read my mind, then you must know
-that I don't _really_ believe that you are Queen Elizabeth of England.
+that I don't really believe that you are Queen Elizabeth of England.
 The First, I mean."
 "Mr. Malone," Barbara Wilson said suddenly. "I--"
 "It's all right, child," the Queen said. "He doesn't disturb me. And I
 do wish you'd call him Sir Kenneth. That's his title, you know."
-"Now that's what I mean," Malone said. "Why do you want us to _act_ as
+"Now that's what I mean," Malone said. "Why do you want us to act as
 if we believe you, when you know we don't?"
 "Because that's the way people do act," the Queen said calmly. "Very
-few people really believe that their so-called superiors _are_
+few people really believe that their so-called superiors are
 superior. Almost none of them do, in fact."
 "Now wait a minute," Boyd began.
 "No, no, it's quite true," the Queen said, "and, unpleasant as it may
@@ -2564,8 +2564,8 @@ After a while Malone said: "And what if I do?"
 smarter or better than you are--but you treat him as if you did. All I
 am insisting on is the same treatment."
 "But if we don't believe--" Boyd began.
-"Bless you," Her Majesty said, "I can't help the way you _think_, but,
-as Queen, I do have some control over the way you _act_."
+"Bless you," Her Majesty said, "I can't help the way you think, but,
+as Queen, I do have some control over the way you act."
 Malone thought it over. "You have a point there," he said at last.
 Barbara said: "But--"
 "Yes, Sir Kenneth," the Queen said, "I do." She seemed to be ignoring
@@ -2604,7 +2604,7 @@ As a matter of fact, it was one of the biggest gambling houses along
 the Las Vegas strip, a veritable chaos of wheels, cards, dice, chips
 and other such devices. Malone explained all this to the others,
 wondering meanwhile why Miss Thompson wanted to go there.
-"Not Miss Thompson, _please_, Sir Kenneth," Her Majesty said.
+"Not Miss Thompson, please, Sir Kenneth," Her Majesty said.
 "Not Miss Thompson what?" Boyd said. "What's going on anyhow?"
 "She's reading my mind," Malone said.
 "Well, then," Boyd snapped, "tell her to keep it to herself." The car
@@ -2633,7 +2633,7 @@ peaceful?"
 "I'm looking forward to it," Boyd said.
 "I'm not," Barbara said. "But I've got to get some sleep tonight, if
 I'm going to be any good at all tomorrow."
-_You're pretty good right now_, Malone thought, but he didn't say a
+You're pretty good right now, Malone thought, but he didn't say a
 word. He felt the Queen's eye on him but didn't turn around. After
 all, she was on his side--wasn't she?
 At any rate, she didn't say anything.
@@ -2672,7 +2672,7 @@ was white and pale. He thought of what Burris would do to him if he
 didn't follow through on his assigned job.
 Even if he wasn't as good as Burris thought he was, he really liked
 being an FBI agent. He didn't want to be fired.
-And Burris had said: _"Give her anything she wants."_
+And Burris had said: "Give her anything she wants."
 He gulped and tried to make his face look normal. "All right," he
 said. "Fine. We'll go to the Palace."
 He tried to ignore the pall of apprehension that fell over the car.
@@ -2680,7 +2680,7 @@ He tried to ignore the pall of apprehension that fell over the car.
 The management of the Golden Palace had been in business for many
 long, dreary, profitable years, and each member of the staff thought
 he or she had seen just about everything there was to be seen. And
-those that were new felt an obligation to _look_ as if they'd seen
+those that were new felt an obligation to look as if they'd seen
 everything.
 Therefore, when the entourage of Queen Elizabeth I strolled into the
 main salon, not a single eye was batted. Not a single gasp was heard.
@@ -2738,8 +2738,8 @@ determined to enjoy it. It was sort of fun, in its way, indulging a
 sweet harmless old lady. And there was nothing they could do until the
 next morning, anyhow.
 His indulgent smile faded very suddenly.
-Her Majesty plunked the entire handful of chips--_five thousand
-dollars!_ Malone thought dazedly--onto the table. "Five thousand," she
+Her Majesty plunked the entire handful of chips--five thousand
+dollars! Malone thought dazedly--onto the table. "Five thousand," she
 said in clear, cool measured tones, "on number one."
 The croupier blinked only slightly. He bowed. "Yes, Your Majesty," he
 said.
@@ -2763,8 +2763,8 @@ But Her Majesty never batted an eyelash. "Come, Sir Kenneth," she
 said. "Let's go on to the poker tables."
 She swept out. Her entourage followed her, shambling a little, and
 blank-eyed. Malone was still thinking about the five thousand dollars.
-Oh, well, Burris had said to give the lady anything she wanted. _But
-my God!_ he thought. _Did she have to play for royal stakes?_
+Oh, well, Burris had said to give the lady anything she wanted. But
+my God! he thought. Did she have to play for royal stakes?
 "I am, after all, a Queen," she whispered back to him.
 Malone thought about the National Debt. He wondered if a million more
 or less would make any real difference. There would be questions asked
@@ -2782,7 +2782,7 @@ descended upon them with great suddenness, and the house dealer looked
 up and almost lost his cigarette.
 "We haven't any money, Your Majesty," Malone whispered.
 She smiled up at him sweetly, and then drew him aside. "If you were a
-telepath," she said, "how would _you_ play poker?"
+telepath," she said, "how would you play poker?"
 Malone thought about that for a minute, and then turned to look for
 Boyd. But Sir Thomas didn't even have to be given instructions.
 "Another five hundred?" he said.
@@ -2862,7 +2862,7 @@ her with the nine of spades and the nine of hearts, and the Jack of
 diamonds.
 These were joined, in a matter of seconds, by two bright new cards:
 the six of clubs and the three of hearts.
-Malone closed his eyes. _Oh, well_, he thought.
+Malone closed his eyes. Oh, well, he thought.
 It was only thirty bucks down the drain. Practically nothing.
 Of course Her Majesty dropped at once; knowing what the other players
 held, she knew she couldn't beat them after the draw. But she did like
@@ -2901,8 +2901,8 @@ The cards were dealt.
 The first man said quietly: "Open for two hundred."
 Malone looked at the Queen's hand. It contained the Ace, King, Queen
 and ten of clubs--and the seven of spades.
-_Oh, no._ He thought. _She couldn't possibly be thinking of filling a
-flush._
+Oh, no. He thought. She couldn't possibly be thinking of filling a
+flush.
 He knew perfectly well that she was.
 The second man said: "And raise two hundred."
 The Queen equably tossed (counting, Malone thought, the ante) five
@@ -3021,7 +3021,7 @@ and headed back toward the hotel.
 Malone was the first to speak. "How did you know that was a Jack of
 clubs?" he said in a strangled sort of voice.
 The little old lady said calmly: "He was cheating."
-"The dealer?" Malone asked. The little old lady nodded. "In _your_
+"The dealer?" Malone asked. The little old lady nodded. "In your
 favor?"
 "He couldn't have been cheating," Boyd said at the same instant. "Why
 would he want to give you all that money?"
@@ -3098,7 +3098,7 @@ lead leaped from the muzzle of the gun and slammed into the driver of
 the Buick without wasting any time. The Buick slewed across the
 highway.
 The two shots fired by the man in the back seat went past Malone's
-head with a _whizz_, missing both him and Boyd by a margin too narrow
+head with a whizz, missing both him and Boyd by a margin too narrow
 to think about.
 But those were the last shots. The only difference between the FBI and
 the Enemy seemed to be determination and practice.
@@ -3195,7 +3195,7 @@ of this. You'll be getting a call later."
 "Fine," Malone said. "Trace those hoods, and any connections they
 might have had. Get the information to me as soon as possible."
 Lieutenant Adams nodded. "You won't have to leave the state, will
-you?" he asked. "I don't mean that you _can't_, exactly--hell, you're
+you?" he asked. "I don't mean that you can't, exactly--hell, you're
 FBI. But it'd be easier--"
 "Call Burris in Washington," Malone said. "He can get hold of me--and
 if the Governor wants to know where we are, or the State's Attorney,
@@ -3213,7 +3213,7 @@ roared off.
 Yucca Flats, Malone thought, certainly deserved its name. It was about
 as flat as land could get, and it contained millions upon millions of
 useless yuccas. Perhaps they were good for something, Malone thought,
-but they weren't good for _him_.
+but they weren't good for him.
 The place might, of course, have been called Cactus Flats, but the
 cacti were neither as big nor as impressive as the yuccas.
 Or was that yucci?
@@ -3252,20 +3252,20 @@ another telepath by using some of those rules."
 mind yet?"
 "Oh, yes," Her Majesty said happily. "And my goodness, he's certainly
 digging up a lot of information, isn't he?"
-Malone moaned softly. "But who _is_ he?" he asked after a second.
+Malone moaned softly. "But who is he?" he asked after a second.
 The Queen stared at the roof of the car in what looked like
 concentration. "He hasn't thought of his name yet," she said. "I mean,
 at least, if he has, he hasn't mentioned it to me. Really, Sir
 Kenneth, you have no idea how difficult all this is."
 Malone swallowed with difficulty.
-_"Where_ is he, then," said. "Can you tell me that, at least? His
+"Where is he, then," said. "Can you tell me that, at least? His
 location?"
 Her Majesty looked positively desolated with sadness. "I can't be
 sure," she said. "I really can't be exactly sure just where he is. He
 does keep moving around, I know that. But you have to remember that he
 doesn't want me to find him. He certainly doesn't want to be found by
 the FBI--would you?"
-"Your Majesty," Malone said, "I _am_ the FBI."
+"Your Majesty," Malone said, "I am the FBI."
 "Yes," the Queen said, "but suppose you weren't? He's doing his best
 to hide himself, even from me. It's sort of a game he's playing."
 "A game!"
@@ -3274,7 +3274,7 @@ know exactly where he is, I'll tell you. I promise. Cross my heart and
 hope to die--which I can't, of course, being immortal." Nevertheless,
 she made an X-mark over her left breast. "All right?"
 "All right," Malone said, out of sheer necessity. "Okay. But don't
-waste any time telling me. Do it right away. We've _got_ to find that
+waste any time telling me. Do it right away. We've got to find that
 spy and isolate him somehow."
 "Please don't worry yourself, Sir Kenneth," Her Majesty said. "Your
 Queen is doing everything she can."
@@ -3306,7 +3306,7 @@ Malone's eyebrows rose. "Okay," he said. "I won't smooth you down.
 I'll just tell you to shut up, to keep driving--and to show some
 respect to Her Majesty."
 "I--" Boyd stopped. There was a second of silence.
-_"That's_ better," Her Majesty said with satisfaction.
+"That's better," Her Majesty said with satisfaction.
 Lady Barbara stretched in the back seat, next to Her Majesty. "This is
 certainly a long drive," she said. "Have we got much farther to go?"
 "Not too far," Malone said. "We ought to be there soon."
@@ -3449,7 +3449,7 @@ show you."
 When they got back to the car, Dr. Gamble was talking spiritedly with
 Her Majesty about Roger Bacon. "Before my time, of course," the Queen
 was saying, "but I'm sure he was a most interesting man. Now when dear
-old Marlowe wrote his _Faust_, he and I had several long discussions
+old Marlowe wrote his Faust, he and I had several long discussions
 about such matters. Alchemy, Doctor--"
 Burris interrupted with: "I beg your pardon, Your Majesty, but we must
 get on. Perhaps you'll be able to continue your--ah--audience later."
@@ -3523,7 +3523,7 @@ throne.
 "It's a beautiful rationalization," one of the psychiatrists said with
 more than a trace of admiration in his voice. "Complete and thoroughly
 consistent. She's just traded identities--and everything else she
-does--_everything_ else--stems logically out of her delusional
+does--everything else--stems logically out of her delusional
 premise. Beautiful."
 She may have been crazy, Malone realized. But she was a long way from
 stupid.
@@ -3552,7 +3552,7 @@ But, on the fourth day:
 pessimism, you're going to be an exception to the beard rule. One more
 crack out of you, and you can go out and buy yourself a razor."
 Boyd put his hand over his chin protectively, and said nothing at all.
-"Wait a minute," Malone said. "Aren't there any _sane_ telepaths in
+"Wait a minute," Malone said. "Aren't there any sane telepaths in
 the world?"
 "We can't find any," Burris said. "We--"
 There was a knock at the office door. "Who's there?" Burris called.
@@ -3670,7 +3670,7 @@ Certainly it worked in reverse. Boyd...
 No, Malone told himself firmly. That was silly.
 If he were going to consider Boyd, he realized, he might as well go
 whole hog and think about Andrew J. Burris.
-And that really _was_ ridiculous. Absolutely ridic....
+And that really was ridiculous. Absolutely ridic....
 Well, Queen Elizabeth had seemed pretty certain when she'd pointed him
 out in Dr. Dowson's office. And the fact that she'd apparently changed
 her mind didn't have to mean very much. After all, how much faith
@@ -3695,7 +3695,7 @@ So Burris wasn't the spy. And Her Majesty had made a mistake when
 she'd said....
 "Wait a minute," Malone told himself suddenly.
 Had she?
-Maybe, after all, you _could_ have it both ways. The thought occurred
+Maybe, after all, you could have it both ways. The thought occurred
 to him with a startling suddenness and he stood silent upon a peak in
 Yucca Flats, contemplating it. A second went by.
 And then something Burris himself had said came back to him, something
@@ -3720,7 +3720,7 @@ On the way, he stopped in at another small office, this one inhabited
 by the two FBI men from Las Vegas. He gave a series of quick orders,
 and got the satisfaction, as he left, of seeing one of the FBI men
 grabbing for a phone in a hurry.
-It was good to be _doing_ things again, important things.
+It was good to be doing things again, important things.
 Burris, Boyd and Dr. Gamble were still talking as Malone entered.
 "That," Burris said, "was one hell of a quick lunch. What's Her
 Majesty doing now--running a diner?"
@@ -3746,7 +3746,7 @@ promptly followed.
 "Gentlemen!" Malone said, sounding, as far as he could tell, properly
 shocked and offended. "Your dress!"
 "What?" Dr. Gamble said, throwing up both hands.
-"Oh, _no_," Boyd chimed in. "Not now."
+"Oh, no," Boyd chimed in. "Not now."
 Burris simply said: "You're quite right. Get dressed, Boyd--I mean, of
 course, Sir Thomas."
 While they were dressing, Malone put in a call to Dr. O'Connor's
@@ -3796,7 +3796,7 @@ up to his elbows and his doublet had an unfortunate tendency to creep.
 The St. Elizabeths men, all four of them, looked just a little like
 moth-eaten versions of old silent pictures. Malone looked them over
 with a somewhat sardonic eye. Not only did he have the answer to the
-whole problem that had been plaguing them, but _his_ costume was a
+whole problem that had been plaguing them, but his costume was a
 stunning, perfect fit.
 "Now, I want you men to let me handle this," Malone said. "I know just
 what I want to say, and I think I can get the information without too
@@ -3826,8 +3826,8 @@ Malone saw the expression on Her Majesty's face. He wanted to talk to
 Barbara--but there wasn't time. Later, there might be. Now, he
 collected his mind and drove one thought at the Queen, one single
 powerful thought:
-_Read me! You know by this time that I have the truth_--_but read
-deeper!_
+Read me! You know by this time that I have the truth--but read
+deeper!
 The expression on her face changed suddenly. She was smiling a sad,
 gentle little smile. Lady Barbara, who had looked up at the approach
 of Sir Kenneth and his entourage, relaxed again, but her eyes remained
@@ -3851,7 +3851,7 @@ we--ah--plan to do into the actual mechanisms of telepathy. Provided,
 of course--" He coughed gently--"provided that they become--ah--
 accessible. Miss--I mean, of course, Her Majesty has already been a
 great deal of help." He gave Malone an odd look. It seemed to say:
-_What's coming next?_
+What's coming next?
 Malone simply gave him a nod, and a "Thank you, Doctor," and turned to
 Burris. He could feel Barbara's eyes on him, but he went on with his
 prepared questions. "Chief," he said, "what about you? After we nail
@@ -3907,7 +3907,7 @@ because of insanity," he whispered. "Because--"
 They were all looking at Her Majesty, now. She returned them stare for
 stare, her back stiff and straight and her white hair enhaloed in the
 room's light. "Sir Kenneth," she said--and her voice was only the
-least bit unsteady--"they all think _I'm_ the spy."
+least bit unsteady--"they all think I'm the spy."
 Barbara stood up. "Listen," she said. "I didn't like Her Majesty at
 first--well, she was a patient, and that was all, and when she started
 putting on airs ... but since I've gotten to know her I do like her.
@@ -3931,7 +3931,7 @@ the matter. Listen to him."
 "Her Majesty not only caught the spy," Malone said, "but she turned
 the spy right over to us."
 He turned at once and went back down the long red carpet to the door.
-_I really ought to get a sword_, he thought, and didn't see Her
+I really ought to get a sword, he thought, and didn't see Her
 Majesty smile. He opened the door with a great flourish and said
 quietly: "Bring him in, boys."
 The FBI men from Las Vegas marched in. Between them was their
@@ -3946,7 +3946,7 @@ his guards followed closely.
 "Perfectly correct, Sir Kenneth," the Queen said. "Poor Willie is your
 spy. You won't be too hard on him, will you?"
 "I don't think so, Your Majesty," Malone said. "After all--"
-"Now wait a minute," Burris exploded. "How the hell did _you_ know any
+"Now wait a minute," Burris exploded. "How the hell did you know any
 of this?"
 Malone bowed to Her Majesty, and winked at Barbara. He turned to
 Burris. "Well," he said, "I had one piece of information none of the
@@ -4037,15 +4037,15 @@ One of the psychiatrists spoke up suddenly. "I don't understand it,"
 he said. "Logan is completely catatonic. Even if he could read minds,
 how could he tell Dowson what he'd read? It doesn't make sense."
 "In the first place," the Queen said patiently, "Willie isn't
-catatonic. He's just _busy_, that's all. He's only a boy, and--well,
+catatonic. He's just busy, that's all. He's only a boy, and--well,
 he doesn't much like being who he is. So he visits other people's
-minds, and that way he becomes _them_ for a while. You see?"
+minds, and that way he becomes them for a while. You see?"
 "Vaguely," Malone said. "But how did Dowson get his information? I had
 everything worked out but that."
 "I know you did," the Queen said, "and I'm proud of you. I intend to
 award you with the Order of the Bath for this day's work."
 Unaccountably, Malone's chest swelled with pride.
-"As for Dr. Dowson," the Queen said, "that traitor--_hurt_ Willie. If
+"As for Dr. Dowson," the Queen said, "that traitor--hurt Willie. If
 he's hurt enough, he'll come back." Her eyes weren't hard any more.
 "He didn't want to be a spy, really," she said, "but he's just a boy,
 and it must have sounded rather exciting. He knew that if he told

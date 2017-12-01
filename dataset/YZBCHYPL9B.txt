@@ -26,7 +26,7 @@ CHAPTER
  XVII  The Prison Without Bars
   *  *  *  *  *
 CHAPTER I
-_Mansion of Mystery_
+Mansion of Mystery
 In a secluded section of a certain eastern state which must remain
 nameless, one may leave the main highway and travel up a winding road
 around tortuous bends and under huge scowling trees, into wooded
@@ -60,8 +60,8 @@ time with the aid of his flashlight. Then he stopped and raised the
 beam.
 It revealed the outline of a great stone mansion, its myriad windows
 like black, sightless eyes, its silent bulk telling of long solitude,
-its tongueless voice whispering: _Go away, stranger. Only peril and
-misfortune await you here._
+its tongueless voice whispering: Go away, stranger. Only peril and
+misfortune await you here.
 But I am not exactly a stranger, the man told himself, approaching the
 door and half hoping to find the scowling panel locked.
 But it was not locked. The ponderous knob turned under his hand. The
@@ -80,7 +80,7 @@ clinging to life. The voice was a harsh whisper.
 my remaining strength."
 "You have been waiting for me?"
 "I have been waiting out the years--striving to keep life in my body
-until the moment of destiny. I wanted to see _him_. I wanted to be
+until the moment of destiny. I wanted to see him. I wanted to be
 there when the door to his resting place opens and he comes forth to
 right the terrible wrongs that have been done our people."
 The strength of the ancient one was ebbing fast. The words he spoke
@@ -88,7 +88,7 @@ had been an effort. The kneeling man said, "I don't understand all
 this."
 "That matters not. It is important only that you keep the bargain made
 long ago with your sire, and that you are here. Someone must be with
-_him_ at the awakening."
+him at the awakening."
 The newcomer again touched the book in his pocket. "I came because our
 word had been given--"
 The dying man picked feebly at his sleeve. "Please! You must go below!
@@ -101,7 +101,7 @@ you, but that is not to be."
 And then the visitor realized he was holding a corpse in his arms. He
 laid it gently down and did as he had been directed to do.
 CHAPTER II
-_The Great Clock of Tarth_
+The Great Clock of Tarth
 The Plains of Ofrid on the planet Tarth stretched flat and monotonous
 as far as the eye could reach, a gently waving ocean of soft,
 knee-high grass where herds of wild stads grazed and bright-hued birds
@@ -220,7 +220,7 @@ planet; to the door of a cavern deep in the rock beneath the mansion.
 That even now the lock of this door had responded to the electronic
 impulse and the huge panel was swinging slowly open.
 CHAPTER III
-_The Man in the Cavern_
+The Man in the Cavern
 As the sound of the tolling clock died out across the Plains of Ofrid,
 a man opened his eyes on the planet far away and saw for the first
 time the place in which he had spent one hundred years.
@@ -332,7 +332,7 @@ to conceal.
 "Very well," John Pride said, his eyes growing vague with a far-away
 look.
 CHAPTER IV
-_John Pride's Story_
+John Pride's Story
 "I am a member," John Pride began, "of a firm called Pride, Conroy,
 and Wilson. We are a very old firm of private bankers with offices in
 Wall Street. Both Conroy and Wilson died before I was born, leaving no
@@ -382,7 +382,7 @@ my mind, but he will not come forward."
 John Pride regarded his listener for a moment and then went on. "The
 man seemed in ample funds and paid for the property with a giant ruby
 the like of which my great grandfather had never before set eyes on.
-"But the affair was far from ended. The man moved his _ménage_ into
+"But the affair was far from ended. The man moved his ménage into
 the mansion saying he would call upon my great grandfather later.
   *  *  *  *  *
 "All the legal formalities had been of course taken care of--an
@@ -478,7 +478,7 @@ walls of the room, searing the eyes of John Pride and leaving him to
 grope helplessly as in the heart of a furnace. The younger man was
 beyond his reach. Blinding pain caused him to reel.
 CHAPTER V
-_Question Upon Question_
+Question Upon Question
 John Pride opened his eyes as a moan escaped his lips. The haze
 cleared and he found himself lying upon a cool stone floor looking up
 into the concerned face of the younger man. "What happened?" John
@@ -673,12 +673,12 @@ weakened, fell away from it.
 The darkness increased and seemed to lift him from the ground upon
 which he lay. It clawed at his throat, entered his nostrils like a
 malignant force.
-As his consciousness faded a single thought was in his mind: _Born but
+As his consciousness faded a single thought was in his mind: Born but
 to live a few brief moments and die again. What sense is there to such
 a farce as this? Born--but--to die--again. Portox! Help me! It can't
-be--There must be some help!_
+be--There must be some help!
 CHAPTER VI
-_On the Plains of Ofrid_
+On the Plains of Ofrid
 Jlomec the Nadian guided his air car across the grassy plains of Ofrid
 but a scant few feet above the tops of the waving grasses.
 It was a fine day and the Nadian was taking full advantage of it. One
@@ -822,7 +822,7 @@ Their eyes were turned in another direction and Retoc sent his own
 glance after theirs. His eyes held upon what he saw. A naked man. But
 such a man as he had never before seen on all the planet Tarth.
 CHAPTER VII
-_The White God_
+The White God
 Bram Forest returned to consciousness and realized the black nausea of
 his previous moments had vanished. All traces of the sickness were
 gone as he opened his eyes, his mind intent upon the small flat
@@ -939,7 +939,7 @@ The dark warrior moved swiftly toward his waiting stad. He mounted and
 rode away and not until the figures about the well were tiny spots
 almost beyond range of his vision, did he again breathe easily.
 CHAPTER VIII
-_The Brown Virgin_
+The Brown Virgin
 Bram Forest moved from unconscious into a dark half-world of pain and
 frustration. He felt his flame-seared body to be hanging upon the edge
 of a black abyss into which he could neither fall nor draw away from.
@@ -1084,7 +1084,7 @@ even with the fear that I would rise up and violate you as soon as I
 acquired the strength to do so. Your thought processes are difficult
 to understand."
 Ylia lowered her eyes. "You wished to ask some questions, sire."
-"My name is Bram Forest. The _sire_ ill-becomes you."
+"My name is Bram Forest. The sire ill-becomes you."
 "Bram--Forest," she murmured experimentally. Then she raised her eyes
 and there dawned upon her face the most brilliant of smiles. Her look
 was one of both dignity and gratitude. "You do me much honor, Bram
@@ -1186,7 +1186,7 @@ With that, she hurried off in the direction of the sounding water,
 leaving Bram Forest both bewildered and intrigued. Why had she reacted
 so violently to his question? And for that matter, why had he been
 able to ask the question in the first place? By what process did he
-know the name _Ofrid_ and that it designated a nation on Tarth,
+know the name Ofrid and that it designated a nation on Tarth,
 without knowing of that nation and already possessing the knowledge
 for which he had begged the patient and beautiful Ylia?
 Then he remembered that he had resolved not to wonder about these
@@ -1229,7 +1229,7 @@ empty bed of moss, Bram Forest having been snatched up and whirled
 into darkness by the relentless hand of time put into terrifying
 motion.
 CHAPTER IX
-_In Custody_
+In Custody
 Bram Forest regained consciousness upon a grassy slope across which
 slanted the rays of a setting sun. The same sun that had warmed him
 upon the planet Tarth--of this he was certain.
@@ -1355,7 +1355,7 @@ Mulcahey Davis got to his feet and wiped the sweat from his face.
 "There's one for the psychos and a padded cell afterwards."
 "You said it," Mowbray agreed heartily. "Let's take him in."
 CHAPTER X
-_The Road to Nadia_
+The Road to Nadia
 The stads of Abaria, like the masters who rode them, were
 ill-accustomed to the clear cold air of Nadia. They snorted visible
 jets of vapor into the crisp air as their splayed feet scratched and
@@ -1471,9 +1471,9 @@ sergeant."
 "Captain Caruthers said to thank you, sir."
 "Not at all. Part of my job."
 Meanwhile, back in his cell, the prisoner, big hands gripping the bars
-so tight that his knuckles were white, was thinking: _I've got to make
+so tight that his knuckles were white, was thinking: I've got to make
 them understand. Somehow I've got to make them understand before it's
-too late._
+too late.
 He closed his eyes, lost in intense thought. When he did so, an image
 swam before his mind's eye. He did not know how this could be, but
 ascribed it to more of the dead Portox' magic.
@@ -1485,14 +1485,14 @@ the memory of the late beloved Prince Jlomec. And it was here in
 frigid Nadia, at such a time as this, when all the royal blood of all
 the royal households of Tarth gathered, the wizardry of Portox seemed
 to tell him, that vengeance would come. Here, if only....
-_Ylia!_
+Ylia!
 The image blurred. He had seen her once. His knuckles went white as
 bleached bone on the bars. He concentrated every atom of his will.
-_Ylia, Ylia!_ But now with his eyes shut he saw nothing. With his eyes
+Ylia, Ylia! But now with his eyes shut he saw nothing. With his eyes
 opened, only the bars of his cell and the cell-block corridor beyond.
-_Ylia, Ylia! Hear me. There is danger on the road to Nadia. Ylia...._
+Ylia, Ylia! Hear me. There is danger on the road to Nadia. Ylia....
 CHAPTER XI
-_On the Ice Fields of Nadia_
+On the Ice Fields of Nadia
 B'ronth the Utalian left footprints in the snow.
 Otherwise, B'ronth was invisible. But if a hidden observer watched the
 Utalian's slow progress across the ice fields of Nadia he would see
@@ -1545,7 +1545,7 @@ follow....
 "Half a day's march to Nadia City yet, I'm afraid," Ylia said. "We
 could rest if you wish."
 The man was extremely old by Tarthian standards, probably three
-hundred and fifty years old. He wore a snow-cape of _purullian_ fur
+hundred and fifty years old. He wore a snow-cape of purullian fur
 which the wind whipped about his bony frame and up over his completely
 bald head. "I'm sorry, Ylia," he said suddenly. There were tears in
 his eyes which the cold and the wind did not explain.
@@ -1663,8 +1663,8 @@ from its scabbard.
 Just then the footprints became wider spaced and appeared more quickly
 in the snow. The invisible Utalian was running toward them. Awkward,
 cursing at his own impotence, Hammeth fumbled with his weapon.
-_You who call yourself Bram Forest_, Ylia thought, _White God or
-whatever you are--help us, help us_! Then she hated herself for the
+You who call yourself Bram Forest, Ylia thought, White God or
+whatever you are--help us, help us! Then she hated herself for the
 unbidden thought. Bram Forest had deserted her once, hadn't he, after
 she had saved his life? What help could she expect from a man like
 Bram Forest? Or was Father Hammeth right? Perhaps Bram Forest had fled
@@ -1673,10 +1673,10 @@ fall on Retoc and his Abarians.
 Or, Ylia thought with an abrupt flash of insight, perhaps Bram
 Forest's flight had been out of his control. Perhaps he was as yet a
 pawn in a game he barely understood....
-_Bram Forest, we need you!_
+Bram Forest, we need you!
 The running footprints were almost upon them.
 CHAPTER XII
-_Volna the Beautiful_
+Volna the Beautiful
 Bram Forest had been day-dreaming.
 Ylia? Hadn't Ylia been calling his name? But how could that be? Ylia
 was almost two hundred million miles away. Clearly, as long as they
@@ -1755,13 +1755,13 @@ taken an overdose of barbituates.
 "Yes," said Dr. Slonamn.
 "I'm going. It's my home."
 The giant took a step forward, then began to stagger.
-"Your home?" Dr. Slonamn gasped. "Your _home_?"
+"Your home?" Dr. Slonamn gasped. "Your home?"
 The giant, who had given his name to the prison authorities as Bram
 Forest, did not answer. Dr. Slonamn reached out, as if to grab him.
 Bram Forest stood there, a smile and the acceptance of pain fighting
 for mastery of his face.
-Dr. Slonamn staggered back as if struck. _His hand had passed through
-Bram Forest's body._
+Dr. Slonamn staggered back as if struck. His hand had passed through
+Bram Forest's body.
 Staggering, trembling, Dr. Slonamn leaned for support on the desk. He
 could see through Bram Forest now. See through him entirely.
 A cold fierce wind, like no wind ever felt on Earth, touched him. He
@@ -1919,7 +1919,7 @@ Volna stared for many moments at her beautiful face in the mirror.
 Queen, she thought. She said it aloud:
 "Queen Volna."
 CHAPTER XIII
-_The Journey of No Return_
+The Journey of No Return
 Earlier that day, on the ice fields half a dozen jeks from Nadia City,
 B'ronth the Utalian had sprinted boldly across the snow toward the
 girl and her elderly male companion. This had taken considerable
@@ -1966,9 +1966,9 @@ crawled on her knees to Hammeth. The blood jetted from the stump of
 his arm. He was watching her. A little smile touched the corners of
 his mouth but pain made his eyes wild.
 B'ronth licked his lips. He had earned his bag of gold and, earning
-it, thought of more wealth. He thought: _why should I accept one bag
+it, thought of more wealth. He thought: why should I accept one bag
 of gold from a common Abarian soldier when there are millions of bags
-of gold in Nadia City_? He could deliver the girl, who obviously knew
+of gold in Nadia City? He could deliver the girl, who obviously knew
 something the Abarians did not wish the Nadians to know, to Nadia
 City. He could sell her to the Nadians. Or, if the Abarians outbid
 them, then the Abarians....
@@ -2093,7 +2093,7 @@ in. As a Nadian citizen, he owned a way pass, of course. But the
 giant? Obviously the giant did not. Lulukee was sorry he had ever
 agreed to go along with B'ronth the Utalian. Now he only wanted to get
 out of the entire situation as quickly--and safely--as possible.
-He pointed an accusing finger at Bram Forest. "_He_ has no way pass!"
+He pointed an accusing finger at Bram Forest. "He has no way pass!"
 Lulukee cried.
 The guards stiffened, their whip-swords ready. They looked at Bram
 Forest. Overhead, the air-car hovered, its peltasts stationed there in
@@ -2232,7 +2232,7 @@ then I will be master of Tarth."
 "That, Hultax," said Retoc with a smile, "is why you sent the
 message."
 "My sire," said the proud soldier Hultax humbly.
-Soon, thought Retoc, all Tarth would call him that. _My sire...._
+Soon, thought Retoc, all Tarth would call him that. My sire....
   *  *  *  *  *
 Ahead of Bram Forest loomed the ramparts of the palace. He must hurry.
 He knew he had to hurry. He pushed impatiently through the crowd.
@@ -2324,7 +2324,7 @@ the Royal Dock on the River of Ice. The barge with Jlomec's embalmed
 body waited. It was very cold on the river. The Place of the Dead
 beckoned from the unseen end of the Journey of No Return.
 CHAPTER XIV
-_Land Beyond the Stars_
+Land Beyond the Stars
 At first Retoc the Abarian was too stunned by what he witnessed to
 think coherently. With the other Tarthians of royal blood he had
 received an unexpected summons to appear at the Royal Dock on the
@@ -2539,7 +2539,7 @@ the royal wood, was a skiff in which, shaking and afraid yet somehow
 triumphant because he had heard Bram Forest's strange words, was
 Hultax the Abarian.
 CHAPTER XV
-_The Golden Ape_
+The Golden Ape
 Hultax the Abarian shook himself. He had lost consciousness as every
 nerve-ending in his body had screamed with pain. Did this have
 something to do with the warp--warping?--Bram Forest had mentioned.
@@ -2642,7 +2642,7 @@ important. He knew without knowing how he knew that his life might
 depend on his answer.
 "Well?" the Golden Ape asked gently.
 "I ... that is...."
-The Ape's eyes narrowed as he looked down at Hultax. "You _are_ from
+The Ape's eyes narrowed as he looked down at Hultax. "You are from
 Portox?"
 "Yes, yes. Of course."
 "I see you have the bracelet."
@@ -2718,15 +2718,15 @@ around.
 The bracelet of Portox-saviour! thought Bylanus. Had this dead man
 worn it? Had the imposter, now slain by the wild boar, taken it from
 him?
-_Oh Portox-saviour, Portox-saviour, how long dead? Am I too late, is
-it too late for this man, your heir...?_
+Oh Portox-saviour, Portox-saviour, how long dead? Am I too late, is
+it too late for this man, your heir...?
 As gently as he could, the huge Bylanus lifted the two bodies and put
 them in his saddle-bags. He faced the Kranuian Wood astride. The
 stallion held its head up, alert, ready. They psychokinesthized.
 And disappeared in a twinkling with Bram Forest and Ylia, both of whom
 were dead.
 CHAPTER XVI
-_The Raging Beast_
+The Raging Beast
 Although once mighty Ofridia of Tarth and certainly the nations of
 Earth had outstripped Bylanus' world in the physical science, the
 planet of the pink and green suns was supreme in biology. Thus had it
@@ -2834,7 +2834,7 @@ body. "I'm not your Queen yet," she said, laughing.
 "Huh!" snorted the old man. "That is your official title. But what do
 titles matter? When this day ends you will rule all Tarth side by side
 with Retoc the Abarian."
-Yes, Volna thought. With Retoc the Abarian. But how long would _that_
+Yes, Volna thought. With Retoc the Abarian. But how long would that
 alliance last? Would either of them be content to share power with the
 other? Wouldn't there come a day when she would give the nod to
 Prokliam and the legions would march against those of Abaria chanting,
@@ -2867,7 +2867,7 @@ Nadia. But of course neither Nadia nor Bontarc its rightful ruler knew
 that yet. And when they did, Retoc and his legions would make sure
 they could do nothing about it.
 The Games would be a feast. Volna's feast....
-_All power to Volna._
+All power to Volna.
   *  *  *  *  *
 The Kranuian Boar came screaming from the forest.
 Its small, close-set eyes found Bram at once. If it had seen Bylanus
@@ -3016,7 +3016,7 @@ heard the crowd at the funeral games. They roared suddenly in a frenzy
 of excitement and another part of Portox's poem slipped into place.
 The crowd watching the games in Nadia City was the raging beast,
 blood-lusting, expectant, animal-savage, whipped into a fever of
-goggle-eyed enthusiasm and ready to move, _en-masse_, in whatever
+goggle-eyed enthusiasm and ready to move, en-masse, in whatever
 direction a strong leader might push them.
 A strong leader....
 Retoc? Or Bram Forest? Which one?
@@ -3041,7 +3041,7 @@ he hit her on the jaw with his fist and caught her before she could
 fall. Then, swinging her up over his broad shoulder, he stalked
 through the rushes toward Nadia City.
 CHAPTER XVII
-_The Prison Without Bars_
+The Prison Without Bars
 No one tried to stop Bram Forest until he reached the very gates of
 the amphitheater. But there a guard with drawn whip-sword barred the
 way and demanded: "You don't look Nadian to me. What delegation are
@@ -3108,7 +3108,7 @@ said nothing.
 Pirum struck Ylia a second time. The girl whimpered, but held her
 tongue. "Where is your friend, that giant of a man?" Volna asked.
 Again Pirum hit Ylia when she would say nothing. Finally Volna
-shrugged. "She'll talk, given enough of that. What's _your_ name,
+shrugged. "She'll talk, given enough of that. What's your name,
 man?"
 "Pirum, ladyship."
 "Very well, Pirum. My guards and I are returning to our seats. There
@@ -3219,17 +3219,17 @@ before, he actually believed he heard her cry out to him in pain. But
 that couldn't be. Besides, what could he do about it? He was trapped
 forever on Earth, without the bracelet which could send him, almost on
 the wings of thought, back to Tarth, to Ylia, to his destiny.
-_I love you, girl of Tarth, he thought. I love you, Ylia, more than
-words and more than worlds._
+I love you, girl of Tarth, he thought. I love you, Ylia, more than
+words and more than worlds.
 Something whisperingly cold plucked at him, and for an instant his
 heart was stilled.
-_Ylia!_
+Ylia!
 Could his love for the girl of Tarth draw him across the unthinkable
 abyss?
 "... immodestly attired and ..." the desk sergeant was saying.
-_Ylia, Ylia, call me! Draw me to you, girl of Tarth._
-_... bramforesthelp...._
-_Ylia! I hear you! I hear you!_
+Ylia, Ylia, call me! Draw me to you, girl of Tarth.
+... bramforesthelp....
+Ylia! I hear you! I hear you!
 "What the heck's he doing? Praying?" the patrolman asked.
 For Bram Forest was staring devoutly at nothing, staring at the air in
 front of his face there in the mundane precinct room as if it held a
@@ -3248,7 +3248,7 @@ Bylanus passed an enormous hand through Bram Forest's body.
 "I'll materialize, when I find Ylia. She draws me...." Already the
 vision was fading.
 "Farewell, Bram Forest."
-_Farewell...._
+Farewell....
 Was it merely the sound of the wind along the banks of the River of
 Ice? Bylanus wondered.
   *  *  *  *  *
@@ -3272,9 +3272,9 @@ Laugrim, second in command of the Abarian army under the missing
 Hultax, Laugrim decided it was time to attack. He gave the signal for
 his army to march on the city, and the signal was passed from
 signal-fire to signal-fire in the huge encampment. In a very short
-time, the army's vanguard began to march. _There's no force on all
-Tarth strong enough to stop us now_, Laugrim thought exultantly. _This
-day, Retoc would rule Tarth._
+time, the army's vanguard began to march. There's no force on all
+Tarth strong enough to stop us now, Laugrim thought exultantly. This
+day, Retoc would rule Tarth.
 He was right. There was no Tarthian army strong enough to stop them.
 But the Army of the Golden Apes which, after Bram Forest's warning,
 had deployed itself at the very gates of Nadia City so the people in

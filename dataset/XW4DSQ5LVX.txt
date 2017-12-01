@@ -1,8 +1,8 @@
 THE CRYSTAL CRYPT
 By PHILIP K. DICK
-  _Stark terror ruled the Inner-Flight ship on that last Mars-Terra
+  Stark terror ruled the Inner-Flight ship on that last Mars-Terra
   run. For the black-clad Leiters were on the prowl ... and the grim
-  red planet was not far behind._
+  red planet was not far behind.
 "Attention, Inner-Flight ship! Attention! You are ordered to land at the
 Control Station on Deimos for inspection. Attention! You are to land at
 once!"
@@ -116,7 +116,7 @@ The ship was silent. Three people remained, a middle-aged man and his
 wife and their son, a boy of about twelve. They stood in the corner,
 staring white-faced at the Leiter, at the rod in his dark fingers.
 "It must be you," the Leiter grated, moving toward them. The Martian
-soldiers raised their guns. "It _must_ be you. You there, the boy. What
+soldiers raised their guns. "It must be you. You there, the boy. What
 do you know about the destruction of our city? Answer!"
 The boy shook his head. "Nothing," he whispered.
 The box was silent for a moment. "He is telling the truth," it said
@@ -167,7 +167,7 @@ They entered the lounge and stood undecided.
 bar, mostly men. "Perhaps that table over there."
 "But someone's there already," Thacher said. The heavy-set business man
 had sat down at the table and deposited his sample case on the floor.
-"Do we want to sit with _him_?"
+"Do we want to sit with him?"
 "Oh, it's all right," Mara said, crossing to the table. "May we sit
 here?" she said to the man.
 The man looked up, half-rising. "It's a pleasure," he murmured. He
@@ -524,7 +524,7 @@ At last he grunted, standing up. "All right."
 "Is it pointed directly at the City?" Mara asked anxiously, looking down
 at the pyramid.
 Erick nodded. "Yes, it's placed according--" He stopped, suddenly
-stiffening. "Get back! It's time! _Hurry!_"
+stiffening. "Get back! It's time! Hurry!"
 Jan ran, down the far side of the slope, away from the City, pulling
 Mara with him. Erick came quickly after, still looking back at the
 distant spires, almost lost in the night sky.
@@ -690,7 +690,7 @@ supplies!"
 Erickson smiled. He opened the briefcase and reaching into it he brought
 out the glass globe paperweight. He held it up, looking into it. "Yes,
 we stole the City from the Martians. That's how we got by the lie
-detector. It was true that we knew nothing about a _destroyed_ City."
+detector. It was true that we knew nothing about a destroyed City."
 "But why?" Thacher said. "Why steal a City? Why not merely bomb it?"
 "Ransom," Mara said fervently, gazing into the globe, her dark eyes
 bright. "Their biggest City, half of their Council--in Erick's hand!"

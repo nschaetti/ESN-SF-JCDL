@@ -6,24 +6,24 @@ part of which has been thoroughly tested, won't work....
 Illustrated by Douglas
 *  *  *  *  *
 Jayjay Kelvin was sitting in the lounge of the interplanetary cargo
-vessel _Persephone_, his feet propped up on the low table in front of
+vessel Persephone, his feet propped up on the low table in front of
 the couch, and his attention focused almost totally on the small book
-he was reading. The lounge itself was cozily small; the _Persephone_
+he was reading. The lounge itself was cozily small; the Persephone
 had not been designed as a passenger vessel, and the two passengers
 she was carrying at the time had been taken on as an accommodation
 rather than as a money-making proposition. On the other hand, the
-_Persephone_ and other ships like her were the only method of getting
+Persephone and other ships like her were the only method of getting
 to where Jayjay Kelvin wanted to go; there were no regular passenger
 runs to Pluto. It's hardly the vacation spot of the Solar System.
 On the other side of the table, Jeffry Hull was working industriously
 with pencil and paper. Jayjay kept his nose buried in his book--not
 because he was deliberately slighting Hull, but because he was
 genuinely interested in the book.
-_"Now wait," said Masterson, looking thoughtfully at the footprints on
+"Now wait," said Masterson, looking thoughtfully at the footprints on
 the floor of the cabin where Jed Hooker had died. "Jest take another
 look at these prints, Charlie. Silver Bill Greer couldn't have got
 much more than his big toe into boots that small! Somethin' tells me
-the Pecos Kid has...."_
+the Pecos Kid has...."
 "... Traveled nearly two billion miles since then," said Hull.
 Jayjay lifted his head from his book. "What?" He blinked. "I'm sorry;
 I wasn't listening. What did you say?"
@@ -70,7 +70,7 @@ important in sociological investigations. Not, you understand, as an
 attempt to pry into the private life of the individual, but to round
 out the overall picture."
 Jayjay nodded politely. To his quixotic and pixie-like mind, the term
-_overall picture_ conjured up the vision of a large and carefully
+overall picture conjured up the vision of a large and carefully
 detailed painting of a pair of dirty overalls, but he kept the smile
 off his face and merely said: "I understand."
 "Well, I've noticed that you're quite an avid reader. That isn't
@@ -97,7 +97,7 @@ them.
 "And yet, the modern 'adventure' novel invariably takes place in
 space.
 "I can read Westerns because I neither know nor care what the Old
-American West was _really_ like. I can sit back and sink into the
+American West was really like. I can sit back and sink into the
 never-never land that the Western tells about and enjoy myself because
 I am not forced to compare it with reality.
 "But a 'space novel' written by an Earthside hugger is almost as much
@@ -115,7 +115,7 @@ the spaceship so that the hairy-chested hero can show what a great guy
 he is. So what does the writer do? He has the ship hit by a meteor! A
 meteor!"
 Hull thought that over for a second. "Well," he said tentatively, "a
-ship _could_ get hit by a meteor, couldn't it?"
+ship could get hit by a meteor, couldn't it?"
 Jayjay closed his eyes in exasperation. "Of course it could! And an
 air-ship can run into a ruby-throated hummingbird, too. But how often
 does it happen?
@@ -143,7 +143,7 @@ was dead wrong.
 How small must a piece of matter be before it is no longer a meteor?
 Fortunately, the big hunks rarely travel at more than about two times
 ten to the sixth centimeters per second, relative to Sol, in the Solar
-System. But there are little meteors--_very_ tiny ones--that come in,
+System. But there are little meteors--very tiny ones--that come in,
 hell-bent-for-leather, at a shade less than the velocity of light.
 They're called cosmic rays, but they're not radiation in the strict
 sense of the word. A stripped hydrogen atom, weighing on the order of
@@ -156,11 +156,11 @@ Now, ten million million million electron volts may be a wee bit
 meaningless to the average man, so let's look at it from another
 angle.
 Consider. According to the well-known formula E = mc^2, a single gram
-of matter, if converted _completely_ into energy, would yield some
+of matter, if converted completely into energy, would yield some
 nine hundred million million million ergs of energy. An atomic bomb
 yields only a fraction of that energy, since only a small percentage
 of the mass is converted into energy.
-If _all_ of the mass of an atomic bomb were converted into energy, the
+If all of the mass of an atomic bomb were converted into energy, the
 test in Alamogordo, New Mexico, 'way back in 1945, would probably have
 been the last such test on Earth; there wouldn't have been anyone
 around to make a second test.
@@ -180,9 +180,9 @@ detective writing. You know: "Had I But Known that, at that moment, in
 the dismal depths of a secret underground meeting place, the evil
 Chuman-Fu was plotting...."
 If Jayjay Kelvin had known what was going on a few million miles away
-from the Pluto-bound _Persephone_, he would have kept his mouth shut.
+from the Pluto-bound Persephone, he would have kept his mouth shut.
   *  *  *  *  *
-The cargo-ship _Mordred_ was carrying a cargo of heavy metals sunward.
+The cargo-ship Mordred was carrying a cargo of heavy metals sunward.
 In her hold were tightly-packed ingots of osmium-iridium-platinum
 alloy, gold-copper-silver-mercury alloy, and small percentages of
 other of the heavy metals. The cargo was to be taken to the Asteroid
@@ -190,7 +190,7 @@ Belt for purification and then shipped Earthward for final
 disposition. The fact that silver had replaced copper for electrical
 purposes on Earth was due to the heavy-metals industry on Pluto.
 Because of Pluto, the American silver bloc had been broken at last.
-The _Mordred_ was approaching turnover.
+The Mordred was approaching turnover.
 Now, with a gravito-inertial drive, there is really no need to turn a
 ship over end-for-end as she approaches the mid-point of her
 trajectory. Since there is no rocket jet to worry about, all that is
@@ -201,7 +201,7 @@ end-to-end flip, and the ships are built to take the stress in both
 directions. An ordinary cargo ship finds it a lot easier to simply
 flip the ship over; that way, the stresses remain the same, and the
 ceiling-floor relationship is constant.
-The _Mordred_ had been having a little trouble with her Number Three
+The Mordred had been having a little trouble with her Number Three
 drive engine, so the drive was cut off at turnover, while the engineer
 replaced a worn bearing. At the same time, the maintenance officer
 decided he'd take a look at the meteor-bumper--the plastic outer hull.
@@ -216,16 +216,16 @@ the slight crack easily, wiped the sticky pre-polymer from the fingers
 of his spacesuit gloves, and tossed the gooey rag off into space. Then
 he pushed himself back across the vacuum that separated the outer hull
 from the inner, entered the air lock, and reported that the job was
-finished. Five minutes later, the _Mordred_ began decelerating toward
+finished. Five minutes later, the Mordred began decelerating toward
 the distant Asteroid Belt.
-Forget the _Mordred_. The ship is no longer important. Keep your eyes
+Forget the Mordred. The ship is no longer important. Keep your eyes
 on that rag. It's a flimsy thing, composed of absorbent plastic and
 gooed up with a little unpolymerized resin, weighing about fifty
 grams. It is apparently floating harmlessly in space, just beyond the
 orbit of Uranus, looking as innocuous as a rag can look. But it is
 moving sunward at eight hundred million centimeters per second.
   *  *  *  *  *
-The _Persephone_ was approaching turnover. The ship's engineer
+The Persephone was approaching turnover. The ship's engineer
 reported that the engines were humming along smoothly, so there was no
 need to shut them off; the ship would simply flip over as she ran,
 making her path a slightly skewed, elongated S-curve--a sort of
@@ -238,8 +238,8 @@ perfectly. But meteor detectors are built to look for solid chunks of
 metal and rock--not thin, porous bits of cloth.
 The rag had traveled a good many millions of miles since it had been
 cast overboard; it was moving sunward with almost the same velocity
-with which the _Persephone_ was moving Plutowards. The combined
-velocities were such that, if it had hit the _Persephone_ dead on, it
+with which the Persephone was moving Plutowards. The combined
+velocities were such that, if it had hit the Persephone dead on, it
 would have delivered close to seventeen thousand kilowatt-hours of
 energy in one grand burst of incandescence.
 Fortunately, the tip of the rag merely gave the ship a slap on the
@@ -292,7 +292,7 @@ stairwell that ran the length of the ship's long axis and looked down.
 The emergency door to the cargo hold was closed. No air, most likely.
 The way up looked clear, so he scrambled up the spiral stairway.
 A few feet farther up, he found that he had passed the center of the
-ship's rotation. The _Persephone_ was evidently toppling end-over-end,
+ship's rotation. The Persephone was evidently toppling end-over-end,
 and the center of rotation was in the lounge itself. The heavy cargo in
 the hold was balancing the lighter, but longer, part of the ship above the
 lounge. He began climbing down the stairwell toward the navigation and
@@ -369,7 +369,7 @@ them toppled head-over-heels across the room. Jayjay was prepared for
 that; he stopped them both by grasping an overhead desk-top as they
 went by. Then he let go, and the two men dropped slowly to what had
 been the ceiling.
-"_Hoo!_" said the captain. "That's a relief! Allah!"
+"Hoo!" said the captain. "That's a relief! Allah!"
 Jayjay took a look at the man's arm. "Radius might be broken; ulna
 seems O.K. We'll splint it later. Your legs are going to tingle like
 crazy when the feeling comes back."
@@ -404,7 +404,7 @@ had quit bleeding, but his eye was purpling rapidly and was almost
 swollen shut.
 Captain Al-Amin leaned over and gently took the cigarette from Hull's
 fingers. "No smoking, I'm afraid. We'll have to conserve oxygen."
-"You guys are so damn _calm_!" Hull said. His voice betrayed a surface
+"You guys are so damn calm!" Hull said. His voice betrayed a surface
 of anger covering a substratum of fear. "Here we are, heading away
 from the Solar System at eighteen million miles an hour, and you all
 act as if we were going on a picnic or something."
@@ -483,7 +483,7 @@ Evidently, the one on Titan was behind the Jovian bulk.
 They were ready to send their distress call.
 "It's simple," Smith said as he opened the red panel in the wall of
 the control room. "First we turn on the receiver." He pushed a button
-marked _R_. "Then we turn these two wheels here until the pip on that
+marked R. "Then we turn these two wheels here until the pip on that
 little screen is centered. That's the signal from Pluto. It comes in
 strong every ten seconds, see?"
 Jayjay watched with interest. He'd heard about screamers and had seen
@@ -635,21 +635,21 @@ ears didn't miss a word.
 He pulled an ace from the back of the deck and flipped it to the
 front.
 "You said the screamers had been checked," Jeffry Hull said
-accusingly. "How come they _weren't_ checked?"
-"They _were_!" Al-Amin said sharply.
+accusingly. "How come they weren't checked?"
+"They were!" Al-Amin said sharply.
 "Sure they were," Smith added. "I watched the check-off. There was
 nothing wrong then."
 "Meanwhile," Hull said, the acid bite of fear in his voice, "we have
 to sit here and wait for the Interplanetary Police to find us by pure
 luck."
 The captain should have let Hull cling to the idea that the IP could
-find the _Persephone_, even if no signal was sent. But the captain was
+find the Persephone, even if no signal was sent. But the captain was
 almost as angry and flustered as Hull was.
 [Illustration]
 "Find us?" he snapped. "Don't be ridiculous! We won't even be missed
 until we're due at Styx, on Pluto, nine days from now. By that time,
 we'll be close to two billion miles beyond the orbit of Pluto. We'll
-never be found if we wait 'til then. Something has to be done _now_!"
+never be found if we wait 'til then. Something has to be done now!"
 He looked at his Maintenance Officer. "Smith, isn't there some way to
 make contact between those two plugs?"
 "Sure," Smith said bitterly. "If we had the tools, it would be duck
@@ -687,7 +687,7 @@ Al-Amin nodded.
 unit. It's like checking a .50 caliber cartridge. The only way you can
 check a cartridge is to shoot it in a gun. If it works, then you know
 it works. Period. The only trouble is that you've wasted the
-cartridge. You know that _that_ one is good, but you've ruined it.
+cartridge. You know that that one is good, but you've ruined it.
 "Same way with a screamer. If you test it as a unit, you'll ruin it.
 So you test it a part at a time. All the parts check out nicely
 because the test mechanisms are built to check each part."
@@ -708,9 +708,9 @@ expelled at the proper velocity when the powder is ignited.
 that's why!" Jayjay snapped. "Some jerk has redesigned the primer so
 that the flame misses the propellant!"
 "How could that happen?" Hull asked blankly.
-"How? Because Designer _A_ decided that the male plug on the screamer
+"How? Because Designer A decided that the male plug on the screamer
 should have one more turn on its threads, but he forgot to tell
-Designer _B_, who designs the female plug, that the two should match.
+Designer B, who designs the female plug, that the two should match.
 The testing equipment is designed to test each part, so each part
 tests out fine. The only trouble is that the thing doesn't test out as
 a whole."
@@ -780,7 +780,7 @@ work, will we complain? To whom?
 "How many ships have been reported missing in the past year or so? All
 of them presumed lost because of meteor strikes, eh? If a ship is lost
 and doesn't signal, we presume that it was totally destroyed. If it
-wasn't, they'd have signaled. As _Mister_ Smith says: See?"
+wasn't, they'd have signaled. As Mister Smith says: See?"
 There was a long silence.
 Jayjay Kelvin turned the last card, saw that he had lost, and began
 shuffling the deck.
@@ -797,7 +797,7 @@ hoarse whisper.
 "Won't work," said Jayjay Kelvin from across the room.
 Smith blew up. "How do you know?" he roared. "You sit over there
 making wiseacre remarks and do nothing! Play cards, that's all! What
-do you know about things like this, _Mister_ Joseph Kelvin? What does
+do you know about things like this, Mister Joseph Kelvin? What does
 a businessman know about mechanical equipment?"
 "Enough," Jayjay said quietly. "Enough to know that, if you try to
 file off the final thread of the male plug, you'll do an uneven job.
@@ -806,7 +806,7 @@ And that will mean leakage."
 "Trimming off the end of the male plug would have to be done on a
 lathe," Jayjay said, without looking up from his cards. "Otherwise,
 the fit would be wrong, and the gases would mix. And we would all go
-_phfft!_ when the mixture blew."
+phfft! when the mixture blew."
 Smith started to say something, but Jayjay went right on talking.
 "Even if we had a lathe, the male plug doesn't turn, so you'd be out
 of luck all the way. You can't take the screamers apart without
@@ -826,12 +826,12 @@ will be a failure."
 Captain Al-Amin brooded over that for a moment. Then he looked at
 Jayjay again. "Mr. Kelvin."
 "Yes, captain?" Jayjay didn't look up from the cards in his hands.
-"_Are_ you related to Kelvin Associates?"
+"Are you related to Kelvin Associates?"
 "In a way."
 Al-Amin bit at his lower lip. "Mr. Kelvin, you registered aboard this
 ship as Joseph Kelvin. May I ask if your middle name is James?"
 After a short pause, Jayjay said: "Yes. It is."
-"Are you _the_ J. J. Kelvin?"
+"Are you the J. J. Kelvin?"
 "Yup. But I'd rather you didn't mention it when we get to Pluto."
 Smith's jaw had slowly sagged during that conversation. Then he closed
 his mouth with a snap. "You're Jayjay Kelvin?" he asked, opening his
@@ -854,10 +854,10 @@ you do all the thinking. And that would have left you high and dry,
 wouldn't it?"
 Jayjay put the deck of cards in his pocket. "You're a pretty good
 sociologist, after all, Mr. Hull. You're right. Face any group with
-Authority--with a capital _A_--and they quit thinking for themselves.
+Authority--with a capital A--and they quit thinking for themselves.
 And if they do, then the poor slob of an Authority doesn't have
 anything to tickle his own brains, so everybody loses."
-"Well, _do_ you have an answer?" Captain Al-Amin asked.
+"Well, do you have an answer?" Captain Al-Amin asked.
 Jayjay shook his head. "Not yet. I think I've got one coming up, but I
 wish you two would go on talking while I think."
 "I'll try," Smith said wryly.
@@ -908,11 +908,11 @@ inner and outer tubes. The fractured edge will be sharp enough to take
 out the excess metal. The male plug can move in, and we'll have
 contact."
 "Well, I'll be--" Smith used another French word.
-Captain Atef Al-Amin cast his eyes upwards. "_Creatio ex nihilo_," he
+Captain Atef Al-Amin cast his eyes upwards. "Creatio ex nihilo," he
 said softly.
   *  *  *  *  *
 When the Interplanetary Police ship took the five men and the cargo
-from the wreck of the _Persephone_, the major in command of the ship,
+from the wreck of the Persephone, the major in command of the ship,
 who knew that he had rescued the great J. J. Kelvin, asked him: "Mr.
 Kelvin, what do you plan to do when you return to Ceres City?"
 And Jayjay, who knew that both he and the major were speaking for the

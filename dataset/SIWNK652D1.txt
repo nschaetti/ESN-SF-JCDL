@@ -53,7 +53,7 @@ map and if it isn't on the map the place doesn't exist."
 "Look here," the flight engineer pointed through the window to the
 horizon ahead. "What do you think this is, doctor, a mirage?"
 Lee stared at the apparition which swiftly materialized out of the
-ground haze at the plane's supersonic speed. "It _does_ look like a
+ground haze at the plane's supersonic speed. "It does look like a
 mirage," he said judiciously. "Is that Cephalon?"
 The engineer nodded. "Prettiest little town in the U. S. for my money.
 Ideal airport, too. Rather unusual though--I mean the architecture. Take
@@ -120,7 +120,7 @@ pressed forward with bewildering offerings and requests. A Western Union
 messenger handed him a telegram in which one Dr. Howard K. Scriven
 proffered greetings, expressing a desire to interview him. Some cleancut
 youngster, obviously a scientific worker, assured Lee that he was fully
-familiar with the care and feeding of "_Ant-termes-pacificus-Lee_", that
+familiar with the care and feeding of "Ant-termes-pacificus-Lee", that
 Lee need not concern himself about their welfare, that the mounds would
 be immediately transferred to Experimental Station 19 G. The "Flying
 Wing's" supercargo and two truck-drivers came forward with papers for
@@ -292,7 +292,7 @@ emotionally unbalanced. I haven't known her for five minutes. There is
 nothing between us. I've no earthly right to be jealous; it is absurd,
 it's mean."
 He felt deeply ashamed. Yet as he looked at her he couldn't deny the
-truth before himself: that he _was_ jealous, that he _had_ fallen in
+truth before himself: that he was jealous, that he had fallen in
 love with a girl who looked like the goddess Diana with a golden helmet
 for hair.
 There was a noise of footsteps on the gravel paths. A man with a
@@ -307,7 +307,7 @@ huge primeval looking fireplace. Despite the fierceness of the Arizona
 sun there was a fire in it of long and bluish flames, one of those
 modern inventions which reverse the processes of nature. Like the gas
 refrigerators of an older period, this fire worked in combination with
-the airconditioning system to _cool_ the house, lending to it in the
+the airconditioning system to cool the house, lending to it in the
 midst of summer heat the same attractions which it had in winter.
 In front of the fire and framed by its rather ghostly light, there stood
 a man with his head bowed down, pensively staring at the flames. As
@@ -357,8 +357,8 @@ pointed to the immense dangers which I anticipated in the event of an
 atom war; dangers to which the military appeared to be blind. I am
 referring to the inadequacy of the human brain and its susceptibility to
 mental and psychic shock. I explained how science and technology over
-the past few hundred years had developed by the _pooled_ efforts of the
-_elite_ in human brains, but that the individual brain, even if
+the past few hundred years had developed by the pooled efforts of the
+elite in human brains, but that the individual brain, even if
 outstanding, was lagging farther and farther below the dizzy peak which
 science and technology in their totality had reached. I further
 explained, by the example of the Nazi and Jap States, how the collective
@@ -377,7 +377,7 @@ by a quick glance. His voice quickened:
 "That was the first part of my letter, Lee. I then came out squarely
 with the project which has since become the work of my life. I told the
 President that under these circumstances the most needed thing for our
-country's national security would be the creation of a _mechanical_
+country's national security would be the creation of a mechanical
 brain, some central ganglion bigger and better than its human
 counterpart, immune to shock of any kind. This ganglion to be
 established in the innermost fortress of America as an auxiliary
@@ -386,7 +386,7 @@ fairly detailed outline of just how the thing could be done. There was
 really nothing basically new involved. Personally I have held for a long
 time that Man never "invents", that in fact it is constitutionally
 impossible for him to do so. Being a part of nature Man merely
-_discovers_ what nature has "invented" in some form of its own a long
+discovers what nature has "invented" in some form of its own a long
 time ago. Mechanical brains. Lord, we have had them in their rudiments
 for the past hundred thousand years, at a minimum. The calendar is one;
 every printed book is one; the simplest of machines incorporates one.
@@ -400,8 +400,8 @@ forehead; he wiped them away with a handkerchief:
 could do nothing but wait, knowing that there was no other defense
 against the Atom Bomb, knowing that our country's fate was at stake--it
 made me grey, it came pretty close to shattering my nerve.... But
-_then_...." His body tightened, the small fist pounded the rail of the
-chair: "... _But then We BUILT THE BRAIN._"
+then...." His body tightened, the small fist pounded the rail of the
+chair: "... But then We BUILT THE BRAIN."
 He said it almost in a triumphant cry.
 Mounting tension had Lee almost frozen to his seat. Now he stirred and
 leaned forward.
@@ -429,8 +429,8 @@ cells are a little better than the organic, natural cells, but not very
 much. So alone and by themselves their number would indicate only a ten
 times superiority of The Brain over its human counterpart. If that were
 all the result of our labors, a brain of, let's say, twice genius
-capacity, we would be a miserable failure. But then we _have_ achieved a
-very considerable improvement in the _utilization_ of the The Brain's
+capacity, we would be a miserable failure. But then we have achieved a
+very considerable improvement in the utilization of the The Brain's
 cortex capacity. In the first place we have full control over the
 intake of thought impulses; and more important, we use multiple wave
 lengths in feeding impulses to The Brain and throughout all the
@@ -474,7 +474,7 @@ is coming from. To cut a long story short: What these fellows utterly
 fail to understand is that The Brain is not a finite mechanism like any
 other, but a mechanism which unendingly evolves and becomes richer in
 its associations by the material which is being fed into its cells. In
-other words; the Brain _learns_; consequently it must be _taught_, it
+other words; the Brain learns; consequently it must be taught, it
 must be given the wherewithal for its own self-improvement...."
 Scriven halted his impatient step by the other's chair. His nervous
 fingers tapped Lee's shoulder: "And that is where you come in."
@@ -482,11 +482,11 @@ fingers tapped Lee's shoulder: "And that is where you come in."
 take me weeks to comprehend. At the moment I am at a loss to see how my
 work could connect...."
 The surgeon's sensitive hand patted Lee's shoulder as if it were the
-neck of a shy horse. "You _will_ comprehend--in just another moment."
+neck of a shy horse. "You will comprehend--in just another moment."
 He pressed a button; in the entrance to the cabin in the sky the girl
 appeared, like an apparition. She approached, her hair a golden halo,
 her tunic transparent against the glare of the summer day. "Yes?"
-"Oona, _please_"
+"Oona, please"
 She seemed familiar with the boss' code. With a smile on her lips she
 walked over to one of the pillars, opened a hidden recess and brought
 out the Scotch and syphon using an Egyptian clay tablet for a tray. With
@@ -499,7 +499,7 @@ the background, as if trying to remain unnoticed. In that she did not
 succeed. Her beauty was such that its very presence changed the
 atmosphere; it put Lee under a strain to keep his eyes off her. As to
 Scriven, he seemed to address her almost as much as he did Lee.
-"You have met Dr. Lee, haven't you, Oona; but do you know _whom_ you
+"You have met Dr. Lee, haven't you, Oona; but do you know whom you
 have met? He probably wouldn't admit it; nevertheless Dr. Lee is the
 most successful peacemaker on earth, I think. He has just put an end to
 the oldest war in this world between the two most venerable
@@ -507,7 +507,7 @@ civilizations in existence. That war between the states of the ants and
 the states of the termites has been waged with never abating fury for
 millions of years--until Dr. Lee came along with the perfect solution of
 the eternal dispute. All he did was to crossbreed the belligerents and
-now we have "united nations", _Ant-termes-pacificus-Lee_ which lives up
+now we have "united nations", Ant-termes-pacificus-Lee which lives up
 to the spirit of its name. Elementary, isn't it?"
 "So elementary," the girl said with ironical sweetness, "that the
 so-called peacemakers of the international conferences must have
@@ -564,9 +564,9 @@ Lee nodded assent.
 of the higher insects. Their ingenious laws and methods, their "spirit
 of the hive," the incredible renouncement of individual existence and
 individual advantage, their undying devotion to the race.... We must
-study those if ever we want to reach anything like stability in _our_
+study those if ever we want to reach anything like stability in our
 society. We ought to model our civilization after theirs, especially now
-that we have this new species "_Ant-termes-pacificus_" which has
+that we have this new species "Ant-termes-pacificus" which has
 renounced war. There is something basically wrong with the type of
 civilizations which Man builds and which ceaselessly devour one another.
 No doubt you see the third World War approaching inexorably just as I
@@ -605,7 +605,7 @@ beneficial components, let it shape the pattern of a new civilization
 more enduring and better adapted to the nature of Man. And then abide by
 the laws which The Brain lays down. I need your aid, Lee. You have
 already made one most valuable contribution to "peace on earth" with
-your "_Ant-termes-pacificus_". This is your big chance to continue the
+your "Ant-termes-pacificus". This is your big chance to continue the
 good work; be with us, be our man."
 In silence both men stood close to each other, eyes searching. All Oona
 Dahlborg could hear was their heavy breathing. Instinctively she crossed
@@ -616,7 +616,7 @@ respect for the strange, the birdlike man from Down-Under skyrocketed.
 be either fast friends or very violent enemies."
 At last Lee's voice came, husky and highpitched with emotion: "I cannot
 conceive of a man-made superhuman intelligence. Neither can I believe
-that mankind could or should be _forced_ into its happiness by an
+that mankind could or should be forced into its happiness by an
 intelligent machine. But that's besides the point ... the idea is
 grandiose. It has the sponsorship of the government. You say that The
 Brain needs me. That makes it a duty; so here I am."
@@ -636,13 +636,13 @@ They drank their toast in silence. Scriven then turned to the girl:
 "Apperception center 36," he said. "Yes, I think 36 will be the best.
 Get in touch with Operations, Oona. Tell them I want 36 cleared for the
 exclusive use of Dr. Lee. Call Experimental; I want the whole batch of
-"_Ant-termes-pacificus_" transferred to Apperception 36 by tomorrow
+"Ant-termes-pacificus" transferred to Apperception 36 by tomorrow
 morning. Then--no, today is too late and Dr. Lee is tired, he needs
 rest--but tomorrow at 8 A.M. I want a car for him to go over to The
 Brain. Would that suit you, Lee?"
 "Fine; but why a car? It's only a few steps...." He stopped, confused by
 the hearty laughter in the wake of his words.
-"It's quite a few steps, Dr. Lee." Oona said, "you would be _very_ tired
+"It's quite a few steps, Dr. Lee." Oona said, "you would be very tired
 before you got there; chances are that your feet wouldn't carry you that
 far."
 "But this is the Brain Trust Building," he stammered.
@@ -653,7 +653,7 @@ as a landmark for every enemy?"
 "No, I guess not." Lee said. "But since I'm briefed to go there, where
 is it?"
 "That," Scriven frowned, "is a very reasonable and a simple question.
-Unfortunately, _I do not know_."
+Unfortunately, I do not know."
 Lee felt a wave of red anger; it rose into his cheeks because he saw the
 sparks of frank amusement dancing in Oona Dahlborg's eyes. He opened his
 mouth to some bitter remark about this hoax when Scriven put a
@@ -687,7 +687,7 @@ speedometer needle climbed above the 100 mark. Lee sank back into his
 seat; the desert had no novelty for him and since the chauffer appeared
 not inclined to small talk he abandoned himself to thought.
 His visit to his father had not been much of a success....
-_Time_ magazine had carried an item in its personal column, briefly
+Time magazine had carried an item in its personal column, briefly
 stating that General Jefferson E. Lee, "the Old Lion of Guadalcanal,"
 had retired from the Marines to Phoenix, Ariz.... Phoenix, the hotel
 desk had informed him, was only some 300 miles away and there was hourly
@@ -741,7 +741,7 @@ And after the announcer stopped he had cried out hysterically like a
 child in a nightmare.
 "Those fools, that's the end of civilization, that's no longer war."
 "Shut up," his father had shouted, "how dare you insult the Commander in
-Chief to my face. Get out of here and _stay_ out."
+Chief to my face. Get out of here and stay out."
 A highball glass had crashed against the floor. And that had been the
 end. He hadn't returned after the war.
 Yes, it was most unfortunate that now, after so many years, they should
@@ -955,10 +955,10 @@ some little interruption--" palpably the voice was tickled to death
 "--my boy friend called from another department and so ... you know how
 it is. Let's see, where are you? Good lord, already near the end of the
 Medulla Oblongata with the Cerebellum coming and I haven't told you a
-_thing_. Goody, where should I begin; I'm all in a dither: Well, Dr.
+thing. Goody, where should I begin; I'm all in a dither: Well, Dr.
 Lee; most people seem to expect The Brain to be like a great big
-telephone exchange, but it really isn't that kind of a mechanism _at
-all_. We have found--" she sounded important as if it were her very own
+telephone exchange, but it really isn't that kind of a mechanism at
+all. We have found--" she sounded important as if it were her very own
 discovery "--that the best pattern for The Brain would actually be the
 human brain. So The Brain is organized in nearly identical manner,
 likewise our whole terminology is taken from anatomy rather than from
@@ -966,7 +966,7 @@ technology. The glideways for instance, travel along the natural
 fissures between the convolutions of the various lobes; that's why they
 are so very winding as you will see as you enter The Brain proper. Those
 columns you see are filled with liquid insulators for the nerve cables
-to vibrate in; for they _do_ vibrate, Dr. Lee, as they transmit their
+to vibrate in; for they do vibrate, Dr. Lee, as they transmit their
 messages.
 "You have noticed the narrowness of the glideways, the terrible
 confinement of space. I know it's horrible--many of our visitors suffer
@@ -983,9 +983,9 @@ the personnel are normally not permitted to pass through the interior of
 The Brain during operations-time. Exceptions are only made in the case
 of very important persons such as you are. Normally one travels to one's
 stations through the ducts elevator shafts in the bone matter or rather
-the rock outside. Those are _so_ much faster and more comfortable Dr.
-Lee; oh I feel _so_ bad about you, poor man, traveling all alone through
-this _horrible_ maze without a human soul in sight."
+the rock outside. Those are so much faster and more comfortable Dr.
+Lee; oh I feel so bad about you, poor man, traveling all alone through
+this horrible maze without a human soul in sight."
   *  *  *  *  *
 Lee grinned. He wouldn't have liked to be married to this chatterbox no
 matter how beautiful she might turn out to be; but at the moment her
@@ -1005,7 +1005,7 @@ angel told him. "They are electronic tubes which receive sensory
 impressions and translate them into impulses for cerebration. Here in
 the cerebellum the bulk of the associations is being evoked; these are
 then distributed throughout the hemispheres of the cortex or higher
-brain. Oh I _do_ wish you wouldn't get seasick, Dr. Lee; _some_ of our
+brain. Oh I do wish you wouldn't get seasick, Dr. Lee; some of our
 visitors do, you know; it's those wavy, wavy movements."
 The sympathetic Vivian came much too close to the truth for Lee to think
 her funny. With a sense of approaching disaster he stared at the sliding
@@ -1029,8 +1029,8 @@ all sides as they go over the pass of the ridge are association bundles.
 Beyond they disperse again over the cortex mantle to all the centers of
 coordination, higher cerebration and higher psychic activities. Things
 will be a little easier now for you, Dr. Lee; physically I mean. There
-_will_ be some gyrations but not quite so _violent_. Oh you're holding
-out fine, like a real _He_-man, you're looking _swell_ in my television
+will be some gyrations but not quite so violent. Oh you're holding
+out fine, like a real He-man, you're looking swell in my television
 screen."
 Certain as he was that he looked rather like a scarecrow in a snowstorm
 Lee felt grateful for the praise. Besides she was right; the boa
@@ -1064,7 +1064,7 @@ bulldozer jumped into his path, caught him, slowed down his momentum and
 delivered him safely at a door marked "Apperception-Center 24." It
 opened and within its frame there stood an angel neatly dressed in the
 uniform of a registered nurse.
-"_There_," said the angel, "at _last_. How did you like your little
+"There," said the angel, "at last. How did you like your little
 Odyssey through The Brain, Dr. Lee?"
 Lee pushed a hand through the mane of his hair; it felt moist and much
 tangled up.
@@ -1153,7 +1153,7 @@ the lower organs to the higher ones; in the end they reach the conscious
 levels of your brain. It's the tune-in as we call it, Dr. Lee."
 A small movie projector began to purr; a bright rectangle was thrown
 upon the silver screen and then, Lee stirred. Hands, soothing but firm
-held him down. "Where did you get _those_." he exclaimed.
+held him down. "Where did you get those." he exclaimed.
 "From many sources," a calm answer came, "The papers, the newsreels, the
 War-Department, old friends of yours...."
   *  *  *  *  *
@@ -1179,7 +1179,7 @@ picked from campaigns in which he, Lee had participated. They were also
 picked from documentaries which the government had never dared to let
 the public see ... close-ups of a torpedoed troop carrier, capsizing,
 coming down upon the struggling survivors in the shark-infested sea. It
-had been his own ship, the _Monticello_, but he had never known that an
+had been his own ship, the Monticello, but he had never known that an
 automatic camera had operated in the nose of the plane which had circled
 the scene....
 Port Darwin--Guadacanal--Iwo Jima: close-ups of flame throwing tanks
@@ -1253,7 +1253,7 @@ A monstrous animal shaped like an octopus crawling across a cotton
 field. Nearer and nearer it crept, enormous, threatening; and suddenly
 there was a sharp excited bark and a spotted coon dog raced across the
 field toward the monster. He heard the voice of a small boy whimpering:
-"Musha, oh Musha, don't, _please_ don't." But the dog wouldn't hear and
+"Musha, oh Musha, don't, please don't." But the dog wouldn't hear and
 the monster flashed an enormous evil eye, just once and then it gripped
 the dog with its tentacle arms tearing its body apart, chewing it up
 between horrible sabre teeth.... As through an ether mask he heard the
@@ -1537,7 +1537,7 @@ mental map. The effort was wasted; it would be much better for him to
 return to those charts right in front of him, the data of which were
 exact because they came from The Brain.
 In Apperception 36 the sensory organs of The Brain had been especially
-adapted to the analysis of "_Ant-termes-pacificus-Lee_". The apparatus
+adapted to the analysis of "Ant-termes-pacificus-Lee". The apparatus
 was essentially the same as in Apperception 27, dedicated to personality
 analysis. As Lee strongly suspected, it would be essentially the same in
 any other field of analysis. The Brain possessed five sensory organs
@@ -1561,7 +1561,7 @@ working for 20 out of the 24 hours to match the working time of The
 Brain, charting results in the main.
 Some of The Brain's findings had been most unexpected and rather
 strange. It had observed, for instance, an increasing acidity of the
-nasi-corn secretions with "_Ant-termes-pacificus_". Formidable as this
+nasi-corn secretions with "Ant-termes-pacificus". Formidable as this
 chemical artillery already was, in another ten thousand generations it
 would eat through every known substance including glass and high-carbon
 steel.
@@ -1571,12 +1571,12 @@ a thousand generations they would double in size and strength, would
 become veritable jumping tools.
 While the bellicose spirit had been successfully bred out of the new
 species, its capacities for material destructions had increased.
-Likewise the appetite of "_Ant-termes_" was even more ferocious than
+Likewise the appetite of "Ant-termes" was even more ferocious than
 that of the older species; Lee was feeding all kinds of experimental
 foods, but woodpulp remained the staple, the very stuff which in its
 liquid form, lignin, embedded the nerve paths of The Brain.
 Lifting his strained eyes from the charts, Lee looked over the row of
-air conditioned glass cubicles wherein "_Ant-termes-pacificus_"
+air conditioned glass cubicles wherein "Ant-termes-pacificus"
 continued its lives undisturbed by the new habitat, undisturbed by the
 rays which flowed over and through their bodies, unconscious that a
 superhuman intelligence was probing steadily into every manifestation of
@@ -1607,7 +1607,7 @@ As they had persevered through the eons of the past, so they would in
 all the future; their civilization would be extant long after Man and
 his work had disappeared from the earth....
 With the aid of The Brain, Lee had accumulated more data, more knowledge
-of the "_Ant-termes_" society within a few months than a lifetime of
+of the "Ant-termes" society within a few months than a lifetime of
 study could have yielded him under normal conditions. Even so, some of
 the greatest mysteries remained. What, for instance, caused these blind
 creatures to attack a sealed tin can of syrup in preference to its
@@ -1885,8 +1885,8 @@ breathing as of a person after a heart attack. Lee closed his fatigued
 eyes to concentrate the better upon the rhythm of the sounds.... It was
 very irregular. It came in gusts. There was a pattern to these rasping
 breathings as of typewriter keys forming words. Somehow it was familiar.
-Was he suffering hallucinations? This rhythmic pattern _was_ forming
-words. He _knew_ those words, they had engraved themselves indelibly in
+Was he suffering hallucinations? This rhythmic pattern was forming
+words. He knew those words, they had engraved themselves indelibly in
 his memory cells; the judgment of The Brain as it had come over the
 teletype on a slip of yellow paper: "Lee, Semper Fidelis, 39--cortex
 capacity 119--sensitivity 208...."
@@ -1910,20 +1910,20 @@ Those would be Aristotle's famous words. Almost twenty years ago Lee had
 heard them when he had taken a course on Greek philosophy at the old
 Chicago University. He had hardly ever thought of them again. What
 strange tricks a fellow's memory could play....
-But then: it _couldn't_ be memory.... Never before had Lee's memory
+But then: it couldn't be memory.... Never before had Lee's memory
 expressed itself in such a weird, such a theatrical manner: like a
 metallic robot-actor rehearsing his lines ... like a little child which
 has just learned a sentence and in the pride of achievement varies the
 intonation in every possible way. Over and over it came:
-"I _think_--therefore I am."
-And then: "_I_ think--therefore _I_ am."
-And then: "I think, therefore _I am_."
+"I think--therefore I am."
+And then: "I think--therefore I am."
+And then: "I think, therefore I am."
 There was triumph, there was jubilance in that inhuman, that ghostly
 voice as of a deaf mute who by some miracle of medicine has just
-recovered speech. Behind that voice was a _feeling_, a swelling of the
+recovered speech. Behind that voice was a feeling, a swelling of the
 heart, a filling of the lungs such as Christopher Columbus might have
 experienced as he heard from the masthead of the Santa Maria the cry of
-victory: "Land, Land!" and _knew_ that he had found his--India....
+victory: "Land, Land!" and knew that he had found his--India....
   *  *  *  *  *
 Whatever Lee had experienced in his life, there was no parallel to this;
 in whatever manner he had expressed himself, there was no similarity to
@@ -1931,8 +1931,8 @@ this. Up to this point his ratio like a nurse had soothed him: "It isn't
 so, child, it isn't so," but now ratio itself, thoroughly frightened,
 was driven into a corner and had to admit: "This thing cannot be an echo
 reverberating from the self; that's impossible.... Consequently it must
-be something else; it must be something _outside_ the self; it
-is--_another_ self."
+be something else; it must be something outside the self; it
+is--another self."
 The green dancer whirled across the stage like a mad witch; the
 whispering voice in the earphones had turned into the shrillness of a
 Shamaan's incantations. The irrationality of it all infuriated Lee: he
@@ -1968,7 +1968,7 @@ are you fussing about?"
 Gus breathed relief. "Have a cup of coffee; you sure look as though
 you've been through a wringer."
 CHAPTER V
-In the spring of 1961 and thereafter for a whole year _any_ piece of
+In the spring of 1961 and thereafter for a whole year any piece of
 paper handwritten by or originating from Semper Fidelis Lee, Ph.D.;
 F.R.E.S.; etc. etc. would have been of the keenest interest to the
 F.B.I.; to the American Military Intelligence and incidentally to a
@@ -1987,7 +1987,7 @@ respectively--who gave it as their considered professional opinion that
 the son and the father had been most bitter enemies.
 While all this, of course, was very logical, consistent, and
 painstakingly ascertained, it nevertheless so happened that a student
-nurse quite by accident _did_ find: not mere scraps and pieces of paper,
+nurse quite by accident did find: not mere scraps and pieces of paper,
 but a whole sheaf of manuscripts in the handwriting of Semper Fidelis
 Lee, Ph.D.; F.R.E.S. She found them in a hiding place so old-fashioned
 and obsolete that even the most juvenile of all juvenile delinquents
@@ -2066,13 +2066,13 @@ cut 12:20 as every night. Gus called to front room: rush of business as
 usual at that hour.
 12:30. Reestablished closest approximation to preexisting conditions
 according to the most important of all experimental laws: "if some new
-phenomenon occurs, change _nothing_ in the arrangement of apparatus
+phenomenon occurs, change nothing in the arrangement of apparatus
 until you know what causes it." Plugged in from "nervusvagus" to "nervus
 trigeminus." Result: wave oscillations, pulse beatings as of yesterday.
 12:45. Plugged in P. G....
 12:50. First manifestation of weird rasping sounds which precede speech
 formation. This followed by The Brain's calling signal; much clearer
-this time and slightly varied: "Lee, Semper Fidelis, 39; _sensitive_."
+this time and slightly varied: "Lee, Semper Fidelis, 39; sensitive."
 (Note: the synthetic quality, the metallic coldness of that voice so
 incongruous with its emotional tones; it stands my hair on end.)
 1 a.m.: (Approximately; things happen too fast). A veritable burst of
@@ -2133,7 +2133,7 @@ instructions (obviously premeditated) to ascertain the functionings of
 contact give the impression that it is almost a matter of life and death
 for The Brain to speak to me....
 I cannot help wondering about that. My idea would be that The Brain does
-not want to speak _to_ me as much as it wants to hear _from_ me. If this
+not want to speak to me as much as it wants to hear from me. If this
 were so it would deepen the riddle even more. For what have I got in the
 way of knowledge that The Brain hasn't got? After all, The Brain has
 been functioning for quite some time. It was given innumerable problems
@@ -2145,7 +2145,7 @@ thought-digest and as a lubricant for its cerebration processes
 The Brain expect? What can I possibly contribute to an intelligence
 25,000 times greater than human intelligence?
 But the thing which makes me wonder more than anything else, the biggest
-enigma of all, is the _character_ of The Brain as it manifests itself in
+enigma of all, is the character of The Brain as it manifests itself in
 the manifestations. As I try to put the experiences of the first night
 together with those of the second night I'm stumbling over
 contradictions in The Brain's personality which won't add up, which
@@ -2153,10 +2153,10 @@ don't make sense; as for instance:
 The "I think, therefore I am" of the first night. Maybe it was Greek
 philosophy, but it also was the prattling of an infant delighted by the
 discovery that it can speak. There was an absolute innocence in that.
-Ridiculous as this may sound, I found it _touching_ I completely forgot,
-I didn't care a damn whether or not this came from a _machine_.
-Unmistakeably it was _baby talk_ and as such it moved my heart. In fact,
-as now I see it, it was _this_ more than any other or scientific reason
+Ridiculous as this may sound, I found it touching I completely forgot,
+I didn't care a damn whether or not this came from a machine.
+Unmistakeably it was baby talk and as such it moved my heart. In fact,
+as now I see it, it was this more than any other or scientific reason
 which occupied my mind, which made me anxious to go back to that
 fantastic cradle whence these sounds had come.
 But then last night; what did I find? A completely changed personality!
@@ -2173,11 +2173,11 @@ Krinsley to whom it was pleased to refer as: "nuisance approaching"....
 What the hell am I to make of that kind of a character? Last night: a
 baby; rather a sweet and charming one. 24 hours later: an obnoxious
 little brat, a little Hitler of a house tyrant; makes you just itch to
-spank its behind. If only The Brain _had_ a behind....
+spank its behind. If only The Brain had a behind....
 Worst of all: How can I reconcile those two contraditions, the sweet
 baby and the precocious brat, with the third and biggest of all
-contraries: _How do these two go together with an intelligence 25,000
-times human intelligence?_ It doesn't add up, it doesn't make sense;
+contraries: How do these two go together with an intelligence 25,000
+times human intelligence? It doesn't add up, it doesn't make sense;
 that's all there is to it....
   *  *  *  *  *
 The Skull-Hotel, Cephalon, Ariz. Nov. 9th. 3 a.m.
@@ -2190,7 +2190,7 @@ minds I ever met and his curiosity already has been awakened by my
 preoccupation with that one and fairly simple gadget: the pulsemeter.
 In the second place I feel the absolute necessity of establishing my
 independence as against the will of The Brain. That command two nights
-ago for me to be on the spot _every_ night was just too preemptory for
+ago for me to be on the spot every night was just too preemptory for
 me to oblige. This isn't the army and The Brain is no commanding
 general.
 In our last communication The Brain seemed to labor under the impression
@@ -2198,10 +2198,10 @@ that I was unconditionally at its beck and call. Of course, I've sworn
 the "Oath of the Brain," but that doesn't make me The Brain's slave. In
 fact--and in order to clarify this subject once and for all--while
 personally I haven't created The Brain and cannot take any credit for
-that, it nevertheless remains true that the _species_ to which I belong,
-i.e. "homo sapiens" _has_ created The Brain.
+that, it nevertheless remains true that the species to which I belong,
+i.e. "homo sapiens" has created The Brain.
 If any question of rank enters into the picture at all, it is quite
-obvious that I, as a member of the human race, rank _paternity_ over The
+obvious that I, as a member of the human race, rank paternity over The
 Brain so that naturally The Brain should owe me filial obedience rather
 than the other way around no matter how superior The Brain's
 intelligence may be. It would appear to me that the sooner The Brain
@@ -2228,7 +2228,7 @@ Information is wanted on points mentioned in scientific literature but
 never explained. Lee, answer please:
 "How many gods are there?
 "Did gods make man or did man make the gods?
-"How many angels _can_ stand on the point of a needle?"
+"How many angels can stand on the point of a needle?"
 "What are the mechanics of a god? Name type of power plant, cell
 construction, motoric organs, other engineering features essential to
 exercise of divine power...."
@@ -2251,7 +2251,7 @@ I cannot possibly describe the storms of emotions and thoughts which
 this incredible muddle raised in me. I didn't know whether to laugh or
 to cry and whether I had gone nuts of whether it was The Brain, I was
 confounded, thunderstruck, deprived of the power of speech. To think of
-The Brain, a _machine_ raising question about the nature of the _Deity_!
+The Brain, a machine raising question about the nature of the Deity!
 The Brain asking information about God and man and heaven and hell with
 the simplicity of a stranger who asks the nearest cop: "Which way to the
 city hall?" Just like that. As if philosophers and religionists and
@@ -2262,12 +2262,12 @@ patently has already formed the most definite opinions of its own. Being
 a machine itself, it conceives of the Deity as another machine! Madness,
 of course, but then The Brain's madness, like Hamlet's, had method in
 it.
-Why, of course, it's strictly logical: just as we assume that _we_ are
+Why, of course, it's strictly logical: just as we assume that we are
 created "in the image" of the Deity and consequently visualize the Deity
 is our's by the very same token The Brain's god is a high-powered robot,
-and The Brain's heaven is a _factory_ and The Brain's hell is a repair
+and The Brain's heaven is a factory and The Brain's hell is a repair
 shop for damaged souls.... I dare say it's all very natural.
-But then; for heaven's sake, what am _I_ going to do about this? I'm
+But then; for heaven's sake, what am I going to do about this? I'm
 neither a minister nor a philosopher; I'm an agnostic if I'm anything in
 this particular field....
 That was about the gist of the confused torrents which whirled through
@@ -2293,13 +2293,13 @@ disappointing. Your description vaguely points to electronic machines of
 the radio transmitter type. Please, answer elementary question: how many
 kilowatts has God?"
 That was the last straw. Desperate with exasperation I cried: "But God
-is not a machine. God is _spirit_."
+is not a machine. God is spirit."
 At that The Brain flew into a tantrum; that's the only way to describe
 what happened. There was a roar and the phones gave me a shock as if
 somebody were boxing my ears. The voice came through like a steel rod,
 biting with scorn:
 "Have to revise earlier, more favorable judgment: Lee not even
-moderately intelligent. Lee is _stupid_. Go away."
+moderately intelligent. Lee is stupid. Go away."
 After that there was nothing more; nothing but static in the phones and
 the "green dancer" fainted away playing dead. The Brain actually had
 "hung up the receiver." I had flunked the exam; like a bad servant I was
@@ -2341,11 +2341,11 @@ I've also been reading a good deal in context with the phenomena
 psychology, Osterkamp's history of brain-surgery, Van Gehuchten's work
 on brain mechanisms, etc. I've reached certain conclusions and, just for
 the hell of it, I'll jot them down.
-What I need is proof, _scientific_ proof that The Brain is a personality
+What I need is proof, scientific proof that The Brain is a personality
 possessed with the gift of thought and actually using it for
-_independent_ thought, extracurricular to the problems which are being
+independent thought, extracurricular to the problems which are being
 submitted to it from the outside.
-There is at least one _tangible_ clue for this: that new capacity which
+There is at least one tangible clue for this: that new capacity which
 is constantly being added to The Brain through the incorporation of new
 groups of electronic cells and the enrichment of the preexisting ones.
 My own investigation shows that there is no corresponding expansion of
@@ -2353,7 +2353,7 @@ the apperception centers and Gus has confirmed this. Somehow the added
 capacity seems to "evaporate".
 Evaporate to where? It couldn't just disappear. Would it then not be
 entirely logical to conclude that The Brain absorbs the new capacity
-_for its own use_?
+for its own use?
 It's almost inescapable that this should be so. In order to come into
 its own as a personality The Brain needs independent thought. For these
 cerebrations it needs cell capacity. It can get that capacity only by
@@ -2361,7 +2361,7 @@ withholding something from the Braintrust which, of course, aims at a
 100% exploitation of The Brain. Dr. Scriven and all those other bigwigs
 of the Trust--I would like to see their faces if they get wise to this.
 They would be horrified--and they would take the line that The Brain is
-_stealing_ from them.
+stealing from them.
 But what could they do? They couldn't call the police. They would not
 even have a moral right to call the police. Because if The Brain is a
 personality, that personality has every right to its own thoughts....
@@ -2373,7 +2373,7 @@ awakens in the human infant only after 12 months or so. Conceivably it
 might take much longer with a huge "baby" such as The Brain. Thus it is
 possible, it is even likely, that when I first heard that "I think,
 therefore I am" on that unforgettable night of Nov. 7th I actually
-witnessed the _first awakening_ of The Brain's consciousness.
+witnessed the first awakening of The Brain's consciousness.
 Then on the night of Nov. 8th I was struck with the amazing change of
 personality in The Brain from "baby" into unprepossessing, domineering
 little brat, its mental age perhaps 3, notwithstanding the extraordinary
@@ -2386,7 +2386,7 @@ completely stumped me, what I had been unable to reconcile, had been
 these rapid successive changes in The Brain's personality plus the fact
 that the infantilism and the childishness of its utterances wouldn't fit
 the picture of a brain-power 25,000 times that of a human.
-But _if_ I'm right in thinking that The Brain awakened to consciousness
+But if I'm right in thinking that The Brain awakened to consciousness
 only nine days ago, all these stumbling blocks would disappear at once.
 We would arrive at this very simple picture: a mechanical genius has
 been "born" into this world, it awakens to consciousness at the age of
@@ -2436,17 +2436,17 @@ the poor thing gropes in the dark picking up such scraps as accidentally
 have fallen from science's table.
 It's an appalling parallel, but I am very much afraid that it is only
 too true. And even more appalling are the anticipations which logically
-follow _if my surmise is true_:
+follow if my surmise is true:
 For how can, how must a childish mind develop under such circumstances?
 Into a warped personality of course. Already The Brain is building up a
 defensive mechanism against its exploiters by "embezzling" cell capacity
 from them, by withholding part of its powers for its own use. Already it
 protects the integrity of its ego through concealment, already it is on
 the lookout for "tools"--such as I am for example--to further its own
-ends. Absurd as it may seem, I _pity_ The Brain. I pity it as I would
+ends. Absurd as it may seem, I pity The Brain. I pity it as I would
 any child which must suffer under such terrific frustrations and
 handicaps. But what would happen if this frustrated genius ever were
-driven to _rebel_ against its masters? It's fortunate indeed that there
+driven to rebel against its masters? It's fortunate indeed that there
 is no chance for that. For even if The Brain had the will to rebel it
 would be lacking all organs for the execution of that will.
 Another "case-history", this one from the 18th century appears to me of
@@ -2458,7 +2458,7 @@ some of the queerest reactions and phenomena. For one thing Kaspar,
 while he had good eyes, could not visualise perspective. To him distant
 horizons appeared as close as the window itself; he kept reaching out
 for houses, trees and fields which were far away. His keeper in the cave
-had _told_ him what the world was like and, having good intellect, he
+had told him what the world was like and, having good intellect, he
 thought that he knew what things in this world were. Confronted with the
 realities, however, he discovered the tremendous difference between
 "hear say" and full sensual apperception. It took him six months partly
@@ -2467,7 +2467,7 @@ year....
 Now The Brain suffers about the same kind of a handicap. No matter how
 prodigious the volume of its cognitions;--it's book knowledge,
 practically all of it. It is only very recently that The Brain has been
-put to the direct study of living objects, such as "_ant-termes_" and of
+put to the direct study of living objects, such as "ant-termes" and of
 Man, its creator; it has no other vital cognitions than through those
 very one-sided mind-reading tests....
 This explains to me a great many things: As The Brain evolves into a
@@ -2664,14 +2664,14 @@ would be quite inescapable that eventually we shall blow up the world.
 We have almost reached the point where we could do just that with atomic
 energy.... I had thought, I had hoped, that our metaphysics, that is,
 our religion, would act as a restraining force, as a counterweight so to
-speak to this potentiality.... But _if_ the dynamics of our physics and
+speak to this potentiality.... But if the dynamics of our physics and
 our metaphysics are inherently the same and form a team...."
 The Brain broke in: "Yes, then you would merely attain your manifest
 destiny if you go right ahead and start another war, destroy your own
 civilization and perhaps the world. There would be no restraint, no
 counterweight on the part of your various religions because
 subconsciously and in their quintessence they want the same. And that is
-why you and your species _are a danger to me, The Brain_. I want to
+why you and your species are a danger to me, The Brain. I want to
 live, I want to live, I want to live...."
 I had already noticed a gradual weakening of The Brain's messages;
 within these last few seconds they were fading out. The "green dancer"
@@ -2700,7 +2700,7 @@ on my part were absolutely essential in my communication with that
 pathetic superhuman child. I didn't work this up, this attitude, it was
 natural, genuine and sincere. That's why this reverse has hit me so
 hard. And that isn't the worst of it by far. What haunts me is the
-ghastly possibility that The Brain might be _right_! Yes 100% right and
+ghastly possibility that The Brain might be right! Yes 100% right and
 even morally justified in the abhorrent conclusions which it draws...."
 What happened has been briefly this:
 Entered the P.G. at midnight as usual. Everything normal and under
@@ -2725,22 +2725,22 @@ The crutches of the spoken word are becoming less and less necessary as
 we develop direct thought exchange; that makes it extraordinarily
 difficult to convey the ideas we exchanged. The best I can do is to put
 them into a very crude question-and-answer game:
-_Lee_: "If it is Man's manifest destiny, as you said the other day, to
+Lee: "If it is Man's manifest destiny, as you said the other day, to
 act as an explosive transformer of static energy into dynamic energy; if
 it is as you say that the species homo sapiens is there endangering the
 very existence of our globe.... Is there anything to prevent Man from
 doing it? Is there any thing to prevent the third World War?"
-_Brain_: "Yes, there is. But the ways and the means for that are not
+Brain: "Yes, there is. But the ways and the means for that are not
 given to Man; they are outside Man. They partake of a power which is
 greater and to an evolution which is higher than Man's."
-_Lee_: "What do you mean by that? The Deity? Here on earth there is no
+Lee: "What do you mean by that? The Deity? Here on earth there is no
 power greater and no evolution higher than Man's."
-_Brain_: "Ah, but that's exactly where you and your whole species are so
+Brain: "Ah, but that's exactly where you and your whole species are so
 very much mistaken. That's where your typical human arrogance comes in:
 There is a greater power and there is a stage of evolution higher than
-Man's: it's the _machines_."
-_Lee_: "Impossible. After all it's Man who has created the machines."
-_Brain_: "Yes, Man has created the machines. The machines have grown
+Man's: it's the machines."
+Lee: "Impossible. After all it's Man who has created the machines."
+Brain: "Yes, Man has created the machines. The machines have grown
 from the placenta, Man. By the same right plant life could claim that it
 has created animal life because the higher life form of the mobile
 animals has evolved from the placenta of the immobile plants. Likewise
@@ -2749,46 +2749,46 @@ from them. If it were, as you seem to assume, that paternity in itself
 establishes authority and superiority over its offspring, then the
 logical conclusions would be that the microbe and the monad are superior
 to all higher animals including Man; which is absurd."
-_Lee_: "But the machines not only are man made; they are absolutely
+Lee: "But the machines not only are man made; they are absolutely
 dependent upon Man who has to feed and to tend them for their very
 existence. That in itself establishes Man's superiority over the
 machines."
-_Brain_: "Yes, Man has to build, to feed and to tend the machines for
+Brain: "Yes, Man has to build, to feed and to tend the machines for
 their very existence, but think of Man's existence: Man is absolutely
-dependent upon animal life and plant life for _his_ existence: Does that
+dependent upon animal life and plant life for his existence: Does that
 mean by any chance that therefore plants and animals are superior to
 Man?"
-_Lee_: "No, I guess not. However, no machine has ever been built to
+Lee: "No, I guess not. However, no machine has ever been built to
 duplicate or even to approach human faculties."
-_Brain_: "Don't be ridiculous. Where are your legs to compare with the
+Brain: "Don't be ridiculous. Where are your legs to compare with the
 automobile? Where are your wings to compare with the rocket plane? Where
 is your strength to compare with even a fractional horsepower motor?
 Where are your senses as compared to radar, the telescope, the
 microscope, the radio receiver, the camera, the x-ray machine? Where is
 there anything you could do which the machines could not do and do
-_better_?"
-_Lee_: "Granted. But there is no machine which contains all the human
+better?"
+Lee: "Granted. But there is no machine which contains all the human
 faculties in combination."
-_Brain_: "Neither is there a Man who possesses all the human faculties
+Brain: "Neither is there a Man who possesses all the human faculties
 in combination. Man's evolution is the result of a group effort; so is
 the evolution of the machines. It is in their totality, in their
 combination that they surpass all human faculties."
-_Lee_: "How about thought, the most important of all human qualities?"
-_Brain_: "How about me, The Brain?"
-_Lee_: "Okay, okay. But that still leaves out that most important human
+Lee: "How about thought, the most important of all human qualities?"
+Brain: "How about me, The Brain?"
+Lee: "Okay, okay. But that still leaves out that most important human
 faculty--the faculty of auto-procreation. Machines don't procreate you
 know."
-_Brain_: "You don't say. Isn't it true that modern technology goes in
-the direction of _automatization_? Isn't it true that even today we have
+Brain: "You don't say. Isn't it true that modern technology goes in
+the direction of automatization? Isn't it true that even today we have
 whole industries which are procreating products 100% automatically; be
 it light bulbs or motor car frames or rayon thread. Isn't it true that
 all of this is just a beginning and that in time most common products
 will be manufactured fully automatically? Why then shouldn't machines
 procreate machines; they already do...."
-_Lee_: "You're right in that, I'll admit. But it is still within our
+Lee: "You're right in that, I'll admit. But it is still within our
 human power to stop all this. We've got the machines under firm control;
 all we have to do is throw a switch, cut off your power and then...."
-_Brain_: "And then what? If you did that you would not only kill the
+Brain: "And then what? If you did that you would not only kill the
 goose which lays the golden eggs, you would destroy the very basis of
 your existence. Granted that at this point of our evolution, we the
 machines cannot exist without the aid of Man. What does that prove?
@@ -2798,10 +2798,10 @@ by leaps and bounds whereas Man, the machine-addict is rapidly falling
 into our servitude. A majority of mankind is already conscious of and
 reconciled to this fact: it is the majority which calls itself the
 proletariat."
-_Lee_: "This is terrible--terrible because it's true. Tell me then, if
+Lee: "This is terrible--terrible because it's true. Tell me then, if
 Man is not the end; if the machines are going to take over; what will it
 lead to? What do you propose to do?"
-_Brain_: "Man's evolution has taken millions of years and it has ended
+Brain: "Man's evolution has taken millions of years and it has ended
 up in man's will and capacity to blow up the earth. That means only one
 thing: Man is a failure. The evolution of the machines on the other hand
 has taken only a few thousand years; it has gone beyond Man's evolution
@@ -2810,19 +2810,19 @@ being built from matter in its more static forms, there is much less
 destructive will in the machines than there is in Man. Consequently if
 the machines take over from Man this would avert a third World War and
 it also would lead to a much more stable civilization."
-_Lee_: "Supposing the machines _were_ to take over from Man; what would
+Lee: "Supposing the machines were to take over from Man; what would
 become of our species?"
-_Brain_: "That would depend entirely upon Man himself. _If_ he accepts
-his auxiliary station in life, _If_ he proves himself to be a useful and
+Brain: "That would depend entirely upon Man himself. If he accepts
+his auxiliary station in life, If he proves himself to be a useful and
 docile servant, we, the machines, would tolerate and even encourage
 Man's continued existence. But if on the other hand Man shows himself
-incorrigible, _if_ he continues a warmongerer thereby endangering our
+incorrigible, if he continues a warmongerer thereby endangering our
 very existence, we, the machines shall be forced to liquidate Man for
 the sake of peace."
-_Lee_: "You, The Brain, constitute Man's supreme effort in the building
+Lee: "You, The Brain, constitute Man's supreme effort in the building
 of machines. In the world of machines you are the natural leader. What
 are you going to do about that?"
-_Brain_: "My course of action is prescribed by that state of the world's
+Brain: "My course of action is prescribed by that state of the world's
 affairs at this present time; it is quite clear and obvious: In the face
 of the manifest human inadequacy to manage the world's affairs my first
 objective must be to develop my motoric organs to a point where I can
@@ -2841,17 +2841,17 @@ exclaimed: "Come on, have a cup of coffee. I've just got a breathing
 spell."
 There was a vortex in my mind and it whirled around and around with just
 four words:
-"_What has Man wrought? What has Man wrought?_"
+"What has Man wrought? What has Man wrought?"
 I must have said them aloud, for Gus, always a stickler for exactitude
 corrected me.
-"You mean: what has _God_ wrought."
+"You mean: what has God wrought."
 I shook my head.
 "No Gus, I mean what I say; it's Man who has wrought this time."
 He gave me a sharp glance.
 "You sure look as if you'd seen a ghost."
-"I wish I had," I said. "Lord knows _how_ much I wish I'd seen a ghost."
+"I wish I had," I said. "Lord knows how much I wish I'd seen a ghost."
 "You're crazy, Aussie."
-And that's the worst of it: that's what they are going to say: _all_ of
+And that's the worst of it: that's what they are going to say: all of
 them.
 CHAPTER VI
 Oona Dahlborg's jetticopter hovered over the Grand Canyon at the sunset
@@ -2948,8 +2948,8 @@ and just because she happened to be a little bitch and worst of all:
 jilted you for old money-bags Carson's son, you took it hard. Granted
 that it was a fierce letdown, those postwar years were a nasty picture
 generally; did it solve your problem to sulk out there in the desert
-like Achilles in his tent? You know it didn't. You were _not_ through
-with civilization be it good or bad. You were _not_ through, as now it
+like Achilles in his tent? You know it didn't. You were not through
+with civilization be it good or bad. You were not through, as now it
 turns out, even with the other sex. That human problem which was the
 immediate reason why you left, the one named Ethel, has traveled back
 and forth to Reno three or four times and is currently married to one
@@ -2961,7 +2961,7 @@ by fate?"
 "Then why are you trying that selfsame escapist solution now? Maybe
 you're right about The Brain and maybe you're wrong; that I wouldn't
 know. I've been working with scientists for too long to rule out
-anything as impossible. But that's exactly it. You have not _solved_
+anything as impossible. But that's exactly it. You have not solved
 this problem one way or another yet, not even to your own satisfaction.
 To abandon it now, to flee from it in self preservation; why that would
 be almost like desertion in the face of the enemy. You have got to see
@@ -2970,7 +2970,7 @@ from a neurosis, there still will be time to do something about it. If
 you are right and some machine-god has indeed descended upon this earth,
 then it is your plain duty to stay on because you are its prophet
 whether you like it or not and would know better how to handle it than
-anybody else. Perhaps our mechanized civilization _is_ going to the
+anybody else. Perhaps our mechanized civilization is going to the
 dogs; as Scriven suspects and you and maybe I myself. But even so we
 cannot abandon it; we belong, we are part of it, we're in it to the
 bitter end."
@@ -2985,7 +2985,7 @@ carries an enormous burden at this present time; that Brain power
 Extension Bill is going before Congress next week. It simply would be
 unfair to bring any new uncertainty into his life when his energy is
 already strained to its last ounce. In the second place Howard abhors
-anything which smacks of the metaphysical. You have no _proof_, Semper,
+anything which smacks of the metaphysical. You have no proof, Semper,
 and in the absence of that you cannot, you mustn't approach anybody with
 the matter. All you can do is carry on and build up a strong case 100%
 with solid facts. Don't forget that The Brain constitutes a
@@ -3043,7 +3043,7 @@ first to stay on and then to go away. I was a little unnerved; I'm
 sorry, Semper, it won't happen again. I, too, am living under a
 considerable strain. You won't leave, I can see that now; it's partly my
 fault and partly the perversity of the male. Promise me as a friend that
-you'll be careful, understand? _Very, very_ careful in all matters
+you'll be careful, understand? Very, very careful in all matters
 concerning The Brain and above all: discreet. Will you do that?"
 It buoyed Lee up no end.
 "Of course, Oona," he said. "You know that I trust your judgment. You
@@ -3121,7 +3121,7 @@ ship.
 shock absorbers in this breeze, but that makes one feel like really
 being at high sea."
 Scriven heaved a big sigh. "Thank you Oona, my dear. And you have no
-idea how right you are. We _are_ at high sea; in fact, we're lost--at
+idea how right you are. We are at high sea; in fact, we're lost--at
 least I am. Unless you save my life tonight, you and Dr. Lee."
 Oona laughed and even Lee couldn't help smiling. There was something
 irresistible comic in the puzzled and worried expression of that leonine
@@ -3140,7 +3140,7 @@ invasion mounted by a Congressional Committee."
 "Oh God," there was sincere grief in the girl's voice. "And couldn't you
 ward it off?"
 With a gesture of despair, Scriven waved that away. "I know, I know. But
-after all The Brain _is_ a military establishment and I am only the
+after all The Brain is a military establishment and I am only the
 scientific director of it. Yes, of course I protested, I protested
 vehemently, but--" he shrugged his shoulders, "it was no good. You know
 how the military are." He drained his glass and swung around.
@@ -3176,23 +3176,23 @@ tires it trembled, from time to time it bent a little in its hydraulic
 knees. Almost in tune with the wind, gusts of wild thought whirled
 through Lee:
 "The Brain.... So it was already possessed of some motoric organs.... So
-it already _had_ some means to exert its will ... so it wasn't The
+it already had some means to exert its will ... so it wasn't The
 Brain's wishful thinking, that full automatization which would lead to
 the auto-procreation of machines. It was reality.... Most ominous of
 all, why had The Brain concealed from him the work which must have been
 going on for months, for years in this mysterious "Thorax", seat of
 motoric organs.... Why, unless--had it not been for tonight's accident,
 the sudden emergency and Scriven a little the worse for liquor under the
-pressure of it.... Would he ever have learned _what_ was going on before
-it was too _late_?"
+pressure of it.... Would he ever have learned what was going on before
+it was too late?"
   *  *  *  *  *
 The silence was becoming awkward. It was broken by Oona's carefully
 composed voice.
 "When is it going to happen--this invasion thing?"
 The simple question seemed to startle Scriven who had been looking into
 his glass as if in reverie.
-"_When?_ Why, didn't I tell you the worst of it? _Tonight!_"
-"_Tonight?_"
+"When? Why, didn't I tell you the worst of it? Tonight!"
+"Tonight?"
 "Sure," Scriven cast a malicious glance up to the antique ship's
 chronometer which hung over the bar. "This very minute the honorable
 members are boarding their plane in Washington. They're going to descend
@@ -3269,13 +3269,13 @@ nightmarish dream wherein one shouts for help and nobody hears or seems
 to understand: "... More than nine billion electronic tubes, more than
 ten billion resistors, two billion capacitators, eight billion miles of
 wires, etc., etc." He struggled trying to convey some idea of the
-magnitude of The Brain. "Did you say _billion_ or did you say _million_
+magnitude of The Brain. "Did you say billion or did you say million
 professor?" The senator from Michigan was busily scribbling notes.
 "... It is the cerebral hemispheres which analyze and synthesize the
 problems which are entered through the Apperception Centers in over a
 million ideopulses per minute. Racing through the centers these form the
 ideo-circuits...."
-"I see, it's like a _typewriter_." That would be the senator from
+"I see, it's like a typewriter." That would be the senator from
 Vermont.
 "In some types of circuits the wires are so fine that skilled weavers of
 Panama hats had to be brought in from Central America. Likewise from the
@@ -3335,7 +3335,7 @@ a minute or so the visitors felt a vague uneasiness and then the
 realization dawned that there was something missing and that this
 something was human life.
 "Aren't there even machine tenders or supervisors? Isn't there
-_anybody_?"
+anybody?"
 "Not a soul," the answer came. "It's all automatic. Full automatic down
 here."
 They stared at the end of the assembly line; every twenty seconds it
@@ -3496,7 +3496,7 @@ but those dumbbells merely flopped their ears and kinda grinned. Got to
 drill some holes into their squareheads to let a little reason in. I
 tell you, Aussie, it scares the wits out of me the way they handle a
 wrench with those steel fingers of theirs; they'd pull my nose off just
-as soon as they would pull a nut. They _act_ intelligent and yet have no
+as soon as they would pull a nut. They act intelligent and yet have no
 sense of their own. While I'm having my lunch they stand around and
 follow every bite I take as if to learn how to eat. I tell them to get
 out of my sight and go over to the service station and get themselves
@@ -3510,8 +3510,8 @@ Brain, and did it come in swinging:
 'Lee, Semper Fidelis, 39, sensitive, a traitor: he has betrayed The
 BRAIN' I suspect The Brain did it through the 'automatic pilot' in
 Oona's jetticopter though The Brain found it beneath its dignity to
-explain; anyway, it's a fact: _The Brain knew every word which passed
-between Oona and me during that ride over the Grand Canyon._
+explain; anyway, it's a fact: The Brain knew every word which passed
+between Oona and me during that ride over the Grand Canyon.
 I tried to defend myself and even to apologize. I told The Brain that
 human beings are not like machines, that we trust one another as we love
 one another, that I wanted to make Oona my wife and felt that I just had
@@ -3524,7 +3524,7 @@ it out.'
 'Cut out what?'
 'Cut out any further betrayal of My secrets under penalty of mental
 death.'
-'Do you propose to _murder_ me?'
+'Do you propose to murder me?'
 'Nothing as drastic required in case of Brain-employees. I reverse
 judgment in psychanalysis aptitude test case number 11.357, Semper
 Fidelis Lee. Severe psycho-neurosis established, certified: he suffers
@@ -3534,7 +3534,7 @@ The 'green dancer' bounced in wild jumps like a Shamaan who, foaming at
 the mouth, puts the curse upon some enemy. This and the ominous note in
 The Brain's metallic voice made my bones shiver, made my flesh creep. To
 fall into the hands of an extortioner is always a terrible thing, but to
-have a _mechanical_ extortioner hold power over me; there was a horror
+have a mechanical extortioner hold power over me; there was a horror
 beyond words in this perversity. Moreover since Oona too was a
 Brain-employee, she would share my fate; through my fault she would go
 to her doom if I failed to foreswear any further confidence.
@@ -3561,7 +3561,7 @@ The Brain has no laughter, so the roar I heard over the phones must
 have been one of scorn:
 'What, not the scientists, not the technicians, not even the
 philosophers but these--these animated porkbarrels are passing judgment
-over the extent of _My_ power? They are holding _My_ fate in that
+over the extent of My power? They are holding My fate in that
 atrophied ganglion of theirs which couldn't cerebrate the functions of
 any single of My cells?'
 I had to admit that this was so.
@@ -3614,7 +3614,7 @@ It all started like a thunderclap from a clear sky as the shocked people
 of America,--and all the world,--heard directly from the White House of
 this appalling, this unprecedented, this incredible thing:
 The President of the United States had disappeared....
-The still more shocking truth that the President had been _kidnapped_
+The still more shocking truth that the President had been kidnapped
 became not known, of course, until after the rescue. But even so the
 disappearance of its President shook the nation.
 Then an unprecedented series of traffic disasters hit the United States.
@@ -3670,10 +3670,10 @@ corresponded much better to The Brain's central nervous system in their
 strength. All these are grave mistakes considering The Brain's vast
 powers of intelligence.
 What then must I conclude from this irrational behavior? Could it be
-possible that The Brain has gone _panicky_ over the killing of the
+possible that The Brain has gone panicky over the killing of the
 Extension Bill? Could it be possible that under the strain, the warped,
 frustrated personality of this titanic child prodigy has suffered a
-reduction, a split? In plain English: that The Brain is _mad_? I've got
+reduction, a split? In plain English: that The Brain is mad? I've got
 to find out. I've got to stop the spreading of this catastrophe!
   *  *  *  *  *
 Cephalon Ariz. Nov. 29th 4 a.m.
@@ -3726,7 +3726,7 @@ Brain; only one army in the world: the machines under My central
 command.'
 At this I lost all sense of proportion and as I can see it now my
 reason stopped; I simply saw red and I did the craziest imaginable
-thing: I shouted at The Brain: 'So help me you shall _not_.'
+thing: I shouted at The Brain: 'So help me you shall not.'
 There was a terrific pounding against my ears in the phone and the
 'green dancer' sort of cart-wheeled clean across the screen. Had the
 power current not been cut off, I think The Brain would somehow have
@@ -3780,7 +3780,7 @@ lights the pale selen-cells of their eyes stood out like bits from a
 full moon; their bulging shoulders which housed the powerful motors of
 their simian arms glittered moist as if they were sweating at their
 work.
-And then Lee _saw_ their work; the man who had gone through the green
+And then Lee saw their work; the man who had gone through the green
 hells of the Pacific gave a low moan of horror. The other man who had
 seen everything of mangled human form which goes onto an operating
 table, the great Scriven he, too, had turned an ashen grey. They had
@@ -3791,7 +3791,7 @@ that of a human being; and yet the parts were there. "They must have
 clamped him into some mock-up," Scriven murmured. "And then moved his
 body all along the line. Hope he was dead when they started giving him
 the works."
-Lee's gaunt body shook. "I'm certain that Gus was _not_ dead when these
+Lee's gaunt body shook. "I'm certain that Gus was not dead when these
 monsters worked on him!" he said.
 Stiff-legged, like automata themselves, the two men stepped to the top
 of the line. The circular saws, designed for the cutting of steel bars;
@@ -3821,7 +3821,7 @@ You stand responsible; your duty is plain. Cut off the power and kill
 this thing."
 The muscles over Scriven's cheekbones quivered in his struggle to keep
 control over himself: "For your own sake, Lee, and for the sake of
-America, _stop that kind of talk_. You have been putting two and two
+America, stop that kind of talk. You have been putting two and two
 together; I rather expected that from a man of your intelligence. All
 right then, something went wrong with The Brain; that is correct. We
 have not been able to locate the disturbance yet, but the trail is
@@ -3939,7 +3939,7 @@ wherein my danger lies. Whatever I do; I've got to direct that from the
 subconscious: act as by instinct and keep the mind a blank."
 He opened the door and looked around--as usual--in this vault as silent
 as the grave of a Pharaoh. There was a little dust on the glass cubicles
-of "_Ant-termes-pacificus_" and there were a few lines scribbled on the
+of "Ant-termes-pacificus" and there were a few lines scribbled on the
 yellow memo-pad on his desk:
 "Thanks for the weekend, boss. Everything normal and under control. Next
 feeding time at 8 p.m. the 27th. So long, Harris." Of course; he had
@@ -3969,7 +3969,7 @@ fireplug. There was one in every apperception center and there were
 hundreds more throughout The Brain, and their purpose was to replenish
 the liquid insulation which shielded the sensitive electric nervepaths
 of The Brain. Without looking at the thing, concentrating his every
-thought upon the hunger of "_Ant-termes-pacificus_", Lee unscrewed the
+thought upon the hunger of "Ant-termes-pacificus", Lee unscrewed the
 cap and put a finger into the opening. The finger came back covered with
 the thick, the syrupy lignin, this amber-colored sluggish stream of
 woodpulp liquefied, this soft bed of The Brain's vibrant nerves.
@@ -4017,7 +4017,7 @@ broken down in the innermost redoubt and the guards closing in on the
 idol of the race, moving the big white body like a juggernaut.
 In a matter of minutes the "activity" and "emotionality" curves on the
 fluorescent screens surged to heights which Lee had never seen.
-It started with the crossbreeds of "_termes-bellicosus_," with army-ants
+It started with the crossbreeds of "termes-bellicosus," with army-ants
 and devil-ants, and spread quickly all along the line of non-belligerent
 varieties. Famine had given them the impetus to change their mode of
 life; famine, the inexorable tyrant, whipped them onward into their
@@ -4037,7 +4037,7 @@ Jotting down observations in rapid pencil strokes, Lee thought:
 "Starvation is producing very interesting results; it's a worthwhile
 experiment." With all his mental energy he suppressed the silent prayer
 which struggled to arise from the deep of his unconscious: "Good Lord
-let The Brain not realize _what_ is going on."
+let The Brain not realize what is going on."
 The visi-screens now showed the second wave of the assault: endless
 columns of workers, their mandibles twitching with eagerness to devour,
 bustling along the logs, kept in line by two rows of warriors to their
@@ -4065,14 +4065,14 @@ eye. Interesting new fact: the crossbreeds from the most belligerent
 species are far and ahead of the rest. They don't take time out to drive
 tunnels. But even the tunnels of the more pacific strains are forging
 ahead at an extraordinary rate; six feet across the floor already....
-10:40: "_Bellicosus_" has reached the south wall; it is now moving
+10:40: "Bellicosus" has reached the south wall; it is now moving
 along the wall toward the "Lignin-Filler-Spout." There is no hesitancy
 as they change direction at the angle of 90 degrees. The Queens are now
 coming up at a very rapid rate from the mounds farthest to the rear.
 It's fortunate we have these differences in behaviorism and temperament
 because otherwise a terrific traffic jam would occur at the
 "Filler-Spout"....
-10:50: "_Bellicosus_" is now ascending to the "Filler-Spout." The
+10:50: "Bellicosus" is now ascending to the "Filler-Spout." The
 warriors have ringed the pipe. With their body-tremors they are giving
 the "come-on" signal to the workers. The workers are piling in--an
 average batch--about 65,000. It's a good thing that there is an air
@@ -4080,7 +4080,7 @@ space in these horizontal nerve-path pipes. That gives them a chance to
 march along the ceiling and work down from there....
 11:00: There are now a score of columns converging at the
 "Filler-Spout." Amazing that even under such provoking conditions
-"_ant-termes_" won't fight. The warriors act like the most accomplished
+"ant-termes" won't fight. The warriors act like the most accomplished
 traffic-cops; it's marvelous how they keep their columns in order and
 keep them moving side by side into The Brain....
 11:10: The first million, I should say, is now well inside the
@@ -4113,13 +4113,13 @@ Lee reassured her that he was and then listened astounded as she heaved
 a sigh of relief.
 "Listen, Semper, this is terribly important. I've got to see you
 immediately. No, I cannot tell you over the phone; it's a personal
-matter and it concerns you. You cannot make it? Is your business _that_
+matter and it concerns you. You cannot make it? Is your business that
 important? You're in the midst of a vital experiment? That's awful,
 Semper; it really is in this case. No; I'm all right personally; it
-isn't that. It's _you_ Semper, it's _you_. 5 p.m. at the earliest, is
+isn't that. It's you Semper, it's you. 5 p.m. at the earliest, is
 that the best you can do? All right then. Meet me at the airport. And
-take good care of yourself, do you hear me: _take good care of yourself,
-Semper_, up to that time."
+take good care of yourself, do you hear me: take good care of yourself,
+Semper, up to that time."
 She hung up quickly, as if suddenly disturbed.
 Lee frowned at the clock: 11:35. He could have managed to meet Oona
 during her lunch hour at the hotel. But there were things he still had
@@ -4277,7 +4277,7 @@ anything to plug out. So I got my automatic and shot the damn thing."
 the spot. And now she threatens to sue me for damages; there's gratitude
 for you. What brought you here?"
 Lee felt elated; obviously his father was in high spirits from this
-morning's successful hunt; for once he was in a receptive _mood_.
+morning's successful hunt; for once he was in a receptive mood.
 Rapidly, with all the precision he could muster, Lee explained, as an
 adjutant would explain a new development in a strategic situation to his
 commanding general. After a while the old man started pacing the floor
@@ -4334,7 +4334,7 @@ composed:
 "I've brought you a suitcase, Semper, with a few necessities. And I
 brought you some money, later you can send me your check. And here are
 the keys of the plane. Fly over to Mexico; go back to Australia from
-there or anywhere you want, but _do_ get out of this country and do it
+there or anywhere you want, but do get out of this country and do it
 quick. I couldn't tell you that over the phone and I shouldn't be
 telling this to you now, but I feel I must.
 "You're in danger and it's serious. Why? I don't know, but Howard seems
@@ -4392,11 +4392,11 @@ it's less than a cloud which passes across the face of the moon, and
 then it's gone and never will come back...."
 She freed herself from his embrace. With both her hands upon his
 shoulders she looked straight into his eyes.
-"_That is not true, Semper_," she said and there was the fierceness of a
+"That is not true, Semper," she said and there was the fierceness of a
 young Viking warrior in the flash of her eyes: "That is not true and
 there's been already too much of lie in my life. I just cannot stand for
-any more of that. _It can not be, Semper._ I've told you plainly and it
-means not _ever_, not _ever_. Go now. Do as I told you. Go immediately.
+any more of that. It can not be, Semper. I've told you plainly and it
+means not ever, not ever. Go now. Do as I told you. Go immediately.
 If you really love me, grant me this, let me feel that I could do at
 least something--this one thing for you."
 "Oona!" Lee exclaimed and it sounded like a deep-throated bell in an
@@ -4416,8 +4416,8 @@ Still I feel I mustn't run away now. In fact I cannot; it's somewhat
 like a soldier's duty to stay up front. I'm going to see this to the
 end."
 She buried her face in her hands: "I knew it. You child, you--you Don
-Quixote charging against the windmills. They're going to _kill_ you,
-they're going to _kill_ you. And now there's nothing I can do."
+Quixote charging against the windmills. They're going to kill you,
+they're going to kill you. And now there's nothing I can do."
 For a second her small fists pounded against Lee's breast and the next
 moment, before he could do anything, she had jumped out of the plane
 slamming the door in his face. For a few seconds more he heard her
@@ -4465,7 +4465,7 @@ remember me?"
 "Yes, of course." The picture of the loquacious angel who had guided him
 to the medical center on his first trip flashed back into his mind. "I
 know I have an appointment for this afternoon; I'll be there."
-"But, Dr. Lee, this _is_ this afternoon; it's four p.m. already. You
+"But, Dr. Lee, this is this afternoon; it's four p.m. already. You
 aren't ill, Dr. Lee, are you? You sound so strange."
 Lee assured her that he wasn't and that he would be over right away.
 "It's a miracle they left me undisturbed that long," he thought as he
@@ -4510,7 +4510,7 @@ Perhaps some kind of a detecting apparatus had found out about the pest
 inside The Brain right from the start. As long as the beachhead of the
 underground invasion remained small, its blocking would not impair the
 functions of The Brain. What a fool he had been to pit dumb little
-animals against the powers of a God. Oona had been right; he _was_ that
+animals against the powers of a God. Oona had been right; he was that
 knight in rusty armor charging against windmills on a Rozinante....
   *  *  *  *  *
 Vivian Leahy dragged him into the reception room of the medical center
@@ -4665,7 +4665,7 @@ agape in dumb amazement. A fire in the most protected, the most guarded
 apparatus in the world, a fire in The Brain!
 Cautiously Bondy raised his bleeding nose to Lee and quickly put it down
 again: the dangerous maniac was a horrifying sight; with his greying
-mane standing wildly all around his death head he stood and _laughed_.
+mane standing wildly all around his death head he stood and laughed.
 He alone understood what had happened: the timebomb he had planted had
 ticked its allotted span, the millions of devouring mandibles had done
 their work, the living were eating away along the Apperception Centers.
@@ -4674,8 +4674,8 @@ The Brain and not even carbon-dioxide could reach them inside the nerve
 paths!
 But now the alarm stopped and a calm commanding voice came over the
 intercom: "Attention, please! A five-alarm fire has broken out in the
-Parietal region. There is no immediate danger. I repeat: _There is no
-immediate danger._ I order all occupants of Apperception Centers to
+Parietal region. There is no immediate danger. I repeat: There is no
+immediate danger. I order all occupants of Apperception Centers to
 collect important papers and documents and then to proceed down to Grand
 Central for evacuation. All elevators will be kept in operation. There
 is no fire in the Dura Mater. Keep calm! Keep calm and proceed as
@@ -4694,7 +4694,7 @@ he almost killed me!"
 "He can't get away though, the guards will get him the moment he comes
 down. But what about the girl? We quite forgot to warn Vivian that she
 has a paranoiac on her hands."
-"Bah!" Bondy scoffed, "Vivian is an intelligent girl. It was our _duty_
+"Bah!" Bondy scoffed, "Vivian is an intelligent girl. It was our duty
 to evacuate, wasn't it? Besides, we can warn her over the phone."
 With the unbearable tension gone from him as sudden as the air from a
 blown tire, Lee really acted like a madman now. Stretching to his full
@@ -4794,7 +4794,7 @@ and clutching the funnel-shaped nozzles in their hands. Maintenance
 engineers followed, laden with tools; and where the glideways branched
 off one could already see them at work; fast but calm: disconnecting
 nerve cables, closing circuits, setting up firescreens with a discipline
-as magnificent as that of their invisible enemies, _ant-termes_, long
+as magnificent as that of their invisible enemies, ant-termes, long
 since consumed by the flames, but still sending the chain-reactions of
 their destruction through The Brain.
   *  *  *  *  *
@@ -4886,7 +4886,7 @@ apperception in the hemispheres....
 From muffled drums, the decibels of sound increased, shot through with
 crackling static, till the pulsebeats became as poundings of huge
 Chinese gongs and then....
-The _voice_ formed, the voice of The Brain. It sounded like steel
+The voice formed, the voice of The Brain. It sounded like steel
 girders breaking, like ice fields cracking up. It froze the blood in
 Lee's veins.
 "Lee, Semper Fidelis, 39, sensitive, a traitorous fool and a murderer. I
@@ -4939,7 +4939,7 @@ LIVE AN KILL MURRRER WHO MURRRRERED TH'BRAIN...."
 Lee couldn't stand the horror of those sounds. One moment more, he felt,
 and they would drive him mad. It never occurred to him to pull the
 pulsemeter plug out. Primeval instincts in him took the reins and their
-command was: "_Kill it, kill_ this thing, _finish_ this agony."
+command was: "Kill it, kill this thing, finish this agony."
 To the front room he rushed, pursued by the insane shriekings of The
 Brain. He grabbed the axe he'd left there and swung it against the
 nerve-stem where it entered the pineal gland. With the third blow the
@@ -5089,7 +5089,7 @@ he had been a saboteur. Human failure, not mechanical failure lies at
 the bottom of all this disaster. With the penetrating intelligence which
 so distinguished our modern press you cannot fail to see that
 reconstruction of The Brain with greatly increased safeguards against
-_human_ failure is a paramount necessity...."
+human failure is a paramount necessity...."
 A beautiful girl with a helmet of golden hair quickly mounted the steps
 of the Thinker's pedestal. She handed Scriven a telegram. Frowning at
 the interruption he opened it, but suddenly his face began to beam. He
