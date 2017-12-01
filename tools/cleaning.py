@@ -11,3 +11,13 @@ def remove_underline(text):
     """
     return text.replace(u"_", u"")
 # end remove_underline
+
+# Remove - \n
+def remove_line_breaks(text):
+    """
+    Remove - \n
+    :param text:
+    :return:
+    """
+    return text.replace(u"- \n", u"")
+# end remove_line_breaks
