@@ -27,7 +27,7 @@ import numpy as np
 from tools.functions import create_tokenizer
 import os
 import argparse
-from tools.cleaning import remove_underline
+from tools.cleaning import remove_underline, remove_line_breaks
 
 
 ####################################################
@@ -49,9 +49,6 @@ if __name__ == "__main__":
     parser.add_argument("--dataset", type=str, help="Input directory")
     args = parser.parse_args()
 
-    # Parse arguments
-    args.parse()
-
     # Corpus
     sfgram = nsNLP.data.Corpus(args.dataset)
 
@@ -61,8 +58,12 @@ if __name__ == "__main__":
     # Get text list
     for author in authors:
         for text in author.get_texts():
+            # Log
+            print(u"Cleaning {}".format(text.get_path()))
+
             # Clean text
             document_text = remove_underline(text.get_text())
+            document_text = remove_line_breaks(text.get_text())
 
             # Save
             text.save(document_text)
