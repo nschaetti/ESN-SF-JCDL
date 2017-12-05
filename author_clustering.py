@@ -25,7 +25,8 @@
 import nsNLP
 import numpy as np
 from tools.functions import create_tokenizer
-from corpus.Corpus import Corpus
+import os
+
 
 ####################################################
 # Functions
@@ -48,6 +49,62 @@ def converter_in(converters_desc, converter):
     return False
 # end converter_in
 
+
+# Create directory
+def create_directories(output_directory, xp_name):
+    """
+    Create image directory
+    :return:
+    """
+    # Directories
+    image_directory = os.path.join(output_directory, xp_name, "images")
+    texts_directory = os.path.join(output_directory, xp_name, "texts")
+
+    # Create if does not exists
+    if not os.path.exists(image_directory):
+        os.mkdir(image_directory)
+    # end if
+
+    # Create if does not exists
+    if not os.path.exists(texts_directory):
+        os.mkdir(texts_directory)
+    # end if
+
+    return image_directory, texts_directory
+# end create_directories
+
+
+# Save embedding images
+def save_embedding_images():
+    """
+    Save embedding images
+    :param text_vectors:
+    :param size:
+    :param desc_info:
+    :return:
+    """
+    # Embeddings
+    embeddings = nsNLP.embeddings.Embeddings((reservoir_size*state_gram)+1)
+
+    # For each vectors
+    for author in author_embeddings.keys():
+        embeddings.add(author, author_embeddings[author])
+        embeddings.set(author, 'count', 1)
+    # end for
+
+    # Export image of reduced vectors with TSNE
+    embeddings.wordnet('count',
+                       os.path.join(image_directory, u"author_TSNE_" + unicode(w_index) + u".png"),
+                       n_words=35,
+                       fig_size=args.fig_size, reduction='TSNE', info=desc_info)
+
+    # Export image of reduced vectors with PCA
+    embeddings.wordnet('count',
+                       os.path.join(image_directory, u"author_PCA_" + unicode(w_index) + u".png"),
+                       n_words=35,
+                       fig_size=args.fig_size, reduction='PCA', info=desc_info)
+# end save_embeddings_images
+
 ####################################################
 # Main function
 ####################################################
@@ -61,14 +118,6 @@ if __name__ == "__main__":
     # Dataset arguments
     args.add_argument(command="--dataset", name="dataset", type=str,
                       help="JSON file with the file description for each authors", required=True, extended=False)
-
-    # Author parameters
-    args.add_argument(command="--n-authors", name="n_authors", type=int,
-                      help="Number of authors to include in the test", default=15, extended=False)
-    for i in range(15):
-        args.add_argument(command="--author{}".format(i), name="author{}".format(i), type=str,
-                          help="{}th author to test".format(i), extended=False)
-    # end for
 
     # ESN arguments
     args.add_argument(command="--reservoir-size", name="reservoir_size", type=float, help="Reservoir's size",
@@ -89,22 +138,30 @@ if __name__ == "__main__":
                       extended=False)
     args.add_argument(command="--keep-w", name="keep_w", action='store_true', help="Keep W matrix", default=False,
                       extended=False)
-    args.add_argument(command="--aggregation", name="aggregation", type=str, help="Output aggregation method", extended=True,
-                      default="average")
+    args.add_argument(command="--aggregation", name="aggregation", type=str, help="Output aggregation method",
+                      extended=True, default="average")
     args.add_argument(command="--state-gram", name="state_gram", type=str, help="State-gram value",
                       extended=True, default="1")
+    args.add_argument(command="--voc-size", name="voc_size", type=int, help="Voc. size",
+                      default=30000, extended=False)
 
-    # Tokenizer and word vector parameters
+    # Tokenizer and clustering parameters
+    args.add_argument(command="--distance", name="distance", type=str, help="Distance measure to use", default='cosine',
+                      extended=True)
     args.add_argument(command="--tokenizer", name="tokenizer", type=str,
                       help="Which tokenizer to use (spacy, nltk, spacy-tokens)", default='nltk', extended=False)
     args.add_argument(command="--lang", name="lang", type=str, help="Tokenizer language parameters", default='en',
                       extended=False)
 
     # Experiment output parameters
+    args.add_argument(command="--fig-size", name="fig_size", help="Figure size (pixels)", type=float, default=1024.0,
+                      extended=False)
     args.add_argument(command="--name", name="name", type=str, help="Experiment's name", extended=False, required=True)
     args.add_argument(command="--description", name="description", type=str, help="Experiment's description",
                       extended=False, required=True)
     args.add_argument(command="--output", name="output", type=str, help="Experiment's output directory", required=True,
+                      extended=False)
+    args.add_argument(command="--eval", name="eval", type=str, help="Evaluation measure", default='bsquared',
                       extended=False)
     args.add_argument(command="--n-samples", name="n_samples", type=int, help="Number of different reservoir to test",
                       default=1, extended=False)
@@ -114,7 +171,7 @@ if __name__ == "__main__":
     args.parse()
 
     # Corpus
-    reteursC50 = Corpus(args.dataset)
+    sfgram = nsNLP.data.Corpus(args.dataset)
 
     # Parameter space
     param_space = nsNLP.tools.ParameterSpace(args.get_space())
@@ -127,24 +184,30 @@ if __name__ == "__main__":
         args.description,
         args.get_space(),
         args.n_samples,
-        args.k,
+        1,
         verbose=args.verbose
     )
 
+    # Create image directory
+    image_directory, texts_directory = create_directories(args.output, args.name)
+
     # Author list
-    authors = reteursC50.get_authors()[:args.n_authors]
-    author_list = reteursC50.get_authors_list()[:args.n_authors]
+    authors = sfgram.get_authors()
+    author_list = sfgram.get_authors_list()
 
     # Get text list
+    texts = list()
     text_list = list()
     for author in authors:
         for text in author.get_texts():
-            text_list.append(text)
+            texts.append(text)
+            text_list.append(text.get_title())
         # end for
     # end for
 
     # Print authors
     xp.write(u"Authors : {}".format(author_list), log_level=0)
+    xp.write(u"Texts : {}".format(text_list), log_level=0)
 
     # First params
     rc_size = int(args.get_space()['reservoir_size'][0])
@@ -152,11 +215,6 @@ if __name__ == "__main__":
 
     # Create W matrix
     w = nsNLP.esn_models.ESNTextClassifier.w(rc_size=rc_size, rc_w_sparsity=rc_w_sparsity)
-
-    # Save classifier
-    if args.keep_w:
-        xp.save_object(u"w", w)
-    # end if
 
     # W index
     w_index = 0
@@ -197,6 +255,9 @@ if __name__ == "__main__":
             # Set sample
             xp.set_sample_state(n)
 
+            # Description
+            desc_info = u"{}-{}".format(space, n)
+
             # Create ESN text classifier
             classifier = nsNLP.esn_models.ESNTextClassifier.create\
             (
@@ -211,7 +272,9 @@ if __name__ == "__main__":
                 use_sparse_matrix=True if converter_in(converter_desc, "oh") else False,
                 w=w if args.keep_w else None,
                 aggregation=aggregation,
-                state_gram=state_gram
+                state_gram=state_gram,
+                pca_path=args.pca_path,
+                voc_size=args.voc_size
             )
 
             # Save w matrix
@@ -219,57 +282,44 @@ if __name__ == "__main__":
                 xp.save_object(u"w_{}".format(w_index), classifier.get_w(), info=u"{}".format(space))
             # end if
 
-            # 10 fold cross validation
-            cross_validation = nsNLP.validation.CrossValidation(authors)
-
-            # Average
-            average_k_fold = np.array([])
-
-            # For each fold
-            for k, (train_set, test_set) in enumerate(cross_validation):
-                # Set k
-                xp.set_fold_state(k)
-
-                # Add to examples
-                for index, text in enumerate(train_set):
-                    # Add
-                    classifier.train(tokenizer(text.x()), text.y())
-                # end for
-
-                # Train
-                classifier.finalize(verbose=False)
-
-                # Counters
-                successes = 0.0
-
-                # Test the classifier
-                for text in test_set:
-                    # Predict
-                    prediction, probs = classifier.predict(tokenizer(text.x()))
-
-                    # Compare
-                    if prediction == text.y():
-                        successes += 1.0
-                    # end if
-                # end for
-
-                # Print success rate
-                xp.add_result(successes / float(len(test_set)))
-                average_k_fold = np.append(average_k_fold, [successes / float(len(test_set))])
-
-                # Reset classifier
-                classifier.reset()
+            # Add texts
+            for index, text in enumerate(texts):
+                # Add
+                classifier.train(tokenizer(text.x()), text.y())
             # end for
 
-            # Add
-            average_sample = np.append(average_sample, [np.average(average_k_fold)])
+            # Train
+            classifier.finalize(verbose=False)
+
+            # Extract author embeddings
+            author_embeddings = classifier.get_embeddings()
+
+            # Save embedding images
+            save_embedding_images()
+
+            # Clustering
+            clustering = nsNLP.clustering.Clutering()
+
+            # Add each text
+            for author_name in author_list:
+                clustering.add(sfgram.get_author(author_name), author_embeddings[author_name])
+            # end for
+
+            # Compute K-mean clusters, and save Bcubed
+            clusters = clustering.k_means(k=12)
+            result = nsNLP.measures.Clustering().bcubed_f1(clusters)
+            xp.add_result(result)
+
+            # Compute hierarchical clusters, and save dendrogram
+            linkage_matrix = clustering.hierarchical_clustering(os.path.join(image_directory, u"dendrogram_" + unicode(w_index) + u".png"))
 
             # Delete classifier
             del classifier
-        # end for
+            del clustering
 
-        # W index
-        w_index += 1
+            # W index
+            w_index += 1
+        # end for samples
 
         # Last space
         last_space = space
