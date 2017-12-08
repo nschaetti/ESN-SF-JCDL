@@ -34,7 +34,7 @@ contact."
 "Here's our theory," the expert said. "We keep looking for contact, a
 trigger in the pseudopodium. But more likely we're witnessing a
 psychological phenomena, a decision without any physical correlative.
-We're watching for something that isn't there. The mine _decides_ to
+We're watching for something that isn't there. The mine decides to
 blow up. It sees our ship, approaches, and then decides."
 "Thanks." Kramer turned to Gross. "Well, that confirms what I'm
 saying. How can a ship guided by automatic relays escape a mine that
@@ -76,7 +76,7 @@ that's new."
 The room was silent.
 "It's quite an idea," Gross said slowly. His heavy square face
 twisted. "But even supposing it might work, the big question is
-_whose_ brain?"
+whose brain?"
   *  *  *  *  *
 It was all very confusing, the reasons for the war, the nature of the
 enemy. The Yucconae had been contacted on one of the outlying planets
@@ -168,7 +168,7 @@ gentle eyes moving about the classroom. The old man leaning forward, a
 thin hand raised--
 "Keep him out of this," Kramer said.
 "What's wrong?" Gross looked at him curiously.
-"It's because _I_ suggested it," Dolores said.
+"It's because I suggested it," Dolores said.
 "No." Kramer shook his head. "It's not that. I didn't expect anything
 like this, somebody I knew, a man I studied under. I remember him very
 clearly. He was a very distinct personality."
@@ -441,7 +441,7 @@ brain lay in a tank of liquid, a thousand minute electric charges
 playing over its surface. As the charges rose they were picked up and
 amplified, fed into relay systems, advanced, carried on through the
 entire ship--
-Gross wiped his forehead nervously. "So _he_ is running it, now. I
+Gross wiped his forehead nervously. "So he is running it, now. I
 hope he knows what he's doing."
 Kramer nodded enigmatically. "I think he does."
 "What do you mean?"
@@ -508,7 +508,7 @@ dead, completely dead."
 "And we're still heading out," Winter said, grinning foolishly. "We'll
 be going through the first-line defense belt in a few minutes. If they
 don't shoot us down--"
-"We better radio back." The Pilot clicked the radio to _send_. "I'll
+"We better radio back." The Pilot clicked the radio to send. "I'll
 contact the main bases, one of the observation stations."
 "Better get the defense belt, at the speed we're going. We'll be into
 it in a minute."
@@ -540,7 +540,7 @@ again."
 that we stay here?"
 "No." Kramer shook his head. "Damn it, there ought to be a better
 solution."
-"Could you contact _him_?" Winter asked. "The Old Man? Try to reason
+"Could you contact him?" Winter asked. "The Old Man? Try to reason
 with him?"
 "It's worth a chance," Gross said. "Try it."
 "All right." Kramer took the microphone. He paused a moment. "Listen!
@@ -634,7 +634,7 @@ shivering.
 "What's happened to your ship?" a sailor asked curiously. "It sure
 took off in a hurry. Who's on it?"
 "We'll have to have it destroyed," Gross went on, his face grim. "It's
-got to be destroyed. There's no telling what it--what _he_ has in
+got to be destroyed. There's no telling what it--what he has in
 mind." Gross sat down weakly on a metal bench. "What a close call for
 us. We were so damn trusting."
 "What could he be planning," Kramer said, half to himself. "It doesn't
@@ -833,7 +833,7 @@ living creature, a vast metal organism?
 It was weird, unnerving. He could not forget it, even now. He looked
 around the small room uneasily. What did it signify, the coming to
 life of metal and plastic? All at once they had found themselves
-inside a _living_ creature, in its stomach, like Jonah inside the
+inside a living creature, in its stomach, like Jonah inside the
 whale.
 It had been alive, and it had talked to them, talked calmly and
 rationally, as it rushed them off, faster and faster into outer space.
@@ -966,7 +966,7 @@ They're an odd race, Philip. I would have liked to study them closely,
 try to learn something about them. I'm of the opinion that they use no
 inert material. All their equipment and instruments are alive, in some
 form or other. They don't construct or build at all. The idea of
-_making_ is foreign to them. They utilize existing forms. Even their
+making is foreign to them. They utilize existing forms. Even their
 ships--"
 "Where are we going?" Kramer said. "I want to know where you are
 taking me."
@@ -996,7 +996,7 @@ that you were wrong; you people have no understanding of the mind at
 all. I realized that the transfer of a human brain from an organic
 body to a complex artificial space ship would not involve the loss of
 the intellectualization faculty of the mind. When a man thinks, he
-_is_.
+is.
 "When I realized that, I saw the possibility of an age-old dream
 becoming real. I was quite elderly when I first met you, Philip. Even
 then my life-span had come pretty much to its end. I could look ahead
@@ -1064,7 +1064,7 @@ his feet. "But I wonder if something has occurred to you?"
 "What is that?"
 "If it's such a deeply ingrained habit, going back thousands of years,
 how are you going to get your colonists to make the break, leave Terra
-and Terran customs? How about _this_ generation, the first ones, the
+and Terran customs? How about this generation, the first ones, the
 people who found the colony? I think you're right that the next
 generation would be free of all this, if there were an--" He grinned.
 "--An Old Man Above to teach them something else instead."
