@@ -65,6 +65,13 @@ if __name__ == "__main__":
             document_text = remove_underline(text.get_text())
             document_text = remove_line_breaks(text.get_text())
             document_text = document_text.replace(u"_", u"")
+            document_text = document_text.replace(u"\n", u" ")
+            document_text = document_text.replace(u"*", u"")
+
+            # Remove double space
+            for i in range(50):
+                document_text = document_text.replace(u"  ", u" ")
+            # end for
 
             # Save
             text.save(document_text)
