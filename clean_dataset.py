@@ -64,6 +64,7 @@ if __name__ == "__main__":
             # Clean text
             document_text = remove_underline(text.get_text())
             document_text = remove_line_breaks(text.get_text())
+            document_text = document_text.replace(u"_", u"")
 
             # Save
             text.save(document_text)
