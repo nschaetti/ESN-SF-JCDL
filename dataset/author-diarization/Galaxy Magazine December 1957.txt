@@ -430,7 +430,8 @@ The government, as represented
 in this case by Justice Harlow 
 Shane, was equally anxious for a 
 quiet end to this mess. Both U. S. 
-Robots and the academic world 
+Robots and the academic world
+SFGRAM_START_ASIMOV
 By ISAAC ASIMOV 
 GALAXY SCIENCE FICTION 
 GALLEY SLAVE 
@@ -502,8 +503,7 @@ his mane of white hair in the professor’s direction.
 “This is Robot EZ-27, first of 
 its model to be available for public use.” He turned to the robot 
 “This is Professor Goodfellow, 
-Easy.” 
-GALAXY SCIENCE FICTION 
+Easy.”
 Easy spoke impassively, but 
 with such suddenness that the professor shied. “Good afternoon, Professor.” 
 Easy stood seven feet tall and 
@@ -565,8 +565,7 @@ as you or I. Go ahead, Easy.”
 “Thank you, sir,” said Easy. 
 Then, turning its metal bulk slightly, it added, “With your permission, Professor Goodfellow.” 
 The professor stared, then said, 
-“Yes— yes, of course.” 
-GALLEY SLAVE 
+“Yes— yes, of course.”
 With a slow and steady manipulation of metal fingers, Easy turned 
 the pages of the book, glancing at 
 the left page, then the right; turning the page, glancing left, then 
@@ -630,8 +629,7 @@ proofreader.”
 do. It will prepare reports from 
 outlines, fill out forms, serve as an 
 accurate memory-file, grade papers—” 
-“All picayune!” 
-GALAXY SCIENCE FICTION 
+“All picayune!”
 T ANNING said, “Not at all, as 
 I can show you in a moment. 
 But I think we can discuss this 
@@ -695,7 +693,6 @@ in thirty minutes, is that picayune?”
 “But the price—” 
 “The price need not bother you. 
 You cannot buy EZ-27. U. S. Ro
-GALAXY SCIENCE FICTION 
 bots does not sell its products. But 
 the university can lease EZ-27 for 
 a thousand dollars a year— considerably less than the cost of a single 
@@ -763,8 +760,7 @@ Laws of Robotics are. Would Dr.
 Lanning quote them for the benefit of the court?” 
 Dr. Lanning looked startled. He 
 had been virtually bumping heads 
-with the gray-haired woman at his 
-GALLEY SLAVE 
+with the gray-haired woman at his
 side. He rose to his feet now and 
 the woman looked up, too— expressionlessly. 
 Dr. Lanning said, “Very well, 
@@ -901,8 +897,7 @@ neat and superbly legible. Occasionally, a word of print was
 crossed out and a new word substituted in the margin in characters 
 so fine and regular it might easily 
 have been print itself. Some of the 
-corrections were blue to indicate 
-GALLEY SLAVE 
+corrections were blue to indicate
 the original mistake had been the 
 author’s, a few in red, where the 
 printer had been wrong. 
@@ -1029,8 +1024,7 @@ and research institutions will follow your lead, and if it works out,
 then perhaps other robots of other 
 types may be placed and the public’s objections to them broken 
 down by stages.” 
-Minott murmured, “Today 
-GALLEY SLAVE 
+Minott murmured, “Today
 Northeastern University, tomorrow 
 the world.” 
 A NGRILY, Lanning whispered 
@@ -1165,8 +1159,7 @@ as was his right”
 “You think?” 
 “Well, he did speak.” 
 “Against using the robot?” 
-“Yes.” 
-GALLEY SLAVE 
+“Yes.”
 “Was he violent about it?” 
 Dean Hart paused. “He was vehement.” 
 Defense grew confidential. “How 
@@ -1233,8 +1226,7 @@ good model,” argued Robertson.
 said Defense somberly. “What was 
 wrong with the first 26? Obviously something. Why shouldn’t there 
 be something wrong with the 27th, 
-too?” 
-GALAXY SCIENCE FICTION 
+too?”
 “There was nothing wrong with 
 the first 26 except that they 
 weren’t complex enough for the 
@@ -1296,8 +1288,7 @@ tell with scientific precision that his
 troubles are the result of an order 
 not to talk, with its strength based 
 on First Law. In other words, he’s 
-been told that if he talks, harm will 
-GALLEY SLAVE 
+been told that if he talks, harm will
 be done a human being. Presumably harm to the unspeakable Professor Ninheimer, the plaintiff, 
 who, to the robot, would seem a 
 human being.” 
@@ -1313,7 +1304,7 @@ are centered on that person. Any
 other course—” She shook her head 
 and grew almost impassioned. “I 
 won’t let the robot be damaged!” 
-T ANNING interrupted with the 
+TANNING interrupted with the
 •*“* air of bringing sanity to the 
 problem. “It seems to me that we 
 have only to prove a robot incapable of the act of which Easy is 
@@ -1359,8 +1350,7 @@ of the robopsychologist, he added,
 here.” 
 Lanning looked from one to the 
 other and said, “What the devil is 
-this?” 
-GALAXY SCIENCE FICTION 
+this?”
 But the bailiff thrust his head 
 into the room and announced 
 somewhat breathlessly that the 
@@ -1391,7 +1381,7 @@ of doing the work that it was allegedly designed to do?”
 “I know for a fact that it was 
 not” 
 “Would you state your reasons?” 
-S IMON Ninheimer’s book, entitled Social Tensions Involved 
+SIMON Ninheimer’s book, entitled Social Tensions Involved
 in Space-Flight and Their Resolu
 tion , had been eight years in the 
 making. Ninheimer’s search for 
@@ -1423,8 +1413,7 @@ past three years and it worked
 well. 
 Baker, young and ingratiatingly soft-voiced, had his own copies 
 of the galleys in his hand. He said 
-eagerly, “I’ve done the first chapter and they contain some typographical beauts.” 
-GALLEY SLAVE 
+eagerly, “I’ve done the first chapter and they contain some typographical beauts.”
 “The first chapter always has 
 them,” said Ninheimer distantly. 
 “Do you want to go over it 
@@ -1550,8 +1539,7 @@ silly, I know.”
 “The other day I got a couple 
 of sheets before Easy sent them 
 off to—” 
-“What!” Ninheimer looked up, 
-GALLEY SLAVE 
+“What!” Ninheimer looked up,
 scowling. The copy of Abstracts 
 slid shut. “Did you disturb the 
 machine at its work? 5 ’ 
@@ -1693,7 +1681,6 @@ choice?”
 “Yes, sir.” 
 “It follows then that U. S. Robots designed a robot that would 
 of necessity rewrite books to ac
-GALLEY SLAVE 
 cord with its own conceptions of 
 what was right. And yet they 
 palmed it off as simple proofreader. Would you say that?” 
@@ -1826,8 +1813,7 @@ why the robot should, as you allege, have distorted your book?”
 “Yes, sir.” 
 “Very convenient. But are you 
 sure your interest in robotics was 
-not intended to enable you to 
-GALLEY SLAVE 
+not intended to enable you to
 manipulate the robot for your own 
 purposes?” 
 Ninheimer flushed. “Certainly 
@@ -1882,8 +1868,7 @@ is you got rid of them.”
 Defense. “Nothing wrong except 
 that there is now no way we can 
 check to see if, on certain crucial 
-galley sheets, you might not have 
-GALLEY SLAVE 
+galley sheets, you might not have
 substituted a harmless blank one 
 from Dr. Baker’s copy for a sheet 
 in your own copy which you had 
@@ -2019,8 +2004,7 @@ on the part of the Defense is
 granted.” 
 The crate was carried in on a 
 large dolly and the two men who 
-handled it opened it. The courtroom was immersed in a dead silence. 
-GALLEY SLAVE 
+handled it opened it. The courtroom was immersed in a dead silence.
 S USAN Calvin waited as the 
 thick slabs of celluform went 
 down, then held out one hand. 
@@ -2151,8 +2135,7 @@ to have Professor Ninheimer complete his statement. I distinctly
 heard him say to the robot that 
 the robot had been instructed to 
 keep its mouth shut about something. There was no mention in 
-your testimony, Professor Ninheimer, as to any instructions to the 
-GALLEY SLAVE 
+your testimony, Professor Ninheimer, as to any instructions to the
 robot to keep silent about anything!” 
 Ninheimer stared wordlessly at 
 the judge. 
@@ -2217,7 +2200,6 @@ want now.”
 “Some of what we want, yes,” 
 said Calvin. “The university will 
 keep Easy in its employ at a considerably higher rental fee. Fur
-GALAXY SCIENCE FICTION 
 thermore, certain underground 
 publicity concerning the trial will 
 make it possible to place a few 
@@ -2283,7 +2265,6 @@ Easy by telling him that if he told
 anyone about your own distortion 
 of the book, you would lose your 
 job. That set up a certain poten
-GALLEY SLAVE 
 tial within Easy toward silence, 
 one that was strong enough to resist our efforts to break it down. 
 We would have damaged the brain 
@@ -2414,7 +2395,8 @@ Ninheimer.
 Calvin turned and left. She did 
 her best to feel no pang of sympathy for the broken man. 
 She did not entirely succeed. 
-— ISAAC ASIMOV 
+— ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 GALLEY SLAVE 
 SANCTUARY 
 By WILLIAM TENN 

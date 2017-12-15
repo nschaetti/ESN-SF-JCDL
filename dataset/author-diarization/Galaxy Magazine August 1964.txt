@@ -9167,7 +9167,8 @@ Complete in Worlds of Tomorrow:
 VALENTINE'S PLANET 
 by Avram Davidson 
 Riproaring story of space adventure— on sale now! 
-THE WATCHERS IN THE GLADE 
+THE WATCHERS IN THE GLADE
+SFGRAM_START_SILVERBERG
 NEIGHBOR 
 BY ROBERT SILVERBERG 
 illustrated by NODEL 
@@ -9329,8 +9330,7 @@ surprise.
 Holt. Lord McDermott is calling,” the bland metallic voice 
 said. 
 “Lord McDermott’s secretary, 
-you mean?” 
-NEIGHBOR 
+you mean?”
 “It is Lord McDermott himself, your lordship.” 
 Holt blinked. “You’re joking,” he said. “It’s fifty years 
 since he called me. If this is a 
@@ -9471,8 +9471,7 @@ control button in his chair. The
 mists on the screen faded, and 
 an image appeared. 
 All Holt could see was a face, 
-shrunken, wizened, wasted. McDermott was past two hundred. 
-NEIGHBOR 
+shrunken, wizened, wasted. McDermott was past two hundred.
 Holt knew, and he looked it. 
 I There was no flesh left on his 
 face. The skin lay like parchment over bone. The left side of 
@@ -9548,7 +9547,7 @@ attack through overstimulation?
 He gripped the controls. He 
 pondered, considered tossing a 
 thousand megawatt beam at McDermott, then decided to use 
-sometliing a little milder. If the 
+something a little milder. If the
 screens really were down all the 
 way, even his feeblest shot would 
 score. 
@@ -9606,8 +9605,7 @@ his place at the head of the table, and stared down the rows at
 their faces, so like his own. He 
 said quietly, “I am going to pay 
 a call on Lord McDermott.” 
-He could see the shock on 
-NEIGHBOR 
+He could see the shock on
 their faces. They were too well 
 disciplined to speak their minds, 
 of course. He was Lord Holt. 
@@ -9743,8 +9741,7 @@ telescreen. Some of them came
 to him, now and then. 
 It was strange that when he 
 finally did stir to pay a call, it 
-should be a call on McDermott. 
-NEIGHBOR 
+should be a call on McDermott.
 Drawing near the enemy 
 keep, he found himselT reluctantly admitting that it was less 
 close range than it seemed 
@@ -9850,8 +9847,7 @@ oval room ringed by windows,
 exhaling a dry, foul stench of 
 death and decay. 
 Andrew McDermott sat 
-squarely in the middle of the 
-, NEIGHBOR 
+squarely in the middle of the
 room, nesting in his life-capsule. 
 A tangled network of tubes and 
 pipes surrounded him. All oi 
@@ -10028,8 +10024,7 @@ Sweeping past them. Holt ascended the shaft to the command room. He peered out, 
 the snowy field. There was a 
 double track in the snow, leading to and from McDermott 
 Keep, and the sunlight blazed 
-in the track. 
-NEIGHBOR 
+in the track.
 Ml 
 The building shuddered suddenly. Holt heard a hiss and a 
 whine. He flipped on his comcnunicator and a robot voice 
@@ -10062,8 +10057,8 @@ could blast McDermott Keep to
 ash. But he would not do it, any 
 more then he would have 
 thrown the switch that would 
-have ended Andrew McDermott’s life. 
-TLyffcDermott did not understand. Not cruelty, but 
+have ended Andrew McDermott’s life.
+McDermott did not understand. Not cruelty, but
 simple selfishness, had kept him 
 from killing the enemy lord. 
 Just as, all these years. Holt had 
@@ -10092,7 +10087,8 @@ quietly, listening to the sound of
 Andrew McDermott’s futile 
 bombardment expending itself against the outer defenses of 
 Holt Keep as the winter night 
-fell.— ROBERT SILVERBERG. 
+fell.— ROBERT SILVERBERG.
+SFGRAM_STOP_SILVERBERG
 BY WYMAN GUIN 
 Illustrated by FINLAY 
 Wild as political conventions are 

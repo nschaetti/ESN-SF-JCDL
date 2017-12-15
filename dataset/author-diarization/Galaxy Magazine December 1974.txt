@@ -8831,7 +8831,8 @@ Kenneth Gatland, President of the
 British Interplanetary Society, and 
 scientist-test pilot Derek Dempster. 
 I’ll tell you more about this one in 
-my next. * 
+my next. *
+SFGRAM_START_SILVERBERG
 THE MAN WHO CAME BACK 
 He returned from the fathomless depths 
 of space to reclaim his lost love— and 
@@ -9003,7 +9004,7 @@ fore. But no one had ever seen a returned colonist before, either.
 He smiled without warmth. 
 “Very well, gentlemen. I’m at your 
 disposal.” 
-T hey started with the peripheral 
+They started with the peripheral
 questions first. 
 “What sort of planet is Novotny 
 IX, Mr. Burkhardt?” 
@@ -9103,8 +9104,7 @@ other glittering towers of New
 York. Jet liners droned overhead; a 
 billion lights shattered the darkness. New York, he thought, was as 
 chaotic and as repugnant to him as 
-ever. He missed Novotny IX. 
-THE MAN WHO CAME BACK 
+ever. He missed Novotny IX.
 But he had had to come back. 
 Smiling gently, he opaqued the 
 windows of his suite. It was winter, 
@@ -9185,7 +9185,7 @@ from the alien. His hand had
 tingled for days afterward. But he 
 knew, from that moment, that he 
 would succeed. 
-B urkhardt had a visitor the 
+Burkhardt had a visitor the
 next morning. A press conference was scheduled again for the 
 afternoon, and Burkhardt had said 
 he would grant no interviews before 
@@ -9250,8 +9250,7 @@ good as if she’d shot him, when she
 told him she was pulling out. Man 
 his age had no business marrying 
 her. And then it was Michaels, and 
-after him Dan Cartwright, and 
-THE MAN WHO CAME BACK 
+after him Dan Cartwright, and
 then Jim Thorne. Right up the 
 ladder to fame and fortune, leaving 
 a trail of used-up husbands behind 
@@ -9394,8 +9393,7 @@ later.
 She called on the fourth day. 
 Burkhardt’s skin crawled as he 
 heard the hotel operator say — in 
-tones regulated only with enormous 
-THE MAN WHO CAME BACK 
+tones regulated only with enormous
 effort — “Miss Leigh is calling from 
 Arizona, Mr. Burkhardt," 
 “Put the call on." 
@@ -9545,8 +9543,7 @@ simple.
 Lily lowered her head. After a 
 moment, she raised it. She was 
 smiling. 
-((YT won’t last a month," RichJ[ardson Elliott grunted, at the 
-THE MAN WHO CAME BACK 
+((YT won’t last a month," RichJ[ardson Elliott grunted, at the
 sight of the announcement in the 
 paper. 
 “The poor dumb bastard," Jim 
@@ -9625,7 +9622,8 @@ pleasure that in only a few weeks he
 would be setting foot once again on 
 the bleak tundra of Novotny 
 IX — this time, with his loving 
-bride. * 
+bride. *
+SFGRAM_STOP_SILVERBERG
 THE BLEEDING MAN 
 The medicine shaker, the bone 
 breaker. I have seen and been 

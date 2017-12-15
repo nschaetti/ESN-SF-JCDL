@@ -4904,7 +4904,8 @@ returns in September issue of If with a
 A. E. VAN VOGT fascinating new novelette. The Expendables. 
 Out soon — watch for it! 
 ★ ★ ★ ★ ★ 
-FOR YOUR INFORMATION 
+FOR YOUR INFORMATION
+SFGRAM_START_SILVERBERG
 The Pain Peddlers 
 By ROBERT SILVERBERG 
 Fame and fortune awaited the 
@@ -5083,7 +5084,6 @@ really wreck you,”
 “I understand perfectly,” Northrop said in his most unctuous 
 tones. “That’s why we’re prepared to raise our offer. We’re 
 well aware of the disastrous ef
-THE PAIN PEDDLERS 
 fects of hospitalization on a 
 small family, even today, in these 
 times of protection. And so we 
@@ -5220,8 +5220,7 @@ Northrop grinned. “We’ll survive. Which is more than the old
 man will. He can’t make it 
 through the night. We haven’t 
 risked a penny, Maurillo. Not a 
-stinking cent.” 
-THE PAIN PEDDLERS 
+stinking cent.”
 TJETURNING TO the office, 
 Northrop turned the papers 
 on the Gardner amputation over 
@@ -5363,8 +5362,7 @@ star surgeon, $250,000 a year’s
 worth of talent. There was the 
 scalpel, gleaming in Steele’s hand. 
 Northrop began to sweat. The 
-amplified brain waves were coming through the intensifier, and he 
-THE PAIN PEDDLERS 
+amplified brain waves were coming through the intensifier, and he
 felt the throbbing in the old man’s 
 leg, felt the dull haze of pain behind the old man’s forehead, felt 
 the weakness of being eighty 
@@ -5531,7 +5529,8 @@ plenty of time to tape his dying
 agonies. The last thought he had 
 was that it was a damned shame 
 he couldn’t star on his own show 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 ★ ★ ★ ★ ★ 
 FORECAST 
 For four years now we've missed the work of one of Galaxy's all-time 

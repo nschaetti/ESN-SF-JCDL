@@ -5356,7 +5356,8 @@ term meteoroid is -recent, and is
 meant to designate meteorites 
 still in space, before they have 
 entered the earth’s atmosphere. 
-—WILLY LEY 
+—WILLY LEY
+SFGRAM_START_DICK
 OH, 
 TO BE 
 A BLOBEL ! 
@@ -5580,8 +5581,7 @@ You can even turn on the vidscreen and look at me.” At the
 phone he snapped the switch 
 which would permit visual communication as well as auditory. 
 “Have a good look,” he said, and 
-displayed his amorphous form 
-OH, TO BE A BLOBEL! 
+displayed his amorphous form
 before the scanning tube of the 
 video. 
 Dr. Jones’ voice came, “I’m 
@@ -5710,8 +5710,7 @@ me to explain your — condition
 to Mr. Munster.” To Munster it 
 said, “Miss Arrasmith is a Blobel.” 
 Munster could only stare at the 
-girl. 
-OH, TO BE A BLOBEL1 
+girl.
 “Obviously,” Dr. Jones continued, “presently in human form. 
 This, for her, is the state of involuntary reversion. During the 
 war she operated behind Terran 
@@ -5843,7 +5842,6 @@ citizen of Titan and also suggests
 that one of the two hybrids be 
 donated to the Council’s jurisdiction.” The UN legal expert 
 explained, “You see, the Mun
-OH, TO BE A BLOBEL! 
 sters’ marriage is breaking up. 
 They’re getting divorced and it’s 
 sticky finding which laws obtain 
@@ -5981,7 +5979,6 @@ on?” George demanded.
 A moment later they were 
 swinging wildly at each other. 
 Fortunately Pete reverted to Blo
-OH, TO BE A BLOBEL! 
 bel form in the nick of time; no 
 harm was done. Now George sat 
 alone, in human shape, while 
@@ -6016,7 +6013,7 @@ But so far, few people had sent
 in the dollar-fifty. 
 I’m a failure, George said to 
 himself. 
-T^ortunately the next child, 
+Fortunately the next child,
 bom in the winter of 2039, 
 showed itself to be a hybrid. It 
 took human form fifty per cent 
@@ -6117,8 +6114,7 @@ with a portion of his body. “It’s
 no use, Viv. I don’t want to go 
 on.” Even the belts; they had 
 been Viv’s idea, rather than his. 
-He was second even there . behind her, falling constantly further behind each passing day. 
-OH, TO BE A BLOBEL1 
+He was second even there . behind her, falling constantly further behind each passing day.
 Viv said, “You have so much 
 to offer the children.” 
 That was true. “Maybe 111 
@@ -6251,8 +6247,7 @@ legal talent, Henry Ramarau.
 “Get me custody of the fourth 
 child; it’ll be a Terran. And 
 we’ll compromise on the two 
-hybrids; I’ll take Maurice and 
-OH, TO BE A BLOBEL! 
+hybrids; I’ll take Maurice and
 she can have Kathy. And naturally she gets that blob, that first 
 so-called child. As far as I’m 
 concerned it’s hers anyhow.” He 
@@ -6383,8 +6378,7 @@ coin rolled down the chute
 and tripped the circuit. Dr. 
 Jones came on, glanced up and 
 saw a stunning, sharp-breasted 
-young woman whom it recognized by means of a quick scan 
-OH, TO BE A BLOBEL! 
+young woman whom it recognized by means of a quick scan
 of its memory banks as Mrs. 
 George Munster, the former Vivian Arrasmith. 
 “Good day, Vivian,” Dr. Jones 
@@ -6494,13 +6488,12 @@ George Munster thought-radiated to all close enough to pick up
 his emanations. 
 Amid frenzied cheers he oozed 
 up the ramp and into his Titanmade car. 
-— PHILIP K. DICK 
+— PHILIP K. DICK
+SFGRAM_STOP_DICK
 TWO by Jack Williamson 
 THE LEGION OF SPACE 
 AFTER WORLD'S END 
-In Magabaok #2— 50c at all newsstands— on sale now! 
-OH, TO BE A BLOBELl 
-m i: 
+In Magabaok #2— 50c at all newsstands— on sale now!
 AWAKENING 
 BY JACK SHARKEY 
 They awoke after ages of hiding 

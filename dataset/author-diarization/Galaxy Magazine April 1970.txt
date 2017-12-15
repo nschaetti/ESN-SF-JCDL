@@ -3031,7 +3031,7 @@ up with the Wine Lodge.”
 “What?” Shrug laughed openly. 
 “Me blow myself up? Do you take 
 me for some sort of bloody hero?” 
-H E LAY more easily now, 
+HE LAY more easily now,
 propped up in the stern of the 
 snowboat. He looked around, eyes 
 shining. 
@@ -3107,12 +3107,13 @@ no need to squint against the glare
 because the eyes have become completely accustomed to it. 
 Jacko was fifteen years old when 
 the blue sky finally changed to sil( Please turn to page 158) 
-DISCOVER A LATENT MOSES 
+DISCOVER A LATENT MOSES
+SFGRAM_START_SILVERBERG
 Krug rivaled God Almighty as the creator 
 of Heaven and Earth and Man. Now he just 
 wanted to talk to all three of them! 
 I 
-L OOK, Simeon Krug wanted to 
+LOOK, Simeon Krug wanted to
 say, a billion years ago there 
 wasn’t even any man, there was 
 only a fish. A slippery thing with 
@@ -3242,8 +3243,7 @@ features, his shaggy brows, his
 thinning hair — he is practically 
 bald and will do nothing about it. 
 Freckles show through the black 
-strands that cross his scalp. He is 
-THE TOWER OF GLASS 
+strands that cross his scalp. He is
 worth several billion dollars fissionable, though he dresses plainly 
 and wears no jewelry. Only the infinite authority of his stance and 
 expression indicate the extent of 
@@ -3381,8 +3381,7 @@ transmat.
 He strode out into the shadow 
 of the tower. His aides greeted 
 him. Someone handed him a list of 
-the day’s visitors. 
-THE TOWER OF GLASS 
+the day’s visitors.
 “Is Krug here yet?” 
 “Fiveminutes,”he was told and 
 in five minutes Krug came through 
@@ -3523,8 +3522,7 @@ Thor Watchman.
 His own politics, such as they 
 were, were definitely Witherer — 
 in a transmat society, where na
-THE TOWER OF GLASS 
-nonal boundaries are obsolete, 
+nonal boundaries are obsolete,
 vhy have a formal government at 
 ill? Let the legislators abolish 
 i Item selves. Let natural law prevail. But he knew that the withering 
@@ -3584,8 +3582,7 @@ after tomorrow’s meals, ran a constant stability check on the structure as com
 to Krug’s financial people, monitored soil temperature in fiftycentimeter gradations to a depth 
 of two kilometers, relayed scores 
 of telephone messages per second 
-and congratulated himself on the 
-fHE TOWER OF GLASS 
+and congratulated himself on the
 dexterity with which he accomplished everything. No human 
 could handle this, he knew, even if 
 there were some way for humans 
@@ -3722,8 +3719,7 @@ brain, like a bomb buried in mud.
 Krug scorned his flesh but he felt 
 only awe for his brain and for the 
 human brain in the abstract. The 
-true Krugness of him was in that 
-THE TOWER OF GLASS 
+true Krugness of him was in that
 soft folded mass of tissue, nowhere 
 else — not in the guts, not in the 
 groin, not in the chesti— but in the 
@@ -3862,7 +3858,7 @@ kind of reply do you plan to make?
 I plan to say. Hello, hello, we 
 hear you, we detect your message, 
 we send greetings, we are intelli( Please turn to page 119) 
-THE TOWER OF GLASS 
+SFGRAM_STOP_SILVERBERG
 DARWIN IN 
 THE FIELDS 
 Three poems celebrating 
@@ -6705,7 +6701,8 @@ the Duluth plant. Do you have instructions for him?”
 “No,” Krug said. “He knows 
 what he’s doing. I’ll go to Vargas 
 now.” 
-The image of Spaulding winked 
+The image of Spaulding winked
+SFGRAM_START_SILVERBERG
 THE TOWER OF GLASS 
 out. Krug entered his liftshaft and 
 rose swiftly to the domed planetarium on the highest level of the 
@@ -6839,8 +6836,7 @@ Now we are sure.”
 Dry-throated, Krug asked, 
 “How distant?” 
 “About three hundred light
-years.” 
-THE TOWER OF'GLASS 
+years.”
 “Not bad. Not bad. Beyond the 
 reach of our probes, beyond the 
 reach of efficient radio contact. 
@@ -6889,7 +6885,7 @@ messages?”
 Vargas said, “There can be no 
 doubt about where the signals are 
 coming from.” 
-I MPOSSIBLE!” Krug roared. 
+IMPOSSIBLE!” Krug roared.
 “Impossible!” He hammered 
 his fists against his hips. “A blue 
 giant — only a couple of million 
@@ -6980,8 +6976,7 @@ about aliens, my friend. If they’re
 truly alien we can’t comprehend 
 any of the parameters. So look — 
 speculate along with me. We have a 
-planet of a blue star, a planet that's 
-THE TOWER OF GLASS 
+planet of a blue star, a planet that's
 far away from its sun but nevertheless is roasted by fantastically 
 strong radiation. The sea is a broth 
 of chemicals constantly boiling. A 
@@ -7112,7 +7107,6 @@ fellow Earthmen constructing
 philosophies around the failures to 
 find intelligent life in the nearby 
 solar systems. What were they saying, these apostles of the New Geo
-THE TOWER OF GLASS 
 centricism? Krug smiled grimly. 
 We are the chosen ones! 
 We are the only children of God! 
@@ -7121,8 +7115,8 @@ the Lord Jashion His people!
 To us jails the universe as our divine heritage! 
 Krug saw the seeds of paranoia 
 in that kind of thinking. 
-H E HAD never thought much 
-ibout God. But it seemed to 
+HE HAD never thought much
+about God. But it seemed to
 him that men were asking too 
 much of the universe when they insisted that on and only on this 
 small planet of one small sun had 
@@ -7245,8 +7239,7 @@ vision of NGC 7293. Indeed he
 resonated at a higher energy state 
 — his skin itself was a fiery jacket 
 for him. 
-“Going out,” he grunted. 
-THE TOWER OF GLASS 
+“Going out,” he grunted.
 He set the transmat coordinates 
 for his Uganda retreat and stepped 
 through. A moment later he was 
@@ -7262,7 +7255,7 @@ shallows. Krug stripped. Rhinoheavy, impala-eager, he pounded
 down the sloping shore to join her 
 in the water. 
 Ill 
-I T TOOK Watchman only a couple of minutes to run to the accident site but by then the lift beetles 
+IT TOOK Watchman only a couple of minutes to run to the accident site but by then the lift beetles
 had moved the fallen block and the 
 bodies of the victims were exposed. 
 A crowd had gathered, all betas. 
@@ -7379,8 +7372,7 @@ At all times two or three offduty androids lounged in front of
 that dome, seemingly idle, actually 
 functioning as casual sentries who 
 would prevent any womb-born one 
-from entering. Sometimes journalists or guests of Krug came wandering this way. The sentries had 
-THE TOWER OF GLASS 
+from entering. Sometimes journalists or guests of Krug came wandering this way. The sentries had
 various deft techniques for leading them away from the chapel 
 without actually provoking the forbidden clash of wills between android and human. The chapel was 
 not open to anyone born of men 
@@ -7513,7 +7505,7 @@ when he was certain that he had
 sent Caliban Driller’s soul to Krug, 
 did Watchman unjack, arise, murmur a brief prayer on his own behalf. He summoned a team of gammas to haul the body away for 
 disposal. 
-T ENSE, drained, yet jubilant 
+TENSE, drained, yet jubilant
 over the redemption of Caliban 
 Driller, he left the chapel and 
 headed back toward the control 
@@ -7548,8 +7540,7 @@ Fileclerk, do you sec that building
 yonder? It is our chapel. I recommend you visit it and cleanse your 
 soul of false values.” 
 “I am not in communion with 
-your church,” said Siegfried Fileclerk. 
-THE TOWER OF GLASS 
+your church,” said Siegfried Fileclerk.
 “And I am not a member of 
 your political party,” Thor Watchman said. “Excuse me. I have responsibilities in the control center.” 
 “Perhaps I could speak with you 
@@ -7687,8 +7678,7 @@ were too obviously absurd with
 instantaneous travel available. The 
 sun plodded along, as always, at a 
 feeble thousand miles an hcflir 
-the leaping travelers had no such 
-THE TOWER OF GLASS 
+the leaping travelers had no such
 handicap. Although they paused 
 fifteen minutes here, twenty minutes there, enjoying a cocktail or 
 nipping a floater, buying small 
@@ -7711,7 +7701,7 @@ spend all your life under the blaze
 of eternal noon. Nevertheless, arriving in New York at 1 140 from 
 California, Manuel resented having had to surrender this segment 
 of morning to the transmat. 
-H IS father greeted him formally 
+HIS father greeted him formally
 in his office with a pressure of 
 palms and hugged Clissa with 
 somewhat more warmth. Leon 
@@ -7820,8 +7810,7 @@ in his own son. For good reason,
 too. Why not prefer a gifted android to a worthless child ? He 
 made us both, didn't he? 
 Let him give the companies to 
-Thor Watchman, Manuel thought. 
-THE TOWER OF GLASS 
+Thor Watchman, Manuel thought.
 The other members of the party 
 were arriving. Krug shepherded 
 everyone toward the transmat 
@@ -7961,8 +7950,7 @@ right — it’s about time I saw it.”
 Wake up with this ugly thing that 
 happened here left far behind. Shall 
 I program an erasure wire for 
-you?” 
-THE TOWER OF GLASS 
+you?”
 “You know I hate having my 
 memory tampered with, Manuel.” 
 “Yes. I’m sorry. You’d better 
@@ -7972,7 +7960,7 @@ go, now.”
 He nodded to the androids. 
 They took her £rms and led her 
 into the transmat. 
-H E WAS alone, except for a 
+HE WAS alone, except for a
 couple of anknown betas who 
 had arrived to take charge of the 
 control center in Watchman’s absence. He walked coolly past them 
@@ -8097,8 +8085,7 @@ catalysts —
 linked together in a specific sequence — 
 ^ the code for each protein is 
 carried by a single gene, which in 
-turn is a particular region on the 
-THE TOWER OF GLASS 
+turn is a particular region on the
 linear DNA molecule— all of this 
 of course you must know. Forgive 
 me for restating such elementary 
@@ -8221,8 +8208,7 @@ low, that even the alphas have demonstrated — pardon me, my friend
 Y ES,” Manuel said. “Certainly.” He pointed toward the 
 distant floor. “What’s going on 
 right down there?” 
-“Those are the replication vats,” 
-THE TOWER OF GLASS 
+“Those are the replication vats,”
 said Bompensiero. “The chains of 
 basic nucleic matter undergo division and extension there. Each 
 vat contains what amounts to a 
@@ -8341,8 +8327,7 @@ but who wanted to avoid the risks
 and burdens of pregnancy. Ectogenes, born of man and woman at 
 one femove, were too thoroughly 
 human in origin to be suitable as 
-tools — but why not carry the process to the next step and manufacture androids? 
-THE TOWER OF GLASS 
+tools — but why not carry the process to the next step and manufacture androids?
 Krug had done that. He had offered the world synthetic humans 
 — far more versatile than robots — 
 who were longlived, capable, complex in personality and totally subservient to human needs. They 
@@ -8475,8 +8460,7 @@ alpha. The maximum, then, was
 six years from conception to full 
 adulthood. He had never full appreciated the swiftness of it all before. Somehow the new knowledge 
 made androids seem infinitely less 
-human to him. Suave, authoritative, commanding Thor Watchman was something like nine or 
-THE TOWER OF GLASS 
+human to him. Suave, authoritative, commanding Thor Watchman was something like nine or
 ten years old, Manuel realized. 
 And the lovely Lilith Meson was — 
 what? Seven? Eight? 
@@ -8614,8 +8598,7 @@ Bushman would be, an Eskimo.
 You didn’t keep me in a separate 
 category outside the human race. 
 Now you keep telling yourself that 
-you’ve fallen in love with a mess of 
-THE TOWER OF GLASS 
+you’ve fallen in love with a mess of
 chemicals. You think you may be 
 doing something sick by having an 
 affair with me.” 
@@ -8754,8 +8737,7 @@ You’re like a king. You don’t have
 to build up your status by putting 
 other people down. You don’t 
 divide the world into people and 
-androids. You never did. And a 
-THE TOWER OF GLASS 
+androids. You never did. And a
 single peek into the vats couldn’t 
 change that.” 
 “Of course it couldn’t,” he said 
@@ -8893,8 +8875,7 @@ He released her. She tugged at his
 wrist, pulling him with her into 
 the syrf. They swam a while and 
 he came out chilled and shivering. 
-At twilight they had cocktails together in the atrium. “You seem so 
-THE TOWER OF GLASS 
+At twilight they had cocktails together in the atrium. “You seem so
 distant,” she told him. “It’s all this 
 transmat jumping. It taRes more 
 out of you than the doctors know. 
@@ -8925,7 +8906,8 @@ Sometimes transmat life gets to
 be too much to cope with . 
 He brought down the curtain on 
 the day. 
-TO BE CONTINUED 
+TO BE CONTINUED
+SFGRAM_STOP_SILVERBERG
 GALAXY BOOKSHELF 
 superiority to ordinary mortals, 
 that made it such a tragedy when 

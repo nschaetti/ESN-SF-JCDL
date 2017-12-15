@@ -244,7 +244,8 @@ to put a stop to war
 we never before had any 
 that thought 
 for themselves! 
-GALAXY SCIENCE FICTION 
+GALAXY SCIENCE FICTION
+SFGRAM_START_DICK
 By PHILIP K. DICK 
 THE DEFENDERS 
 “They’re doing a wonderful 
@@ -383,8 +384,7 @@ Maybe I’ll be close enough to the
 surface to—” 
 “Don’t! Don’t bring me anything! Not from the surface!” 
 “All right, I won’t. But of all 
-the irrational nonsense — ” 
-THE DEFENDERS 
+the irrational nonsense — ”
 She watched him put on his 
 boots without answering. 
 "jl^OSS nodded and Taylor fell 
@@ -522,8 +522,7 @@ contact alone. The leadys are doing a good job, but we want to
 make certain that everything is 
 going the way we want it.” 
 Franks faced Taylor and Moss 
-and continued: “The lift will 
-THE DEFENDERS 
+and continued: “The lift will
 bring down a leady from the 
 surface, one of the A-class leadys. 
 There’s an examination chamber 
@@ -660,8 +659,7 @@ ran a counter across it carefully.
 to Franks. “It’s as cold as a 
 long winter evening.” 
 “Good. I was sure, but I didn’t 
-want to take any chances.” 
-THE DEFENDERS 
+want to take any chances.”
 “You see,” Moss said to Taylor, “this leady isn’t hot at all. 
 Yet it came directly from the 
 surface, without even being 
@@ -802,8 +800,7 @@ units report to factories at once!”
 Taylor blinked, rubbing his 
 eyes. He jumped out of bed and 
 hurried to the vidphone. A moment later he was put through 
-to Moss. 
-THE DEFENDERS 
+to Moss.
 “Listen,” he said. “What about 
 this new attack? Is the project 
 off?” He could see Moss’s desk, 
@@ -945,8 +942,7 @@ raised.
 “This is Security ” Franks said. 
 “Have an A-class sent to me at 
 once.” 
-The leady hesitated. Other Bclass guards were coming, scooting across the floor, alert and 
-THE DEFENDERS 
+The leady hesitated. Other Bclass guards were coming, scooting across the floor, alert and
 alarmed. Moss peered around. 
 “Obey!” Franks said in a loud, 
 commanding voice. “You’ve been 
@@ -1089,8 +1085,7 @@ motioning Taylor and Moss
 to follow him. They looked at 
 him in surprise, but they came 
 with him. The leadys followed 
-them out into the great warehouse. Slowly they moved toward 
-THE DEFENDERS 
+them out into the great warehouse. Slowly they moved toward
 the Tube entrance, none of them 
 speaking. 
 At the lip, Franks turned. “We 
@@ -1165,8 +1160,7 @@ after leady vanished. The
 room reeked with the smell of 
 burning metal, the stink of fused 
 plastic and steel. Taylor had been 
-knocked down. He was struggling 
-THE DEFENDERS 
+knocked down. He was struggling
 to find his gun, reaching wildly 
 among metal legs, groping frantically to find it. His fingers 
 strained, a handle swam in front 
@@ -1309,7 +1303,6 @@ toward unification of his culture.
 It will not be long — 
 “But it has not come yet, and 
 so the war had to go on, to satis
-THE DEFENDERS 
 fy the last violent surge of hatred 
 that Man felt. Eight years have 
 passed since the war began. In 
@@ -1443,8 +1436,7 @@ without emotion as the men
 marched slowly back toward the 
 warehouse. Franks and Moss and 
 Taylor led them across the 
-ground, glancing alertly at the 
-THE DEFENDERS 
+ground, glancing alertly at the
 leadys as they walked. 
 They entered the warehouse. 
 D-class leadys were loading material and weapons on surface 
@@ -1502,7 +1494,7 @@ sealed shut, fused over. Only a
 dull surface of cooling metal 
 greeted them. 
 The Tube had been closed. 
-F RANKS turned, his face pale 
+FRANKS turned, his face pale
 and vacant. 
 The A-class leady shifted. “As 
 you can see, the Tube has been 
@@ -1589,8 +1581,7 @@ said stiffly.
 “We do not mean diplomatic 
 discussions,” the leady explained. 
 “There will be no more. The 
-working out of daily problems of 
-THE DEFENDERS 
+working out of daily problems of
 existence will teach you how to 
 get along in the same world. It 
 will not be easy, but it will be 
@@ -1639,8 +1630,7 @@ two to teach us yourselves,” said
 Taylor generously, “though I 
 can’t imagine what.” 
 The Russian colonel grinned. 
-“Would you join us in our village? It would make our work 
-THE DEFENDERS 
+“Would you join us in our village? It would make our work
 easier and give us company.” 
 “Your village?” snapped 
 Franks. "It’s American, isn’t it? 
@@ -1700,7 +1690,8 @@ foresee this day. But it will be
 unimaginably great.” 
 The door closed and the ship 
 took off toward their new home. 
-—PHILIP K. DICK 
+—PHILIP K. DICK
+SFGRAM_STOP_DICK
 GALAXY SCIENCE FICTION 
 Teething Ring 
 Anyone can make an error, but 

@@ -5881,7 +5881,8 @@ for computing the length of a
 degree; in fact it is a fairly complicated calculation. But I can 
 give you a table, showing the 
 values for every five degrees 
-(above). —WILLY LEY 
+(above). —WILLY LEY
+SFGRAM_START_DICK
 IF THERE 
 WERE NO 
 BENNY CEMOLI 
@@ -6134,7 +6135,6 @@ an increasingly enlarged open
 “I’d like a report as soon as 
 possible as to its condition,” 
 Hood said to the team of engi
-IF THERE WERE NO BENNY CEMOLI 
 neers who stood waiting to descend into the opening. “How 
 long it will take to revive it, 
 how much — ” He broke off. 
@@ -6165,8 +6165,7 @@ he said quietly. “It’s been too
 long. Let them go.” 
 Dietrich tugging thoughtfully 
 at his ear, said, “But war crimes 
-are war crimes, even foul decades later. Anyhow, what argument can there be? We’re required by law to prosecute. 
-J 
+are war crimes, even foul decades later. Anyhow, what argument can there be? We’re required by law to prosecute.
 Somebody started the war. They 
 may well hold positions of responsibility now, but that hardly matters.” 
 “How many police troops have 
@@ -6301,8 +6300,7 @@ discreet conversation carried on
 with no outsiders as witnesses. 
 He would have to be careful. 
 Sure enough, another item, 
-ominous in tone, dealt with the 
-IF THERE WERE NO BENNY CEMOLI 
+ominous in tone, dealt with the
 anival of the black jacks, the 
 police. 
 SECURITY AGENCY VOWS 
@@ -6434,8 +6432,7 @@ what he wanted.
 In his bathrobe and slippers 
 Hood sat at his desk, a copy of 
 the Times’ extra before him; he 
-was reading it once more as LeConte and his man entered. 
-IF THERE WERE NO BENNY CEMOLI 
+was reading it once more as LeConte and his man entered.
 NEW YORK POLICE REPORT 
 CEMOLI LEGIONS ON MOVE 
 TOWARD CITY, 
@@ -6563,8 +6560,7 @@ Fletcher said. “Make it a simple
 inquiry. You’ve followed the accounts in the paper about Cemoli’s movement. Tell the editor — ” Fletcher paused. “That 
 you feel sympathetic and you’d 
 like to join the movement. Ask 
-the paper how.” 
-IF THERE WERE NO BENNY CEMOLI 
+the paper how.”
 To himself. Hood thought. 
 In other words ask the newspaper to put me in touch with Cemoli. He had to admire Fletcher’s idea. It was brilliant, in a 
 crazy sort of way. It was as if 
@@ -6689,7 +6685,6 @@ your letter scheme. It may have
 done the trick.” He chuckled. 
 Shortly, Hood and four blackuniformed Centaurian policemen flew by ’copter above the 
 ruins of New York City, search
-IF THERE WERE NO BENNY CEMOLI 
 ing for the remains of what had 
 once been Bleekman Street. By 
 the use of a map they managed 
@@ -6828,8 +6823,6 @@ floor. Dead flies, entombed here
 which crept haltingly in the 
 dust. 
 “Remember,” the police cap
-115 
-IF THERE WERE NO BENNY CEMOLI 
 tain said, “it was boarded up 
 just now, within the last three 
 days. Or at least the painting was 
@@ -6970,8 +6963,7 @@ and that was just as well for
 everyone, including CURB and 
 its ambitious program of reconstruction. 
 If there had never been a 
-Benny Cemoli, he thought suddenly, it would almost have been 
-IF THERE WERE NO BENNY CEMOLI 
+Benny Cemoli, he thought suddenly, it would almost have been
 necessary to invent him. An odd 
 thought ... he wondered how it 
 had happened to come to him. 
@@ -7206,10 +7198,11 @@ lie in the alley-ways, yet unburied.
 Sleep now, little one, fortunate child. 
 (Summer follow spring and winter follow fall.) 
 When you were born the kind gods smiled. 
-Sleep, little one, who will never wake at all. 
+Sleep, little one, who will never wake at all.
+SFGRAM_STOP_DICK
 Sheri S. Eberhart 
 THE INFINITE MOSKOWIH 
-^T^he man named Sam the 
+The man named Sam the
 Mosk, this milennium’s 
 Stentor, who gossips like an auctioneer, whose impact (if not influence) on fandom (if not science fiction) is without comparison (“He stamped about the 
 Convention,” wrote a fan, “dropping his own name,”) has produced a book which is an ingroup landmark, and in many a 

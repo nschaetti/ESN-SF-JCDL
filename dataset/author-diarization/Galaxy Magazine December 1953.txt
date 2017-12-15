@@ -6284,7 +6284,8 @@ by Gordon R. Dickson. Don't let the exotic title mislead you. This far-distant
 station out in space is no home away from homel On the other hand, “home" 
 has a lot to do with the adrenal-tense conflict and the explosive ending. 
 ORIGINS OF GALACTIC MEDICINE 
-Conclusion of a 3-part serial 
+Conclusion of a 3-part serial
+SFGRAM_START_ASIMOV
 The caves of steel 
 SYNOPSIS 
 The colonization of the Galaxy 
@@ -6323,8 +6324,7 @@ Earthmen are forming Medievalist organizations, groups dedicated to an anti-robo
 philosophy and to the belief that 
 Earth's salvation is to be found 
 in her primitive pre-City way of 
-life. The philosophy is an attractive one. Even Julius Enderby, 
-THE CAVES OF STEEL 
+life. The philosophy is an attractive one. Even Julius Enderby,
 New York City's Commissioner 
 of Police, wears old-fashioned 
 spectacles and has a genuine 
@@ -6428,8 +6428,7 @@ XIV
 B aley remained standing, 
 in a tetany of shock, as 
 Jessie ran to him, seized 
-his shoulders, huddled close. 
-THE CAVES OP STEEL 
+his shoulders, huddled close.
 His pale lips formed the word, 
 “Bentley?” 
 She looked at him and shook 
@@ -6604,8 +6603,7 @@ an assistant dietician, it was
 like that. Remember Elizabeth 
 Thornbowe?, She was a Medievalist. She was always talking 
 about how all our troubles came 
-from the City and how things 
-THE CAVES Of STEEL 
+from the City and how things
 were better before the Cities 
 started. 
 "I used to asg her how she 
@@ -6645,7 +6643,7 @@ words now sounded flip and su
 perficial in his own ears. He said 
 gently, “Keep to the point, 
 Jessie.” 
-S HE went on, “Anyway, Lizzy 
+SHE went on, “Anyway, Lizzy
 was always talking about how 
 there’d come a day and people 
 had to get together. She said it 
@@ -6748,8 +6746,7 @@ Baley looked at her sadly.
 “And you never told me?” 
 Jessie’s voice trembled. “I’m 
 sorry, Lije.” 
-“Well, that won’t help— being 
-THE CAVES OF STEEL 
+“Well, that won’t help— being
 sorry, I mean. I want to know 
 about the meetings. In the first 
 place, where were these klatsches 
@@ -6824,8 +6821,7 @@ little kaffee-klatsch you belonged
 to. Did they ever hold open demonstrations? Did they ever destroy robots — start riots — kill 
 people?” 
 "Never! Lije, I wouldn’t do any 
-of those things. I wouldn’t stay 
-OALAXY SCIENCE FICTION 
+of those things. I wouldn’t stay
 a member if they tried it.” 
 “Well, then, why do you say 
 youVe done a terrible thing? Why 
@@ -6898,8 +6894,7 @@ wherever.”
 “Describe the men you think 
 you’ve tabbed. We’ll see if Jessie 
 can recognize them.” 
-R. Daneel went through the 
-THE CAVES OF STEEL 
+R. Daneel went through the
 list with clinical exactness. Jessie 
 listened with an expression of 
 dismay. As the categories of 
@@ -7002,8 +6997,7 @@ wife treasured that fact. It gave
 her a vicarious feeling of wickedness and compensated for a completely proper life.” 
 “Why should a law-abiding 
 woman wish to feel wicked?” 
-Baley almost smiled. “Because 
-THE CAVES OF STEEL 
+Baley almost smiled. “Because
 she IS law-abiding. Anyway, I did 
 a very foolish thing. In a moment 
 of irritation, I insisted that the 
@@ -7110,8 +7104,7 @@ you?”
 do I condemn you. Go, and sin 
 no more.” ’ ” 
 R DANEEL listened attentive• ly. He said, “What is adultery?” 
-“That doesn’t matter. It was a 
-GALAXY SCIENCE FICTION 
+“That doesn’t matter. It was a
 crime for which the accepted punishment was stoning — that is, 
 stones were thrown until the guilty 'one was killed.” 
 “And the woman was guilty?” 
@@ -7178,8 +7171,7 @@ Years later, he had poked carefully through police files and
 learned the truth. Uncle Boris 
 had fallen beneath the treads of 
 a transport. It was a disillusioning ending to a romantic myth. 
-Yet the myth would always 
-THE CAVES OF STEEL 
+Yet the myth would always
 arise in his mind, at least momentarily, whenever his nostrils 
 caught a whiff of raw yeast. 
 Yeast Town was not the official 
@@ -7314,8 +7306,7 @@ sharp, despite the laboring airpumps whose humming made a
 steady background noise. 
 A man had risen at the other 
 end of the room and was taking 
-off an apron. He was of moderate height, his face deeply lined, though he was comparatively 
-THE CAVES OF STEEL 
+off an apron. He was of moderate height, his face deeply lined, though he was comparatively
 youthful, and his hair just beginning to grizzle. He had large 
 knobby hands, which he wiped 
 slowly on a celltex towel. 
@@ -7352,7 +7343,7 @@ your big jokes for your girlfriend. Where can we talk?”
 about the balance room? Suit 
 yourself about that. Me, I’ve got 
 nothing to say — ^nothing at all.” 
-T>ALEY thumbed Clousarr into the balance room. It was 
+TALEY thumbed Clousarr into the balance room. It was
 square and antiseptically white, 
 air-conditioned independently of 
 the' larger room — and more efficiently. Its walls were lined with 
@@ -7378,8 +7369,7 @@ chemist is a soup-pusher, a stinkoperator. A zymologist is a man
 who helps keep a fewj^illion people alive. I’m a yeast-culture specialist.” 
 “All right,” sai^ Baley. “Continue talking.” 
 But Clousarr was not to be- diverted. “This laboratory keeps 
-New York Yeast going. There 
-GALAXY SCIENCE FICTION 
+New York Yeast going. There
 isn’t a day, not one hour, that we 
 haven’t got cultures of every 
 strain of yeast in the Company 
@@ -7445,9 +7435,7 @@ do you want to fine me again?”
 “Night before last, there was a 
 near-riot at a shoe department 
 in the Bronx. You were seen 
-there.” 
-THE CAVES OF STEEL 
-12S 
+there.”
 “By whom?” 
 Baley said, “It was at mealtime for you here. Did you eat 
 the evening meal night before 
@@ -7514,8 +7502,7 @@ official attitude. You are not angry with him, are you?”
 “Not at all, Elijah,” said R. 
 Daneel. 
 “Then show that there are no 
-hard feelings. Put your arm 
-GALAXY SCIENCE FICTION 
+hard feelings. Put your arm
 about his shoulder.” 
 “I will be glad to,” said R. Daneel. He stepped forward. 
 Clousarr put down his fork. 
@@ -7542,7 +7529,6 @@ R. Daneel stepped back and
 stood quietly against the door 
 just behind Baley. Clousarr, 
 panting harshly, his fists clench
-THE CAVES OF STEEL 
 ed, his face White, faced Baley. 
 Baley said, “All right, smart 
 boy. What makes you think Daneel's a robot?” 
@@ -7676,8 +7662,7 @@ be no more human than a blob
 of yeast. Can’t you see that?” 
 Clousarr had tried to interrupt several times and failed 
 against Baley’s furious torrent. 
-Now. when Baley paused in sheer 
-THE CAVES OF STEEL 
+Now. when Baley paused in sheer
 emotional exhaustion, he said 
 weakly, “Copper turned philosopher. Well, what do you know?” 
 ¥> DANEEL re-entered. Baley looked .at him and 
@@ -7717,7 +7702,7 @@ Then, as Baley absorbed that
 silently, R. Daneel added gravely, “Or if you prefer the phrase — 
 murdered.” 
 CHAPTER XVI 
-T>ALEY replaced his blaster, 
+TALEY replaced his blaster,
 but kept his hand unobtrusively upon its butt. He said, 
 “Walk ahead of us, Clousarr, to 
 17th Street Exit B.” 
@@ -7812,8 +7797,7 @@ the Motorway engulfed them and
 there was only the soft whirr of 
 the squad-car motor and the hiss 
 of its wheels on the pavement until they reached the Deportment. 
-Baley signed a detention certificate for Clousarr and left him 
-THE CAVES OF STEEL 
+Baley signed a detention certificate for Clousarr and left him
 in appropriate hands. Following 
 that, he and R. Daneel took the 
 Motospiral up the levels to 
@@ -7875,8 +7859,7 @@ his blow to my face just after we
 left the factory. He must have 
 been thinking of what you said, 
 so he simultaneously tested your 
-statement, worked off his aggressive feelings and had the pleasure 
-GALAXY SCIENCE FICTION 
+statement, worked off his aggressive feelings and had the pleasure
 of seeing me placed in. what 
 seemed to him a position of inferiority. In order to be so motivated and allowing for the delta 
 variations in his quintic . 
@@ -7940,8 +7923,7 @@ in expostulation to heaven and,
 as he did so, his eyes fell on R. 
 Daneel. 
 Baley thought sardonically: 
-First time you’ve looked Daneel 
-THE CAVES OF STEEL 
+First time you’ve looked Daneel
 in the face. Take a good look, 
 Julius! 
 The Commissioner said in a 
@@ -8012,8 +7994,7 @@ long and half an inch wide, with
 a mica window at one end. The 
 fist was in contact with his skull 
 as though the robot’s last act 
-had been to touch his head. The 
-GALAXY SCIENCE FICTION 
+had been to touch his head. The
 thing he was holding was an 
 alpha-sprayer. You know what 
 they are, I suppose?” 
@@ -8051,8 +8032,7 @@ afraid you’ll have to stay in the
 City until we get your evidence 
 down on wire-film. I’ll have you 
 escorted to a room. You won’t 
-mind being under guard, I hope?” 
-THE CAVES OF STEEL 
+mind being under guard, I hope?”
 Dr. Gerrigel asked nervously, 
 “Do you think it’s necessary?” 
 “It’s safer.” 
@@ -8187,8 +8167,7 @@ was eating. For a second or so,
 after he had gulped down the 
 last mouthful, his fork still 
 slithered aimlessly over the slick 
-disposable plate, searching automatically for something that was 
-THE CAVES OF STEEL 
+disposable plate, searching automatically for something that was
 no longer there. 
 He became aware of it and put 
 down his fork with a muffled, 
@@ -8314,8 +8293,7 @@ this very nasty situation.”
 “¥ ASK myself, why am I being framed? Obviously, to 
 get rid of me. But why? Again, 
 obviously, because I am dangerous to someone. I am doing my 
-best to be dangerous to whoever 
-THE CAVES OF STEEl 
+best to be dangerous to whoever
 killed Dr. Sarton in Spacetown. 
 That might mean the Medievalists. of course, or at least the 
 inner group among them. It 
@@ -8383,8 +8361,7 @@ Spacetown and Earth.”
 CHAPTER XVII 
 T>ALEY looked at his watch 
 with something close to detachment. It was 21:45. In two 
-and a quarter hours, it would be 
-GAIAXY SCIENCE FICTION 
+and a quarter hours, it would be
 midnight. He had been awake 
 since before six and had been 
 under tension now for more than 
@@ -8449,9 +8426,8 @@ than an alien one. The difficulty
 was in finding the native element 
 best suited for our purposes. You 
 yourself, Elijah, were an interesting experiment.” 
-"I? What do you mean?” demanded Baley. 
-THE CAVES OF STEEL 
-“Wc were glad your Commissioner recommended you. From 
+"I? What do you mean?” demanded Baley.
+“We were glad your Commissioner recommended you. From
 your psychic profile, we judged 
 you to be a useful specimen. Cerebroanalysis confirmed our judgment. You are a practical man, 
 Elijah. You do not moon romantically over Earth’s past, despite your healthy interest in it. 
@@ -8512,8 +8488,7 @@ you became rather distantly approving and no more. Your practical nature stood i
 made us realize that our only 
 hope was the romantics. And the 
 romantics, unfortunately, were 
-all Medievalists, actual or potential.” 
-GALAXY SCIENCE MCTION 
+all Medievalists, actual or potential.”
 T>ALEY felt irrationally proud 
 of himself, glad of his stubbornness and happy that he had 
 disappointed them. Let them experiment with someone else. 
@@ -8545,8 +8520,7 @@ lecture from you.
 “So. you see, we of Spacetown 
 had already succeeded without 
 knowing it. We ourselves, rather 
-than anything we tried to introduce, were the unsettling factor. 
-THE CAVES OF STEEL 
+than anything we tried to introduce, were the unsettling factor.
 We crystallized the romantic impulses on Earth into Medievalism, 
 and induced an organization. 
 After all, it is the Medievalist 
@@ -8713,9 +8687,7 @@ It’s different now. Can you get
 a copy of the film?” 
 “Yes. partner Elijah.” 
 “I mean now — instantly!” 
-“In ten minutes, if I can use 
-THE CAVES OF STEEL 
-0 
+“In ten minutes, if I can use
 the Department transmitter.” 
 The process took less than that. 
 Baley stared at the small aluminum block he held in his trembling hands. Within it, the subtle 
@@ -8735,7 +8707,7 @@ better come to my office.’
 Baley’s eyes flicked toward R. 
 Daneel, but met no answering 
 look. He followed Enderby out. 
-J ULIUS ENDERBY nervously. 
+JULIUS ENDERBY nervously.
 tramped the floor before his 
 desk. Baley watched him, himself far from composed. Occasionally, he glanced at his watch. 
 It was 22:45. 
@@ -8786,8 +8758,7 @@ alpha-sprayer.”
 The Commissioner’s fingers 
 intertwined. He said. “Why did 
 Jessie come to see you here this 
-afternoon?” 
-GALAXY SCIENCE FICTION 
+afternoon?”
 “You asked me that before 
 Commissioner. Same answer. 
 Family matters.” 
@@ -8820,8 +8791,7 @@ seen talking to him this afternoon. She was in tears and some
 of her words were heard. They 
 were harmless in themselves, but 
 two and two can be added up, 
-Lije. And you had an opportunity to obtain the weapon.” 
-THE CAVES OP STEEL 
+Lije. And you had an opportunity to obtain the weapon.”
 Baley interrupted. “If I were 
 wiping out all evidence against 
 Jessie, would I arrest Francis 
@@ -8920,8 +8890,7 @@ confederates. And he has a castiron alibi for the night and morning of the Space
 checked that almost right away.” 
 “I never said it was Clousarr, 
 Commissioner. You did. It could 
-be anyone in the Medievalist organisation. Clousarr is just the 
-GALAXY SCIENCE FICTION 
+be anyone in the Medievalist organisation. Clousarr is just the
 owner of a face that Daneel happened to recognize. Though there 
 is one queer thing about him.” 
 “What?” . asked Enderby. 
@@ -8991,9 +8960,8 @@ For the first time since R.
 Daneel had entered the City, the 
 Commissioner spoke directly to 
 the robot. “Hold him, you. First 
-Law!” 
-THE CAVES OF STEEL 
-R DANEEL moved sudden• ly. His hand clamped down 
+Law!”
+DANEEL moved sudden• ly. His hand clamped down
 on Baley’s wrist. He said quietly, 
 “I cannot perjnit this, partner 
 Elijah. You must do no harm to 
@@ -9060,8 +9028,7 @@ for Commissioner Enderby to
 have murdered Dr. Sarton.” 
 “Listen. Enderby begged me to 
 take the case. Why? In the first 
-place, we were college friends and 
-GALAXY SCIENCE FICTION 
+place, we were college friends and
 he thought he could count on my 
 loyalty-index. Secondly, he knew 
 Jessie was a member of an underground organization and he 
@@ -9125,8 +9092,7 @@ you, Commissioner.”
 Tj’'NDERBY said, “There could 
 be spies in the Department, 
 too. The Medievalists could have 
-us riddled with them. Your wife 
-THE CAVES OF STEEL 
+us riddled with them. Your wife
 was one, and if you don’t find it 
 impossible that I should be one, 
 why not others in the Department?” 
@@ -9193,8 +9159,7 @@ Sammy’s hands, killed Dr. Sarton, returned the blaster to R.
 Sammy, who took it back across 
 the fields to New York City. And 
 today he destroyed R. Sammy, 
-who had become dangerous. 
-GALAXY SCIENCE FICTION 
+who had become dangerous.
 “That explains the whole thing. 
 The presence of the Commissioner, the absence of a weapon. 
 And it makes it unnecessary to 
@@ -9260,9 +9225,7 @@ occurred to me then that your
 near-sightedness and your glasses were the key. They don’t have 
 near-sightedness on the Outer 
 Worlds, I suppose, or they might 
-have reached the true solution of 
-THE CAVES OF STEEL 
-GALAXY SCIENCE FICTION 
+have reached the true solution of
 the murder almost at once. Commissioner, when did you break 
 your glasses?” 
 “What do you mean?” 
@@ -9328,8 +9291,7 @@ to Spacetovwi at all times.
 Commissioner’s plan might have 
 been. He made the appointment 
 with Dr. Sarton, but deliberately 
-came early — at dawn, in fact. Dr. 
-THE CAVES OF STEEL 
+came early — at dawn, in fact. Dr.
 Sarton would be sleeping, but 
 you, Daneel, would be awake. I 
 assume, by the way, you were 
@@ -9398,8 +9360,7 @@ C ommi ssioner ! ’ ’
 He lunged and wrenched them 
 from the Commissioner’s hand. 
 He held them out to R. Daneel. 
-“That’s proof enough, I think, 
-GALAXY SCIENCE FICTION 
+“That’s proof enough, I think,
 amfili, Phi/ofophar and Scianfiif 
 This It Gaorg* Adomski's sworn tesHmony on tha only foea-to-fafia 
 encounter with a human being from another planet. This is his complete 
@@ -9455,8 +9416,7 @@ coming to.”
 The Commissioner groaned. 
 He stared speechlessly at them. 
 Baley said, ‘‘Commissioner, do 
-you hear me?” 
-THE CAVES OF STEEL 
+you hear me?”
 The Commissioner nodded 
 listlessly. 
 “All right, then. The Spacers 
@@ -9528,8 +9488,7 @@ leave Earth myself, but when
 schools for emigrants are finally 
 established, there’s Bentley. If 
 someday Bentley and you, to
-isa 
-GALAXY SCIENCE FICTION 
+isa
 gethcr might be able to . 
 "Perhaps.” R. Daneel’s face 
 was emotionless. 
@@ -9553,7 +9512,8 @@ no more!”
 Baley, smiling, took R. Daneel’s elbow and they walked out 
 the door, fleshly arm in robotic 
 arm. 
-—ISAAC ASIMOV 
+—ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 BEYOND FANTASY FICTION JANUARY 1954 
 CALI ME WIZARD 
 by Cve/yn i. Smith 

@@ -6142,7 +6142,8 @@ from 1960 to date, our Back Number Department has a limited
 supply available at 50c each, any three issues for $1.00, regardless of original cover price. Copies sent postpaid anywhere in U.S. 
 or Canada. Sorry, no copies before 1960 at present available. 
 Send dates and title of issues you wish with remittance to Galaxy 
-Publishing Corp., 421 Hudson Street, New York City 1001 
+Publishing Corp., 421 Hudson Street, New York City 1001
+SFGRAM_START_SILVERBERG
 THE SIXTH PALACE 
 by ROBERT SILVERBERG 
 St was the richest treasure in 
@@ -6333,7 +6334,6 @@ and breathe. Plaques of purest
 lead, engraved with lathework 
 that dazzled the mind and made 
 the heart hesitate. Cunning in
-THE SIXTH PALACE 
 taglios in granite, from the workshops of a frosty world half a 
 parsec from nowhere. A scatter 
 of opals, burning with an inner 
@@ -6464,7 +6464,6 @@ together like that of a chilled
 spider. Anything might happen 
 now. The robot might propound 
 riddles, like the Sphinx con
-THE SIXTH PALACE 
 fronting Oedipus. It might demand the proofs of mathematical theorems. It might ask the 
 translation of strange words. So 
 they gathered, from their knowledge of what had befallen other 
@@ -6605,8 +6604,7 @@ game, then. The robot had cheated. Arbitrarily, maliciously, it
 had lashed out at Lipescu, punishing him for the correct answer. 
 Did the robot cheat, Bolzano 
 wondered? Could they act in 
-malicious spite? No robot he 
-THE SIXTH PALACE 
+malicious spite? No robot he
 knew was capable of such actions. But this robot was unlike 
 all others. 
 For a long while, Bolzano remained huddled in the cabin. 
@@ -6746,7 +6744,6 @@ did? Inwardness. Understanding.
 Truth. 
 There could be inwardness and 
 understanding and truth in ran
-THE SIXTH PALACE 
 dom answers, Bolzano realized. 
 Where earnest striving had failed, mockery had succeeded. He 
 had staked his life on nonsense, 
@@ -6855,7 +6852,8 @@ speaking in rational terms.
 Bolzano shrieked. He saw the 
 brightness coming toward him. 
 Death followed instantly. 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 On your newsstand now — 
 THE BEST SCIENCE FICTION 
 FROM WORLDS OF TOMORROW 
@@ -6869,8 +6867,7 @@ C. C. MacApp
 Cordwainer Smith 
 Jack Williamson 
 Robert F. Young 
-Get your copy today 
-THE SIXTH PALACE 109 
+Get your copy today
 BY J.T. MclNTOSH 
 Illustrated by MORROW 
 They lived forever — and, of 

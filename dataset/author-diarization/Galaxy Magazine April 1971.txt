@@ -9417,7 +9417,8 @@ Borthan is ruled by the Cove- Glin try to turn him over to Stirnant, a puritanic
 nies self. Even the pronoun is Kinnall escapes once more, finds 
 never to be uttered - hence the cover as a common laborer. He 
 "obscenity” of the autobiography, decides to make his way as a comOnly between bondbrothers and moner with the help of H alum's 
-bondsisters is any "soul-bearing” father, who controls trade in prospermitted. perous Manneran. 
+bondsisters is any "soul-bearing” father, who controls trade in prospermitted. perous Manneran.
+SFGRAM_START_SILVERBERG
 Part Two 
 ROBERT SILVERBERG 
 A 
@@ -9425,7 +9426,7 @@ A
 OF 
 \ CHAmES 
 VII 
-M ANNERAN, the province, 
+MANNERAN, the province,
 was favored by the gods. The 
 air was mild and sweet, filled all 
 the year through with the fragrance of flowers. Winter does not 
@@ -9530,7 +9531,7 @@ on Naming Day. From all over the
 continent they come for that festival, to the vast profit of the Mannerangi hostelkeepers. Why, I 
 was named in the Stone Chapel 
 myself. 
-W HEN we were docked in Manneran and the longshoremen 
+WHEN we were docked in Manneran and the longshoremen
 were at work unloading our cargo 1 
 collected my pay and left ship to 
 enter town. At the foot of the pier 
@@ -9605,8 +9606,7 @@ Helalam lived just outside the city,
 in a cool, leafy suburb of grand 
 homes and glistening lakes; a 
 high brick wall shielded his house 
-from the view of passersby. 1 rang 
-ATIMEOFCHANGES 
+from the view of passersby. 1 rang
 at the gate and waited to be scanned. A voice within the house, 
 some butler, no doubt, queried me 
 over the scanner line and I replied, “Kinnall Darival of Salla, 
@@ -9737,8 +9737,7 @@ her in line.”
 from this island?” 
 “At any moment,” said the High 
 Justice. “How amazed she will be, 
-to find you here!” 
-ATIME OF CHANGES 
+to find you here!”
 I ASKED him concerning my 
 death. He replied that word had 
 come two years earlier that I was 
@@ -9805,7 +9804,7 @@ the Port’s daughter, a connection that had come to me because
 of my high birth alone — and where 
 was the effect of merit in any of 
 that? 
-T he searchers are getting closer 
+The searchers are getting closer
 to me all the time. Yesterday, 
 while on a long walk through this 
 zone of the Burnt Lowlands, I 
@@ -9819,7 +9818,7 @@ by some suicidal impulse, maybe — I heard a droning in the sky
 and looked up to see a plane of the 
 Sallan military passing overhead. One does not often see skyvehicles here. It swooped and circled, hornfowl-fashion, but 1 huddled under a twisted erosion-knoll 
 and I think I went unnoticed. 
-1 might be mistaken about these 
+I might be mistaken about these
 intrusions: the groundcar just 
 some hunting party casually passing through the region, the plane 
 merely out on a training flight. 
@@ -9832,7 +9831,7 @@ being interrupted before 1 am
 done. Stirron, let me be for just a 
 few more weeks! 
 VIll 
-T he High Justice of the Port is 
+The High Justice of the Port is
 one of Manneran’s supreme officials. He holds jurisdiction over 
 all commercial affairs in the 
 capital. If there are disputes between merchants they are tried in 
@@ -9867,8 +9866,7 @@ through intricate and well-nigh
 impracticable impeachment 
 procedures. Thus it comes to pass 
 that a vigorous High Justice, such 
-as Segvord Helalam, can become 
-ATIME OF CHANGES 
+as Segvord Helalam, can become
 more powerful in Manneran than 
 the prime septarch himself. The 
 septarchy of Manneran is in decay in any case; two of the seven 
@@ -9943,7 +9941,7 @@ gave him. Once this was clear to
 me I knew that Segvord had 
 placed me on the path to great 
 power in Manneran. 
-I MPATIENTLY I awaited Halum’s return from her isle in the 
+IMPATIENTLY I awaited Halum’s return from her isle in the
 Gulf of Sumar. Neither bondsister nor bondbrother had I had for 
 over two years and drainers could 
 not take their place; I ached to sit 
@@ -9991,13 +9989,12 @@ to her and embraced her, but suddenly I feared her in her transformations.
 hoarse-voiced, dry-throated. 
 “She is not yet here.” A voice 
 like falling snow, deeper than Halum’s, more resonant, colder. 
-1 was stunned. Like enough to 
+I was stunned. Like enough to
 Halum to be her twin! I knew of 
 only one sister to Halum, then still 
 a child, not yet sprouting her 
 breasts. It was not possible for her 
-to have concealed from me all her 
-A TIME OF CHANGES 
+to have concealed from me all her
 life a twin or a sister somewhat 
 older. But the resemblance was 
 extraordinary and disturbing. 1 
@@ -10012,7 +10009,7 @@ gulf of night, and that this false
 Halum before me was a devilishly 
 clever synthetic image of my true 
 bondsister. 
-1 said, “Forgive this foolish error. One mistook you for Halum." 
+I said, “Forgive this foolish error. One mistook you for Halum."
 “It happens often." 
 “Are you some kin of hers?” 
 “Daughter to the brother of the 
@@ -10138,8 +10135,7 @@ from me and I was left with
 Loimel. But toward the end of the 
 evening 1 claimed my bondright 
 and took Halum away to my 
-chamber, saying, “There is two 
-ATIME OF CHANGES 
+chamber, saying, “There is two
 years' talking to do." Thoughts 
 tumbled chaotically in my mind; 
 how could 1 tell her all that had 
@@ -10159,7 +10155,7 @@ words. That made us laugh and dissolved the tension. And then 1
 heard my own voice asking, without preamble, whether Halum 
 thought that Loimel would accept 
 me as her husband. 
-L oimel and l were married by 
+Loimel and I were married by
 Segvord Helalam in the Stone 
 Chapel at the crest of the summer, after months of preparatory 
 rituals and purifications. We 
@@ -10191,7 +10187,7 @@ local nobility. The gifts we received were of immense value.
 Among them was a golden bowl inlaid with strange gems, manufactured on some other world and sent 
 to us by my brother Stirron, along 
 with a cordial message expressing regret that affairs of state required him to remain in Salla. 
-Since 1 had snubbed his wedding it 
+Since I had snubbed his wedding it
 was no surprise that he snubbed 
 mine. What did surprise me was 
 the friendly tone of his letter. 
@@ -10207,7 +10203,7 @@ permanently in Manneran — and
 so would be no rival for his throne; 
 therefore he could think of me 
 warmly again. 
-1 often wondered, and after all 
+I often wondered, and after all
 these years still do wonder, why 
 Loimel accepted me. She had just 
 turned down a prince of her own 
@@ -10271,8 +10267,7 @@ the nature of my work and before
 the full heat of summer was upon 
 Manneran 1 was operating confidently, as if I had spent the last 
 twenty years at my tasks. 
-Most of the material submitted 
-ATIMEOFCHANGES 
+Most of the material submitted
 for the guidance of the High Justice was nonsense. I learned swiftly to detect that sort by a quick 
 scanning, often by looking at just 
 a single page. The style in which reports and/or proposals were written told me much; 1 found that a 
@@ -10412,8 +10407,7 @@ doing my work. She took lovers
 and 1 took mistresses. It was a 
 frosty marriage. We scarcely ever 
 quarreled; we were not close 
-enough even for that. 
-ATIAAE OF CHANGES 
+enough even for that.
 Noim and Halum were with me 
 much of the time. They were great 
 comforts to me. 
@@ -10455,9 +10449,8 @@ soothed myself by a visit to the
 drainer Jidd. 1 might have gone on 
 uneventfully in that fashion to 
 the end of my days, but for the arrival in my life of Schweiz the 
-Earthman. 
-IX 
-E ARTHMEN come rarely to 
+Earthman.
+EARTHMEN come rarely to
 Borthan. Before Schweiz I had 
 seen only two, both in the days 
 when my father held the septarchy. The first was a tall redbearded man who visited Salla 
@@ -10550,8 +10543,7 @@ and ordered the importer to make
 good on his contract with the 
 swindled Earthman. Ordinarily 1 
 would not have become involved 
-in the matter. But, when the 
-A TIME OF CHANGES 
+in the matter. But, when the
 papers on the case came to High 
 Justice Kalimol for routine review just prior to affirmation of 
 verdict, I glanced at them and saw 
@@ -10565,9 +10557,9 @@ gone unanswered when I was a
 boy? Some clue to the nature of 
 the forces that had driven mankind to the stars? Or merely 
 amusement, a moment of diversion in an overly placid life? 
-1 asked Schweiz to report to my 
+I asked Schweiz to report to my
 office. 
-H e came in almost on the run, 
+He came in almost on the run,
 a frantic, energetic figure in 
 clothes of flamboyant style and 
 tone. Grinning with a manic glee, 
@@ -10691,7 +10683,6 @@ districts. Not many of them, and
 nothing to boast about. Some 
 trees, here and there. A little 
 grass. A lake. A waterfall. A valley. Mostly the planet is a dung
-ATIAAE OF CHANGES 
 hole. Earthmen often wish they 
 could uncover their early ancestors, bring them to life again and 
 then throttle them. For their selfishness. For their lack of concern 
@@ -10819,8 +10810,7 @@ clamped his hand over mine — the
 gesture stunned me but I did not 
 pull back — and said hoarsely, “Do 
 you believe in gods, your grace?” 
-“Surely.” 
-ATIME OF CHANGES 
+“Surely.”
 “In a literal way? You think 
 there’s a god of travelers, a god of 
 fishermen, a god of farmers and 
@@ -10966,13 +10956,12 @@ strange smile. I meant to ask him
 about that, but at that moment a 
 secretary entered with a stack of 
 documents and Schweiz hastily 
-rose. “One doesn’t wish to 
-ATIME OF CHANGES 
+rose. “One doesn’t wish to
 consume too much of your grace’s 
 valuable time. Perhaps this conversation could be continued at another hour?” 
 “One hopes for the pleasure of 
 it,” I told him. 
-W HEN Schweiz had gone 1 sat 
+WHEN Schweiz had gone 1 sat
 a long while with my back to 
 my desk, closing my eyes and replaying in my mind the things we 
 had just said to one another. How 
@@ -11016,7 +11005,7 @@ me. I have been alone here so long.
 How could he have known 
 when 1 myself did not know? 
 A strange friendship had been 
-born. 1 asked Schweiz to dine at 
+born. I asked Schweiz to dine at
 home with me; we feasted and 
 talked, the blue wine of Salla 
 flowed and the golden wine of 
@@ -11035,7 +11024,7 @@ wine, so it must have been
 something else that made your eyes 
 shine and your words so easy.” I 
 laughed and told her that a 
-recklessness came over me when 1 
+recklessness came over me when I
 was with the Earthman, that I 
 found it hard to abide by custom 
 with him. 
@@ -11112,13 +11101,12 @@ and drainers. The custom of wallbuilding around oneself that affects even your g
 were stern folk from a northern 
 climate, accustomed to hardship, 
 mistrustful of luxury and ease, 
-who came to Borthan to avoid 
-ATIME OF CHANGES 
+who came to Borthan to avoid
 what they saw as the contaminating decadence of their native 
 world?” 
 “Was it so? One thought only 
 that they were refugees from religious persecution." 
-“Refugees from sloth and selfindulgence,” 1 said. “They left 
+“Refugees from sloth and self indulgence,” 1 said. “They left
 Earth long ago, thousands of 
 years ago, because they felt its 
 ways were shameful, and settled 
@@ -11251,8 +11239,7 @@ he had stung me at a vulnerable
 place and that I had overreacted 
 to the bite of truth. I poured more 
 wine. We drank in silence for a 
-time. 
-A TIME OF CHANGES 
+time.
 Then Schweiz said, “May one 
 make a proposal, your grace? 
 May one invite you to take part 
@@ -11379,8 +11366,8 @@ out a flask of poison.
 “Your proposal?" I demanded. 
 “Your experiment, Schweiz?" 
 “Let us share the Sumaran 
-drug," he said. 
-XI 
+drug," he said.
+XI
 I MIGHT have slapped the powder from his hand and ordered 
 his arrest. I might have commanded him to get away from me and 
 never come near again. 1 might 
@@ -11390,7 +11377,6 @@ touch any such substance. But I
 did none of those things. I chose 
 instead to be coolly intellectual, 
 to show casual curiosity, to remain calm and play conversational games with him. Thus I en
-ATIME OF CHANGES 
 couraged him to lead me a little 
 deeper into the quicksand. 
 I said, “Do you think that one 
@@ -11538,7 +11524,7 @@ erosity, but one will not experiment on his loved ones, Schweiz.”
 His face was red. “This implication is unwarranted, your grace. 
 The offer to relinquish one's own 
 share of the drug was made in 
-good faith and at nojittle cost to 
+good faith and at no jittle cost to
 one’s own plans. But since you reject it, let us return to the original proposition. The two of us will 
 sample the drug, in secrecy, as an 
 experiment in possibilities. Let us 
@@ -11669,8 +11655,7 @@ them before. They could rise in the
 air and travel like birds; they could 
 change the shapes of their bodies; 
 they could walk through the Burnt 
-Lowlands or the Frozen Lowlands and feel no discomfort; they 
-ATIMEOFCHANGES 
+Lowlands or the Frozen Lowlands and feel no discomfort; they
 could live without taking in food; 
 they could halt the aging of their 
 flesh and become as young as they 
@@ -11740,8 +11725,7 @@ any such as they before, nor they
 anyone such as he. 
 “What sort of creatures are 
 you?” he asked. 
-Kinnall replied. “Once we were 
-ATIMEOFCHANGES 
+Kinnall replied. “Once we were
 quite ordinary, but now we do 
 quite well, for we never grow old. 
 We can fly faster than any bird, 
@@ -11927,7 +11911,7 @@ others, since only gods can mingle
 souls without destroying one 
 another and we are not gods. 
 XII 
-O F COURSE I found many 
+OF COURSE I found many
 reasons to postpone taking the 
 Sumaran drug with Schweiz. First, 
 High Justice Kalimol departed on 
@@ -11956,8 +11940,7 @@ let myself be drained. But I kept
 back from Jidd all mention of 
 Schweiz and his drug, fearing to 
 reveal that I toyed with such dangerous amusements. Therefore 
-the draining was a failure, since I 
-ATIME OF CHANGES 
+the draining was a failure, since I
 had not fully opened my soul to the 
 drainer; and I left the Stone Chapel 
 with a congestion of the spirit, 
@@ -12096,14 +12079,13 @@ laughed.
 His face had turned very red. 1 
 asked him if he really believed this 
 story of an inhibitory hormone 
-and a counterinhibitory drug 
+and a counter inhibitory drug
 and he said that he had no grounds 
 for making judgment. 
 “Do you feel anything yet?” 1 
 asked. 
 “Only the vvine,” he said. We 
-waited. We waited. Perhaps it will 
-ATIME OF CHANGES 
+waited. We waited. Perhaps it will
 do nothing, I thought, and I will 
 be reprieved. We waited. 
 At length Schweiz said, “It may 
@@ -12241,8 +12223,7 @@ reaching up, grasping, taking
 hold of nothing. Sly and opportunistic he might be, yes, but also 
 vulnerable, passionate, honest 
 beneath all his capering. I could 
-not judge Schweiz harshly. He was 
-A TIME OF CHANGES 
+not judge Schweiz harshly. He was
 I. 1 was he. Tides of self engulfed 
 us both. If I were to cast Schweiz 
 down, I must also cast down Kinnall Darival. My soul was flooded 
@@ -12289,7 +12270,7 @@ meaning?”
 love youT' 
 “One has never — one does not 
 know how to — ” 
-‘■To react? To respond?” 
+‘To react? To respond?”
 Schweiz laughed. “1 don’t mean I 
 love you in any physical way. As if 
 that would be so hideous. But no. 1 
@@ -12364,7 +12345,7 @@ acknowledging that we have selves
 capable of loving. Then we begin 
 to love. Eh? We begin to love.” 
 XIII 
-L ater I asked, “Did you get 
+Later I asked, “Did you get
 from the drug what you were 
 looking for, Schweiz?” 
 “Partially.” 
@@ -12387,8 +12368,7 @@ still there, but now suspicion was
 creeping back. Was he exploiting 
 me? Was he milking a dirty little 
 pleasure out of our mutual exposures? He had pushed me into 
-becoming a selfbarer. His insistence on my speaking in “I” and 
-ATIME OF CHANGES 
+becoming a selfbarer. His insistence on my speaking in “I” and
 “me" to him was that a token of 
 my liberation, was it something 
 beautiful and pure, as he claimed, 
@@ -12448,7 +12428,7 @@ tried?”
 “Oh, yes. Yes, certainly." 
 “Where?” 
 “In Sumara Borthan," he said. 
-W HEN one is new to the ways of 
+WHEN one is new to the ways of
 pleasure, it is not surprising to 
 find guilt and remorse following 
 first indulgence. So was it with 
@@ -12457,7 +12437,7 @@ day at the lodge 1 awoke after
 troubled sleep, feeling such shame 
 that I prayed the ground to swallow me. What had 1 done? Why 
 had I let Schweiz goad me into 
-such foulness? Selfbaring! Selfbaring! Sitting with him all night, 
+such foulness? Selfbaring! Selfbaring! Sitting with him all night,
 saying “1” and “me” and “I,” and 
 congratulating myself on my 
 new freedom from convention’s 
@@ -12532,8 +12512,7 @@ their lives, and in despair I looked
 from my wife to my bondsister, 
 from one cousin to the other, receiving their mirrored beauty as a 
 double sword in my belly. Those 
-smiles! Those knowing eyes! They 
-ATIAAE OF CHANGES 
+smiles! Those knowing eyes! They
 needed no drug to pull the truths 
 from me. 
 Where have you been, Kinnall? 
@@ -12575,7 +12554,7 @@ showed me, but 1 came close to
 doing it, and checked myself only 
 out of a deeper shame even than 1 
 already bore. 
-O N THE third day of my return, 
+ON THE third day of my return,
 when my children too had begun 
 to wonder what was wrong with 
 me, 1 went to the Stone Chapel to 
@@ -12670,7 +12649,6 @@ a catastrophic cultural error. The
 intuitive realization that we should 
 deny our solitude instead and seek 
 to bridge the gulfs between our
-ATIMEOF CHANGES 
 selves and others, rather than 
 glorying in isolation. Also 1 confessed that 1 had dabbled in the 
 drug for the sake of eventually 
@@ -12740,7 +12718,8 @@ not try deeply to analyze it. I was
 content to be myself and to be 
 thinking these thoughts. My conversion at that instant was complete. Schweiz had taken my faith 
 from me, but he had given me another in its place. 
-TO BE CONCLUDED 
+TO BE CONCLUDED
+SFGRAM_STOP_SILVERBERG
 The doctor told me/'Marguerite,you can be alive and ugly, 
 or beautiful and dead” 
 The day I fit$l noliced the small pink spot on my 

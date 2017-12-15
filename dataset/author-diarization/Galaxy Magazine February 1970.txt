@@ -4924,7 +4924,8 @@ It was the Last Night of the Festival.
 Above the swaying scarecrows, a 
 white star suddenly flickered and grew 
 bright. And maybe the bent heads noticed 
-it, but there was 1939 in their eyes. ■¥• 
+it, but there was 1939 in their eyes. ■¥•
+SFGRAM_START_SILVERBERG
 THE LASTNIGHTOFTHE FESTIVAL 
 WHAT HAS GONE BEFORE 
 EDMUND GUNDERSEN, a 
@@ -5118,8 +5119,7 @@ plateau had faded. Across his
 path ran one of the plump, thieving otterlike animals that had bedeviled them the time they had 
 been marooned there. It halted a 
 moment, nose twitching, cunning 
-paws upraised, looking for something to seize. Gundersen hissed 
-DOWNWARD TO THE EARTH 
+paws upraised, looking for something to seize. Gundersen hissed
 at it and it scuttled into the shrubbery. 
 Now a massive two-legged figure emerged from a shadowed 
 corner and blocked his way. Gundersen thought at first it was a 
@@ -5259,7 +5259,7 @@ She ignored his question.
 “Don’t you want to kiss me? Or 
 do you have a policy about kissing 
 other men’s wives?” 
-H e EORCED a laugh. Awkwardly, self-consciously, he 
+He FORCED a laugh. Awkwardly, self-consciously, he
 reached for her, taking her lightly 
 by the shoulders and drawing her 
 toward him. She was a tall woman. He inclined his head, trying 
@@ -5278,8 +5278,7 @@ Seena said. “It comes from the
 central plateau. It clings to one of 
 the big mammals there and lives 
 by metabolizing perspiration. Isn’t 
-it splendid?” 
-DOWNWARD TO THE EARTH 
+it splendid?”
 “I thought you hated the plateau.” 
 “Oh, that was a long time ago. 
 I’ve been there many times. I 
@@ -5476,8 +5475,7 @@ and chilling saint, Seena.”
 “Some saints are. They don’t 
 all have to be St. Francis of 
 Assisi.” 
-“Is cruelty one of the desirable 
-DOWNWARD TO THE EARTH 
+“Is cruelty one of the desirable
 traits of a saint?” 
 “Kurtz saw cruelty as a dynamic force. He made himself an 
 artist of cruelty.” 
@@ -5643,8 +5641,7 @@ refused to leave Holman’s World.
 I love you, she had said, and I’ll 
 always love you but this is where 
 I stay. Why? Why? Because / 
-want to stay, she had told him. 
-DOWNWARD TO THE EARTH 
+want to stay, she had told him.
 And she had stayed; and he had 
 been just as stubborn and had left 
 without her. They had slept together on the beach beneath the 
@@ -5955,8 +5952,7 @@ raised it to brush her lips against it.
 games. They’re over and now we’ll 
 speak only truth. But you go first. 
 Did the nildoror ask you to bring 
-Ced out of the mist country?” 
-DOWNWARD TO THE EARTH 
+Ced out of the mist country?”
 “Yes,” Gundersen said. “It was 
 the condition of my entry.” 
 “And you promised you’d do it?” 
@@ -6113,8 +6109,7 @@ worse.”
 “Do you know what used to go 
 on at the serpent station, south of 
 the spaceport?” 
-“I was there for a few weeks 
-DOWNWARD TO THE EARTH 
+“I was there for a few weeks
 with Kurtz and Salamone,” Gundersen said. “Long ago — when I 
 was very new here, when you were 
 still a child on Earth. I watched 
@@ -6267,8 +6262,7 @@ mechanical, empty.
 He followed her in silently. She 
 led him to the middle level of the 
 building and into a corridor 
-blocked by one of her robot guardians. At a nod from her the robot 
-DOWNWARD TO THE EARTH 
+blocked by one of her robot guardians. At a nod from her the robot
 stepped aside. Outside a room at 
 the rear she paused and put her 
 hand to the door’s scanner. The 
@@ -6294,7 +6288,7 @@ and undergo rebirth. This is what
 they brought back to me. This is 
 what a human being looks like, Edmund, when he’s undergone rebirth.” 
 XI 
-W HAT Gundersen beheld was 
+W HAT Gundersen beheld was
 apparently human. Probably 
 it had once been Jeff Kurtz. The 
 absurd body length was surely 
@@ -6343,7 +6337,8 @@ great spidery things that flexed
 and clenched in irregular rhythms. 
 The attachment of his arms to his 
 torso appeared strange, though it 
-(Please turn to page 146} 
+(Please turn to page 146}
+SFGRAM_STOP_SILVERBERG
 AFTER THEY TOOK 
 THE PANAMA CANAL 
 O N TUESDAY they took the 
@@ -7478,7 +7473,8 @@ changed to February to give Gaiaxy and its sister publication, H,
 equivalent sales periods on the 
 newsstands. All subscriptions 
 are being updated accordingly. 
-GALAXY BOOKSHELF 
+GALAXY BOOKSHELF
+SFGRAM_START_SILVERBERG
 DOWNWARD TO THE EARTH 
 was not until Gundersen saw Kurtz 
 slowly rotate his left arm through 
@@ -7634,8 +7630,7 @@ something else.”
 “I won’t let you go,” Seena said. 
 “You won’t? What claim do you 
 have on me?” 
-“I’ve already lost Jeff to them. 
-DOWNWARDTOTHE EARTH 
+“I’ve already lost Jeff to them.
 If you go up there too, Edmund — ” 
 “Yes?” 
 She faltered. “All right. I’ve got 
@@ -7721,7 +7716,7 @@ Gundersen could not comprehend,
 “Dance . live . seek ... die 
 . die.” 
 It was time to leave. 
-W ALKING past the motionless, 
+WALKING past the motionless,
 rigid Seena, Gundersen left the 
 room. He stepped onto the veranda 
 and saw that his five nildoror were 
@@ -7792,7 +7787,6 @@ game, that he was merely playing
 at masochistic self-dramatization, 
 electing himself the hero of a 
 tragic myth, burdened by the ob
-DOWNWARDTOTHE EARTH 
 session to undertake an alien pilgrimage? But the compulsion 
 seemed real enough to him and 
 not at all a pretense. 
@@ -7811,7 +7805,7 @@ love water dream cold sleep plan
 rise fall rise fall rise rise rise. 
 Fall. 
 XII 
-F or administrative purposes the 
+For administrative purposes the
 Earthmen, during their years of 
 occupation of Holman’s World, 
 had marked off boundaries arbitrarily here and here and here, 
@@ -7938,8 +7932,7 @@ meaning be fathomed and Gundersen had neither the skill nor
 the right position for detecting 
 those gestures. He was puzzled. 
 He had no recollection of ever 
-having given offense to a sulidor. 
-DOWNWARD TO THE EARTH 
+having given offense to a sulidor.
 After a while he concluded that 
 Srin’gahar was deliberately being 
 cryptic and might be speaking in 
@@ -8078,8 +8071,7 @@ A DISMAL dusk began to descend. The grayness grew
 more gray and the faint hint of 
 sunlight that had been evident 
 now diminished. Visibility lessened immensely. The air became 
-quite cold. Gundersen, dressed for 
-DOWNWARDTOTHE EARTH 
+quite cold. Gundersen, dressed for
 jungle country, shivered at times. 
 He realized he was alone. 
 The nildoror were nowhere to be 
@@ -8380,8 +8372,7 @@ wide gray stream, when furry
 beasts sprinted over glazed fields 
 of ice, when some hoarse ragged 
 cry broke the incredible stillness, 
-when the marchers turned an angle in the path and came upon a 
-DOWNWARDTOTHE EARTH 
+when the marchers turned an angle in the path and came upon a
 white tableau of harsh wintry emptiness, Gundersen responded with 
 a strange kind of delight. In the 
 mist country, he thought, the hour 
@@ -8389,7 +8380,8 @@ is always the hour just after dawn.
 when everything is clean and new. 
 On the fourth day Se-holomir 
 said, “The village you seek lies behind the next hill.” 
-TO BE CONCLUDED 
+TO BE CONCLUDED
+SFGRAM_STOP_SILVERBERG
 GALAXY STARS 
 We met Gerald Jonas two-and-a half 
 years ago, when he came to the New York 

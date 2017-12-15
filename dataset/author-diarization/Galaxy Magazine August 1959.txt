@@ -5242,7 +5242,8 @@ Satterfield — a girl's hand is all he wants of this plantation world — and i
 were a Yankee spy! 
 Send not to know for whom the telephone rings — 
 it'll send for you if the number you so innocently dial 
-happens to be .. 
+happens to be ..
+SFGRAM_START_SILVERBERG
 Mugwump four 
 By ROBERT SILVERBERG 
 Illustrated By: MARTIN 
@@ -5399,8 +5400,6 @@ all.”
 interval,” muttered Mordecai. 
 “Slipped matrix.” 
 “Umm. Unfortunate,” the chub
-91 
-MUGWUMP FOUR 
 by one commented. “We’ll have to 
 dispose of him.” 
 “Demolecularization is the best 
@@ -5540,7 +5539,6 @@ way of the Cause.”
 The concrete-mixer part of the 
 machine began to revolve, bearing 
 Al with it as it built up tempokinetic potential. Momentum in
-MUGWUMP FOUR 
 creased alarmingly. In the background, A1 heard an ominous droning sound that grew louder and 
 louder, until it drowned out everything else. His head reeled. The 
 room and its fat little mutants went 
@@ -5572,9 +5570,7 @@ all straight-backed six-footers with
 full heads of hair. The women were 
 tall, too. Men and women alike 
 were dressed in a sort of tuniclike 
-garment made of iridescent ma
-94 
-terial that constantly changed 
+garment made of iridescent material that constantly changed
 colors. 
 A gong began to ring, rapidly 
 peaking in volume. A1 scrambled to 
@@ -5608,8 +5604,7 @@ from the broad nozzle of' the gun,
 hung suspended for a moment, and 
 drifted toward Al. He dodged uneasily to one side, but the globe of 
 light followed him, descended, and 
-wrapped itself around him. 
-MUGWUMP FOUR 
+wrapped itself around him.
 It was like being on the inside 
 of a soap-bubble. He could see out, 
 though distortedly. He touched the 
@@ -5745,7 +5740,6 @@ or in me,” A1 pleaded. “You’re advanced people. You ought to be
 able to do a simple thing like that.” 
 “And then there is the matter of 
 your genetic structure,” Spade
-MUGWUMP FOUR 
 beard continued inexorably. “You 
 bear genes long since eliminated 
 from humanity as undesirable. Permitting you to remain here, breeding furtively, would introduce unutterable confusion. Perhaps you 
@@ -5858,7 +5852,7 @@ he commanded.
 The technician grabbed an immense toggle switch with both 
 hands and groaningly dragged it 
 shut. A1 heard a brief whine of closing relays. Then darkness surrounded him. 
-O NCE again he found himself on 
+ONCE again he found himself on
 a city street. But the pavement 
 was cracked and buckled, and 
 grassblades poked up through the 
@@ -5949,8 +5943,7 @@ spy on us.”
 “No, Your Nobility. They were 
 afraid I’d spy on them, so they sent 
 me over here. I’m from the year 
-1959, you see.” Briefly, he explained everything, beginning with 
-MUGWUMP FOUR 
+1959, you see.” Briefly, he explained everything, beginning with
 the bollixed phone call and ending 
 with his capture by the Overlord’s 
 men a short while ago. 
@@ -6013,13 +6006,12 @@ mutants in 1959 and they shipped
 me five centuries ahead to get rid 
 of me. Only when I arrived, I wasn’t 
 welcome, so I was shipped across 
-the dimensional whatzis to here. 
+the dimensional what is to here.
 Everyone thinks I’m a spy, wherever I go. What are you doing 
 here?” 
 Phelp smiled. ‘Why, I am a spy.” 
 “From 2431?” 
-“Naturally. We have to keep 
-GALAXY 
+“Naturally. We have to keep
 tabs on the mutants somehow. I 
 came through the gateway wearing 
 an invisibility shield, but it popped 
@@ -6087,8 +6079,7 @@ me rot here for a few decades. Or
 they might decide to condition me 
 and send me back as a spy for 
 them. Tiger tails, who could 
-know?” 
-MUGWUMP FOUR 
+know?”
 “Would you change sides like 
 that?” 
 “I wouldn’t have any choice — 
@@ -6217,10 +6208,7 @@ do is activate this small transdimensional generator, and you’ll be
 hurled across safe and sound into 
 the very day you left, in your own 
 fourspace.” 
-“You can’t know how much I ap
-105 
-MUGWUMP FOUR 
-preciate all this,” A1 said very 
+“You can’t know how much I appreciate all this,” A1 said very
 warmly. 
 He felt a pleasant glow of love 
 for all mankind, for the first time 
@@ -6347,13 +6335,14 @@ Actual Size 3" x 4"
 No. GF-614 
 Order from GALAXY 
 421 Hudson Street, New York 14. N. Y. 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 Ignorance of the law can so be 
 a valid excuse — and the result 
 is this hilarious but legal . 
 LICENSE 
 By LOUIS NEWMAN 
-T HE history of man becomes 
+THE history of man becomes
 fearfully and wonderfully 
 confusing with the advent 
 of interstellar travel. Of special interest to the legally inclined student is the famous Skrrgck Affair, 

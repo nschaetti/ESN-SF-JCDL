@@ -6304,7 +6304,8 @@ to have me with them?”
 your guardian,” said Vol’himyor. 
 A senior nildor summoned 
 Srin’gabar and the four others 
-who would be going toward rebirth. 
+who would be going toward rebirth.
+SFGRAM_START_SILVERBERG
 DOWNWARD TO THE EARTH 
 Gundersen was gratified at this 
 confirmation of the existing data: 
@@ -6608,8 +6609,7 @@ all. Gundersen suspected that the
 results would have been the same 
 no matter which encampment of 
 nildoror he had happened to go to 
-for his travel permission. Though 
-DOWNWARDTOTHE EARTH 
+for his travel permission. Though
 the nildoror had no means of longdistance communication, no governmental structure in any Earthly sense, no more coherence as a 
 race than a population of jungle 
 beasts, they nevertheless were remarkably well able to keep in 
@@ -6648,8 +6648,7 @@ Cullen, to Gundersen’s amazement, had been among the handful who had opted to 
 though that meant severing his 
 ties with the home world. Gundersen had not asked him why. One 
 did not discuss such things. But 
-Cullen’s choice had seemed odd. 
-DOWNWARDTOTHE EARTH 
+Cullen’s choice had seemed odd.
 He saw Cullen clearly in memory, chasing bugs through the Sea 
 of Dust, killing bottle jouncing 
 against his hip as he ran from one 
@@ -6723,7 +6722,7 @@ country, wanted for some crime so
 terrible the nildoror would not 
 even give it a name. 
 VII 
-W HEN they took to the road 
+WHEN they took to the road
 in the morning it was Srin’
 gahar, uncharacteristically, who 
 opened the conversation. 
@@ -6800,8 +6799,7 @@ the sulidoror — on our world we
 have no species other than man 
 that possess G’rakh at all. But 
 the physical resemblances between men and sulidoror are 
-many. They walk on two legs — 
-DOWNWARDTOTHE EARTH 
+many. They walk on two legs —
 so do we. They eat both flesh and 
 fruit — so do we. They have hands 
 which can grasp things — so do we. 
@@ -6950,8 +6948,7 @@ in stopping to examine the lake
 and its unusual life forms. But he 
 was strangely reluctant to ask 
 Srin’gahar to halt. Srin’gahar was 
-not only his carrier — he was his 
-DOWNWARD TO THE EARTH 
+not only his carrier — he was his
 companion on a journey — and to 
 say, tourist fashion, Let’s stop 
 here a while, might reinforce the 
@@ -7111,9 +7108,7 @@ them to work. We can only ask
 them politely and if they say 
 they’re not available, that’s it. 
 Couple of days back they decided 
-they weren’t going to be available 
-DOWNWARDTOTHE EARTH 
-0 
+they weren’t going to be available
 for a while, so we had to get out 
 the trailer.” He lowered his voice. 
 “If you ask me, it’s on account of 
@@ -7374,8 +7369,7 @@ you see, they have no hands? A
 race with hands makes one kind 
 of society. A race built like elephants makes another.” He was 
 drenched in sweat and his appetite was suddenly insatiable. The 
-women, he noticed, were staring at 
-DOWNWARDTOTHE EARTH 
+women, he noticed, were staring at
 him strangely. He realized why. 
 He was cleaning up all the food in 
 sight, compulsively stuffing it into 
@@ -7534,9 +7528,7 @@ point? Why — ” He was dizzy now.
 He said, “Seven intelligent beings 
 were journeying toward the holiest 
 rite of their religion and at gunpoint I requisitioned their services 
-on a construction job to save prop
-DOWNWARDTOTHE EARTH 
-erty that meant nothing to them 
+on a construction job to save property that meant nothing to them
 — and they came and hauled logs 
 for me. Isn’t the point obvious 
 enough? Who was spiritually superior there? When you treat a rational autononomous creature as 
@@ -7674,8 +7666,7 @@ north: thick-tongued, slow, positive.
 “I have been on a journey,” said 
 Na-sinisul, “to the Sea of Dust, 
 and now I am returning to my own 
-land to aid in the preparations for 
-DOWNWARDTOTHE EARTH 
+land to aid in the preparations for
 the event of rebirth in which these 
 five travelers are to take part. My 
 presence here is purely accidental. 
@@ -7717,7 +7708,7 @@ informed him.
 “Here?” Gundersen shrugged. “I 
 guess I’ve lost my bearings again. 
 All right. I’ll go there.” To Na-sinisul he said, “Lead and I’ll follow.” 
-T he sulidor moved swiftly 
+The sulidor moved swiftly
 through the glowing forest, 
 and Gundersen, atop Srin’gahar, 
 rode just to his rear. They seemed 
@@ -7849,8 +7840,7 @@ In the language of the nildoror
 m 
 Edited by Lester del Rey 
 Will be back soon 
-Watch for it on your newsstands 
-DOWNWARD TO THE EARTH 
+Watch for it on your newsstands
 she murmured, “Is it over yet?” 
 Her voice was like a flute played 
 by a sullen desert breeze. 
@@ -7984,8 +7974,7 @@ she was a mass of strangeness. Yet
 her mind still ticked, though she 
 had forgotten her name and her 
 native language. The man was 
-luckier. Although he, too, was infested, at least Dykstra did not 
-DOWNWARDTOTHE EARTH 
+luckier. Although he, too, was infested, at least Dykstra did not
 have to lie here in the dark waiting 
 for the death that could come only 
 when the harbored larvae erupted 
@@ -8065,7 +8054,8 @@ resumed the march, even though it
 was night. By morning Gundersen 
 could hear the thunder of Shangrila Falls, which the nildoror called 
 Du’jayukh. 
-TO BE CONTINUED 
+TO BE CONTINUED
+SFGRAM_STOP_SILVERBERG
 The Silent Multitude 
 D. G. Compton 
 Opus 100 

@@ -3669,16 +3669,16 @@ that those kept out by
 the wall in space are the 
 prisoners? 
 Don't miss this highvoltage Sturgeon novella! 
-TIME WAITS FOR WINTHROP 
-Blaze of 
-Glory 
+TIME WAITS FOR WINTHROP
+SFGRAM_START_SILVERBERG
+Blaze of Glory
 * 
 By ROBERT SILVERBERG 
 I can't figure it: should 
 Murchison be considered a 
 hero — even if his motives 
 were anything but heroic? 
-T HEY list John Murchison 
+THEY list John Murchison
 as one of the great heroes 
 of space — a brave man 
 and true, who willingly sacrificed 
@@ -3697,9 +3697,7 @@ yanking a handful of cards from
 the big computer and throwing 
 them up at the BuSpace roof. 
 The ones that stick get picked. 
-At least, that’s the only way a 
-Illustrated by GAUGHAN 
-GALAXY SCIENCE FICTION 
+At least, that’s the only way a
 man like Murchison could have 
 been sent to Shaula II in the first 
 place. 
@@ -3762,9 +3760,8 @@ Now he was shipping out for
 Shaula? Well, maybe so — but my 
 faith in the computer that makes 
 up spaceship complements was 
-seriously shaken. 
-BLAZE OF GLORY 
-O URS was the fourth or fifth 
+seriously shaken.
+OURS was the fourth or fifth
 expedition to Shaula II. The 
 planet — second of seven in orbit 
 around the brightest star in Scorpio’s tail — was small and scrubby, but of great strategic importance as a lookout spot for that 
@@ -3895,9 +3892,7 @@ the base and we touched down.
 The Felicific creaked and groaned 
 a little as the landing-jacks absorbed its weight. Green lights 
 went on all over the ship. We 
-were free to go outside. 
-BLAZE OF GLORY 
-GALAXY SCIENCE FICTION 
+were free to go outside.
 A welcoming committee was on 
 hand out there: eight members 
 of the base staff, clad in shorts 
@@ -3969,7 +3964,6 @@ was making, and the twenty-eight
 newcomers mingled with the 
 twenty-eight who were being relieved. Murchison walked by himself, kicking up puffs of red dust 
 and glowering in his usual man
-BLAZE OF GLORY 
 her. The six aliens accompanied 
 us at some distance. 
 “We keep building all the time,” 
@@ -4036,8 +4030,7 @@ the room.
 We looked at each other — 
 Knight and Gloster and McHenry and I — and we remained 
 silent. Now that the Shaulan was 
-here, what could we say? Wliat 
-GALAXY SCIENCE FICTION 
+here, what could we say? What
 new thing could we possibly tell 
 the ancient creature? 
 I was fumbling for words to express my feeling when the sharp 
@@ -4053,7 +4046,7 @@ a landcar from someone in the
 compound and get back to the 
 ship. Murchison’s tangling with 
 one of the aliens.” 
-Y HOTFOOTED down into the 
+YHOTFOOTED down into the
 compound and spotted an enlisted man tooling up his landcar. 
 I pulled rank and requisitioned 
 it, and minutes later I was parking it outside the Felicific and 
@@ -4072,7 +4065,6 @@ groaned a little myself and dashed
 down the companionway. 
 The communications cabin was 
 Murchison’s inner sanctum, a cu
-BLAZE OF GLORY 
 bicle off the astro deck where he 
 worked and kept control over the 
 Felicificfs communications network. 
@@ -4110,7 +4102,7 @@ business in it.”
 a 
 “Put down that wrench, Mut 
 chison. It’s an order.” 
-H E LAUGHED contemptuously. “Signal officers don’t 
+HE LAUGHED contemptuously. “Signal officers don’t
 have to take orders from anyone 
 but the captain if they think the 
 safety of the ship is jeopardized. 
@@ -4162,7 +4154,7 @@ they seemed.
 “I guess you’re going to put me 
 in the brig,” Murchison said to 
 me. “Okay. I’ll go quietly.” 
-E DIDN’T brig him, because 
+I DIDN’T brig him, because
 ” there was nothing to be 
 gained by that. He got the silent 
 treatment instead. The men at 
@@ -4180,7 +4172,6 @@ among us, a tall, powerful figure
 with anger and loneliness stamped 
 on his face, and he said nothing 
 to any of us and no one said any
-GALAXY SCIENCE FICTION 
 thing to him. Whenever he saw 
 one of the aliens, he went far out 
 of his way to avoid a meeting. 
@@ -4248,7 +4239,6 @@ good enough to shut up and let a
 man think.” 
 “Murchison — ” Knight sputtered, and stopped. We all knew 
 one solid fact about our signal
-BLAZE OF GLORY 
 man: he did as he wanted. No 
 one ever coerced him into anything. 
 So we waited, spinning endover-end somewhere in the vicinity of Earth, completely blind behind our wall of metal. Until 
@@ -4315,8 +4305,7 @@ happening before?” He seemed to
 suspect Murchison of funny business. 
 But Henrichs shook his head. 
 “No, Chief. And there’s a good 
-reason why, too. If this happens 
-GALAXY SCIENCE FICTION 
+reason why, too. If this happens
 to a ship, the ship doesn’t get 
 back to tell about it.” 
 Captain Knight looked grayfaced. He asked worriedly, “What 
@@ -4381,8 +4370,7 @@ There was a startled silence,
 broken when Carney made the 
 lousiest remark I’ve ever heard 
 mortal man utter. “You’re trying 
-to make it up for hitting that defenseless Shaulan, eh, Murchison? 
-BLAZE OF GLORY 
+to make it up for hitting that defenseless Shaulan, eh, Murchison?
 Now you want to be a hero to 
 even things up!” 
 But the big man only turned to 
@@ -4430,7 +4418,8 @@ halo.
 But sometimes I think Murchison was right about the Shaulans, after all. In any case, I’ve 
 never been back there. And I 
 don’t intend to, even if the computer picks me to go. 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 WHY NOT TEACH! 
 Any College Grad 
 Can Insure His 
