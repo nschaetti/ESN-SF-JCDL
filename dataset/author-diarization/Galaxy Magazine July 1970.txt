@@ -1797,9 +1797,10 @@ then I sass him and threaten to tell
 my husband, which makes him 
 cackle. All innocent as Sunday 
 school.” 
-( Please turn to page 105 ) 
+( Please turn to page 105 )
+SFGRAM_START_SILVERBERG
 I 
-J ASON QUEVEDO lives in 
+JASON QUEVEDO lives in
 Shanghai, though just barely: 
 his apartment is on the 761st floor, 
 and if he lived only one level lower 
@@ -1869,7 +1870,7 @@ Erosion of raw material of narr.
 conflict? Query: is urbmon moral 
 struc. amoral, postmoral, pre-, 
 im-? 
-J ASON dictates such memoranda whenever and wherever some 
+JASON dictates such memoranda whenever and wherever some
 new structural hypothesis enters 
 his mind. These are thoughts that 
 come to him during a nightwalking excursion on the 155th floor, 
@@ -3613,7 +3614,8 @@ kissing her earlobe.
 They slip together onto the 
 sleeping platform. The nightwalkers will simply have to wait. 
 He has never loved her as much 
-as he does this minute. ★ 
+as he does this minute. ★
+SFGRAM_STOP_SILVERBERG
 containers for the 
 condition of man 
 FACT FEATURE by LAURI VIRTA 

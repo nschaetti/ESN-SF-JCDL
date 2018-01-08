@@ -9341,7 +9341,8 @@ readers — and authors — feel normal.
 What of the future? Duckworth is an Incorrigible optimist and so am I. But since neHher 
 of us lakes anything lor granted, he shall 
 continue lo light his quixotic fictional battles. For my part, I shall do the very best I 
-can — In and out of the ivory tower. 
+can — In and out of the ivory tower.
+SFGRAM_START_SILVERBERG
 ROBERT 
 SILVERBERG 
 % 
@@ -9487,7 +9488,7 @@ a cosmos show at least once a year.
 Right now, Dillon knows, the other operation is playing Boston for 
 the third week. Some kind of problem with sexual turnoffs there, of 
 all wildnesses! 
-H e wakes at noon. Electra 
+He wakes at noon. Electra
 loyally beside him; the littles 
 long gone to school, except for the 
 baby, gurgling in its maintenance 
@@ -10470,7 +10471,7 @@ And the sexual thing. The hundred thousand transactions taking
 place behind his forehead. He loses 
 his virginity; he takes a virginity; 
 he is aggressor and aggressed. 
-H e rides the liftshafts of his 
+He rides the liftshafts of his
 mind. Going up! 501, 502, 503, 
 504, 505! 600! 700! 800! 900! He 
 stands on the landing stage at the 
@@ -10604,7 +10605,8 @@ He cannot bear to play. After ten
 minutes he switches off the vibrastar and goes out. He will walk 
 to San Francisco. 160 floors 
 down. That’s not too many levels; 
-he’ll be there before dawn. if 
+he’ll be there before dawn.
+SFGRAM_STOP_SILVERBERG
 I F YOU take Rene Barjavel’s The 
 Ice People (Morrow, $5.95) and 
 reduce it to its essentials, you get 
