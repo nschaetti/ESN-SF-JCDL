@@ -7520,7 +7520,8 @@ R
 FAilLY 
 FIGHT CANCER WITH A 
 CHECKUP AND A CHECK 
-AMERICAN CANCER SOCIETY 
+AMERICAN CANCER SOCIETY
+SFGRAM_START_JANIFER
 GALACTICK 
 EXTRACTS FROM THE 
 ALMANACK 
@@ -7530,7 +7531,7 @@ Don't take your eye off music
 . there is going to be a lot 
 more to it than meets the ear! 
 Illustrated by DON MARTIN 
-T his first selection deals entirely with the Music Section of the Almanack. 
+This first selection deals entirely with the Music Section of the Almanack.
 Passed over in this anthology, 
 which is intended for general readership, are all references to the 
 four-dimensional doubly extensive 
@@ -7956,7 +7957,8 @@ than science-teaching). Wrapping
 his rootlets around his branches, he 
 rolled away from her with crackling 
 dignity. 
-— LARRY M. HARRIS 
+— LARRY M. HARRIS
+SFGRAM_STOP_JANIFER
 THE FINEST PRECISION SCALED 
 MODELS EVER OFFERED! 
 MEDIUM 
