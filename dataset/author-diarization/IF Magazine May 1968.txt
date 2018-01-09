@@ -6828,7 +6828,8 @@ I The U.S.S.R. • FRANCE • OTHERS
 'i 
 'f 
 f 
-f 
+f
+SFGRAM_START_SILVERBERG
 THE CREATURES OF MAN 
 CONCLUSION 
 IF * Serial 
@@ -10432,7 +10433,8 @@ the reason that it all happened.”
 “He loved mankind,” Rawlins 
 said. It was as good an epitaph as 
 any. He held the girl tightly. But he 
-left before dawn. END 
+left before dawn. END
+SFGRAM_STOP_SILVERBERG
 Apnl 19-21, 1968. LUNACON/Eastercoo. At Park-Sheraton Hotel, 56th St. and 
 7th Ave., New York City. Guest of Honor: 
 Donald A. Wollheim. For information: 
