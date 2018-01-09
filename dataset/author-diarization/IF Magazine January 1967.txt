@@ -5676,7 +5676,8 @@ Plus Willy Ley, Algis Budrys and many others —
 All in the December GALAXY. Don^t miss iti 
 THE SCARED STARSHIP 
 ts 
-IF • Short Story 
+IF • Short Story
+SFGRAM_START_SILVERBERG
 BY THE SEAWALL 
 by ROBERT SILVERBERG 
 tAicah-lV wasn't human and couldn't 
@@ -6247,7 +6248,8 @@ sea lapping directly against the sea- a bit at the impact. Then he bobbed
 wall. to the surface. 
 I will do a human thing, Micah- Lithely, swiftly, inquiringly, 
 IV decided, and perhaps it will give Micah-IV swam outward toward iht 
-me an understanding of what it is waiting beasts. END 
+me an understanding of what it is waiting beasts. END
+SFGRAM_STOP_SILVERBERG
 iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiniiiiiiiiiiiiii^ 
 Coming Next Month in IFl 
 THE SOFT WEAPON 
