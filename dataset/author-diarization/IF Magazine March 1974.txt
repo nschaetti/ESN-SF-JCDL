@@ -5640,7 +5640,8 @@ modeled had been not quite twentysix when he was killed over France,
 after less than eighteen months of 
 success and fame. Before that, in 
 the cavalry, his horse had thrown 
-him again and again. • 
+him again and again. •
+SFGRAM_START_GARRETT
 PRIDE 
 AND 
 PRIMACY 
@@ -5650,7 +5651,7 @@ iVs only fair that one of the
 gentler sex should make the 
 first solo flight to the Moon! 
 RANDALL GARRETT 
-S o YOU think you're tough, do 
+So YOU think you're tough, do
 you? 
 Doh-dooh’dit-dooh-duh~dooh-de 
 dooh ... 
@@ -5844,7 +5845,8 @@ space-black sky.
 H e started walking toward the 
 thing, leaving footprints behind in the gritty lunar soil. 
 Solo One, aren 't you ready with 
-that camera yet?" 
+that camera yet?"
+SFGRAM_STOP_GARRETT
 YOU 
 ARE GOD! 
 With appropriate Spiritual 
@@ -5859,7 +5861,8 @@ satisfied, return material
 within one week for full refund. 
 MAN-IS-GOD 
 BOX1214G Miami, FI. 33133 
-! ^ 
+! ^
+SFGRAM_START_GARRETT
 “Just about,” he replied truthfully. “I’m setting it up now. I’ll 
 have it in operation very shortly.” 
 "Very well. Is your ship stabil’ 
@@ -6021,7 +6024,8 @@ himself. First Solo. First finder of
 an alien artifact. 
 And another step toward equality. In spite of the teams of women 
 who had come here before him, he 
-was the first man on the Moon. 
+was the first man on the Moon.
+SFGRAM_STOP_GARRETT
 For ten years she slept, 
 and then awoke-^ 
 to a nightmare! 
