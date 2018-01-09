@@ -6196,12 +6196,13 @@ incessantly.
 — R. A. LAFFERTY 
 They were Earth's castoffs, doomed to live 
 and die on a planet of Vega — spreading 
-humanity, even at the cost of their own! 
+humanity, even at the cost of their own!
+SFGRAM_START_SILVERBERG
 THE 
 SEED OE EARTH 
 . tC. 
 By ROBERT SILVERBERG Illustrated by MACK 
-^T^HE day was warm, bright, sky 
+THE day was warm, bright, sky
 -*■ blue, thermometer in the 
 high sixties; a completely perfect 
 October day in New York, 
@@ -11965,7 +11966,8 @@ to the wind of the alien world —
 his world. 
 “Hello,” she said tenderly. 
 “Hello,” he said. 
-— ROBERT SILVERBERO 
+— ROBERT SILVERBERO
+SFGRAM_STOP_SILVERBERG
 ★ ★ ★ ★ ★ 
 TTAVING BEEN weaned on 
 science fiction back in 1928 

@@ -6356,7 +6356,8 @@ The Skylark of Space, Skylark Three , Skylark of Valeron
 and now Skylark DuQuesne. 
 | by Edward E. Smith, Ph.D. 
 Starts in the June 1965 If — on sale now — don't miss it! 
-aiiiiiitiiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiHiiiiiiiiiiiiiiiiiiiiiiiitiiiiiiimiiiimiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiimiimiiiiiiiiiiiiiiiiiiiiitiiimiiMiiiiiimiimi^ 
+aiiiiiitiiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiitiiiiiiiiiiiiiiiiiiiiiiiiiiuiiiiHiiiiiiiiiiiiiiiiiiiiiiiitiiiiiiimiiiimiiiiiiiiiiiiiiiiiitiiiiiiiiiiiiimiimiiiiiiiiiiiiiiiiiiiiitiiimiiMiiiiiimiimi^
+SFGRAM_START_SILVERBERG
 BLUE 
 FIRE 
 by ROBERT SILVERBERG 
@@ -7973,7 +7974,8 @@ Fm listening, Kirby thought.
 Go on. Tell me! Tell me! I want 
 to hear. God and the almighty 
 electron help me, I want to hear! 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 T 
 OF 1 
 Think of a man — and think he's much like you — 
