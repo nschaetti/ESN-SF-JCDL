@@ -43,7 +43,8 @@ issues; elsewhere ^.50. Allow four weeks for change of address. All stories appe
 ing in this marazine are fiction; any similarity to actual persons is coincidentaL 
 Not responsible tor unsolicited artwork or manuscripts. 35c a copy. Printed in U.S. A. 
 EDITORIAL AND BUSINESS OFFICES, KINGSTON, NEW YORK 
-Next issue on sale August I2th 
+Next issue on sale August I2th
+SFGRAM_START_ASIMOV
 BY ISAAC ASIMOV 
 FRANCHISE 
 It was a frightening thing to happen to a person; the responsibility was just too great. But Norman Muller couldn’t back 
@@ -1013,7 +1014,8 @@ sovereign citizens of the first and
 greatest Electronic Democracy had, 
 through Norman Muller (through 
 him! ) exercised once again its free, 
-untrammeled franchise. • • • 
+untrammeled franchise. • • •
+SFGRAM_STOP_ASIMOV
 A new moral outlook is called for in which submission to the powers of 
 nature is replaced by respect for what is best in man. It is where this 
 respect is lacking that scientific technique is dangerous. — Bertrand Russell 
@@ -5402,7 +5404,8 @@ transmuted into what other element?
 17. The tail of a comet always trails from the head in a direction 
 the sun. 
 18. The rotational speed of the Sun varies from about 24 2/3 days 
-at the equator to approximately days near its poles. 
+at the equator to approximately days near its poles.
+SFGRAM_START_DICK
 THE MOLD 
 BY 
 The obvious signs were missing, yet Callisto was 
@@ -6503,7 +6506,8 @@ want to tear it down by degrees.”
 “Once the first crack is made, it 
 should start swaying.” Taverner 
 moved toward the door. “Will you 
-be all right on your own?” 
+be all right on your own?”
+SFGRAM_STOP_DICK
 STEPHEN'S 
 Book Service 
 125 FOURTH AVE. 
