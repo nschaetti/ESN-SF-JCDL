@@ -5100,7 +5100,7 @@ whole world toward technology and
 space-travel in order only that it 
 might mature and reach its fulfillment. 
 Does a bee care what has happened to a flower when the bee 
-has dcme and gone its way? 
+has done and gone its way?
 END
 SFGRAM_STOP_ASIMOV
 In the August IF: A sensational new guided missile article so hot it has 
