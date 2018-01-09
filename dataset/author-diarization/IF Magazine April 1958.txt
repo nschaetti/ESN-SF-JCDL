@@ -5643,9 +5643,10 @@ stand against the expected invasion.
 CONSERVATION 
 TO SIRIUS 
 Carman should have known better. Tilting at windmills is a 
-most unrewarding affair — you just can’t win . 
+most unrewarding affair — you just can’t win .
+SFGRAM_START_SILVERBERG
 BY ROBERT SILVERBERG 
-C ONSUMER SIXTH Class 
+CONSUMER SIXTH Class
 David Carman watched the 
 yellow snake that was the morning 
 telefax sheet come rippling from the 
@@ -6358,7 +6359,8 @@ happens to be 900,000 light-years
 away. The round trip, even by hyperdrive, takes some twenty years.” 
 He grinned, showing a double row 
 of square tartared teeth. “You’re a 
-(Continued on page 120) 
+(Continued on page 120)
+SFGRAM_STOP_SILVERBERG
 Illustrated by Virgil Finlay 
 He was a hunter with a Cause that transcended all law. 
 But, now, could the Cause forgive him his service? 
@@ -8460,7 +8462,8 @@ WEREWOLF BOOKSHOP
 7055 K Shannon Rood 
 Verono, Pennsylvonio 
 PASSPORT TO SIRIUS 
-(Continued from page 90) 
+(Continued from page 90)
+SFGRAM_START_SILVERBERG
 forceful man, Mr. Carman. You 
 may very well escape. You may 
 even reach Andromeda and return 
@@ -8478,7 +8481,8 @@ There was no answer, not even
 a catcall. No one was listening. 
 And, Carman realized dully, no 
 one was going to listen to him at 
-all, ever agsdn. END 
+all, ever agsdn. END
+SFGRAM_STOP_SILVERBERG
 POWDER KEG 
 ( Continued from page 37 ) 
 this instinctively. 
