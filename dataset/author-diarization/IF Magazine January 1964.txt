@@ -2948,7 +2948,8 @@ And the brilliant conclusion of
 THREE WORLDS TO CONQUER 
 by Poul Anderson 
 THE CAR POOL 
-IP • Novelette 
+IP • Novelette
+SFGRAM_START_DICK
 WATERSPIDER 
 BY PHILIP K. DICK 
 ILLUSTRATED BY FINLAY 
@@ -4758,7 +4759,8 @@ Karen, with Astrid, appeared beside Poul. “Want to go into the auction?” she
 an original Finlay?” 
 “Urn, sure,” Poul Anderson said, 
 and with his wife and child walked 
-slowly after Howard Browne. END 
+slowly after Howard Browne. END
+SFGRAM_STOP_DICK
 SOLUTION 
 TO 
 SCIENCE-FANTASY 
