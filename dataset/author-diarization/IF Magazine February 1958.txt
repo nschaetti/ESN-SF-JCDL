@@ -165,7 +165,8 @@ mKflH
 ^g| 
 aggSill 
 life] %A 
-Wmi 
+Wmi
+SFGRAM_START_ASIMOV
 Graphitics was a startlingly new idea! 
 So revolutionary, in fact , it rocked the top army brass . 
 Imagine computing — without a computer! 
@@ -665,7 +666,8 @@ end; for the enemy, fortunately, as
 well as for ourselves. 
 “On the other hand, a missile 
 (Continued on page 115) 
-THE FEELING OF POWER 
+THE FEELING OF POWER
+SFGRAM_STOP_ASIMOV
 The aliens wooed Earth with gifts, love, patience and peace. 
 Who could resist them? After all, no one shoots Santa Claus! 
 ASSASSIN 
@@ -7844,7 +7846,8 @@ The Barbarian said. “If I can’t lick
 now, if you’ll climb up to your 
 feet, let’s go get you some breakfast.” END 
 FEELING OF POWER 
-( Continued from page 11) 
+( Continued from page 11)
+SFGRAM_START_ASIMOV
 with a man or two within, controlling flight by graphitics, would 
 be lighter, more mobile, more intelligent. It would give us a lead 
 that might well mean the margin of 
@@ -7895,7 +7898,8 @@ Nine times seven, thought Shuman with deep satisfaction, is sixtythree and I don
 to tell me so. The computer is in 
 my own head. 
 And it was amazing the feeling 
-of power that gave him. END 
+of power that gave him. END
+SFGRAM_STOP_ASIMOV
 WHAT IS YOUR SCIENCE I.Q.? 
 ANSWERS: 1 — Solid with 12 plane faces. 2 — Sagittarius. 3 — It never 
 varies. 4 — Tin. 5 — Temperature at which vapor pressure equals one 
