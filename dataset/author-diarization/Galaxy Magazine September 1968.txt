@@ -246,8 +246,9 @@ it ought to be fim trying.
 —THE EDITOR 
 p. 
 B. 
-I 
-"O oum is a city built on seven 
+I
+SFGRAM_START_SIVERBERG
+"Roum is a city built on seven
 hills. They say it was a capital of man in one of the earlier 
 cycles. I do not know of that, for 
 my guild is Watching, not Remembering: but as I had my first 
@@ -3368,7 +3369,8 @@ Gormon sped onward, limned
 sKarply against tKe day’s last 
 glow, until they climbed so High' 
 tKey were lost to my sight. 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 There are iimes when a man has fo be 
 careful about who shares his dreams. 
 ttT dreamed I was Jung last 
