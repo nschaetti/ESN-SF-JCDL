@@ -4769,11 +4769,12 @@ The largest, most varied and interesting selection of puzzles, word
 games, math games, quizzes and brain teasers ever published at the 
 price! Hundreds of exciting ways to test your wits and talents! Months 
 and months of fun and entertainment! Puts pep into parties. Order 
-today! Send only 50c to QUINN PUBLISHING CO., Inc. Kingston, N. Y. 
+today! Send only 50c to QUINN PUBLISHING CO., Inc. Kingston, N. Y.
+SFGRAM_START_ASIMOV
 BY ISAAC ASIMOV 
 Even 8000 years is not too 
 long when instinct drives a 
-creature. And Kane was willing to wait . 
+creature. And Kane was willing to wait .
 DOES A BEE 
 CARE? 
 T he ship began as a metal 
@@ -5100,7 +5101,8 @@ space-travel in order only that it
 might mature and reach its fulfillment. 
 Does a bee care what has happened to a flower when the bee 
 has dcme and gone its way? 
-END 
+END
+SFGRAM_STOP_ASIMOV
 In the August IF: A sensational new guided missile article so hot it has 
 to be anonymous! Plus fiction by Alan E. Nourse, Tom Godwin, Charles 
 L. Fontenay, Lloyd Biggie, Jr., and others. 
