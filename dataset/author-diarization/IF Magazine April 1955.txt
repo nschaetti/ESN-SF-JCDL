@@ -6478,7 +6478,8 @@ Vol. 4 , No. 2, Oct. 1954
 Vol. 4, No. 3, Nov. 1954 
 Vol. 4 , No. 4, Dec. 1954 
 Vol. 4 , No. 5, Jan. 1955 
-WILLIE'S PLANET 
+WILLIE'S PLANET
+SFGRAM_START_DICK
 S ATURDAY morning, about 
 eleven o’clock, Mrs. Edna Berthelson was ready to make her little 
 trip. Although it was a weekly 
@@ -7563,7 +7564,8 @@ quavered. “She knows we’ll be here
 waiting for her. Customers!” 
 “No,” Crowley said. He didn’t 
 believe it; he made himself not believe it. “We’ll get away. We’ve 
-got to get away!” • • • 
+got to get away!” • • •
+SFGRAM_STOP_DICK
 UHiiitiifiiiiiiiiiiiiuniiiiiiuiiiiiiiiiiiiiiiiiiiiiriiiiiiiiiiiiiiiiiiiiiiiiiaiiiiiiiiiiiiiiiiiiiiiiiiiiHiiiiiitiiiiiiitiimiiiiiiiHitiiiiiiiiiimiiiiiiiiiiiiiitiiiiiitiiMiiiiiiiiiiiiMiiiiiiiiiiii: 
 WORTHCITING 
 | Millions of families in undeveloped areas may soon be enjoying | 
