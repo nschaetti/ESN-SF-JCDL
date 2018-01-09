@@ -8426,7 +8426,8 @@ happen.”
 —THEODORE STURGEON 
 National Review $4.95 
 A novel by Edgar Pangborn 
-MAXWELL'S MONKEY 
+MAXWELL'S MONKEY
+SFGRAM_START_DICK
 BY PHIilP K. DICK 
 He had helped fa rebuild dying Mars — 
 now he could do the same for dead Earth I 
@@ -9394,7 +9395,8 @@ and thought, As long as its batteries don’t run down. He, too,
 patted the kitten. 
 A switch closed and the kitten 
 purred louder. 
-— PHILIP K. DICK 
+— PHILIP K. DICK
+SFGRAM_STOP_DICK
 ★ ★ ★ ★ ★ 
 FORECAST 
 Harry Harrison, who wrote Deathworld, How the Old World Died (in this 
