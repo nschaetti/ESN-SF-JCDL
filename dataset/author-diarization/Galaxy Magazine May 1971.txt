@@ -6556,8 +6556,9 @@ was no longer there. In fact, at that
 moment, for a globular radius of 
 some three billion miles in all directions from where the sun had 
 been, nothing was any longer there. 
-★ 
-RATE OF EXCHANGE 
+★
+SFGRAM_START_SILVERBERG
+RATE OF EXCHANGE
 WHAT HAS GONE BEFORE 
 This is an obscene book . It is 
 the autobiography of Kinnall Darival , descendant of Earthlings . He 
@@ -10356,7 +10357,8 @@ way, I who promised to tell you all
 about myself and who now can say 
 that that promise has been fulfilled. Go and seek. Go and touch. 
 Go and love. Go and be open. Go 
-and be healed. ★ 
+and be healed. ★
+SFGRAM_STOP_SILVERBERG
 LETTERS 3 
 as shorthand for what can be better expressed without them. 
 3) 91% of you voted for real-life 
