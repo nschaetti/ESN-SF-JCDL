@@ -1869,7 +1869,8 @@ It was the dawn of a golden age of transportation. T err an Development was read
 a fourth dimension {C vehicle 33 which afforded almost instantaneous travel . For instance, Henry 
 Ellis commuted 160 miles to work in five steps 
 and a few seconds. Then, one morning, he met 
-some people on the way . 
+some people on the way .
+SFGRAM_START_DICK
 Prominent Author 
 By Philip K. Dick 
 Illustrated by Paul Orban 
@@ -2845,3 +2846,4 @@ charts, a huge mahogany desk, an
 atlas globe, leather chairs, an unbelievably ancient electric typewriter. 
 “Good heavens!” she exclaimed. 
 “How odd. All these old things.”
+SFRAM_STOP_DICK
