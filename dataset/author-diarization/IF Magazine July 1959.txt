@@ -7827,7 +7827,8 @@ get.
 Yes, Baker decided, dying 
 was a good way to make a 
 living. END 
-BAKER’S DOZENS 
+BAKER’S DOZENS
+SFGRAM_START_DICK
 By PHILIP K. DICK 
 f 
 Terror was eating at Sharp . 
@@ -8930,7 +8931,8 @@ She was injured.”
 “I see,” Bamberg said, nodding. Repressed hostility, he 
 thought to himself. Interwoven with sex. Not unusual. 
 He reached for his lamp. 
-END 
+END
+SFGRAM_STOP_DICK
 RECALL MECHANISM 
 What’s In It For You? 
 • Subscribing to IF has so many benefits and conveniences that we often wonder why all our readers 
