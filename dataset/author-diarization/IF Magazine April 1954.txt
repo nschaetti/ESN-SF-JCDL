@@ -177,7 +177,8 @@ that make you anticipate the future
 — not scared out of your boots 
 about it. To these writers, whether 
 they appear in this magazine or 
-not, IF doffs its hat. — jlq 
+not, IF doffs its hat. — jlq
+SFGRAM_START_DICK
 The powers of earth had finally exterminated the 
 last of the horrible tribes of mutant freaks spawned 
 by atomic war. Menace to homo sapien supremacy 
@@ -2076,7 +2077,8 @@ that,” Baines said. “I think I know
 already which of the two strains is 
 going to turn up dominant.” He 
 grinned wryly. “I mean, I’m making a good guess. It won’t be us.” 
-• • • THE END 
+• • • THE END
+SFGRAM_STOP_DICK
 DON’T FORGET! IF IS NOW MONTHLY! . Don’t miss The Ties 
 That Bind , by Walter Miller, Jr. — a stirring, penetrating new novelette 
 about Man’s oldest heritage— in the May issue on sale March 10th! 
