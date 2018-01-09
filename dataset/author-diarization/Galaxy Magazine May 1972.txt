@@ -143,8 +143,9 @@ Copies of March GALAXY arxf April IF,
 in which the prior installments of 
 THE GODS THEMSELVES appeared, may be 
 ordered directly from us. Er>close 
-75< each. We pay postage. 
-WHAT HAS GONE BEFORE 
+75< each. We pay postage.
+SFGRAM_START_ASIMOV
+WHAT HAS GONE BEFORE
 Remember these personae dramatis; 
 DR. FREDERICK HALLAM Known and revered 
 around the globe as the 
@@ -722,7 +723,8 @@ Lunarite. Space was limited on the
 Moon even for Terrestrial officials 
 — no luxurious waste was displayed as a symbol of the authority 
 of the home planet. Nor, for that 
-matter, was there any way of 
+matter, was there any way of
+SFGRAM_STOP_ASIMOV
 |Tr ?| Ballantlne 
 Books 
 CERTAIN sales types are claiming that 
@@ -779,7 +781,8 @@ Look Up. They are scheduling it for
 early fall. And we're hoping for a bookclub sale. Elaine Geiger ' has demonstrated her usual perspicacity and 
 bought Dave Gerrold's When Haiiie 
 Was One for the book club. And that 
-too will later come from. BB 
+too will later come from. BB
+SFGRAM_START_ASIMOV
 changing the overwhelming fact 
 about the Moon — that its low gravity made life possible only underground even for the greatest 
 Earthman who ever lived. 
@@ -6709,7 +6712,8 @@ be outvoted.”
 “Because of — ” Neville rose to 
 his feet and took a menacing step 
 toward Denison. 
-The Commissioner said, “Please 
+The Commissioner said, “Please
+SFGRAM_STOP_ASIMOV
 This scan was produced and 
 distributed free by the 
 Pulps cans Group. If you 
@@ -6721,7 +6725,8 @@ But you can still have this
 and more than a thousand 
 more pulps for free by 
 coming over and joining us 
-at pulpscans0yahoogroups.com. 
+at pulpscans0yahoogroups.com.
+SFGRAM_START_ASIMOV
 don’t get emotional. Dr. Neville. 
 You may be of Luna, but I don’t 
 think you can manhandle both of 
@@ -12625,7 +12630,8 @@ the thoughts that were Alice and
 me, far away behind the eyes, lacerated and wrecked and beached on 
 the rocks of love, lost, hopeless, and 
 unutterable ... ★ 
-★ ★ ★ GALAXY STARS ★ ★ ★ 
+★ ★ ★ GALAXY STARS ★ ★ ★
+SFGRAM_START_ASIMOV
 When approached for a thumbnail biography of the kind usually featured in this 
 space, Isaac Asimov told your editors he would 
 rather supply a brief comment on the genesis 
@@ -12678,7 +12684,8 @@ scientists." The result was THE GODS
 THEMSELVES. 
 I hope you like it. But if you don't, no hard 
 feelings. 
-—ISAAC ASIMOV 
+—ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 Just Published 
 Lester del Key’s 
 first new adult 
