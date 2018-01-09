@@ -6015,7 +6015,8 @@ can’t keep it out of mind.
 Just what did the Trader do 
 with those couple of million 
 zebras we sent him? 
-—CLIFFORD D. SIMAK 
+—CLIFFORD D. SIMAK
+SFGRAM_START_DICK
 shell game 
 None of them had captured or 
 killed a single enemy! Then 
@@ -6962,7 +6963,8 @@ time, it meant nothing to him.
 Then he understood — and shuddered miserably, helplessly. 
 The first phase of the big offensive against Earth was already 
 moving into high gear. 
-—PHILIP K. DICK 
+—PHILIP K. DICK
+SFGRAM_STOP_DICK
 THE HUMANOIDS By jack wiluamson 
 Would perfect, omnipresent robots, who would do all the work for the human 
 race and release people for purely creative activities, be good for us? Is the old 
