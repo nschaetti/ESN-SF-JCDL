@@ -258,7 +258,8 @@ may, if I wish, return the book
 within 10 days for full refund. 
 Name 
 Address 
-State 
+State
+SFGRAM_START_ASIMOV
 SYNOPSIS OF PARTI 
 (Galaxy, March, 1972) 
 Plutonium- 186, an “impossible” 
@@ -5576,7 +5577,8 @@ sadly to the waiting Hard Ones
 by way of vibrating airwaves, “I 
 am permanently with you now and 
 there is much to do—” • 
-TO BE CONCLUDED 
+TO BE CONCLUDED
+SFGRAM_STOP_ASIMOV
 The first installment of The Gods Themselves appears in the March-April issue of 
 GALAXY, now on sale at your news store. 
 The third and concluding installment will 
