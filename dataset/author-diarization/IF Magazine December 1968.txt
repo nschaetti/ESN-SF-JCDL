@@ -182,7 +182,8 @@ to be able to print it. It is very unlikely anybody will ever have a Bok
 cover on a science-fiction magazine 
 again. 
 — THE EDITOR 
-IF • Short Story 
+IF • Short Story
+SFGRAM_START_ASIMOV
 The Holmes - Ginsbook Device 
 by ISAAC ASIMOV 
 Illustrated by GAUGHAN 
@@ -740,7 +741,8 @@ have my Nobel Prize and a contract to write a book on the intimate details surro
 advance. Surely that is enough. 
 Scientists are simple souls and once 
 they have fame, wealth and girls, 
-that’s all they ask. END 
+that’s all they ask. END
+SFGRAM_STOP_ASIMOV
 IF 
 IF • Novelette 
 THE 
