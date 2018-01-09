@@ -179,7 +179,8 @@ did you yourself buy?
 These are the deceptively innocent ingredients of the plot to 
 (ConL on page 97) 
 TO THE HILLSI 
-■ '. , ' "H 
+■ '. , ' "H
+SFGRAM_START_ASIMOV
 If- ^ By ISAAC ASIMOV 
 I The caves of steel | 
 Beginning A 3-Part Serial $ 
@@ -4328,8 +4329,9 @@ Fastolfe who said it:
 “Right there,” said Baley. 
 He pointed straight at R. 
 Daneel Olivaw. 
-—ISAAC ASIMOV 
-CONTINUED NEXT MONTH 
+—ISAAC ASIMOV
+CONTINUED NEXT MONTH
+SFGRAM_STOP_ASIMOV
 FORECAST 
 In next month's installment of THE CAVES OF STEEL, Isaac Asimov 
 continues building the tension and threat of his mystery plot . while 
