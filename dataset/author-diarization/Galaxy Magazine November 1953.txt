@@ -5546,7 +5546,8 @@ eaten 300 miles awqy only 24 hours later— the railroad covering the same
 distance now takes ten hours more! 
 Most incredible of all, not a single vehicle ever traveled the ancient 
 road, for the Incas never invented the wheel! 
-CLEAN BREAK 
+CLEAN BREAK
+SFGRAM_START_ASIMOV
 Baley had the world's worst headache
 if he solved the murder case, 
 Earth would be seized 
@@ -9433,7 +9434,8 @@ Jessie.”
 “Let her in,” said R. Daneel 
 calmly, and his brown eyes rose 
 unemotionally to meet the panicky glare of Baley’s. 
-—ISAAC ASIMOV 
+—ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 CONCLUDED NEXT MONTH 
 THE CAVES OF STEEL 
 / An\/3'"“ Top Science- fiction Thrillers 
