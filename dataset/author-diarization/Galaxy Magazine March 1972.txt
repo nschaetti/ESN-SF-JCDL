@@ -323,7 +323,8 @@ Faith K. Pizor & T. Allan Comp
 Introduction by 
 $8.95 Isaac Asimov 
 AT ALL BOOKSTORES 
-Pr36g6r Pllblishors m Fourth Avenue, New York, 10003 
+Pr36g6r Pllblishors m Fourth Avenue, New York, 10003
+SFGRAM_START_ASIMOV
 GODS 
 THEMSELVES 
 Who had forged the link between our 
@@ -810,7 +811,8 @@ would say no more.
 Historical truth? 
 One piece of historical truth that 
 seemed beyond question was that 
-it was the radioactivity that pulled 
+it was the radioactivity that pulled
+SFGRAM_STOP_ASIMOV
 |Tr ?| Ballantine 
 Books 
 ONE the titles we were iooking forward to for January was Why the 
@@ -874,7 +876,8 @@ problems on a galactic scale. Really
 fine space opry. We've just signed the 
 third one in the series, in our opinion 
 the best of the lot — but don't miss the 
-in-between either. BB 
+in-between either. BB
+SFGRAM_START_ASIMOV
 “Hallam’s tungsten” (this is what 
 it was called as a matter of historical custom) into the big time. It 
 didn’t matter whether it was or was 
@@ -3628,7 +3631,8 @@ would break down.
 to know I was right,” cried out 
 Lamont, and blinked to keep 
 back the tears. 
-TO BE CONTINUED 
+TO BE CONTINUED
+SFGRAM_STOP_ASIMOV
 { The second installment of The 
 Gods Themselves will appear in 
 March- April IF, on sale February 
