@@ -7104,11 +7104,12 @@ neck, lifting him to a sitting position. He felt warm fluid at his lips.
 “I don’t dare. The dream will go 
 away.” 
 (Continued on page 116) 
-MANLY WADE WELLMAN 
+MANLY WADE WELLMAN
+SFGRAM_START_DICK
 “ First the E-bomb , in which the Earth itself reaches critical mass and explodes. Then the S-bomb> to wreck 
 the Sun — then the G-bomb, and then . 
 BY PHILLIP K. DICK 
-L EMUEL clung to the wall of 
+LEMUEL clung to the wall of
 his dark bedroom, tense, listening. A faint breeze stirred the lace 
 curtains. Yellow street- light filtered 
 over the bed, the dresser, the books 
@@ -7703,7 +7704,8 @@ With a peaceful smile on his face,
 a smile of happiness and contentment, satisfaction at a job well 
 done, Lemuel lay back and waited 
 for the pack of irrational human 
-animals to finish him. END 
+animals to finish him. END
+SFGRAM_STOP_DICK
 PIPE DREAM 
 By Fritz Leiber 
 IT BEGAN when Simon Grue found something odd in his bathtub. 
