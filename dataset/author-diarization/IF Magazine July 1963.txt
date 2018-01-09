@@ -7714,7 +7714,8 @@ or the breast-seller list.
 END 
 h tr sfir ☆ * 
 ns 
-IP • Short Story 
+IP • Short Story
+SFGRAM_START_SILVERBERG
 THE 
 SHADOW OF WINGS 
 BY ROBERT SILVERBERG 
@@ -7722,7 +7723,7 @@ ILLUSTRATED BY FINLAY
 The alien came as a friend. 
 He could not help looking 
 like man’s ultimate Enemy! 
-T he children came running toward him, laughing and shouting, up from the lakeside to the 
+The children came running toward him, laughing and shouting, up from the lakeside to the
 spot on the grassy hill where he lay 
 reading; and as Dr. John Donaldson saw what was clutched in the 
 hand of his youngest son, he felt an 
@@ -8380,7 +8381,8 @@ to come to Earth, and Caldwell was
 going to impress him into service as 
 an interpreter again. 
 He wondered how the toad-people pledged eternal brotherhood. 
-END 
+END
+SFGRAM_STOP_SILVERBERG
 The Place Where Readers 
 And Editor Meet... 
 Dear Editor: 
