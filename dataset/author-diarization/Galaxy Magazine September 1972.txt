@@ -6495,10 +6495,11 @@ who’d just turned a hundred and
 twenty. A real rarity. Dr. Weaver 
 looked over the suicide list to see if 
 there was anyone on it he had 
-known. •# 
-MEDICAL PRACTICES AMONG THE IMMORTALS 
+known. •#
+SFGRAM_START_SILVERBERG
+MEDICAL PRACTICES AMONG THE IMMORTALS
 SELIG, from his lovely but loose 
-DA VI D SELIG is a genetic adopted sister, JUDITH — all of 
+DAVID SELIG is a genetic adopted sister, JUDITH — all of
 mutant, uniquely gifted with the whose most intimate moments 
 ability to read minds other than he has invaded. It also gives him 
 his own, some of them not human, money when he wants it and women 
@@ -6923,7 +6924,8 @@ She relented. Tomorrow, then.
 We’ll run the tests tomorrow, 
 (iod! He was up all the night in 
 a turmoil of fear, sweating, 
-shivering — about four in the 
+shivering — about four in the
+SFGRAM_STOP_SILVERBERG
 "Barry Malzberg’s dark, 
 bleak vision of the future is 
 one of the most 
@@ -6934,7 +6936,8 @@ science fiction.”
 A NOVEL BY 
 Barry N. Malzberg 
 $5 95, now at you' bookstore 
-RANDOM^g^OUSE 
+RANDOM^g^OUSE
+SFGRAM_START_SILVERBERG
 DYING INSIDE 
 morning he vomited. He hoped his 
 mother would make him stay 
@@ -11545,7 +11548,8 @@ I’ll keep that in mind. I’ll be of
 good cheer. Twang. Twing. Twong. 
 Until I die again, hello, hello, hello, 
 hello. ★ 
-DYING INSIDE 
+DYING INSIDE
+SFGRAM_STOP_SILVERBERG
 DIRECTIONS 
 Directions: 
 This is in direct response to Cy 
