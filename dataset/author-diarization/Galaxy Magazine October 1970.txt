@@ -211,7 +211,8 @@ The ROSICRUCIANS please include
 San Jose, California 95114, U.S.A. 
 Please send me the /ree book, The Mastery of Life, 
 which explains how I may learn to use my faculties 
-and powers of mind. 
+and powers of mind.
+SFGRAM_START_SILVERBERG
 THE WORLD 
 OUTSIDE 
 ROBERT SILVERBERG 
@@ -3123,7 +3124,8 @@ lost to him. The dolly begins to
 roll forward again. 
 Micaela. Stacion. Artha. 
 I love you. 
-“Okay, open the chute.” Clear, 
+“Okay, open the chute.” Clear,
+SFGRAM_STOP_SILVERBERG
 ( Please turn to page 192} 
 eter began to pulse brightly and, 
 as it blinked on and off slowly, 
@@ -13504,7 +13506,8 @@ March Galaxy — or Danny Plachta’s Last Night of the Festival in
 the February number. Comments 
 pro and con were remarkably valid 
 — you are a good group. 
-Till next time. — JAKOBSSON 
+Till next time. — JAKOBSSON
+SFGRAM_START_SILVERBERG
 THE WORLD OUTSIDE 
 unmistakable, and unambiguous. 
 He hears the rushing of the tide. 
@@ -13550,7 +13553,8 @@ The journey is over. The source
 of peril has been eradicated. The 
 urbmon has taken the necessary 
 protective steps and an enemy of 
-civilization has been removed. 
+civilization has been removed.
+SFGRAM_STOP_SILVERBERG
 ★ 
 Phoia by Terry O'Ne.l. MiSs Raguel Welch 
 Learn the seven warning signals of cancer. 
