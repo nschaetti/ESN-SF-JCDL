@@ -281,7 +281,8 @@ can call Trieste Trst and “a hill
 full of fog” in Czech comes out 
 vrch pin mlh, why not Rxzl? 
 — H. L. GOLD 
-TAKE MY WORD 
+TAKE MY WORD
+SFGRAM_START_DICK
 A World 
 of Talent 
 By PHILIP K. DICK 
@@ -2784,7 +2785,8 @@ Curt heard someone coming
 through the brush. He turned — 
 and then Pat was in his arms. 
 “This one,” Tim said. 
-—PHILIP K. DICK 
+—PHILIP K. DICK
+SFGRAM_STOP_DICK
 FORECAST 
 How long Clifford D. Simak's writing streak will last, even he can't say, but while it 
 continues, the results are wonderful— as you'll discover next month in his almost-novellalength HOW-2. If you have anything like a home workshop, you yourself are a direct 
