@@ -3012,7 +3012,8 @@ THE PURPLE PIRATE, by Talbot Mundy
 ready in December for that special Christmas gift, only $4.50. 
 Quantities ARE limited — Send your check or money-order NOW to: 
 FANTASY CLASSIC LIBRARY 
-P. O. Box 161 • Hicksville, N. Y. 
+P. O. Box 161 • Hicksville, N. Y.
+SFGRAM_START_SILVERBERG
 Birds of a 
 Getting specimens for the interstellar zoo 
 was no problem — they battled for the honor 
@@ -4271,8 +4272,9 @@ to sign. It remains the Corrigan
 Institute as long as the place is in 
 business. 
 Try to outcon me, will he? 
-— ROBERT SILVERBERG 
-BIRDS OF A FEATHER 
+— ROBERT SILVERBERG
+BIRDS OF A FEATHER
+SFGRAM_STOP_SILVERBERG
 EARTHLIGHT by Arthur C. 
 Clarke. Ballantine Books, N. Y., 
 $2.75 
