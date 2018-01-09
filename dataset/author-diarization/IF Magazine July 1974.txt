@@ -2508,7 +2508,8 @@ By the way, your Forum piece for
 July Galaxy is even perfecter than I 
 expected! 
 All the best, 
-(signed) Jim Baen 
+(signed) Jim Baen
+SFGRAM_START_ASIMOV
 Dear Jim, 
 Okay, here is all the stuff you 
 sent me, together with an alternate 
@@ -2525,7 +2526,8 @@ Naturally, I don’t expect to be
 paid for this. If you run it, give all 
 the money to Hudson. 
 Yours, 
-(signed) Isaac Asimov 
+(signed) Isaac Asimov
+SFGRAM_STOP_ASIMOV
 Dear Jeff, 
 Would you mind having your 
 story published as a collaboration 
@@ -2696,7 +2698,8 @@ less formal occasions.
 ALTERNATE CONCLUSION TO 
 “HALF BAKED 
 PUBLISHER’S DELIGHT’’ 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+SFGRAM_START_ASIMOV
 The big day came. The two paper 
 snakes approached, raised their 
 heads, and coiled together into a 
@@ -2732,7 +2735,8 @@ its Frankensteins.
 NASA estimates that in less than 
 two months, all the Earth will be 
 paper. Perhaps it will then reach 
-for the Moon. • 
+for the Moon. •
+SFGRAM_STOP_ASIMOV
 HAVING TROUBLE FINDING GALAXY OR 
 WORLDS OF IF? SEND US YOUR NEWS 
 DEALER’S NAME AND ADDRESS 
