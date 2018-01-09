@@ -4428,7 +4428,8 @@ The moment was gone forever,
 but Feerman never knew it. He forgot his decision, forgot earth, forgot 
 truth, and drops of dew spattered 
 his legs as he ran forward to engage the enemy in battle. 
-• • • THE END 
+• • • THE END
+SFGRAM_START_DICK
 By Philip K. Dick 
 Illustrated by Paul Orban 
 As curator of the Twentieth Century Exhibit, 
@@ -5258,7 +5259,8 @@ RUSSIA REVEALS COBALT
 BOMB 
 TOTAL WORLD 
 DESTRUCTION AHEAD 
-• • • THE END 
+• • • THE END
+SFGRAM_STOP_DICK
 ^\wvvvvvvvvvvvv\vvvvv\vvvvvvvvvvvvvmvvvvvv\vmvvv\\vv\vvvmvv\vvv\vvuvvvvvvvvv\vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv\j 
 WHAT IS YOUR SCIENCE I.Q.? 
 IF YOU ARE an “average” reader of science fiction you ought 
