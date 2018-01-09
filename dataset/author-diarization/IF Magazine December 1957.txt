@@ -196,12 +196,13 @@ the big paint companies has actually come up with a polka dot paint.
 fan tells us that the purge of literature is getting so bad that they’ve 
 even banned Black Beauty as subversive to the racial segregation 
 ideal! 
-Illustrated by Ed Emsh 
+Illustrated by Ed Emsh
+SFGRAM_START_SILVERBERG
 AND THE WALLS 
 Earth’s civilization and culture lay dormant and stagnant. 
 Stupidity and ineptitude reigned supreme y and the one man 
 who could change it didn’t care enough — until . 
-T HE SCENE at Transcontinental Televideo five minutes before rehearsal time was, as always, chaotic. Technicians scurried back and 
+THE SCENE at Transcontinental Televideo five minutes before rehearsal time was, as always, chaotic. Technicians scurried back and
 forth, waving cue-sheets wildly in the air, shouting cryptic instructions to 
 each other; dollied cameras rolled in for the dry run. The actors, tense 
 and worried, congregated in the center of the sound-stage, muttering their 
@@ -4397,7 +4398,8 @@ looking at the small men all around
 him, the thin, wiry men who had 
 rightly assessed him and taken it 
 upon themselves to catapult him 
-(Continued, on page 117) 
+(Continued, on page 117)
+SFGRAM_STOP_SILVERBERG
 AND THE WALLS CAME TUMBLING DOWN 
 He carried the monkey of fear on his back for 
 all to see ; and until he could shake the beast 
@@ -8392,7 +8394,8 @@ it’s considered priority work. Heck,
 the young guys even get deferred in 
 it in time of war. END 
 AND THE WALLS CAME TUMBLING DOWN 
-(Continued from page 59) 
+(Continued from page 59)
+SFGRAM_START_SILVERBERG
 into action. “But I’m not.” 
 A new thought struck him. “The 
 Rumanian — Grigorescu. Was he 
@@ -8435,8 +8438,9 @@ was audible overhead. “Here’s Kyman,” Beckett said. “We can leave
 now. And in three days we’ll be in 
 Europe.” 
 Amory nodded. “Yes,” he said. 
-“But we’ll be coming back.” END 
-SECU RITY 
+“But we’ll be coming back.” END
+SFGRAM_STOP_SILVERBERG
+SECURITY
 (Continued from page 101) 
 Lewis jumped under the wheel of 
 the jeep, slammed it into gear and 
