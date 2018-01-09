@@ -3979,8 +3979,9 @@ witness of a visitation, but that
 the plethora of accounts by unimpeachable witnesses has resulted in a will-to-believe. Understandable— but the title’s promise 
 of common sense is not fulfilled. 
 —FLOYD C. GALE 
-***** SHELF 
-DOUBLi DARE 
+***** SHELF
+SFGRAM_START_SILVERBERG
+DOUBLE DARE
 By ROBERT SILVERBERG 
 Pride leadeth to worse than a 
 fall ... It sticketh men out on 
@@ -4890,7 +4891,8 @@ was listening to him, and looked
 around. Marner and Kemridge 
 were at the far end of the lab, 
 scribbling equations feverishly. 
-- ROBERT SILVERBERG 
+- ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 FORECAST 
 Unbelievable as it seems, we've learned recently that there are 
 readers who actually go through only the synopsis and last installment of serials! If you're one of them and are doing that with Alfred 
