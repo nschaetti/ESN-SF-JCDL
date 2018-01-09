@@ -4647,11 +4647,12 @@ lingering traces of remorse.
 How on Earth, he wondered idly, 
 do they manage to make it taste 
 exactly the way it smells? ★ 
-FORUM 
+FORUM
+SFGRAM_START_ASIMOV
 IS THERE HOPE 
 FORTHE FUTURE? 
 ISAAC ASIMOV 
-A t any time and under any conditions it is possible to consider 
+At any time and under any conditions it is possible to consider
 the future either pessimistically or 
 optimistically. 
 It is. after all, never possible to 
@@ -5151,7 +5152,8 @@ All other wars fought on Earth
 since 1945 have been small-scale, 
 or very short, or both. And in no 
 case could one of them have progressed at all without the support 
-given to one side or another by one 
+given to one side or another by one
+SFGRAM_STOP_ASIMOV
 W or Ids of IF 
 NOT JUST ANOTHER SF MAGAZINE! 
 Worlds of IF is rowdy, robust fun! 

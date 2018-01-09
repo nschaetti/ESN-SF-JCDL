@@ -326,9 +326,10 @@ States and Canada. For Pan-America, add 50c per
 year. For other foreign, add 1 .00 per year. 
 NAME 
 ADDRESS 
-ZIP 
+ZIP
+SFGRAM_START_SILVERBERG
 I 
-S o, THEN, I have to go downtown to the University and 
+So, THEN, I have to go downtown to the University and
 forage for dollars again. It 
 doesn’t take much cash to keep 
 me going — two hundred a month 
@@ -5450,7 +5451,8 @@ time and I fear it will be grayer
 still one of these days. Tenants of 
 the house, thoughts of a dry 
 brain in a dry season. 
-TO BE CONCLUDED 
+TO BE CONCLUDED
+SFGRAM_STOP_SILVERBERG
 Came the time 
 nothing worked — 
 not even humans! 
