@@ -179,7 +179,8 @@ under which this nation has prospered.
 I would be the last to deny that 
 unions have done more good than 
 evil, that the working man needed 
-(Continued on page 53) 
+(Continued on page 53)
+SFGRAM_START_DICK
 WAR VETERAN 
 Problem: The future must be changed! . 
 For he was a throwback from the future, 
@@ -2900,7 +2901,8 @@ Earthmen will be glad to have their
 daughters marry men with green 
 skin.” He grinned briefly. “Some 
 of the non-human races may not 
-have any skin at all. • • • 
+have any skin at all. • • •
+SFGRAM_STOP_DICK
 PUT YOUR MONEY on the long shot and maybe you’ll win enough money 
 to make you president! Read SHILL, by James E. Gunn, and see how 
 the fate of Earth rests on the roll of the dice or spin of the wheel! And 
