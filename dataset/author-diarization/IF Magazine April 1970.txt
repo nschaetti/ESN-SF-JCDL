@@ -160,12 +160,13 @@ Name
 Address 
 City & State Zip Code 
 Prices outside the Western Hemisphere add $1.00 per 12 issues for postage 
-Please check whether □ new or □ renewal 
+Please check whether □ new or □ renewal
+SFGRAM_START_ASIMOV
 ISAAC ASIMOV 
 Man had his choice of external 
 environments— -and inner hells 
 I 
-S TEPHEN DEMEREST gazed 
+STEPHEN DEMEREST gazed
 up at the textured sky. He 
 found the blue opaque and revolting. 
 He had unwarily looked at the 
@@ -2060,7 +2061,8 @@ Big World.”
 that and, slowly, smiled. “Well! 
 Women do have their uses.” 
 “Something,” said Bergen, 
-smiling also, “I have never denied.” • 
+smiling also, “I have never denied.” •
+SFGRAM_STOP_ASIMOV
 TO TOUCH A STAR 
 ROBERT F. YOUNG 
 The blue star was an anti-paradox 
