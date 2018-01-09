@@ -9819,7 +9819,8 @@ That's what Blish and Knight are writing about in the next issue.
 Then there's Keith Laumer — Brian Aldiss — Willy Ley's 
 For Your Information and Algis Budrys's Galaxy Bookshelf; and 
 there'll be more stories, too. As many as we can fit into the 192 
-pages that makes Galaxy science fiction's biggest bargain! 
+pages that makes Galaxy science fiction's biggest bargain!
+SFGRAM_START_SILVERBERG
 Open The Shy 
 by ROBERT SILVERBERG 
 Illustrated by MORROW 
@@ -9827,7 +9828,7 @@ His disciples ruled three
 worlds. Then he gave them 
 away — to win a universe! 
 I 
-''T^he surgical amphitheater was 
+The surgical amphitheater was
 a chilly horseshoe lit by a 
 pale violet glow. At tire north 
 end, windows on the level of the 
@@ -11575,7 +11576,8 @@ walked away from the place
 where Noel Vorst had been, and 
 toward the place where David 
 Lazarus was waiting for him. 
-—ROBERT SIVERBERG 
+—ROBERT SIVERBERG
+SFGRAM_STOP_SILVERBERG
 The BEMs in your neighborhood 
 won't run off with your books 
 if you put inside the front cover 
