@@ -1485,7 +1485,8 @@ most recent studies and observations? Here are the authentic, |
 timely and fascinating answers by a world-renowned authority — | 
 in the June IF, on sale April 12th . Also in this issue are | 
 unusual stories by Isaac Asimov, Charles Fontenay, Lloyd Biggies, | 
-Dan Galouye and others. | 
+Dan Galouye and others. |
+SFGRAM_START_SILVERBERG
 GREEN THUMB 
 BY ROBERT SILVERBERG 
 He had been sent to the psiless 
@@ -2781,7 +2782,8 @@ under the candles, pretending to be
 having all sorts of difficulties. Finally, when the wax became too pliable to handle easily, he teeked 
 the candles down and caught them. 
 He waved them aloft. The crowd 
-(Continued on page 112) 
+(Continued on page 112)
+SFGRAM_STOP_SILVERBERG
 by henry slesar 
 Ron definitely didn’t like what had happened. But 
 who can blame him? How would you like to wake 
@@ -7806,7 +7808,8 @@ the body of Ron Carver . .”
 Scholar who has made the bad 
 bargain . .” 
 In the distance, the lights of the 
-Winnipeg spaceport blinked a welcome. END 
+Winnipeg spaceport blinked a welcome. END
+SFGRAM_START_SILVERBERG
 HIDDEN TALENT 
 (Continued from page 39) 
 responded with a tinkle of coins. 
@@ -7866,7 +7869,8 @@ that,” he shouted derisively. “It was
 just a trick. You had it all — ” 
 “Don’t give the show away, sonny,” Davison interrupted in a loud 
 stage whisper. “Let’s just keep 
-these things secret — between us magicians, huh?” END 
+these things secret — between us magicians, huh?” END
+SFGRAM_STOP_SILVERBERG
 One of the dangers of future space 
 travel may well be that of body 
 waste. To throw out wastes would 
