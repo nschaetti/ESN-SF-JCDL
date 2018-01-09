@@ -4650,7 +4650,7 @@ exactly the way it smells? ★
 FORUM
 SFGRAM_START_ASIMOV
 IS THERE HOPE 
-FORTHE FUTURE? 
+FOR THE FUTURE?
 ISAAC ASIMOV 
 At any time and under any conditions it is possible to consider
 the future either pessimistically or 
@@ -5182,7 +5182,8 @@ Ok — I’ll try it! Send me 12 issues of Worlds of IF for just $6.95 (23%
 off the regular subscription price!) — and if for any reason I change my 
 mind within 30 days of receiving my first issue, I can cancel my subscription and receive a full refund — and keep that first issue free! 
 Enclosed is my payment of $6.95 [21 check Q money order). 
-Name ; 
+Name ;
+SFGRAM_START_ASIMOV
 of the great powers. 
 Right now, it takes all the United 
 States can spare to support a military force under peacetime conditions, and no other nation is any 
@@ -5508,7 +5509,8 @@ wiped out, in which lives are expanded and enriched, and in which
 all of space is opened to us. 
 If only we can get through this 
 crisis — 
-T H E E N D * 
+T H E E N D *
+SFGRAM_STOP_ASIMOV
 Opening Ruben 
 I hate it when my eyes bleed. So 
 many of my windows are already 
