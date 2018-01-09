@@ -260,10 +260,11 @@ Elsewhere $4.50. Entered as second-class matter at the Post Office, New York, N.
 New York 1958, by Galaxy Publishing Corporation, Robert M. Guinn, president. All rights, including translations reserved. All material submitted must be accompanied by self-addressed stamped 
 envelopes. The publisher assumes no responsibility for unsolicited material. All stories printed in 
 this magazine are fiction, and any similarity between characters and actual persons is coincidental. 
-Printed In the U.S.A. by The Guinn Co., Inc., N. Y. Title Reg. U.S. Pat. Off. 
+Printed In the U.S.A. by The Guinn Co., Inc., N. Y. Title Reg. U.S. Pat. Off.
+SFGRAM_START_ASIMOV
 By ISAAC ASIMOV 
 Illustrated by WOOD 
-E dith Fellowes smcx)thed 
+Edith Fellowes smoothed
 her working smock as she 
 always did before opening the elaborately locked door 
 and stepping across the invisible 
@@ -2657,7 +2658,8 @@ where it hung suspended between
 two eyelets. 
 And Stasis was punctured and 
 the room was empty. 
-— ISAAC ASIMOV 
+— ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 ON THE 
 By UOYD BIGGIE, JR. 
 Failure was impossible — they 
