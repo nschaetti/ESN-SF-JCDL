@@ -411,7 +411,8 @@ Be interesting to see Kow it all
 comes out. We’ll report the results 
 as soon as they’re ready probably 
 in an early 1969 issue of Galaxy. 
-—THE EDITOR 
+—THE EDITOR
+SFGRAM_START_SILVERBERG
 Perris Way 
 by ROBERT SILVERBERG 
 Illustrated by GAUGHAN 
@@ -3986,7 +3987,8 @@ glow arose as the pyre of the dead
 Prince was kindled. That pyre lit 
 the way for us as we made our 
 slow way through' the night, eastward to Jorslem. 
-—ROBERT SILVERBERG 
+—ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 REMEMBER: 
 New subscriptions and changes oi address 
 require 5 weeks to process! 
