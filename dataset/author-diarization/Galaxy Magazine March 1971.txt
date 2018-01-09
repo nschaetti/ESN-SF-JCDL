@@ -341,7 +341,8 @@ iV» esV .., joo ffia '
 :£ 
 Harper &) Row 
 AT ALL BOOKSTORES, or from 
-49 East 33d Street, New York, N.Y. 10016 
+49 East 33d Street, New York, N.Y. 10016
+SFGRAM_START_SILVERBERG
 A 
 TIME 
 OF 
@@ -4180,7 +4181,8 @@ ship, for I knew nothing of seamanship. At the coming of dawn 1
 still knew nothing, but I saw ways 
 1 could bluff a minimal sort of 
 competence. 
-1 went unchallenged on board 
+1 went unchallenged on board
+SFGRAM_STOP_SILVERBERG
 ★★★GALAXY stars^^ 
 "I still hide a lot," says Theodore 
 Sturgeon, "but not the way I did. 
@@ -4226,7 +4228,8 @@ neurotic if it didn't work. Nobody's
 parents will say, 'I did it wrong, 
 I'm sorry,' so stop expecting it and 
 you'll put down a burden you didn't 
-even know you were carrying. 
+even know you were carrying.
+SFGRAM_START_SILVERBERG
 the vessel, a low-slung air-powered 
 craft heavily laden with Glinish 
 goods. The checking of papers 

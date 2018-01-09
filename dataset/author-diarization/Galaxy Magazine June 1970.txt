@@ -3281,8 +3281,9 @@ six hours to impact!”
 “What the hell, Mac?” said Slazeck. “If there’s anyone down 
 there to get the message they’ll 
 get it plain enough when Kiliath 
-(Please turn to page 152) 
-THE MOON OF THIN REALITY 
+(Please turn to page 152)
+THE MOON OF THIN REALITY
+SFGRAM_START_SILVERBERG
 -■ "T. 
 CONCLUSION 
 WHAT HAS GONE BEFORE 
@@ -3550,7 +3551,8 @@ construction zone, the snow lies
 deeply mounded, iron-hard. A dry 
 wind buffets the tower. Well ahead 
 of schedule, it has topped five hundred meters and now is overwhelming in its crystalline splendor. 
-The eight-sided base yields im( Please turn to page 74) 
+The eight-sided base yields im( Please turn to page 74)
+SFGRAM_STOP_SILVERBERG
 CHILDREN’S 
 CRDS/SDE 
 LAWRENCE MAYER 
@@ -4400,7 +4402,8 @@ shifted between the oil-blackened
 ocean, jagged with human drilling 
 platforms, and those bulging madblue eyes in the mirror. 
 He felt thankful he wasn’t human. ★ 
-OIL-MAD BUG-EYED MONSTERS 
+OIL-MAD BUG-EYED MONSTERS
+SFGRAM_START_SILVERBERG
 THETOWER OF GLASS 
 ( Continued from page 60 } 
 perceptibly to the planes of the 
@@ -10081,7 +10084,8 @@ Sleep is taking him. He will not
 feel the blastoff. Five kilometers 
 away a handful of perversely faithful androids are talking to a computer; they are sending Krug to the 
 stars. He waits. Now he sleeps. 
-The cold fluid engulfs him completely. Krug is at peace. He departs forever from Earth. He begins his journey at last. -jt; 
+The cold fluid engulfs him completely. Krug is at peace. He departs forever from Earth. He begins his journey at last. -jt;
+SFGRAM_STOP_SILVERBERG
 THE PLAYER AT YELLOW SILENCE (Continued from page 14} 
 “I do,” replied Forbes. “And 
 Ganeth Zerl, the Yansis premier.” 
