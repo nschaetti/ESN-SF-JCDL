@@ -10491,12 +10491,13 @@ the scope of my engineering, so
 pushing Whitey ahead of me, off 
 I went to tell Dick, laughing and 
 crying. — FRITZ LEIBER 
-★ ★ -Ar 
+★ ★ -Ar
+SFGRAM_START_ASIMOV
 by ISAAC ASIMOV 
 Five of them had come fo the pianef. 
 Four were dead. The other had only 
 one chance left — to live forever! 
-''T^he original combination of 
+The original combination of
 -*■ catastrophes had taken place 
 five years ago — five revolutions 
 of this planet, HC-12549d by the 
@@ -10862,7 +10863,8 @@ the planet itself, the whole
 planet, would be their monument. 
 And Petersen lay down to die 
 in the midst of their victory. 
-—ISAAC ASIMOV 
+—ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 FORECAST 
 Actually our editorial this month is our forecast, but it's on a somewhdt longer-range scale than usual. Restricting our view to the single issue 
 coming up next, here's what it looks like now: 
