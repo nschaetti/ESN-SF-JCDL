@@ -75,7 +75,8 @@ Office, Buffalo, N.Y. Subscription $3.50 for 12 issues in U.S. and Possessions;.
 any similarity to actual persons is coincidental. Not responsible for unsolicited artwork or manuscripts. 35c a copy. Printed in U.S.A. 
 EDITORIAL AND BUSINESS OFFICES, KINGSTON, NEW YORK 
 Next (October) issue on sale August 12th 
-iiiiiiiiiiniiwNiiiiaiaHmianmniimiiiniiiuiiiiuiniiniiiiiiiuuiiiinHuiutiiKuiiiiimiiiiiiiiiiuiniiiiiiiiiiniiiiniiiiiiiiiiiiiiiis 
+iiiiiiiiiiniiwNiiiiaiaHmianmniimiiiniiiuiiiiuiniiniiiiiiiuuiiiinHuiutiiKuiiiiimiiiiiiiiiiuiniiiiiiiiiiniiiiniiiiiiiiiiiiiiiis
+SFGRAM_START_SILVERBERG
 THE WAGES 
 BY ROBERT 
 Escape lay two thousand frightening miles ahead of them — 
@@ -1743,7 +1744,8 @@ men. He smiled at them, but they
 did not smile back. He turned, 
 closing the door carefully behind 
 him, and started down the road, on 
-the long walk toward the post office in Dillard. END 
+the long walk toward the post office in Dillard. END
+SFGRAM_STOP_SILVERBERG
 FIRST EDITIONS OF IF FREE! 
 Two early “ collector's ” issues if you subscribe now! 
 A LIMITED number of copies of the first issue of IF, Volume 1, No. 1, 
