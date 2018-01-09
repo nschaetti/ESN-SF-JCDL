@@ -1,10 +1,11 @@
 JUNE 1953 GALAXY Science Fiction 
 e&iaxy 
 SCIENCE FICTION 
-JUNE 1953 
+JUNE 1953
+SFGRAM_START_ASIMOV
 PEBBLE 
 II THE SKY 
-hy Isaac Asimov 
+hy Isaac Asimov
 It began when Joseph Schwartz was walking down a street in 
 Chicago, past the Institute for Nuclear Research. He raised one 
 foot in the twentieth century; he lowered it in Galactic Era 827, 
@@ -22,7 +23,8 @@ wasn't sure he even cared 1
 Combining tenseness, irony, romance, and fast action with a 
 basis of really intriguing science, Pebble in the Sky is a truly 
 ingenious tale of the far-distant future. 
-AT YOUR NEWS STAND NOW ! 
+AT YOUR NEWS STAND NOW !
+SFGRAM_STOP_ASIMOV
 JUNE, 1953 ' VOL. 6, No. 3 
 Galaxy 
 SCIENCE FICTION 
@@ -8732,7 +8734,8 @@ morning.”
 He closed his eyes. 
 —RICHARD WILSON 
 GALAXY SCIENCE FICTION 
-i- i HHH 
+i- i HHH
+SFGRAM_START_DICK
 Colony 
 By PHILIP K. DICK 
 The worst pari of having an alien enemy is 
@@ -9873,7 +9876,8 @@ The officers became uneasy.
 a joke!” 
 They waited and waited. 
 But no one came. 
-—PHILIP K. DICK 
+—PHILIP K. DICK
+SFGRAM_STOP_DICK
 COLONY 
 | o S101 
 I MDO.ni VALENTINO 
