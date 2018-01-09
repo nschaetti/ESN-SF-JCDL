@@ -7663,7 +7663,8 @@ subject matter to Willy Ley’s
 The Lunghsh, The Dodo and the 
 Unicorn. 
 — FLOYD SEA GALE 
-★ ★ ★ ★ ★ SHELF 
+★ ★ ★ ★ ★ SHELF
+SFGRAM_START_ASIMOV
 Ideas Die Hard 
 By ISAAC ASIMOV 
 The technical problems had been solved long 
@@ -8792,7 +8793,8 @@ before the boomerang swing and
 not one returned. Sometimes I just 
 wonder—” 
 “Shut up!” said Nilsson fiercely. 
-— ISAAC ASIMOV 
+— ISAAC ASIMOV
+SFGRAM_STOP_ASIMOV
 Is your collection of ^^alax^ 
 complete? 
 agfazin^ 
