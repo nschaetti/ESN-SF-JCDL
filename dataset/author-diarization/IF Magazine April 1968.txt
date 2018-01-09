@@ -144,7 +144,8 @@ you rather go on having to cross
 the Atlantic for this sort of thing? 
 — THE EDITOR 
 FIRST OF TWO PARTS 
-IF • Serial 
+IF • Serial
+SFGRAM_START_SILVERBERG
 THE 
 MAN 
 by ROBERT SILVERBERG 
@@ -3878,7 +3879,8 @@ Rawlins said softly, “Tell the
 galaxies that their fate is in good 
 hands. I should find Muller in fifteen 
 minutes.” 
-TO BE CONCLUDED 
+TO BE CONCLUDED
+SFGRAM_STOP_SILVERBERG
 I 
 I 
 I 
