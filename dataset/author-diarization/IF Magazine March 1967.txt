@@ -186,7 +186,8 @@ science fiction developed ...” —Analog
 /jSgji^V 512 pages/$6.00 
 THE WORLD PUBLISHING COMPANY 
 Cleveland and New York 
-IF * Novelette 
+IF * Novelette
+SFGRAM_START_ASIMOV
 The 
 Billiard Ball 
 by ISAAC ASIMOV 
@@ -1231,7 +1232,8 @@ it was already aimed directly at
 Bloom’s heart! 
 Accident? Coincidence? 
 Murder? 
-END 
+END
+SFGRAM_STOP_ASIMOV
 Coming Next Month in IF! 
 THE ROAD TO THE RIM 
 Beginning a new two-part serial of 
