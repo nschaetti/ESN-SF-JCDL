@@ -3585,7 +3585,8 @@ like liquid during the few seconds dashed away a manly tear,
 they took to swing around the star. “I really hate to say this,” he 
 Then the fragments headed on out sighed. “But the only identifiable 
 into space again. fragment of the pride of the United 
-“Months later a radar sweep by States Space Navy was — one starthe Salvage Corps located some of mangled spanner.” 
+“Months later a radar sweep by States Space Navy was — one starthe Salvage Corps located some of mangled spanner.”
+SFGRAM_START_SILVERBERG
 THE TOWER 
 OF GLASS 
 PART 1 1 
@@ -4206,10 +4207,11 @@ gammas at the alter in the posture
 of the Yielder caste. A beta stood 
 above them in Projector posture 
 and a second beta crouched near 
-the wall, fingertips against the hol( Please turn to page 1 35 ) 
+the wall, fingertips against the hol( Please turn to page 1 35 )
+SFGRAM_STOP_SILVERBERG
 The timeserver ( 
 from life — if you 
-P ETER EVERETT slid his 
+PETER EVERETT slid his
 creditcard into the pay slot 
 and dialed the Third 0, prepared 
 to curse at the blankness of the 
@@ -6186,7 +6188,8 @@ his words and if you want to know
 what he means read Son of Man, due 
 from Ballantine next fall. 
 GALAXY BOOKSHELF 
-(Continued from page 108) 
+(Continued from page 108)
+SFGRAM_START_SILVERBERG
 volved. And this fact has long 
 been known but for some reason 
 no one, neither the police nor his 
@@ -7665,8 +7668,10 @@ over the broad-band network that
 linked every chapel to every other 
 one. Watchman remained long 
 enough to hear the first few phrases 
-of his coded statement go forth: 
-SUBSCRIBE NOW TO THE NEW The Magazine of Alternatives 
+of his coded statement go forth:
+SFGRAM_STOP_SILVERBERG
+SUBSCRIBE NOW TO THE NEW The Magazine of Alternatives
+SFGRAM_START_SILVERBERG
 TOWER OF GLASS 
 UAA GCG UCG UAA GGG. GGC 
 GGU AAG AAU UAA UAA CUG. CAA 
@@ -7677,7 +7682,8 @@ Pontifex Dispatcher gave him
 the sign of the Blessing of the Vat. 
 Watchman returned it and, aching, 
 departed. 
-TO BE CONTINUED 
+TO BE CONTINUED
+SFGRAM_STOP_SILVERBERG
 WHATEVER BECAME OF 
 THE McGowans? 
 muscles, making deliberate attempts to move. 
