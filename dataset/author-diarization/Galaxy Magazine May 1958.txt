@@ -6980,14 +6980,15 @@ vacant title of Poet Laureate of
 SF in this oftentimes inspiring 
 volume. 
 — FLOYD C. GALE 
-★ ★★★★ SHELF 
+★ ★★★★ SHELF
+SFGRAM_START_SILVERBERG
 Family longs to lose weight, can't control 
 appetite? Simply trade in the old robocook, 
 put the whole problem in the firm hands of 
 Iron 
 Chancellor 
 By ROBERT SILVERBERG 
-T HE Carmichaels were a 
+THE Carmichaels were a
 pretty plump family, to begin with. Not one of the 
 four of them couldn’t stand to shed 
 quite a few pounds. And there happened to be a super-special on roboservitors at one of the Miracle 
@@ -8278,7 +8279,8 @@ said tranquilly. He patted his hollow stomach and sighed gently.
 guest bedroom for you, Mr. Robinson. Welcome to our happy little 
 home. I hope you like toast and 
 black coffee for breakfast.” 
-— ROBERT SILVERBERG 
+— ROBERT SILVERBERG
+SFGRAM_STOP_SILVERBERG
 ★ ★ ★ ★ ★ 
 THE IRON CHANCELLOR 
 (Continued from page 4) 
