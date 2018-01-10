@@ -6936,14 +6936,15 @@ end of that time, 1 will either tend you just $3.95 plua postage in f\iU payment
 Noma 
 Address 
 ;c« *s 
-Illustrated by Ed Emsh 
+Illustrated by Ed Emsh
+SFGRAM_START_GARRETT
 SPATIAL DELIVERY 
 Women on space station assignments shouldn’t get pregnant. 
 But there’s a first time for everything. Here’s 
 the story of such a time and an historic situation. 
 BY RANDALL GARRETT 
 9 
-O NE thousand seventy-five miles 
+ONE thousand seventy-five miles
 above the wrinkled surface of 
 Earth, a woman was in pain. 
 There, high in the emptiness of 
@@ -7408,7 +7409,8 @@ colonel.
 “Don't thank me. It was Captain 
 Britton’s wife who — ” 
 But Captain Britton wasn’t listening any more. He was headed 
-toward his wife’s room at top speed. 
+toward his wife’s room at top speed.
+SFGRAM_STOP_GARRETT
 Read the AMAZING 
 NOSTRADAMUS 
 PREDICTIONS 
