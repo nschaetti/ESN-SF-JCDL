@@ -7267,7 +7267,8 @@ THE END
 Conger agreed to kill a stranger he had 
 never seen. But he would make no mistakes 
 because he had the stranger’s skull under 
-his arm. 
+his arm.
+SFGRAM_START_DICK
 THE 
 SKULL 
 , By Philip K, Dick 
@@ -8620,7 +8621,8 @@ coined. They would puzzle over it,
 remember it. 
 Smiling, Conger awaited a death 
 foreordained. 
-THE END 
+THE END
+SFGRAM_STOP_DICK
 It was like a mirage in reverse, this strange 
 island off the California coast — it couldn’t 
 always be seen, but it was there — in Time. 
