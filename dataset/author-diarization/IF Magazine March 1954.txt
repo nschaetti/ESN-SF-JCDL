@@ -4704,7 +4704,8 @@ you something more, too! Read BREEDER REACTION in the April
 IF, out next month! 
 The ultradrive had just one slight drawback: it set up 
 a shock wave that made suns explode. Which made the 
-problem of getting back home a delicate one indeed . 
+problem of getting back home a delicate one indeed .
+SFGRAM_START_GARRETT
 Time 
 Fuze 
 By Randall Garrett 
@@ -4955,7 +4956,8 @@ could sec the light that had left
 their home sun more than seven 
 months before, they watched it become suddenly, horribly brighter. 
 A hundred thousand times brighter! 
-. THE END 
+. THE END
+SFGRAM_STOP_GARRETT
 Was he menace? Was he promise of a new, superior type of mankind? This great, golden, godlike youth whose extraordinary 
 mutant powers combined the world’s oldest and newest methods 
 of survival . Read THE GOLDEN MAN in the April issue, on 
