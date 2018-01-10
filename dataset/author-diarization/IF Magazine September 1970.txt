@@ -173,7 +173,8 @@ and powers of mind.
 To: Falkynberg, Oxbo & 
 Associates 
 comex code FOX 
-Regis Center, Proxit 212 3 727 
+Regis Center, Proxit 212 3 727
+SFGRAM_START_GARRETT
 Sirs: 
 Information re Quindar desperately needed. Your standard contract 
 being drawn with fifty percent 
@@ -182,7 +183,7 @@ ruaranteed until contract accepted.
 Take what action you can immediate. Known data follows. Please 
 comex acceptance. 
 Lloyds 
-by T. Bruber 
+by T. Bruber
 I 
 IKKO FALKYNBERG estimated his chances of geting out of the window two and a 
 half meters to his left and knew 
@@ -404,7 +405,8 @@ interrupt.
 voice in Mikko’s ear. 
 “Highest priority. Put a Number Eight HKB with a four-second 
 red warning right in the middle of 
-the village square. The curfew has 
+the village square. The curfew has
+SFGRAM_STOP_GARRETT
 Science-fiction 
 stories from 
 Socialist 
@@ -421,8 +423,9 @@ understanding of socialist idealism—
 he is sure to come away fully satisfied. 
 “An immensely valuable addition to 
 the science fiction canon ...great 
-enjoyment. - frederik pohl 
-FIMBULSOMMER 
+enjoyment. - frederik pohl
+SFGRAM_START_GARRETT
+FIMBULSOMMER
 sounded, so nobody will get hurt. 
 Then be waiting for me as soon as 
 possible at the rendezvous. How 
@@ -3218,7 +3221,8 @@ a jar that would have fractured
 both parietals of any ordinary 
 man’s skull. 
 “Of course!” he bellowed ringingly. “This damned cold has 
-numbed my brain! I should have 
+numbed my brain! I should have
+SFGRAM_STOP_GARRETT
 ( Please turn to page 171) 
 FIMBULSOMAAER 
 RICHARD E. PECK 
@@ -10435,7 +10439,8 @@ but he could feel the whole chamber swinging over; it thrilled him.
 When he finished he was wrung 
 out. His shirt was sticking to his 
 chest and his legs felt weak. But 
-( Please turn to page 182 ) 
+( Please turn to page 182 )
+SFGRAM_START_GARRETT
 FIMBULSOMMER 
 seen it immediately!” He swung 
 around and looked at the icy river 
@@ -11177,7 +11182,8 @@ Tress. She was a good friend and
 1 loved her.” 
 Mikko and Morgan looked at 
 him strangely — but neither said 
-a word. • 
+a word. •
+SFGRAM_STOP_GARRETT
 OF RELAYS AND ROSES 
 at least he had convinced them. 
 The Senator on the left said, 
