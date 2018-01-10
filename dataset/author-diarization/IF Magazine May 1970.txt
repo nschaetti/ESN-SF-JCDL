@@ -220,7 +220,8 @@ The distribution of your magazines
 has greatly improved since the change 
 of ownership. Originally, they arrived 
 here from six to nine weeks late — they 
-{ Please turn to page 158) 
+{ Please turn to page 158)
+SFGRAM_START_SILVERBERG
 TRIP 
 ROBERT SILVERBERG 
 Only one girl on Earth 
@@ -1304,7 +1305,8 @@ She was unafraid. Transfigured by
 happiness. She is a cosmic nuisance but I fear I’m getting to like 
 her. 
 Can I leave her? I wish Swanson 
-had not vanished. I need advice. 
+had not vanished. I need advice.
+SFGRAM_STOP_SILVERBERG
 iK-tac-tK! 
 Spandau bullets raved past G-8's 
 Spad as its mighty Hisso whined the 
@@ -1333,7 +1335,8 @@ dime postage) from:
 BERKLEY PUBLISHING CORP. 
 200 Madison Ave.,New York, N.Y. 10016 
 Purchasers of our books have complete freedom of choice in pricing these books for resale 
-to others. 
+to others.
+SFGRAM_START_SILVERBERG
 THE REALITYTRIP 
 Either I break with Elizabeth or 
 I break with Homeworld. This is 
@@ -1380,7 +1383,8 @@ my ultrawave equipment. The
 links are broken. Tomorrow, when 
 the city offices are open, Elizabeth 
 and I will go to get the marriage 
-license. • 
+license. •
+SFGRAM_STOP_SILVERBERG
 TROUBLESHOOTER 
 MICHAEL G. CONEY 
 His flight companion was 
