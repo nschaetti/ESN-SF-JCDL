@@ -1492,7 +1492,8 @@ yacht. Now I happen to have on
 hand a fine small ship, a rebuilt military scout. I will sell it to you at a 
 very reasonable price.” END 
 THE FORTUNES OF PEACE 
-IF * Short Story 
+IF * Short Story
+SFGRAM_START_SILVERBERG
 BRIDE NINETY- ONE 
 by ROBERT SILVERBERG 
 She was a typical blushing 
@@ -2223,7 +2224,8 @@ Ninety-two for me, and there’ll be
 seventeen of her all at once, dainty, 
 molasses-flavored, golden-eyed and 
 sleek. I’m in no position right now 
-to predict what this marriage is going to be like. END 
+to predict what this marriage is going to be like. END
+SFGRAM_STOP_SILVERBERG
 BRIDE NINETY-ONE 
 Illustrated by GAUGHAN 
 IF • Novelette 
