@@ -141,7 +141,8 @@ Oopyitotol e 1074 by UFD PvbNohlnB CwpoMdon undor to to moM owN, UntooraM ond Fn
 M W — - ^ ^^ko , I I igw
 • •• 9IRQ MBwHoiOoHi ^MI9v00« 1110 ^11^^901^0 0I^VII^M0 110 
 nndoi l ol.Alloloitoopilntodlnddoino|p1nooio ll oBo n ondany ■ I nd f oiH yb o h ooonchoincloioond 
-oolnol psnono to oolnoldonini. Frintod In lf.«JL 
+oolnol psnono to oolnoldonini. Frintod In lf.«JL
+SFGRAM_START_ASIMOV
 I 
 T hey were brothers. Not merely 
 in the sense that they were both 
@@ -1369,7 +1370,8 @@ for that period. You will be rid of
 me. 
 ‘‘Who’ll take care of the Mercury 
 Computer?” 
-‘‘By now, you understand how it 
+‘‘By now, you understand how it
+SFGRAM_STOP_ASIMOV
 The long hiatus — as we, with 
 enormous well-bred control, are calling 
 it — is over. Random House now owns 
@@ -1435,7 +1437,8 @@ no introduction whatsoever.
 • •• 
 And we'll cover the Adult Fantasy 
 next time round. 
-Blessings on you all. BB 
+Blessings on you all. BB
+SFGRAM_START_ASIMOV
 works well enough and I’ll have my 
 two men here to help you ” 
 Anthony shook his head defiantly, “I can’t take the responsibility for the Computer, and I 
@@ -1764,7 +1767,8 @@ done it, then, you and I? Shall we
 join the rest and let them fawn on 
 us, William?’’ 
 William said, “Together?’’ 
-And Anthony linked arms. “Together, brother!’’ • 
+And Anthony linked arms. “Together, brother!’’ •
+SFGRAM_STOP_ASIMOV
 GUEST 
 EDITORIAL 
 FRED POHL 
