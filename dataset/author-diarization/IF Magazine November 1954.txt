@@ -4570,7 +4570,8 @@ of radiation reached?
 18. A star that is a cephied variable is what color? 
 19. What is another name for the great nebula in Andromeda? 
 20. The explosion energy of A-bombs, H-bombs, and Lithium 
-bombs is caused by a ^ reaction process. 
+bombs is caused by a ^ reaction process.
+SFGRAM_START_DICK
 Intelligent parents readily understand why they must 
 not try to educate and train their children. 
 Robots do it much better; they do not confuse them 
@@ -5642,7 +5643,8 @@ complete understanding.
 “I believe I know what you 
 mean,” Doctor Bish said. “In fact, 
 I know exactly what you mean.” 
-• • • 
+• • •
+SFGRAM_STOP_DICK
 THE JUNGLE, in the December issue, is the first story by Charles 
 Beaumont to appear in IF since his much reprinted The Beautiful 
 People. It is a story of human terror and the clash of two cultures, 
