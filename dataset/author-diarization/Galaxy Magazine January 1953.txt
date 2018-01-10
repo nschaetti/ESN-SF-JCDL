@@ -202,8 +202,9 @@ offered by Cesare Lombroso, who
 died in 1909, while his obviously 
 demonstrable — and wholly cock( Continued on page 95) 
 COMMON SENSE 
-V 
-T AYLOR sat back in his 
+V
+SFGRAM_START_DICK
+TAYLOR sat back in his
 chair reading the morning 
 newspaper. The warm kitchen and the smell of coffee 
 blended with the comfort of not 
@@ -245,7 +246,6 @@ we never before had any
 that thought 
 for themselves! 
 GALAXY SCIENCE FICTION
-SFGRAM_START_DICK
 By PHILIP K. DICK 
 THE DEFENDERS 
 “They’re doing a wonderful 

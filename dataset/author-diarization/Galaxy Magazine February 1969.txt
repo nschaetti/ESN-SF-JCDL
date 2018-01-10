@@ -431,7 +431,7 @@ lay the one hope of Renewal.
 But there was no end of duty 
 for a Watcher who had failed. 
 I 
-y^vur world was truly tKeirs, now. 
+Our world was truly tKeirs, now.
 ^ All the way across Eyropj 
 I could see that, as I made my 
 Pilgrimage toward holy Jorslem. 
@@ -540,6 +540,7 @@ the road will not allow many to
 use it at any time. Yet in normal 
 times the flow of traffic had always gone in both directions at 
 once. Here today, we feared to
+SFGRAM_STOP_SILVERBERG
 gallant ine. 
 1 We have long brooded about a 
 , real fantasy publishing program, 
@@ -568,7 +569,7 @@ f The series is being edited by Lin
 i Carter, who will be doing Introducf tions for each volume. His own 
 | book, TOLKIEN: A Look Behind 
 r "The Lord of the Rings," comes out 
-I in March, at 95c, and is aptly de[ scribed on the cover as "A Joyous 
+I in March, at 95c, and is aptly de[ scribed on the cover as "A Joyous
 Exploration of Tolkien's Sources." And indeed, it is obvious 
 that nothing delights Lin more than 
 puttering about among heroic sagas, epics, Sumerian tablets, Norse 
@@ -605,7 +606,8 @@ keeps ticking — or, as Paul Ehrlich
 says, as long as you've booked 
 passage on the Titantic, you might 
 as well go first class. BB 
-14 
+14
+SFGRAM_START_SILVERBERG
 go forward while invaders were 
 this close, and so we remained 
 clustered timidly, watching our 
