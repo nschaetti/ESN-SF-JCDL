@@ -2129,14 +2129,15 @@ set for another.
 For Maria, who might have 
 endangered their leaving. 
 END 
-JAMES H. SCHMITZ 
+JAMES H. SCHMITZ
+SFGRAM_START_DICK
 By PHILIP K. DICK 
 FAIR 
 GAME 
 No question of it, Douglas 
 was a prize catch . btit by 
 whom . and for what? 
-P ROFESSOR Anthony 
+PROFESSOR Anthony
 Douglas lowered gratefully into his red-leather easy 
 chair and sighed. A long sigh, 
 accompanied by labored removal of his shoes and numerous grunts as he kicked them 
@@ -3053,7 +3054,8 @@ falling. Something was coming up at him. A flat, shiny
 surface. What was it? 
 Oddly, it looked almost like 
 a frying pan. 
-END 
+END
+SFGRAM_STOP_DICK
 Promoters of institutional research are ill-informed according to W. J. 
 Kroll, originator of the famous Kroll process used for producing metallic 
 titanium and zirconium. Kroll points out that in the last few years twofifths of all U. S. patents have been taken out by individual inventors, 
