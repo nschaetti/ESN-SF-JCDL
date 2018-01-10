@@ -6318,7 +6318,8 @@ said Glen.
 The gas war had begun. 
 END 
 THE BABE IN THE OVEN 
-IF • Short Story 
+IF • Short Story
+SFGRAM_START_SILVERBERG
 HALFWAY HOUSE 
 by ROBERT SILVERBERG 
 Alfieri was a dead man who wanted 
@@ -6975,7 +6976,8 @@ suffering, when I was only a dying
 man.” 
 He scowled. And then he threw 
 the switch that sent Tomrik Horiman 
-away. END 
+away. END
+SFGRAM_STOP_SILVERBERG
 MUSIC OF 
 TOMORROW 
 Here is music composed on 
