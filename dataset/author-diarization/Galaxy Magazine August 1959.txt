@@ -5239,11 +5239,11 @@ him on the shoulder fraternally.
 In The Next Issue 
 WAY UP YONDER, a novelet by Charles 
 Satterfield — a girl's hand is all he wants of this plantation world — and it cottons to him no more than if he 
-were a Yankee spy! 
+were a Yankee spy!
+SFGRAM_START_SILVERBERG
 Send not to know for whom the telephone rings — 
 it'll send for you if the number you so innocently dial 
 happens to be ..
-SFGRAM_START_SILVERBERG
 Mugwump four 
 By ROBERT SILVERBERG 
 Illustrated By: MARTIN 
@@ -6308,7 +6308,9 @@ No scream would come. In this continuum, the past (his future) was
 immutable. He was caught on the 
 track, and there was no escape. 
 None whatever. And, he realized 
-in frozen horror, there never would 
+in frozen horror, there never would
+be.
+SFGRAM_STOP_SILVERBERG
 The BEMs 
 in your neighborhood 
 won't run off with your books if you 
@@ -6336,7 +6338,6 @@ No. GF-614
 Order from GALAXY 
 421 Hudson Street, New York 14. N. Y. 
 — ROBERT SILVERBERG
-SFGRAM_STOP_SILVERBERG
 Ignorance of the law can so be 
 a valid excuse — and the result 
 is this hilarious but legal . 

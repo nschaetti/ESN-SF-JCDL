@@ -5891,7 +5891,7 @@ ILLUSTRATED BY LUTJENS
 They brought the peace of the 
 stars to ruined Earth . *juf 
 Earth had never asked for itl 
-S campering across the unplowed field the three boys 
+Scampering across the unplowed field the three boys
 shouted as they saw the ship; it 
 had landed, all right, just where 
 they expected, and they were the 
@@ -7154,7 +7154,8 @@ stepping forth into the light of
 day, with no feeling of anxiety. 
 He tossed his cigar into the gutter and then sauntered across 
 the sidewalk, into the familiar 
-building. — PHILIP K. DICK 
+building. — PHILIP K. DICK
+SFGRAM_STOP_DICK
 mean?” 
 “Cemoli promises oranges to 
 the youth,” LeConte explained. 
@@ -7199,7 +7200,6 @@ Sleep now, little one, fortunate child.
 (Summer follow spring and winter follow fall.) 
 When you were born the kind gods smiled. 
 Sleep, little one, who will never wake at all.
-SFGRAM_STOP_DICK
 Sheri S. Eberhart 
 THE INFINITE MOSKOWIH 
 The man named Sam the

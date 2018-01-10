@@ -15,7 +15,7 @@ Do you have
 a restless urge 
 to write? 
 If you do, here is an opportunity 
-for you to take the first 
+for you to take the first
 important step to success in writing 
 Bennett Cerf, the distinguished 
 publisher, is a member of 
@@ -6106,7 +6106,8 @@ E. Total distribution (sum of C and D): Average no. copies each issue during pre
 printing: Average no. copies each issue during preceding 12 months, 7,841; Single issue nearest to filing date, 3.450. G. Total (sum of E and F— should equal net press run shown in A); Average no. copies 
 each issue during preceding 12 months. 118, 169. Single issue neares to filing date 118,934. I certify 
 that the statements made by me are correct and complete. Laurence C. Murphy, Circulation Director. 
-THE YEAR OF THE GOOD SEED 
+THE YEAR OF THE GOOD SEED
+SFGRAM_START_SILVERBERG
 ROBERT SILVERBERG 
 need on his part to learn more 
 about the intelligent species he 
@@ -6305,7 +6306,6 @@ your guardian,” said Vol’himyor.
 A senior nildor summoned 
 Srin’gabar and the four others 
 who would be going toward rebirth.
-SFGRAM_START_SILVERBERG
 DOWNWARD TO THE EARTH 
 Gundersen was gratified at this 
 confirmation of the existing data: 
@@ -7837,10 +7837,11 @@ on this growth. With a quick automatic gesture of revulsion Gundersen plucked tw
 empty breasts. She stirred, 
 moaned again. 
 In the language of the nildoror 
-m 
+SFGRAM_STOP_SILVERBERG
 Edited by Lester del Rey 
 Will be back soon 
 Watch for it on your newsstands
+SFGRAM_START_SILVERBERG
 she murmured, “Is it over yet?” 
 Her voice was like a flute played 
 by a sullen desert breeze. 
@@ -7919,7 +7920,8 @@ parasite? It moves. What is it?”
 indicating the spongy basket from 
 which the dark fluid trickled. 
 “They carry its young. They have 
-become hosts. A year, two years, 
+become hosts. A year, two years,
+SFGRAM_STOP_SILVERBERG
 ISAAC ASIMOV 
 is one of the world’s most famous science-fiction 
 writers. He has also written books on astronomy, 
@@ -7933,7 +7935,8 @@ immediately infects the reader with a spirit of intellectual adventure.
 To read OPUS 100 means a series of relaxed evenings in the company of a warm, ebullient, very human being who is — in fact — 
 a genius. 
 At your bookstore • *5.95 
-HOUGHTON MIFFLIN COMPANY, 2 Park Street, Boston, Mass. 02107 
+HOUGHTON MIFFLIN COMPANY, 2 Park Street, Boston, Mass. 02107
+SFGRAM_START_SILVERBERG
 three — and the larvae emerge.” 
 Why aren’t they both dead?” 
 “They draw nourishment from 

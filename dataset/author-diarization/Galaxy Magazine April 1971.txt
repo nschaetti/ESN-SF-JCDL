@@ -9407,7 +9407,8 @@ o
 SCIENCE FICTION REVIEW 
 P.O- Box 3316, Santa Monica, Cal. 90403 
 WHAT HAS GONE BEFORE Forced to flee Salla when his 
-older brother, Stirron, succeeds to 
+older brother, Stirron, succeeds to
+SFGRAM_START_SILVERBERG
 This is an obscene, book. It is the throne after an accident kills 
 the autobiography of Kinnall Da- the old septarch, Kinnall is helped 
 rival, descendant of Earthlings. He by his bondbrother, Noim, and 
@@ -9418,7 +9419,6 @@ nies self. Even the pronoun is Kinnall escapes once more, finds
 never to be uttered - hence the cover as a common laborer. He 
 "obscenity” of the autobiography, decides to make his way as a comOnly between bondbrothers and moner with the help of H alum's 
 bondsisters is any "soul-bearing” father, who controls trade in prospermitted. perous Manneran.
-SFGRAM_START_SILVERBERG
 Part Two 
 ROBERT SILVERBERG 
 A 

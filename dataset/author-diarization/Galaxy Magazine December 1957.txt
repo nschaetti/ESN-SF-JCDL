@@ -410,12 +410,13 @@ Price
 Sign Card. 
 My Name 
 Address 
-City State. 
-The Three Laws of Posit ronic Robots made it 
+City State.
+SFGRAM_START_ASIMOV
+The Three Laws of Positronic Robots made it
 impossible to kill a human, but there was a 
 loophole . murdering a man after his death I 
 Illustrated by DICK FRANCIS 
-T HE United States Robot 
+THE United States Robot
 and Mechanical Men, Inc., 
 as defendants in the case, 
 had influence enough to force a 
@@ -431,7 +432,6 @@ in this case by Justice Harlow
 Shane, was equally anxious for a 
 quiet end to this mess. Both U. S. 
 Robots and the academic world
-SFGRAM_START_ASIMOV
 By ISAAC ASIMOV 
 GALAXY SCIENCE FICTION 
 GALLEY SLAVE 

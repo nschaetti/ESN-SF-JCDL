@@ -6633,7 +6633,8 @@ plunging toward the sun, it isn’t
 me. 
 Eighth day - 
 TOWER OF GLASS 
-( Continued from page 67) 
+( Continued from page 67)
+SFGRAM_START_SILVERBERG
 gent, we are human beings, we 
 wish no longer to be alone in the 
 cosmos. 
@@ -6702,7 +6703,6 @@ the Duluth plant. Do you have instructions for him?”
 what he’s doing. I’ll go to Vargas 
 now.” 
 The image of Spaulding winked
-SFGRAM_START_SILVERBERG
 THE TOWER OF GLASS 
 out. Krug entered his liftshaft and 
 rose swiftly to the domed planetarium on the highest level of the 
