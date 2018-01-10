@@ -9734,7 +9734,8 @@ Norway, Iowa 52318
 so you owe him an apology — but he 
 probably isn’t offended at the comparison. And don’t despair, since 
 most of the books you want are being reprinted or planned for early reprinting. — Editor . 
-* * * 
+* * *
+SFGRAM_START_ASIMOV
 Dear Fred: 
 Horace Gold is as adept as anyone at setting up strawmen and then 
 knocking them down, and I would be 
@@ -9785,7 +9786,8 @@ literati in the science fiction movement to win out. I admit that’s a
 personal prejudice bom out of the 
 fact that I have a sneaking fondness 
 for humanity — Isaac Asimov, West 
-Newton, Massachusetts 02165 
+Newton, Massachusetts 02165
+SFGRAM_STOP_ASIMOV
 October 18-20, 1968. TOLKIEN CONFERENCE, sponsored by the Tolkien Society of America. At Belknap College, 
 Center Harbor, New Hampshire 03226. 
 Papers are being solicited. Indicate 
