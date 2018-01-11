@@ -40,51 +40,51 @@
       },
       {
         "magazine": "Galaxy Magazine October 1965",
-        "novel": ["Founding Father"]
+        "novels": ["Founding Father"]
       },
       {
         "magazine": "Galaxy Magazine September 1958",
-        "novel": ["Lastborn"]
+        "novels": ["Lastborn"]
       },
       {
         "magazine": "IF Magazine April 1970",
-        "novel": ["Waterclap"]
+        "novels": ["Waterclap"]
       },
       {
         "magazine": "IF Magazine August 1955",
-        "novel": ["Franchise"]
+        "novels": ["Franchise"]
       },
       {
         "magazine": "IF Magazine December 1968",
-        "novel": ["The Holmes-Ginsbook Device"]
+        "novels": ["The Holmes-Ginsbook Device"]
       },
       {
         "magazine": "IF Magazine February 1958",
-        "novel": ["The Feeling of Power"]
+        "novels": ["The Feeling of Power"]
       },
       {
         "magazine": "IF Magazine July 1974",
-        "novel": ["Half-Baked Publisher's Delight"]
+        "novels": ["Half-Baked Publisher's Delight"]
       },
       {
         "magazine": "IF Magazine June 1957",
-        "novel": ["Does a Bee Care?"]
+        "novels": ["Does a Bee Care?"]
       },
       {
         "magazine": "IF Magazine March 1967",
-        "novel": ["The Billard Ball"]
+        "novels": ["The Billard Ball"]
       },
       {
         "magazine": "IF Magazine March 1972",
-        "novel": ["The Gods Themselves (Part 2 of 3)"]
+        "novels": ["The Gods Themselves (Part 2 of 3)"]
       },
       {
         "magazine": "IF Magazine May 1974",
-        "novel": ["Stranger in Paradise"]
+        "novels": ["Stranger in Paradise"]
       },
       {
         "magazine": "IF Magazine November 1968",
-        "novel": ["Letter"]
+        "novels": ["Letter"]
       }
     ],
     "id": "ASIMOV"
@@ -211,183 +211,183 @@
     "texts": [
         {
           "magazine": "Galaxy Magazine April 1966",
-          "novel": ["Lazarus Come Forth"]
+          "novels": ["Lazarus Come Forth"]
         },
         {
           "magazine": "Galaxy Magazine April 1970",
-          "novel": ["The Tower of Glass"]
+          "novels": ["The Tower of Glass"]
         },
         {
           "magazine": "Galaxy Magazine April 1971",
-          "novel": ["A Time of Changes"]
+          "novels": ["A Time of Changes"]
         },
         {
           "magazine": "Galaxy Magazine August 1957",
-          "novel": ["Blaze of Glory"]
+          "novels": ["Blaze of Glory"]
         },
         {
           "magazine": "Galaxy Magazine August 1959",
-          "novel": ["Mugwump Four"]
+          "novels": ["Mugwump Four"]
         },
         {
           "magazine": "Galaxy Magazine August 1963",
-          "novel": ["The Pain Peddlers"]
+          "novels": ["The Pain Peddlers"]
         },
         {
           "magazine": "Galaxy Magazine August 1964",
-          "novel": ["Neighbor"]
+          "novels": ["Neighbor"]
         },
         {
           "magazine": "Galaxy Magazine August 1968",
-          "novel": ["Going Down Smooth"]
+          "novels": ["Going Down Smooth"]
         },
         {
           "magazine": "Galaxy Magazine December 1967",
-          "novel": ["King of the Golden World"]
+          "novels": ["King of the Golden World"]
         },
         {
           "magazine": "Galaxy Magazine December 1969",
-          "novel": ["Downward to the Earth"]
+          "novels": ["Downward to the Earth"]
         },
         {
           "magazine": "Galaxy Magazine December 1970",
-          "novel": ["We Are Well Organized"]
+          "novels": ["We Are Well Organized"]
         },
         {
           "magazine": "Galaxy Magazine December 1974",
-          "novel": ["The Man Who Came Back"]
+          "novels": ["The Man Who Came Back"]
         },
         {
           "magazine": "Galaxy Magazine February 1965",
-          "novel": ["The Sixth Palace"]
+          "novels": ["The Sixth Palace"]
         },
         {
           "magazine": "Galaxy Magazine February 1966",
-          "novel": ["Where the Changed Ones Go"]
+          "novels": ["Where the Changed Ones Go"]
         },
         {
           "magazine": "Galaxy Magazine February 1969",
-          "novel": ["To Jorslem"]
+          "novels": ["To Jorslem"]
         },
         {
           "magazine": "Galaxy Magazine February 1970",
-          "novel": ["Downward to the Earth"]
+          "novels": ["Downward to the Earth"]
         },
         {
           "magazine": "Galaxy Magazine July 1970",
-          "novel": ["The Throwbacks"]
+          "novels": ["The Throwbacks"]
         },
         {
           "magazine": "Galaxy Magazine July 1971",
-          "novel": ["All the Way Up, All the Way Down"]
+          "novels": ["All the Way Up, All the Way Down"]
         },
         {
           "magazine": "Galaxy Magazine July 1972",
-          "novel": ["Dying Inside"]
+          "novels": ["Dying Inside"]
         },
         {
           "magazine": "Galaxy Magazine June 1962",
-          "novel": ["The Seed of Earth"]
+          "novels": ["The Seed of Earth"]
         },
         {
           "magazine": "Galaxy Magazine June 1965",
-          "novel": ["Blue Fire"]
+          "novels": ["Blue Fire"]
         },
         {
           "magazine": "Galaxy Magazine June 1966",
-          "novel": ["Open the Sky"]
+          "novels": ["Open the Sky"]
         },
         {
           "magazine": "Galaxy Magazine June 1970",
-          "novel": ["The Power of Glass (Part 3 of 3)"]
+          "novels": ["The Power of Glass (Part 3 of 3)"]
         },
         {
           "magazine": "Galaxy Magazine March 1971",
-          "novel": ["A Time of Changes (Part 1 of 3)"]
+          "novels": ["A Time of Changes (Part 1 of 3)"]
         },
         {
           "magazine": "Galaxy Magazine May 1958",
-          "novel": ["The Iron Chancellor"]
+          "novels": ["The Iron Chancellor"]
         },
         {
           "magazine": "Galaxy Magazine May 1970",
-          "novel": ["The Tower of Glass (Part 2 of 3)"]
+          "novels": ["The Tower of Glass (Part 2 of 3)"]
         },
         {
           "magazine": "Galaxy Magazine May 1971",
-          "novel": ["A Time of Changes (Part 3 of 3)"]
+          "novels": ["A Time of Changes (Part 3 of 3)"]
         },
         {
           "magazine": "Galaxy Magazine November 1956",
-          "novel": ["Double Dare"]
+          "novels": ["Double Dare"]
         },
         {
           "magazine": "Galaxy Magazine November 1958",
-          "novel": ["Birds of Feather"]
+          "novels": ["Birds of Feather"]
         },
         {
           "magazine": "Galaxy Magazine November 1968",
-          "novel": ["Perris Way"]
+          "novels": ["Perris Way"]
         },
         {
           "magazine": "Galaxy Magazine October 1970",
-          "novel": ["The World Outside"]
+          "novels": ["The World Outside"]
         },
         {
           "magazine": "Galaxy Magazine September 1968",
-          "novel": ["Nightwings"]
+          "novels": ["Nightwings"]
         },
         {
           "magazine": "Galaxy Magazine September 1972",
-          "novel": ["Dying Inside"]
+          "novels": ["Dying Inside"]
         },
         {
           "magazine": "IF Magazine April 1957",
-          "novel": ["Hidden Talent"]
+          "novels": ["Hidden Talent"]
         },
         {
           "magazine": "IF Magazine April 1958",
-          "novel": ["Passport to Sirius"]
+          "novels": ["Passport to Sirius"]
         },
         {
           "magazine": "IF Magazine April 1968",
-          "novel": ["The Man in the Maze (Part 1 of 2)"]
+          "novels": ["The Man in the Maze (Part 1 of 2)"]
         },
         {
           "magazine": "IF Magazine August 1958",
-          "novel": ["The Wages of Death"]
+          "novels": ["The Wages of Death"]
         },
         {
           "magazine": "IF Magazine December 1957",
-          "novel": ["And the Walls Came Tumbling Down"]
+          "novels": ["And the Walls Came Tumbling Down"]
         },
         {
           "magazine": "IF Magazine January 1967",
-          "novel": ["By the Seawall"]
+          "novels": ["By the Seawall"]
         },
         {
           "magazine": "IF Magazine July 1963",
-          "novel": ["The Shadow of Wings"]
+          "novels": ["The Shadow of Wings"]
         },
         {
           "magazine": "IF Magazine May 1968",
-          "novel": ["The Man in the Maze (Part 2 of 2)"]
+          "novels": ["The Man in the Maze (Part 2 of 2)"]
         },
         {
           "magazine": "IF Magazine May 1970",
-          "novel": ["The Reality Trip"]
+          "novels": ["The Reality Trip"]
         },
         {
           "magazine": "IF Magazine May 1974",
-          "novel": ["House Divided"]
+          "novels": ["House Divided"]
         },
         {
           "magazine": "IF Magazine November 1966",
-          "novel": ["Halfway House"]
+          "novels": ["Halfway House"]
         },
         {
           "magazine": "IF Magazine September 1967",
-          "novel": ["Bride Ninety-One"]
+          "novels": ["Bride Ninety-One"]
         }
       ],
     "id": "SILVERBERG"
