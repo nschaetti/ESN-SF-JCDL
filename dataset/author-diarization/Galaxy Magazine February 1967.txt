@@ -4332,7 +4332,7 @@ The wall of the living room
 shuddered. 
 The next one was coming at 
 him from the adjoining apartment. —PHILIP K. DICK!
-SFGRAM_START_DICK
+SFGRAM_STOP_DICK
 THE IRON THORN 
 Thrilling new science-fiction novel 
 by Algis Budrys 
