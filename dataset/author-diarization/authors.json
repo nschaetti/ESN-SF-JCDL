@@ -1,28 +1,395 @@
 {
-  "Robert Silverberg": [
-    {
-      "magazine": "Galaxy Magazine April 1966",
-      "novel": "Lazarus Come Forth"
-    },
-    {
-      "magazine": "Galaxy Magazine April 1970",
-      "novel": "The Tower of Glass"
-    },
-    {
-      "magazine": "Galaxy Magazine April 1971",
-      "novel": "A Time of Changes"
-    },
-    {
-      "magazine": "Galaxy Magazine August 1957",
-      "novel": "Blaze of Glory"
-    },
-    {
-      "magazine": "Galaxy Magazine August 1959",
-      "novel": "Mugwump Four"
-    },
-    {
-      "magazine": "Galaxy Magazine August 1963",
-      "novel": "The Pain Peddlers"
-    }
-  ]
+  "Isaac Asimov":
+  {
+    "texts": [
+      {
+        "magazine": "Galaxy Magazine December 1953",
+        "novels": ["The Caves of Steel (Part 3 of 3)"]
+      },
+      {
+        "magazine": "Galaxy Magazine December 1957",
+        "novels": ["Galley Slave"]
+      },
+      {
+        "magazine": "Galaxy Magazine July 1974",
+        "novels": ["Forum: Is There Hope for the Future?"]
+      },
+      {
+        "magazine": "Galaxy Magazine July 1953",
+        "novels": ["Pebble"]
+      },
+      {
+        "magazine": "Galaxy Magazine March 1972",
+        "novels": ["The Gods Themselves (Part 1 of 3)"]
+      },
+      {
+        "magazine": "Galaxy Magazine May 1972",
+        "novels": ["The Gods Themselves (Part 3 of 3)", "Galaxy Stars"]
+      },
+      {
+        "magazine": "Galaxy Magazine November 1953",
+        "novels": ["The Caves of Steel (Part 2 of 3)"]
+      },
+      {
+        "magazine": "Galaxy Magazine October 1953",
+        "novels": ["The Caves of Steel (Part 1 of 3)"]
+      },
+      {
+        "magazine": "Galaxy Magazine October 1957",
+        "novels": ["Ideas Die Hard"]
+      },
+      {
+        "magazine": "Galaxy Magazine October 1965",
+        "novel": ["Founding Father"]
+      },
+      {
+        "magazine": "Galaxy Magazine September 1958",
+        "novel": ["Lastborn"]
+      },
+      {
+        "magazine": "IF Magazine April 1970",
+        "novel": ["Waterclap"]
+      },
+      {
+        "magazine": "IF Magazine August 1955",
+        "novel": ["Franchise"]
+      },
+      {
+        "magazine": "IF Magazine December 1968",
+        "novel": ["The Holmes-Ginsbook Device"]
+      },
+      {
+        "magazine": "IF Magazine February 1958",
+        "novel": ["The Feeling of Power"]
+      },
+      {
+        "magazine": "IF Magazine July 1974",
+        "novel": ["Half-Baked Publisher's Delight"]
+      },
+      {
+        "magazine": "IF Magazine June 1957",
+        "novel": ["Does a Bee Care?"]
+      },
+      {
+        "magazine": "IF Magazine March 1967",
+        "novel": ["The Billard Ball"]
+      },
+      {
+        "magazine": "IF Magazine March 1972",
+        "novel": ["The Gods Themselves (Part 2 of 3)"]
+      },
+      {
+        "magazine": "IF Magazine May 1974",
+        "novel": ["Stranger in Paradise"]
+      },
+      {
+        "magazine": "IF Magazine November 1968",
+        "novel": ["Letter"]
+      }
+    ],
+    "id": "ASIMOV"
+  },
+  "Philip K. Dick": {
+    "texts": [
+      {
+        "magazine": "Galaxy Magazine December 1959",
+        "novels": ["War Game"]
+      },
+      {
+        "magazine": "Galaxy Magazine December 1963",
+        "novels": ["If There Were No Benny Cemoli"]
+      },
+      {
+        "magazine": "Galaxy Magazine February 1964",
+        "novels": ["Oh, to Be a Blobel!"]
+      },
+      {
+        "magazine": "Galaxy Magazine February 1967",
+        "novels": ["Return Match"]
+      },
+      {
+        "magazine": "Galaxy Magazine February 1969",
+        "novels": ["The War With the Fnools"]
+      },
+      {
+        "magazine": "Galaxy Magazine January 1953",
+        "novels": ["The Defenders"]
+      },
+      {
+        "magazine": "Galaxy Magazine June 1953",
+        "novels": ["Colony"]
+      },
+      {
+        "magazine": "Galaxy Magazine November 1955",
+        "novels": ["Autofac"]
+      },
+      {
+        "magazine": "Galaxy Magazine October 1954",
+        "novels": ["A World of Talent"]
+      },
+      {
+        "magazine": "Galaxy Magazine October 1964",
+        "novels": ["Precious Artifact"]
+      },
+      {
+        "magazine": "Galaxy Magazine September 1954",
+        "novels": ["Shell Game"]
+      },
+      {
+        "magazine": "IF Magazine April 1954",
+        "novels": ["The Golden Man"]
+      },
+      {
+        "magazine": "IF Magazine April 1955",
+        "novels": ["Captive Market"]
+      },
+      {
+        "magazine": "IF Magazine August 1954",
+        "novels": ["Exhibit Piece"]
+      },
+      {
+        "magazine": "IF Magazine August 1955",
+        "novels": ["The Mold of Yancy"]
+      },
+      {
+        "magazine": "IF Magazine January 1964",
+        "novels": ["Waterspider"]
+      },
+      {
+        "magazine": "IF Magazine July 1959",
+        "novels": ["Recall Mechanism"]
+      },
+      {
+        "magazine": "IF Magazine March 1955",
+        "novels": ["War Veteran"]
+      },
+      {
+        "magazine": "IF Magazine May 1954",
+        "novels": ["Prominent Author"]
+      },
+      {
+        "magazine": "IF Magazine November 1954",
+        "novels": ["Progeny"]
+      },
+      {
+        "magazine": "IF Magazine September 1952",
+        "novels": ["The Skull"]
+      },
+      {
+        "magazine": "IF Magazine September 1953",
+        "novels": ["The Trouble with Bubbles"]
+      },
+      {
+        "magazine": "IF Magazine September 1959",
+        "novels": ["Fair Game"]
+      }
+    ],
+    "id": "DICK"
+  },
+  "Randall Garrett": {
+    "texts": [
+      {
+        "magazine": "IF Magazine March 1954",
+        "novels": ["Time Fuze"]
+      },
+      {
+        "magazine": "IF Magazine March 1974",
+        "novels": ["Pride and Primacy"]
+      },
+      {
+        "magazine": "IF Magazine October 1954",
+        "novels": ["Spatial Delivery"]
+      },
+      {
+        "magazine": "IF Magazine September 1970",
+        "novels": ["Fimbulsommer"]
+      }
+    ],
+    "id": "GARRETT"
+  },
+  "Robert Silverberg": {
+    "texts": [
+        {
+          "magazine": "Galaxy Magazine April 1966",
+          "novel": ["Lazarus Come Forth"]
+        },
+        {
+          "magazine": "Galaxy Magazine April 1970",
+          "novel": ["The Tower of Glass"]
+        },
+        {
+          "magazine": "Galaxy Magazine April 1971",
+          "novel": ["A Time of Changes"]
+        },
+        {
+          "magazine": "Galaxy Magazine August 1957",
+          "novel": ["Blaze of Glory"]
+        },
+        {
+          "magazine": "Galaxy Magazine August 1959",
+          "novel": ["Mugwump Four"]
+        },
+        {
+          "magazine": "Galaxy Magazine August 1963",
+          "novel": ["The Pain Peddlers"]
+        },
+        {
+          "magazine": "Galaxy Magazine August 1964",
+          "novel": ["Neighbor"]
+        },
+        {
+          "magazine": "Galaxy Magazine August 1968",
+          "novel": ["Going Down Smooth"]
+        },
+        {
+          "magazine": "Galaxy Magazine December 1967",
+          "novel": ["King of the Golden World"]
+        },
+        {
+          "magazine": "Galaxy Magazine December 1969",
+          "novel": ["Downward to the Earth"]
+        },
+        {
+          "magazine": "Galaxy Magazine December 1970",
+          "novel": ["We Are Well Organized"]
+        },
+        {
+          "magazine": "Galaxy Magazine December 1974",
+          "novel": ["The Man Who Came Back"]
+        },
+        {
+          "magazine": "Galaxy Magazine February 1965",
+          "novel": ["The Sixth Palace"]
+        },
+        {
+          "magazine": "Galaxy Magazine February 1966",
+          "novel": ["Where the Changed Ones Go"]
+        },
+        {
+          "magazine": "Galaxy Magazine February 1969",
+          "novel": ["To Jorslem"]
+        },
+        {
+          "magazine": "Galaxy Magazine February 1970",
+          "novel": ["Downward to the Earth"]
+        },
+        {
+          "magazine": "Galaxy Magazine July 1970",
+          "novel": ["The Throwbacks"]
+        },
+        {
+          "magazine": "Galaxy Magazine July 1971",
+          "novel": ["All the Way Up, All the Way Down"]
+        },
+        {
+          "magazine": "Galaxy Magazine July 1972",
+          "novel": ["Dying Inside"]
+        },
+        {
+          "magazine": "Galaxy Magazine June 1962",
+          "novel": ["The Seed of Earth"]
+        },
+        {
+          "magazine": "Galaxy Magazine June 1965",
+          "novel": ["Blue Fire"]
+        },
+        {
+          "magazine": "Galaxy Magazine June 1966",
+          "novel": ["Open the Sky"]
+        },
+        {
+          "magazine": "Galaxy Magazine June 1970",
+          "novel": ["The Power of Glass (Part 3 of 3)"]
+        },
+        {
+          "magazine": "Galaxy Magazine March 1971",
+          "novel": ["A Time of Changes (Part 1 of 3)"]
+        },
+        {
+          "magazine": "Galaxy Magazine May 1958",
+          "novel": ["The Iron Chancellor"]
+        },
+        {
+          "magazine": "Galaxy Magazine May 1970",
+          "novel": ["The Tower of Glass (Part 2 of 3)"]
+        },
+        {
+          "magazine": "Galaxy Magazine May 1971",
+          "novel": ["A Time of Changes (Part 3 of 3)"]
+        },
+        {
+          "magazine": "Galaxy Magazine November 1956",
+          "novel": ["Double Dare"]
+        },
+        {
+          "magazine": "Galaxy Magazine November 1958",
+          "novel": ["Birds of Feather"]
+        },
+        {
+          "magazine": "Galaxy Magazine November 1968",
+          "novel": ["Perris Way"]
+        },
+        {
+          "magazine": "Galaxy Magazine October 1970",
+          "novel": ["The World Outside"]
+        },
+        {
+          "magazine": "Galaxy Magazine September 1968",
+          "novel": ["Nightwings"]
+        },
+        {
+          "magazine": "Galaxy Magazine September 1972",
+          "novel": ["Dying Inside"]
+        },
+        {
+          "magazine": "IF Magazine April 1957",
+          "novel": ["Hidden Talent"]
+        },
+        {
+          "magazine": "IF Magazine April 1958",
+          "novel": ["Passport to Sirius"]
+        },
+        {
+          "magazine": "IF Magazine April 1968",
+          "novel": ["The Man in the Maze (Part 1 of 2)"]
+        },
+        {
+          "magazine": "IF Magazine August 1958",
+          "novel": ["The Wages of Death"]
+        },
+        {
+          "magazine": "IF Magazine December 1957",
+          "novel": ["And the Walls Came Tumbling Down"]
+        },
+        {
+          "magazine": "IF Magazine January 1967",
+          "novel": ["By the Seawall"]
+        },
+        {
+          "magazine": "IF Magazine July 1963",
+          "novel": ["The Shadow of Wings"]
+        },
+        {
+          "magazine": "IF Magazine May 1968",
+          "novel": ["The Man in the Maze (Part 2 of 2)"]
+        },
+        {
+          "magazine": "IF Magazine May 1970",
+          "novel": ["The Reality Trip"]
+        },
+        {
+          "magazine": "IF Magazine May 1974",
+          "novel": ["House Divided"]
+        },
+        {
+          "magazine": "IF Magazine November 1966",
+          "novel": ["Halfway House"]
+        },
+        {
+          "magazine": "IF Magazine September 1967",
+          "novel": ["Bride Ninety-One"]
+        }
+      ],
+    "id": "SILVERBERG"
+  }
 }
