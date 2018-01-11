@@ -6815,7 +6815,8 @@ would try to teach.”
 Hesitantly he moved toward her. 
 She did not move away. 
 He stopped hesitating. * 
-THE GODS THEMSELVES 
+THE GODS THEMSELVES
+SFGRAM_STOP_ASIMOV
 B ROCAAL was a geologically 
 young planet and the salt machines were a state monopoly. You 
 put a penny into the slot and it 
