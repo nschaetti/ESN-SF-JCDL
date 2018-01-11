@@ -5,7 +5,7 @@
     "month": 3,
     "year": 1966,
     "authors": {
-      "Robert Silverberg": "Lazarus Come Forth"
+      "Robert Silverberg": ["Lazarus Come Forth"]
     }
   },
   "Galaxy Magazine April 1970" : {
@@ -13,7 +13,7 @@
     "month": 3,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The Tower of Glass"
+      "Robert Silverberg": ["The Tower of Glass"]
     }
   },
   "Galaxy Magazine April 1971" :
@@ -22,7 +22,7 @@
     "month": 3,
     "year": 1971,
     "authors": {
-      "Robert Silverberg": "A Time of Changes"
+      "Robert Silverberg": ["A Time of Changes"]
     }
   },
   "Galaxy Magazine August 1957" : {
@@ -30,7 +30,7 @@
     "month": 7,
     "year": 1957,
     "authors": {
-      "Robert Silverberg": "Blaze of Glory"
+      "Robert Silverberg": ["Blaze of Glory"]
     }
   },
   "Galaxy Magazine August 1959" : {
@@ -38,7 +38,7 @@
     "month": 7,
     "year": 1959,
     "authors": {
-      "Robert Silverberg": "Mugwump Four"
+      "Robert Silverberg": ["Mugwump Four"]
     }
   },
   "Galaxy Magazine August 1963" : {
@@ -46,7 +46,7 @@
     "month": 7,
     "year": 1963,
     "authors": {
-      "Robert Silverberg": "The Pain Peddlers"
+      "Robert Silverberg": ["The Pain Peddlers"]
     }
   },
   "Galaxy Magazine August 1964" : {
@@ -54,7 +54,7 @@
     "month": 7,
     "year": 1964,
     "authors": {
-      "Robert Silverberg": "Neighbor"
+      "Robert Silverberg": ["Neighbor"]
     }
   },
   "Galaxy Magazine August 1968" : {
@@ -62,7 +62,7 @@
     "month": 7,
     "year": 1968,
     "authors": {
-      "Robert Silverberg": "Going Down Smooth"
+      "Robert Silverberg": ["Going Down Smooth"]
     }
   },
   "Galaxy Magazine December 1953" : {
@@ -70,7 +70,7 @@
     "month": 11,
     "year": 1953,
     "authors": {
-      "Isaac Asimov": "The Caves of Steel"
+      "Isaac Asimov": ["The Caves of Steel (Part 3 of 3)"]
     }
   },
   "Galaxy Magazine December 1957" : {
@@ -78,7 +78,7 @@
     "month": 11,
     "year": 1957,
     "authors": {
-      "Isaac Asimov": "Galley Slave"
+      "Isaac Asimov": ["Galley Slave"]
     }
   },
   "Galaxy Magazine December 1959" : {
@@ -86,7 +86,7 @@
     "month": 11,
     "year": 1959,
     "authors": {
-      "Philip K. Dick": "War Game"
+      "Philip K. Dick": ["War Game"]
     }
   },
   "Galaxy Magazine December 1963" : {
@@ -94,7 +94,7 @@
     "month": 11,
     "year": 1963,
     "authors": {
-      "Philip K. Dick": "If There Were No Benny Cemoli"
+      "Philip K. Dick": ["If There Were No Benny Cemoli"]
     }
   },
   "Galaxy Magazine December 1967" : {
@@ -102,7 +102,7 @@
     "month": 11,
     "year": 1967,
     "authors": {
-      "Robert Silverberg": "King of the Golden World"
+      "Robert Silverberg": ["King of the Golden World"]
     }
   },
   "Galaxy Magazine December 1969" : {
@@ -110,7 +110,7 @@
     "month": 11,
     "year": 1969,
     "authors": {
-      "Robert Silverberg": "Downward to the Earth"
+      "Robert Silverberg": ["Downward to the Earth"]
     }
   },
   "Galaxy Magazine December 1970" : {
@@ -118,7 +118,7 @@
     "month": 11,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "We Are Well Organized"
+      "Robert Silverberg": ["We Are Well Organized"]
     }
   },
   "Galaxy Magazine December 1974" : {
@@ -126,7 +126,7 @@
     "month": 11,
     "year": 1974,
     "authors": {
-      "Robert Silverberg": "The Man Who Came Back"
+      "Robert Silverberg": ["The Man Who Came Back"]
     }
   },
   "Galaxy Magazine February 1964" : {
@@ -134,7 +134,7 @@
     "month": 1,
     "year": 1964,
     "authors": {
-      "Philip K. Dick": "Oh, to Be a Blobel!"
+      "Philip K. Dick": ["Oh, to Be a Blobel!"]
     }
   },
   "Galaxy Magazine February 1965" : {
@@ -142,7 +142,7 @@
     "month": 1,
     "year": 1965,
     "authors": {
-      "Robert Silverberg": "The Sixth Palace"
+      "Robert Silverberg": ["The Sixth Palace"]
     }
   },
   "Galaxy Magazine February 1966" : {
@@ -150,7 +150,7 @@
     "month": 1,
     "year": 1966,
     "authors": {
-      "Robert Silverberg": "Where the Changed Ones Go"
+      "Robert Silverberg": ["Where the Changed Ones Go"]
     }
   },
   "Galaxy Magazine February 1967" : {
@@ -158,7 +158,7 @@
     "month": 1,
     "year": 1967,
     "authors": {
-      "Philip K. Dick": "Return Match"
+      "Philip K. Dick": ["Return Match"]
     }
   },
   "Galaxy Magazine February 1969" : {
@@ -166,8 +166,8 @@
     "month": 1,
     "year": 1969,
     "authors": {
-      "Robert Silverberg": "To Jorslem",
-      "Philip K. Dick": "The War With the Fnools"
+      "Robert Silverberg": ["To Jorslem"],
+      "Philip K. Dick": ["The War With the Fnools"]
     }
   },
   "Galaxy Magazine February 1970" : {
@@ -175,7 +175,7 @@
     "month": 1,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "Downward to the Earth"
+      "Robert Silverberg": ["Downward to the Earth"]
     }
   },
   "Galaxy Magazine January 1953" : {
@@ -183,7 +183,7 @@
     "month": 0,
     "year": 1953,
     "authors": {
-      "Philip K. Dick": "The Defenders"
+      "Philip K. Dick": ["The Defenders"]
     }
   },
   "Galaxy Magazine July 1970" : {
@@ -191,7 +191,7 @@
     "month": 6,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The Throwbacks"
+      "Robert Silverberg": ["The Throwbacks"]
     }
   },
   "Galaxy Magazine July 1971" : {
@@ -199,7 +199,7 @@
     "month": 6,
     "year": 1971,
     "authors": {
-      "Robert Silverberg": "All the Way Up, All the Way Down"
+      "Robert Silverberg": ["All the Way Up, All the Way Down"]
     }
   },
   "Galaxy Magazine July 1972" : {
@@ -207,7 +207,7 @@
     "month": 6,
     "year": 1972,
     "authors": {
-      "Robert Silverberg": "Dying Inside (Part 1 of 2)"
+      "Robert Silverberg": ["Dying Inside (Part 1 of 2)"]
     }
   },
   "Galaxy Magazine July 1974" : {
@@ -215,7 +215,7 @@
     "month": 6,
     "year": 1974,
     "authors": {
-      "Isaac Asimov": "Forum: Is Ther Hope for the Future?"
+      "Isaac Asimov": ["Forum: Is There Hope for the Future?"]
     }
   },
   "Galaxy Magazine June 1953" : {
@@ -223,8 +223,8 @@
     "month": 5,
     "year": 1953,
     "authors": {
-      "Philip K. Dick": "Colony",
-      "Isaac Asimov": "Pebble"
+      "Philip K. Dick": ["Colony"],
+      "Isaac Asimov": ["Pebble"]
     }
   },
   "Galaxy Magazine June 1959" : {
@@ -232,7 +232,6 @@
     "month": 5,
     "year": 1959,
     "authors": {
-      "Laurence M. Janifer": "Extracts from the Galactick Almanack: Music Around the Universe"
     }
   },
   "Galaxy Magazine June 1962" : {
@@ -240,7 +239,7 @@
     "month": 5,
     "year": 1962,
     "authors": {
-      "Robert Silverberg": "The Seed of Earth"
+      "Robert Silverberg": ["The Seed of Earth"]
     }
   },
   "Galaxy Magazine June 1965" : {
@@ -248,7 +247,7 @@
     "month": 5,
     "year": 1965,
     "authors": {
-      "Robert Silverberg": "Blue Fire"
+      "Robert Silverberg": ["Blue Fire"]
     }
   },
   "Galaxy Magazine June 1966" : {
@@ -256,7 +255,7 @@
     "month": 5,
     "year": 1966,
     "authors": {
-      "Robert Silverberg": "Open the Sky"
+      "Robert Silverberg": ["Open the Sky"]
     }
   },
   "Galaxy Magazine June 1970" : {
@@ -264,7 +263,7 @@
     "month": 5,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The Tower of Glass (Part 3 of 3)"
+      "Robert Silverberg": ["The Tower of Glass (Part 3 of 3)"]
     }
   },
   "Galaxy Magazine March 1971" : {
@@ -272,7 +271,7 @@
     "month": 2,
     "year": 1971,
     "authors": {
-      "Robert Silverberg": "A Time of Changes (Part 1 of 3"
+      "Robert Silverberg": ["A Time of Changes (Part 1 of 3)"]
     }
   },
   "Galaxy Magazine March 1972" : {
@@ -280,7 +279,7 @@
     "month": 2,
     "year": 1972,
     "authors": {
-      "Isaac Asimov": "The Gods Themselves (Part 1 of 3)"
+      "Isaac Asimov": ["The Gods Themselves (Part 1 of 3)"]
     }
   },
   "Galaxy Magazine May 1958" : {
@@ -288,7 +287,7 @@
     "month": 4,
     "year": 1958,
     "authors": {
-      "Robert Silverberg": "The Iron Chancellor"
+      "Robert Silverberg": ["The Iron Chancellor"]
     }
   },
   "Galaxy Magazine May 1970" : {
@@ -296,7 +295,7 @@
     "month": 4,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The Tower of Glass (Part 2 of 3)"
+      "Robert Silverberg": ["The Tower of Glass (Part 2 of 3)"]
     }
   },
   "Galaxy Magazine May 1971" : {
@@ -304,7 +303,7 @@
     "month": 4,
     "year": 1971,
     "authors": {
-      "Robert Silverberg": "A Time of Changes (Part 3 of 3)"
+      "Robert Silverberg": ["A Time of Changes (Part 3 of 3)"]
     }
   },
   "Galaxy Magazine May 1972" : {
@@ -320,7 +319,7 @@
     "month": 10,
     "year": 1953,
     "authors": {
-      "Isaac Asimov": "The Caves of Steel (Part 2 of 3)"
+      "Isaac Asimov": ["The Caves of Steel (Part 2 of 3)"]
     }
   },
   "Galaxy Magazine November 1955" : {
@@ -328,7 +327,7 @@
     "month": 10,
     "year": 1955,
     "authors": {
-      "Philip K. Dick": "Autofac"
+      "Philip K. Dick": ["Autofac"]
     }
   },
   "Galaxy Magazine November 1956" : {
@@ -336,7 +335,7 @@
     "month": 10,
     "year": 1956,
     "authors": {
-      "Robert Silverberg": "Double Dare"
+      "Robert Silverberg": ["Double Dare"]
     }
   },
   "Galaxy Magazine November 1958" : {
@@ -344,7 +343,7 @@
     "month": 10,
     "year": 1958,
     "authors": {
-      "Robert Silverberg": "Birds of Feather"
+      "Robert Silverberg": ["Birds of Feather"]
     }
   },
   "Galaxy Magazine November 1968" : {
@@ -352,7 +351,7 @@
     "month": 10,
     "year": 1968,
     "authors": {
-      "Robert Silverberg": "Perris Way"
+      "Robert Silverberg": ["Perris Way"]
     }
   },
   "Galaxy Magazine October 1953" : {
@@ -360,7 +359,7 @@
     "month": 9,
     "year": 1953,
     "authors": {
-      "Isaac Asimov": "The Caves of Steel (Part 1 of 3)"
+      "Isaac Asimov": ["The Caves of Steel (Part 1 of 3)"]
     }
   },
   "Galaxy Magazine October 1954" : {
@@ -368,7 +367,7 @@
     "month": 9,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "A World of Talent"
+      "Philip K. Dick": ["A World of Talent"]
     }
   },
   "Galaxy Magazine October 1957" : {
@@ -376,7 +375,7 @@
     "month": 9,
     "year": 1957,
     "authors": {
-      "Isaac Asimov": "Ideas Die Hard"
+      "Isaac Asimov": ["Ideas Die Hard"]
     }
   },
   "Galaxy Magazine October 1964" : {
@@ -384,7 +383,7 @@
     "month": 9,
     "year": 1964,
     "authors": {
-      "Philip K. Dick": "Precious Artifact"
+      "Philip K. Dick": ["Precious Artifact"]
     }
   },
   "Galaxy Magazine October 1965" : {
@@ -392,7 +391,7 @@
     "month": 9,
     "year": 1965,
     "authors": {
-      "Isaac Asimov": "Founding Father"
+      "Isaac Asimov": ["Founding Father"]
     }
   },
   "Galaxy Magazine October 1970" : {
@@ -400,7 +399,7 @@
     "month": 9,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The World Outside"
+      "Robert Silverberg": ["The World Outside"]
     }
   },
   "Galaxy Magazine September 1954" : {
@@ -408,7 +407,7 @@
     "month": 8,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "Shell Game"
+      "Philip K. Dick": ["Shell Game"]
     }
   },
   "Galaxy Magazine September 1958" : {
@@ -416,7 +415,7 @@
     "month": 8,
     "year": 1958,
     "authors": {
-      "Isaac Asimov": "Lastborn"
+      "Isaac Asimov": ["Lastborn"]
     }
   },
   "Galaxy Magazine September 1968" : {
@@ -424,7 +423,7 @@
     "month": 8,
     "year": 1968,
     "authors": {
-      "Robert Silverberg": "Nightwings"
+      "Robert Silverberg": ["Nightwings"]
     }
   },
   "Galaxy Magazine September 1972" : {
@@ -432,31 +431,31 @@
     "month": 8,
     "year": 1972,
     "authors": {
-      "Robert Silverberg": "Dying Inside"
+      "Robert Silverberg": ["Dying Inside"]
     }
   },
-  "IF Magazine April 1954" : {
+  "IF Magazine April 1954": {
     "magazine": "IF Magazine",
     "month": 3,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "The Golden Man"
+      "Philip K. Dick": ["The Golden Man"]
     }
   },
-  "IF Magazine April 1955" : {
+  "IF Magazine April 1955": {
     "magazine": "IF Magazine",
     "month": 3,
     "year": 1955,
     "authors": {
-      "Philip K. Dick": "Captive Market"
+      "Philip K. Dick": ["Captive Market"]
     }
   },
-  "IF Magazine April 1957" : {
+  "IF Magazine April 1957": {
     "magazine": "IF Magazine",
     "month": 3,
     "year": 1957,
     "authors": {
-      "Robert Silverberg": "Hidden Talent"
+      "Robert Silverberg": ["Hidden Talent"]
     }
   },
   "IF Magazine April 1958" : {
@@ -464,273 +463,273 @@
     "month": 3,
     "year": 1958,
     "authors": {
-      "Robert Silverberg": "Passport to Sirius"
+      "Robert Silverberg": ["Passport to Sirius"]
     }
   },
-  "IF Magazine April 1968" : {
+  "IF Magazine April 1968": {
     "magazine": "IF Magazine",
     "month": 3,
     "year": 1968,
     "authors": {
-      "Robert Silverberg": "The Man if the Maze (Part 1 of 2)"
+      "Robert Silverberg": ["The Man in the Maze (Part 1 of 2)"]
     }
   },
-  "IF Magazine April 1970" : {
+  "IF Magazine April 1970": {
     "magazine": "IF Magazine",
     "month": 3,
     "year": 1970,
     "authors": {
-      "Isaac Asimov": "Waterclap"
+      "Isaac Asimov": ["Waterclap"]
     }
   },
-  "IF Magazine August 1954" : {
+  "IF Magazine August 1954": {
     "magazine": "IF Magazine",
     "month": 7,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "Exhibit Piece"
+      "Philip K. Dick": ["Exhibit Piece"]
     }
   },
-  "IF Magazine August 1955" : {
+  "IF Magazine August 1955": {
     "magazine": "IF Magazine",
     "month": 7,
     "year": 1955,
     "authors": {
-      "Isaac Asimov": "Franchise",
-      "Philip K. Dick": "The Mold of Yancy"
+      "Isaac Asimov": ["Franchise"],
+      "Philip K. Dick": ["The Mold of Yancy"]
     }
   },
-  "IF Magazine August 1958" : {
+  "IF Magazine August 1958": {
     "magazine": "IF Magazine",
     "month": 7,
     "year": 1958,
     "authors": {
-      "Robert Silverberg": "The Wages of Death"
+      "Robert Silverberg": ["The Wages of Death"]
     }
   },
-  "IF Magazine December 1957" : {
+  "IF Magazine December 1957": {
     "magazine": "IF Magazine",
     "month": 11,
     "year": 1957,
     "authors": {
-      "Robert Silverberg": "And the Walls Came Tumbling Down"
+      "Robert Silverberg": ["And the Walls Came Tumbling Down"]
     }
   },
-  "IF Magazine December 1958" : {
+  "IF Magazine December 1958": {
     "magazine": "IF Magazine",
     "month": 11,
     "year": 1958,
     "authors": {
-      "Phillip K. Dick": "NULL-0"
+      "Phillip K. Dick": ["NULL-0"]
     }
   },
-  "IF Magazine December 1968" : {
+  "IF Magazine December 1968": {
     "magazine": "IF Magazine",
     "month": 11,
     "year": 1968,
     "authors": {
-      "Isaac asimov": "The Holmes-Ginsbook Device"
+      "Isaac asimov": ["The Holmes-Ginsbook Device"]
     }
   },
-  "IF Magazine February 1958" : {
+  "IF Magazine February 1958": {
     "magazine": "IF Magazine",
     "month": 1,
     "year": 1958,
     "authors": {
-      "Isaac Asimov": "The Feeling of Power"
+      "Isaac Asimov": ["The Feeling of Power"]
     }
   },
-  "IF Magazine January 1964" : {
+  "IF Magazine January 1964": {
     "magazine": "IF Magazine",
     "month": 1,
     "year": 1964,
     "authors": {
-      "Philip K. Dick": "Waterspider"
+      "Philip K. Dick": ["Waterspider"]
     }
   },
-  "IF Magazine January 1967" : {
+  "IF Magazine January 1967": {
     "magazine": "IF Magazine",
     "month": 1,
     "year": 1967,
     "authors": {
-      "Robert Silverberg": "By the Seawall"
+      "Robert Silverberg": ["By the Seawall"]
     }
   },
-  "IF Magazine July 1959" : {
+  "IF Magazine July 1959": {
     "magazine": "IF Magazine",
     "month": 6,
     "year": 1959,
     "authors": {
-      "Philip K. Dick": "Recall Mechanism"
+      "Philip K. Dick": ["Recall Mechanism"]
     }
   },
-  "IF Magazine July 1963" : {
+  "IF Magazine July 1963": {
     "magazine": "IF Magazine",
     "month": 6,
     "year": 1963,
     "authors": {
-      "Robert Silverberg": "The Shadow of Wings"
+      "Robert Silverberg": ["The Shadow of Wings"]
     }
   },
-  "IF Magazine July 1974" : {
+  "IF Magazine July 1974": {
     "magazine": "IF Magazine",
     "month": 6,
     "year": 1974,
     "authors": {
-      "Isaac Asimov": "Half-Baked Publisher's Delight"
+      "Isaac Asimov": ["Half-Baked Publisher's Delight"]
     }
   },
-  "IF Magazine June 1957" : {
+  "IF Magazine June 1957": {
     "magazine": "IF Magazine",
     "month": 5,
     "year": 1957,
     "authors": {
-      "Isaac Asimov": "Does a Bee Care?"
+      "Isaac Asimov": ["Does a Bee Care?"]
     }
   },
-  "IF Magazine March 1954" : {
+  "IF Magazine March 1954": {
     "magazine": "IF Magazine",
     "month": 2,
     "year": 1954,
     "authors": {
-      "Randall Garrett": "Time Fuze"
+      "Randall Garrett": ["Time Fuze"]
     }
   },
-  "IF Magazine March 1955" : {
+  "IF Magazine March 1955": {
     "magazine": "IF Magazine",
     "month": 2,
     "year": 1955,
     "authors": {
-      "Philip K. Dick": "War Veteran"
+      "Philip K. Dick": ["War Veteran"]
     }
   },
-  "IF Magazine March 1967" : {
+  "IF Magazine March 1967": {
     "magazine": "IF Magazine",
     "month": 2,
     "year": 1967,
     "authors": {
-      "Isaac Asimov": "The Billard Ball"
+      "Isaac Asimov": ["The Billard Ball"]
     }
   },
-  "IF Magazine March 1972" : {
+  "IF Magazine March 1972": {
     "magazine": "IF Magazine",
     "month": 2,
     "year": 1972,
     "authors": {
-      "Isaac Asimov": "The Gods Themselves (Part 2 of 3)"
+      "Isaac Asimov": ["The Gods Themselves (Part 2 of 3)"]
     }
   },
-  "IF Magazine March 1974" : {
+  "IF Magazine March 1974": {
     "magazine": "IF Magazine",
     "month": 2,
     "year": 1974,
     "authors": {
-      "Randall Garrett": "Pride and Primacy"
+      "Randall Garrett": ["Pride and Primacy"]
     }
   },
-  "IF Magazine May 1954" : {
+  "IF Magazine May 1954": {
     "magazine": "IF Magazine",
     "month": 4,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "Prominent Author"
+      "Philip K. Dick": ["Prominent Author"]
     }
   },
-  "IF Magazine May 1968" : {
+  "IF Magazine May 1968": {
     "magazine": "IF Magazine",
     "month": 4,
     "year": 1968,
     "authors": {
-      "Robert Silverberg": "The Man in the Maze (Part 2 of 2)"
+      "Robert Silverberg": ["The Man in the Maze (Part 2 of 2)"]
     }
   },
-  "IF Magazine May 1970" : {
+  "IF Magazine May 1970": {
     "magazine": "IF Magazine",
     "month": 4,
     "year": 1970,
     "authors": {
-      "Robert Silverberg": "The Reality Trip"
+      "Robert Silverberg": ["The Reality Trip"]
     }
   },
-  "IF Magazine May 1974" : {
+  "IF Magazine May 1974": {
     "magazine": "IF Magazine",
     "month": 4,
     "year": 1974,
     "authors": {
-      "Isaac Asimov": "Stranger in Paradise",
-      "Robert Silverberg": "House Divided"
+      "Isaac Asimov": ["Stranger in Paradise"],
+      "Robert Silverberg": ["House Divided"]
     }
   },
-  "IF Magazine November 1954" : {
+  "IF Magazine November 1954": {
     "magazine": "IF Magazine",
     "month": 10,
     "year": 1954,
     "authors": {
-      "Philip K. Dick": "Progeny"
+      "Philip K. Dick": ["Progeny"]
     }
   },
-  "IF Magazine November 1966" : {
+  "IF Magazine November 1966": {
     "magazine": "IF Magazine",
     "month": 10,
     "year": 1966,
     "authors": {
-      "Robert Silverberg": "Halfway House"
+      "Robert Silverberg": ["Halfway House"]
     }
   },
-  "IF Magazine November 1968" : {
+  "IF Magazine November 1968": {
     "magazine": "IF Magazine",
     "month": 10,
     "year": 1968,
     "authors": {
-      "Isaac Asimov": "Letter"
+      "Isaac Asimov": ["Letter"]
     }
   },
-  "IF Magazine October 1954" : {
+  "IF Magazine October 1954": {
     "magazine": "IF Magazine",
     "month": 9,
     "year": 1954,
     "authors": {
-      "Randall Garrett": "Spatial Delivery"
+      "Randall Garrett": ["Spatial Delivery"]
     }
   },
-  "IF Magazine September 1952" : {
+  "IF Magazine September 1952": {
     "magazine": "IF Magazine",
     "month": 8,
     "year": 1952,
     "authors": {
-      "Philip K. Dick": "The Skull"
+      "Philip K. Dick": ["The Skull"]
     }
   },
-  "IF Magazine September 1953" : {
+  "IF Magazine September 1953": {
     "magazine": "IF Magazine",
     "month": 8,
     "year": 1953,
     "authors": {
-      "Philip K. Dick": "The Trouble with Bubbles"
+      "Philip K. Dick": ["The Trouble with Bubbles"]
     }
   },
-  "IF Magazine September 1959" : {
+  "IF Magazine September 1959": {
     "magazine": "IF Magazine",
     "month": 8,
     "year": 1959,
     "authors": {
-      "Philip K. Dick": "Fair Game"
+      "Philip K. Dick": ["Fair Game"]
     }
   },
-  "IF Magazine September 1967" : {
+  "IF Magazine September 1967": {
     "magazine": "IF Magazine",
     "month": 8,
     "year": 1967,
     "authors": {
-      "Robert Silverberg": "Bride Ninety-One"
+      "Robert Silverberg": ["Bride Ninety-One"]
     }
   },
-  "IF Magazine September 1970" : {
+  "IF Magazine September 1970": {
     "magazine": "IF Magazine",
     "month": 8,
     "year": 1970,
     "authors": {
-      "Randall Garrett": "Fimbulsommer"
+      "Randall Garrett": ["Fimbulsommer"]
     }
   }
 }
