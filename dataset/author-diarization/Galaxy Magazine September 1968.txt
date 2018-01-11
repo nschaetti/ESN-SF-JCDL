@@ -247,7 +247,7 @@ it ought to be fim trying.
 p. 
 B. 
 I
-SFGRAM_START_SIVERBERG
+SFGRAM_START_SILVERBERG
 "Roum is a city built on seven
 hills. They say it was a capital of man in one of the earlier 
 cycles. I do not know of that, for 
