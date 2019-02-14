@@ -22,275 +22,191 @@
 # along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-import nsNLP
 import numpy as np
-from tools.functions import create_tokenizer
-import os
+import torch
+from torch.autograd import Variable
+import echotorch.nn as etnn
+from tools import argument_parsing, dataset, functions, features
 import matplotlib.pyplot as plt
-import math
-from data.DiarizationDataset import DiarizationDataset
-
-
-####################################################
-# Functions
-####################################################
-
-
-# Converter in
-def converter_in(converters_desc, converter):
-    """
-    Is the converter in the desc
-    :param converters_desc:
-    :param converter:
-    :return:
-    """
-    for converter_desc in converters_desc:
-        if converter in converter_desc:
-            return True
-        # end if
-    # end for
-    return False
-# end converter_in
-
-
-# Create directory
-def create_directories(output_directory, xp_name):
-    """
-    Create image directory
-    :return:
-    """
-    # Directories
-    image_directory = os.path.join(output_directory, xp_name, "images")
-    texts_directory = os.path.join(output_directory, xp_name, "texts")
-
-    # Create if does not exists
-    if not os.path.exists(image_directory):
-        os.mkdir(image_directory)
-    # end if
-
-    # Create if does not exists
-    if not os.path.exists(texts_directory):
-        os.mkdir(texts_directory)
-    # end if
-
-    return image_directory, texts_directory
-# end create_directories
 
 
 ####################################################
 # Main function
 ####################################################
 
+
+# Compute F1
+def compute_f1(confusion_matrix):
+    """
+    Compute F1
+    :param confusion_matrix:
+    :return:
+    """
+    precision = confusion_matrix[1, 1] / (confusion_matrix[1, 1] + confusion_matrix[0, 1])
+    recall = confusion_matrix[1, 1] / (confusion_matrix[1, 1] + confusion_matrix[1, 0])
+    return 2.0 * ((precision * recall) / (precision + recall))
+# end compute_f1
+
+
+####################################################
 # Main function
-if __name__ == "__main__":
-    # Argument builder
-    args = nsNLP.tools.ArgumentBuilder(desc=u"Argument test")
+####################################################
 
-    # Dataset arguments
-    args.add_argument(command="--dataset", name="dataset", type=str,
-                      help="JSON file with the file description for each authors", required=True, extended=False)
+# Parse args
+args, use_cuda, param_space, xp = argument_parsing.parser_esn_training()
 
-    # Author
-    args.add_argument(command="--author", name="author1", type=str, help="First author to learn",
-                      required=True, extended=False)
+# Load from directory
+sfgram_dataset, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0])
 
-    # ESN arguments
-    args.add_argument(command="--reservoir-size", name="reservoir_size", type=float, help="Reservoir's size",
-                      required=True, extended=True)
-    args.add_argument(command="--spectral-radius", name="spectral_radius", type=float, help="Spectral radius",
-                      default="1.0", extended=True)
-    args.add_argument(command="--leak-rate", name="leak_rate", type=str, help="Reservoir's leak rate", extended=True,
-                      default="1.0")
-    args.add_argument(command="--input-scaling", name="input_scaling", type=str, help="Input scaling", extended=True,
-                      default="0.5")
-    args.add_argument(command="--input-sparsity", name="input_sparsity", type=str, help="Input sparsity", extended=True,
-                      default="0.05")
-    args.add_argument(command="--w-sparsity", name="w_sparsity", type=str, help="W sparsity", extended=True,
-                      default="0.05")
-    args.add_argument(command="--converters", name="converters", type=str,
-                      help="The text converters to use (fw, pos, tag, wv, oh)", default='oh', extended=True)
-    args.add_argument(command="--pca-path", name="pca_path", type=str, help="PCA model to load", default=None,
-                      extended=False)
-    args.add_argument(command="--keep-w", name="keep_w", action='store_true', help="Keep W matrix", default=False,
-                      extended=False)
-    args.add_argument(command="--aggregation", name="aggregation", type=str, help="Output aggregation method",
-                      extended=True, default="average")
-    args.add_argument(command="--state-gram", name="state_gram", type=str, help="State-gram value",
-                      extended=True, default="1")
-    args.add_argument(command="--voc-size", name="voc_size", type=int, help="Voc. size",
-                      default=30000, extended=False)
+# Print authors
+xp.write(u"Author : {}".format(sfgram_dataset.author), log_level=0)
+xp.write(u"Texts : {}".format(len(sfgram_dataset.texts)), log_level=0)
 
-    # Tokenizer and clustering parameters
-    args.add_argument(command="--distance", name="distance", type=str, help="Distance measure to use", default='cosine',
-                      extended=True)
-    args.add_argument(command="--tokenizer", name="tokenizer", type=str,
-                      help="Which tokenizer to use (spacy, nltk, spacy-tokens)", default='nltk', extended=False)
-    args.add_argument(command="--lang", name="lang", type=str, help="Tokenizer language parameters", default='en',
-                      extended=False)
+# W index
+w_index = 0
 
-    # Experiment output parameters
-    args.add_argument(command="--name", name="name", type=str, help="Experiment's name", extended=False, required=True)
-    args.add_argument(command="--description", name="description", type=str, help="Experiment's description",
-                      extended=False, required=True)
-    args.add_argument(command="--output", name="output", type=str, help="Experiment's output directory", required=True,
-                      extended=False)
-    args.add_argument(command="--eval", name="eval", type=str, help="Evaluation measure", default='bsquared',
-                      extended=False)
-    args.add_argument(command="--n-samples", name="n_samples", type=int, help="Number of different reservoir to test",
-                      default=1, extended=False)
-    args.add_argument(command="--verbose", name="verbose", type=int, help="Verbose level", default=2, extended=False)
+# Last space
+last_space = dict()
 
-    # Parse arguments
-    args.parse()
+# Iterate
+for space in param_space:
+    # Params
+    reservoir_size, w_sparsity, leak_rate, input_scaling, \
+    input_sparsity, spectral_radius, feature, aggregation, \
+    state_gram, feedbacks_sparsity, lang, embedding, \
+    ridge_param, washout = functions.get_params(space)
 
-    # Corpus
-    sfgram = DiarizationDataset(source_directory=args.dataset, author=args.author)
+    # Choose the right transformer
+    sfgram_dataset.transform = features.create_transformer(feature, embedding, args.embedding_path, lang)
 
-    # Parameter space
-    param_space = nsNLP.tools.ParameterSpace(args.get_space())
+    # Set experience state
+    xp.set_state(space)
 
-    # Experiment
-    xp = nsNLP.tools.ResultManager\
-    (
-        args.output,
-        args.name,
-        args.description,
-        args.get_space(),
-        args.n_samples,
-        1,
-        verbose=args.verbose
-    )
+    # Average sample
+    average_sample = np.array([])
 
-    # Create image directory
-    image_directory, texts_directory = create_directories(args.output, args.name)
+    # For each sample
+    for n in range(args.n_samples):
+        # Set sample
+        xp.set_sample_state(n)
 
-    # Print authors
-    xp.write(u"Authors : {}".format(sfgram.authors, log_level=0))
-    xp.write(u"Texts : {}".format(len(sfgram.files), log_level=0))
-
-    # First params
-    rc_size = int(args.get_space()['reservoir_size'][0])
-    rc_w_sparsity = args.get_space()['w_sparsity'][0]
-
-    # Create W matrix
-    w = nsNLP.esn_models.ESNTextAnalyser.w(rc_size=rc_size, rc_w_sparsity=rc_w_sparsity)
-
-    # W index
-    w_index = 0
-
-    # Last space
-    last_space = dict()
-
-    # Iterate
-    for space in param_space:
-        # Params
-        reservoir_size = int(space['reservoir_size'])
-        w_sparsity = space['w_sparsity']
-        leak_rate = space['leak_rate']
-        input_scaling = space['input_scaling']
-        input_sparsity = space['input_sparsity']
-        spectral_radius = space['spectral_radius']
-        converter_desc = space['converters']
-        aggregation = space['aggregation'][0][0]
-        state_gram = space['state_gram']
-
-        # Choose the right tokenizer
-        if converter_in(converter_desc, "wv") or \
-                converter_in(converter_desc, "pos") or \
-                converter_in(converter_desc, "tag"):
-            tokenizer = create_tokenizer("spacy_wv")
-        else:
-            tokenizer = create_tokenizer("nltk")
+        # ESN cell
+        esn = etnn.LiESN(
+            input_dim=sfgram_dataset.transform.input_dim,
+            hidden_dim=reservoir_size,
+            output_dim=1,
+            spectral_radius=spectral_radius,
+            sparsity=input_sparsity,
+            input_scaling=input_scaling,
+            w_sparsity=w_sparsity,
+            learning_algo='inv',
+            leaky_rate=leak_rate,
+            feedbacks=args.feedbacks,
+            seed=1 if args.keep_w else None,
+            softmax_output=True
+        )
+        if use_cuda:
+            esn.cuda()
         # end if
 
-        # Set experience state
-        xp.set_state(space)
+        # For each batch
+        for k in range(10):
+            # Choose fold
+            xp.set_fold_state(k)
+            sfgram_loader_train.dataset.set_fold(k)
+            sfgram_loader_test.dataset.set_fold(k)
 
-        # Average sample
-        average_sample = np.array([])
+            # F1 per threshold
+            f1_scores = torch.zeros(100)
+            thresholds = torch.linspace(0.0, 1.0, 100)
 
-        # For each sample
-        for n in range(args.n_samples):
-            # Set sample
-            xp.set_sample_state(n)
-
-            # Description
-            desc_info = u"{}-{}".format(space, n)
-
-            # Create ESN text classifier
-            classifier = nsNLP.esn_models.ESNTextAnalyser.create\
-            (
-                classes=sfgram.authors_tags,
-                rc_size=reservoir_size,
-                rc_spectral_radius=spectral_radius,
-                rc_leak_rate=leak_rate,
-                rc_input_scaling=input_scaling,
-                rc_input_sparsity=input_sparsity,
-                rc_w_sparsity=w_sparsity,
-                converters_desc=converter_desc,
-                use_sparse_matrix=True if converter_in(converter_desc, "oh") else False,
-                w=w if args.keep_w else None,
-                aggregation=aggregation,
-                state_gram=state_gram,
-                pca_path=args.pca_path,
-                voc_size=args.voc_size
+            # Choose the right transformer
+            sfgram_dataset.transform = features.create_transformer(
+                feature,
+                embedding,
+                args.embedding_path,
+                lang
             )
 
-            # Save w matrix
-            if not args.keep_w:
-                xp.save_object(u"w_{}".format(w_index), classifier.get_w(), info=u"{}".format(space))
-            # end if
-
             # For each folds
-            for (training_set, training_y, test_set, test_y) in sfgram:
-                # For each magazine in training set
-                for index, text in enumerate(training_set):
-                    # Add
-                    classifier.train(tokenizer(text), training_y[index])
-                # end for
+            print(u"Training")
+            for i, data in enumerate(sfgram_loader_train):
+                print(i)
+                # Inputs and labels
+                inputs, labels = data
 
-                # Train
-                classifier.finalize(verbose=False)
+                # To variable
+                inputs, labels = Variable(inputs), Variable(labels)
+                if use_cuda: inputs, labels = inputs.cuda(), labels.cuda()
 
-                # Success and total
-                success = 0.0
-                total = 0.0
-
-                # For each magazine in test set
-                for index, text in enumerate(test_set):
-                    # Targets
-                    y = test_y[index]
-
-                    # Classify the text
-                    predicted_author, prediction_probs = classifier.predict(tokenizer(text))
-
-                    # Output predictions
-                    outputs = classifier.outputs
-
-                    # Image
-                    for index2, output in enumerate(outputs):
-                        if output == y[index2]:
-                            success += 1.0
-                        # end if
-                        total += 1.0
-                    # end for
-                # end for
-
-                # Save result
-                xp.add_result(success / total)
+                # Accumulate xTx and xTy
+                esn(inputs, labels)
             # end for
 
-            # Delete classifier
-            del classifier
+            # Train
+            esn.finalize()
 
-            # W index
-            w_index += 1
-        # end for samples
+            # Success and total
+            success = 0.0
+            total = 0.0
 
-        # Last space
-        last_space = space
-    # end for
+            # For each folds
+            for i, data in enumerate(sfgram_loader_test):
+                print(i)
+                # Inputs and labels
+                inputs, labels = data
 
-    # Save experiment results
-    xp.save()
-# end if
+                # To variable
+                inputs, labels = Variable(inputs), Variable(labels)
+                if use_cuda: inputs, labels = inputs.cuda(), labels.cuda()
+
+                # Confusion matrix
+                confusion_matrix = torch.zeros((2, 2))
+
+                # Predict
+                y_predicted = esn(inputs)
+
+                # For each threshold
+                for j, threshold in enumerate(thresholds):
+                    # For each prediction
+                    for t in inputs.size(1):
+                        if y_predicted[0, t, 0] > threshold:
+                            predicted = 1
+                        else:
+                            predicted = 0
+                        # end if
+                        confusion_matrix[int(labels[0, t]), predicted] += 1
+                    # end for
+
+                    # Compute F1
+                    f1_scores[j] += compute_f1(confusion_matrix)
+                # end for
+            # end for
+
+            # Average f1
+            f1_scores /= 100.0
+
+            # Best f1 score
+            best_f1_score = torch.max(f1_scores)
+            best_threshold = thresholds[torch.argmax(f1_scores)]
+
+            # Print
+            print(u"Max f1 score of {} with threshold {}".format(best_f1_score, best_threshold))
+
+            # Save result
+            xp.add_result(best_f1_score)
+        # end for
+
+        # Delete classifier
+        del esn
+
+        # W index
+        w_index += 1
+    # end for samples
+
+    # Last space
+    last_space = space
+# end for
+
+# Save experiment results
+xp.save()
