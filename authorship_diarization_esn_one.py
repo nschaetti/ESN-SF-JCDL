@@ -35,17 +35,42 @@ import matplotlib.pyplot as plt
 ####################################################
 
 
+# Compute f1 score
+def compute_f1_score(tp, fp, fn):
+    """
+    Compute f1 score
+    :param tp:
+    :param fp:
+    :param fn:
+    :return:
+    """
+    precision = tp / (tp + fp)
+    recall = tp / (tp + fn)
+    return 2.0 * ((precision * recall) / (precision + recall))
+# end compute_f1_score
+
+
 # Compute F1
-def compute_f1(confusion_matrix):
+def compute_average_f1(confusion_matrix):
     """
     Compute F1
     :param confusion_matrix:
     :return:
     """
-    precision = confusion_matrix[1, 1] / (confusion_matrix[1, 1] + confusion_matrix[0, 1])
-    recall = confusion_matrix[1, 1] / (confusion_matrix[1, 1] + confusion_matrix[1, 0])
-    return 2.0 * ((precision * recall) / (precision + recall))
+    pos_f1_score = compute_f1_score(confusion_matrix[1, 1], confusion_matrix[0, 1], confusion_matrix[1, 0])
+    return pos_f1_score
 # end compute_f1
+
+
+# Compute accuracy
+def compute_accuracy(confusion_matrix):
+    """
+    Compute accuracy
+    :param confusion_matrix:
+    :return:
+    """
+    return confusion_matrix[0, 0] / (confusion_matrix[0, 0] + confusion_matrix[0, 1])
+# end compute_accuracy
 
 
 ####################################################
@@ -102,8 +127,7 @@ for space in param_space:
             learning_algo='inv',
             leaky_rate=leak_rate,
             feedbacks=args.feedbacks,
-            seed=1 if args.keep_w else None,
-            softmax_output=True
+            seed=1 if args.keep_w else None
         )
         if use_cuda:
             esn.cuda()
@@ -129,9 +153,7 @@ for space in param_space:
             )
 
             # For each folds
-            print(u"Training")
             for i, data in enumerate(sfgram_loader_train):
-                print(i)
                 # Inputs and labels
                 inputs, labels = data
 
@@ -152,7 +174,6 @@ for space in param_space:
 
             # For each folds
             for i, data in enumerate(sfgram_loader_test):
-                print(i)
                 # Inputs and labels
                 inputs, labels = data
 
@@ -160,38 +181,54 @@ for space in param_space:
                 inputs, labels = Variable(inputs), Variable(labels)
                 if use_cuda: inputs, labels = inputs.cuda(), labels.cuda()
 
-                # Confusion matrix
-                confusion_matrix = torch.zeros((2, 2))
-
                 # Predict
                 y_predicted = esn(inputs)
 
-                # For each threshold
-                for j, threshold in enumerate(thresholds):
-                    # For each prediction
-                    for t in inputs.size(1):
-                        if y_predicted[0, t, 0] > threshold:
-                            predicted = 1
-                        else:
-                            predicted = 0
-                        # end if
-                        confusion_matrix[int(labels[0, t]), predicted] += 1
-                    # end for
+                # Between 0 and 1
+                y_predicted -= torch.min(y_predicted)
+                y_predicted /= torch.max(y_predicted)
+                plt.plot(y_predicted[0].numpy())
+                plt.show()
+                # Add to y and ^y
+                if i == 0:
+                    total_predicted = y_predicted
+                    total_labels = labels
+                else:
+                    total_predicted = torch.cat((total_predicted, y_predicted), dim=1)
+                    total_labels = torch.cat((total_labels, labels), dim=1)
+                # end if
 
-                    # Compute F1
-                    f1_scores[j] += compute_f1(confusion_matrix)
-                # end for
+                # Total
+                total += 1.0
             # end for
 
-            # Average f1
-            f1_scores /= 100.0
+            # For each threshold
+            for j, threshold in enumerate(thresholds):
+                # Confusion matrix
+                confusion_matrix = torch.zeros((2, 2))
+
+                # Above threshold => 1.0
+                predicted_labels = total_predicted >= threshold
+                truth_labels = total_labels == 1.0
+
+                tp_fp = float(torch.sum(predicted_labels))
+                tp_fn = float(torch.sum(truth_labels))
+                tp = float(torch.sum(total_labels[predicted_labels]))
+
+                # Precision and recall
+                precision = tp / tp_fp
+                recall = tp / tp_fn
+
+                # Compute F1
+                f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
+            # end for
 
             # Best f1 score
             best_f1_score = torch.max(f1_scores)
             best_threshold = thresholds[torch.argmax(f1_scores)]
 
             # Print
-            print(u"Max f1 score of {} with threshold {}".format(best_f1_score, best_threshold))
+            # print(u"Max f1 score of {} with threshold {}".format(best_f1_score, best_threshold))
 
             # Save result
             xp.add_result(best_f1_score)
