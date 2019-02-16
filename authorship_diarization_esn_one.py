@@ -28,6 +28,8 @@ from torch.autograd import Variable
 import echotorch.nn as etnn
 from tools import argument_parsing, dataset, functions, features
 import matplotlib.pyplot as plt
+import os
+import torchlanguage
 
 
 ####################################################
@@ -93,6 +95,10 @@ w_index = 0
 # Last space
 last_space = dict()
 
+# Load novels
+novels_dataset = torchlanguage.datasets.FileDirectory(root='./novels', save_transform=True)
+novels_loader = torch.utils.data.DataLoader(novels_dataset, batch_size=1, shuffle=False)
+
 # Iterate
 for space in param_space:
     # Params
@@ -145,13 +151,39 @@ for space in param_space:
             thresholds = torch.linspace(0.0, 1.0, 100)
 
             # Choose the right transformer
-            sfgram_dataset.transform = features.create_transformer(
+            transformer = features.create_transformer(
                 feature,
                 embedding,
                 args.embedding_path,
                 lang
             )
 
+            # Set transformer
+            sfgram_dataset.transform = transformer
+            novels_dataset.transform = transformer
+
+            # For each novels
+            if args.novels:
+                for i, data in enumerate(novels_loader):
+                    # Inputs and labels
+                    inputs, class_name, title = data
+
+                    # Labels
+                    if args.author == class_name[0]:
+                        labels = torch.ones(1, inputs.size(1), 1)
+                    else:
+                        labels = torch.zeros(1, inputs.size(1), 1)
+                    # end if
+
+                    # To variable
+                    inputs, labels = Variable(inputs), Variable(labels)
+                    if use_cuda: inputs, labels = inputs.cuda(), labels.cuda()
+
+                    # Accumulate xTx and xTy
+                    esn(inputs, labels)
+                # end for
+            # end if
+            exit()
             # For each folds
             for i, data in enumerate(sfgram_loader_train):
                 # Inputs and labels
@@ -185,10 +217,15 @@ for space in param_space:
                 y_predicted = esn(inputs)
 
                 # Between 0 and 1
-                y_predicted -= torch.min(y_predicted)
-                y_predicted /= torch.max(y_predicted)
-                plt.plot(y_predicted[0].numpy())
-                plt.show()
+                # y_predicted -= torch.min(y_predicted)
+                # y_predicted /= torch.max(y_predicted)
+
+                # Plot
+                plt.plot(labels[0].numpy(), 'r')
+                plt.plot(y_predicted[0].numpy(), 'g')
+                plt.savefig(os.path.join("images", "plot.{}.{}.jpg".format(k, i)))
+                plt.close()
+
                 # Add to y and ^y
                 if i == 0:
                     total_predicted = y_predicted
@@ -201,6 +238,10 @@ for space in param_space:
                 # Total
                 total += 1.0
             # end for
+
+            # Between 0 and 1
+            total_predicted -= torch.min(total_predicted)
+            total_predicted /= torch.max(total_predicted)
 
             # For each threshold
             for j, threshold in enumerate(thresholds):

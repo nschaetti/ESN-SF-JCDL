@@ -27,6 +27,7 @@ def parser_esn_training():
 
     # Author parameters
     args.add_argument(command="--author", name="author", type=str, help="Author to test", extended=False)
+    args.add_argument(command="--novels", name="novels", action='store_true', help="Add novels ?", default=False, extended=False)
 
     # ESN arguments
     args.add_argument(command="--reservoir-size", name="reservoir_size", type=float, help="Reservoir's size",
