@@ -183,7 +183,7 @@ for space in param_space:
                     esn(inputs, labels)
                 # end for
             # end if
-            exit()
+
             # For each folds
             for i, data in enumerate(sfgram_loader_train):
                 # Inputs and labels
@@ -252,16 +252,20 @@ for space in param_space:
                 predicted_labels = total_predicted >= threshold
                 truth_labels = total_labels == 1.0
 
-                tp_fp = float(torch.sum(predicted_labels))
-                tp_fn = float(torch.sum(truth_labels))
-                tp = float(torch.sum(total_labels[predicted_labels]))
+                try:
+                    tp_fp = float(torch.sum(predicted_labels))
+                    tp_fn = float(torch.sum(truth_labels))
+                    tp = float(torch.sum(total_labels[predicted_labels]))
 
-                # Precision and recall
-                precision = tp / tp_fp
-                recall = tp / tp_fn
+                    # Precision and recall
+                    precision = tp / tp_fp
+                    recall = tp / tp_fn
 
-                # Compute F1
-                f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
+                    # Compute F1
+                    f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
+                except ZeroDivisionError:
+                    f1_scores[j] = 0.0
+                # end try
             # end for
 
             # Best f1 score
