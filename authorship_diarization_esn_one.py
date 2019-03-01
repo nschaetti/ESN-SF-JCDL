@@ -83,7 +83,7 @@ def compute_accuracy(confusion_matrix):
 args, use_cuda, param_space, xp = argument_parsing.parser_esn_training()
 
 # Load from directory
-sfgram_dataset, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0])
+sfgram_dataset, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0], remove_authors=args.remove_authors)
 
 # Print authors
 xp.write(u"Author : {}".format(sfgram_dataset.author), log_level=0)
@@ -223,8 +223,27 @@ for space in param_space:
                 # Plot
                 plt.plot(labels[0].numpy(), 'r')
                 plt.plot(y_predicted[0].numpy(), 'g')
-                plt.savefig(os.path.join("images", "plot.{}.{}.jpg".format(k, i)))
+                plt.title(sfgram_dataset.last_text)
+                plt.savefig(os.path.join("images", "plot.{}.{}.{}.jpg".format(feature, k, i)))
                 plt.close()
+
+                # Save predictions
+                with open(os.path.join("saved_outputs", "predictions.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
+                    y_predicted_to_save = y_predicted + 0.5
+                    y_predicted_to_save /= 1.5
+                    # For each timestep
+                    for t in range(y_predicted.size(1)):
+                        f.write("({}, {})\n".format(t, float(y_predicted_to_save[0, t, 0])))
+                    # end for
+                # end with
+
+                # Save labels
+                with open(os.path.join("saved_outputs", "labels.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
+                    # For each timestep
+                    for t in range(labels.size(1)):
+                        f.write("({}, {})\n".format(t, float(labels[0, t, 0])))
+                    # end for
+                # end with
 
                 # Add to y and ^y
                 if i == 0:
@@ -240,7 +259,9 @@ for space in param_space:
             # end for
 
             # Between 0 and 1
+            print(torch.min(total_predicted))
             total_predicted -= torch.min(total_predicted)
+            print(torch.max(total_predicted))
             total_predicted /= torch.max(total_predicted)
 
             # For each threshold
@@ -271,7 +292,7 @@ for space in param_space:
             # Best f1 score
             best_f1_score = torch.max(f1_scores)
             best_threshold = thresholds[torch.argmax(f1_scores)]
-
+            print(best_threshold)
             # Print
             # print(u"Max f1 score of {} with threshold {}".format(best_f1_score, best_threshold))
 
