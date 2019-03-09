@@ -83,7 +83,7 @@ def compute_accuracy(confusion_matrix):
 args, use_cuda, param_space, xp = argument_parsing.parser_esn_training()
 
 # Load from directory
-sfgram_dataset, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0])
+sfgram_dataset, sfgram_loader_train, sfgram_loader_dev, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0])
 
 # Print authors
 xp.write(u"Author : {}".format(sfgram_dataset.author), log_level=0)
@@ -125,6 +125,27 @@ for space in param_space:
 
     # For each folds
     for i, data in enumerate(sfgram_loader_train):
+        # Inputs and labels
+        inputs, labels = data
+
+        # To variable
+        inputs, labels = Variable(inputs), Variable(labels)
+        if use_cuda: inputs, labels = inputs.cuda(), labels.cuda()
+
+        # Add
+        total_counts += int(inputs.size(1))
+        author_counts += int(torch.sum(labels))
+
+        # Doc
+        if int(torch.sum(labels)) != 0:
+            doc_count += 1.0
+        # end if
+
+        total_doc += 1.0
+    # end for
+
+    # For each folds
+    for i, data in enumerate(sfgram_loader_dev):
         # Inputs and labels
         inputs, labels = data
 
