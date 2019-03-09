@@ -82,8 +82,15 @@ def compute_accuracy(confusion_matrix):
 # Parse args
 args, use_cuda, param_space, xp = argument_parsing.parser_esn_training()
 
-# Load from directory
-sfgram_dataset, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0], remove_authors=args.remove_authors)
+reverse = False
+
+if not reverse:
+    # Load from directory
+    sfgram_dataset, sfgram_loader_train, sfgram_loader_dev, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0], remove_authors=args.remove_authors)
+else:
+    # Load from directory
+    sfgram_dataset, sfgram_loader_dev, sfgram_loader_train, sfgram_loader_test = dataset.load_dataset(args.author, args.transformer[0][0][0], remove_authors=args.remove_authors)
+# end if
 
 # Print authors
 xp.write(u"Author : {}".format(sfgram_dataset.author), log_level=0)
@@ -98,6 +105,9 @@ last_space = dict()
 # Load novels
 novels_dataset = torchlanguage.datasets.FileDirectory(root='./novels', save_transform=True)
 novels_loader = torch.utils.data.DataLoader(novels_dataset, batch_size=1, shuffle=False)
+
+# Threshold
+n_threshold = 200
 
 # Iterate
 for space in param_space:
@@ -140,16 +150,16 @@ for space in param_space:
         # end if
 
         # For each batch
-        for k in range(10):
+        for k in range(5):
             # Choose fold
             xp.set_fold_state(k)
             sfgram_loader_train.dataset.set_fold(k)
+            sfgram_loader_dev.dataset.set_fold(k)
             sfgram_loader_test.dataset.set_fold(k)
 
             # F1 per threshold
-            f1_train_scores = torch.zeros(100)
-            f1_scores = torch.zeros(100)
-            thresholds = torch.linspace(0.0, 1.0, 100)
+            f1_dev_scores = torch.zeros(n_threshold)
+            thresholds = torch.linspace(0.0, 4.0, n_threshold)
 
             # Choose the right transformer
             transformer = features.create_transformer(
@@ -164,7 +174,6 @@ for space in param_space:
 
             # For each folds
             for i, data in enumerate(sfgram_loader_train):
-                print(u"Train {}".format(i))
                 # Inputs and labels
                 inputs, labels = data
 
@@ -180,8 +189,7 @@ for space in param_space:
             esn.finalize()
 
             # For each folds
-            for i, data in enumerate(sfgram_loader_train):
-                print(u"Threshold {}".format(i))
+            for i, data in enumerate(sfgram_loader_dev):
                 # Inputs and labels
                 inputs, labels = data
 
@@ -194,13 +202,17 @@ for space in param_space:
 
                 # Add to y and ^y
                 if i == 0:
-                    total_train_predicted = y_predicted
-                    total_train_labels = labels
+                    total_dev_predicted = y_predicted
+                    total_dev_labels = labels
                 else:
-                    total_train_predicted = torch.cat((total_train_predicted, y_predicted), dim=1)
-                    total_train_labels = torch.cat((total_train_labels, labels), dim=1)
+                    total_dev_predicted = torch.cat((total_dev_predicted, y_predicted), dim=1)
+                    total_dev_labels = torch.cat((total_dev_labels, labels), dim=1)
                 # end if
             # end for
+
+            # Between 0 and 1
+            total_dev_predicted -= torch.mean(total_dev_predicted)
+            total_dev_predicted /= torch.std(total_dev_predicted)
 
             # For each threshold
             for j, threshold in enumerate(thresholds):
@@ -208,33 +220,29 @@ for space in param_space:
                 confusion_matrix = torch.zeros((2, 2))
 
                 # Above threshold => 1.0
-                predicted_labels = total_train_predicted >= threshold
-                truth_labels = total_train_labels == 1.0
+                predicted_labels = total_dev_predicted >= threshold
+                truth_labels = total_dev_labels == 1.0
 
                 try:
                     tp_fp = float(torch.sum(predicted_labels))
                     tp_fn = float(torch.sum(truth_labels))
-                    tp = float(torch.sum(total_train_labels[predicted_labels]))
+                    tp = float(torch.sum(total_dev_labels[predicted_labels]))
 
                     # Precision and recall
                     precision = tp / tp_fp
                     recall = tp / tp_fn
 
                     # Compute F1
-                    f1_train_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
+                    f1_dev_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
                 except ZeroDivisionError:
-                    f1_train_scores[j] = 0.0
+                    f1_dev_scores[j] = 0.0
                 # end try
             # end for
-            print(f1_train_scores)
+            
             # Best train f1 score
-            best_train_f1_score = torch.max(f1_train_scores)
-            best_train_threshold = thresholds[torch.argmax(f1_train_scores)]
-            print(u"Best train threshold : {} with {}".format(best_train_threshold, best_train_f1_score))
-
-            # Success and total
-            success = 0.0
-            total = 0.0
+            best_dev_f1_score = torch.max(f1_dev_scores)
+            best_dev_threshold = thresholds[torch.argmax(f1_dev_scores)]
+            print(u"Best dev threshold : {} with {}".format(best_dev_threshold, best_dev_f1_score))
 
             # For each folds
             for i, data in enumerate(sfgram_loader_test):
@@ -248,21 +256,17 @@ for space in param_space:
                 # Predict
                 y_predicted = esn(inputs)
 
-                # Between 0 and 1
-                # y_predicted -= torch.min(y_predicted)
-                # y_predicted /= torch.max(y_predicted)
-
                 # Plot
                 plt.plot(labels[0].numpy(), 'r')
                 plt.plot(y_predicted[0].numpy(), 'g')
                 plt.title(sfgram_dataset.last_text)
-                plt.savefig(os.path.join("images", "plot.{}.{}.{}.jpg".format(feature, k, i)))
+                plt.savefig(os.path.join("images_{}".format(args.author), "plot.{}.{}.{}.jpg".format(feature, k, i)))
                 plt.close()
 
                 # Save predictions
-                with open(os.path.join("saved_outputs", "predictions.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
-                    y_predicted_to_save = y_predicted + 0.5
-                    y_predicted_to_save /= 1.5
+                with open(os.path.join("saved_outputs_{}".format(args.author), "predictions.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
+                    y_predicted_to_save = y_predicted - torch.mean(y_predicted)
+                    y_predicted_to_save /= torch.std(y_predicted_to_save)
                     # For each timestep
                     for t in range(y_predicted.size(1)):
                         f.write("({}, {})\n".format(t, float(y_predicted_to_save[0, t, 0])))
@@ -270,7 +274,7 @@ for space in param_space:
                 # end with
 
                 # Save labels
-                with open(os.path.join("saved_outputs", "labels.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
+                with open(os.path.join("saved_outputs_{}".format(args.author), "labels.{}.{}.{}.txt".format(feature, k, i)), 'w') as f:
                     # For each timestep
                     for t in range(labels.size(1)):
                         f.write("({}, {})\n".format(t, float(labels[0, t, 0])))
@@ -279,63 +283,44 @@ for space in param_space:
 
                 # Add to y and ^y
                 if i == 0:
-                    total_predicted = y_predicted
-                    total_labels = labels
+                    total_test_predicted = y_predicted
+                    total_test_labels = labels
                 else:
-                    total_predicted = torch.cat((total_predicted, y_predicted), dim=1)
-                    total_labels = torch.cat((total_labels, labels), dim=1)
+                    total_test_predicted = torch.cat((total_test_predicted, y_predicted), dim=1)
+                    total_test_labels = torch.cat((total_test_labels, labels), dim=1)
                 # end if
-
-                # Total
-                total += 1.0
             # end for
 
             # Between 0 and 1
-            print(u"Min : {}".format(torch.min(total_predicted)))
-            total_predicted -= torch.min(total_predicted)
-            print(u"Max : {}".format(torch.max(total_predicted)))
-            total_predicted /= torch.max(total_predicted)
+            print(torch.mean(total_test_predicted))
+            total_test_predicted -= torch.mean(total_test_predicted)
+            print(torch.std(total_test_predicted))
+            total_test_predicted /= torch.std(total_test_predicted)
 
-            # Outputs stats
-            print(u"Min : {}".format(torch.min(total_predicted)))
-            print(u"Max : {}".format(torch.max(total_predicted)))
-            print(u"Mean : {}".format(torch.mean(total_predicted)))
-            print(u"Std : {}".format(torch.std(total_predicted)))
+            # Confusion matrix
+            confusion_matrix = torch.zeros((2, 2))
 
-            # For each threshold
-            for j, threshold in enumerate(thresholds):
-                # Confusion matrix
-                confusion_matrix = torch.zeros((2, 2))
+            # Above threshold => 1.0
+            predicted_labels = total_test_predicted >= best_dev_threshold
+            truth_labels = total_test_labels == 1.0
 
-                # Above threshold => 1.0
-                predicted_labels = total_predicted >= threshold
-                truth_labels = total_labels == 1.0
+            try:
+                tp_fp = float(torch.sum(predicted_labels))
+                tp_fn = float(torch.sum(truth_labels))
+                tp = float(torch.sum(total_test_labels[predicted_labels]))
 
-                try:
-                    tp_fp = float(torch.sum(predicted_labels))
-                    tp_fn = float(torch.sum(truth_labels))
-                    tp = float(torch.sum(total_labels[predicted_labels]))
+                # Precision and recall
+                precision = tp / tp_fp
+                recall = tp / tp_fn
 
-                    # Precision and recall
-                    precision = tp / tp_fp
-                    recall = tp / tp_fn
-
-                    # Compute F1
-                    f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
-                except ZeroDivisionError:
-                    f1_scores[j] = 0.0
-                # end try
-            # end for
-
-            # Best f1 score
-            best_f1_score = torch.max(f1_scores)
-            best_threshold = thresholds[torch.argmax(f1_scores)]
-            print(u"Best test threshold : {} with {}".format(best_threshold, best_f1_score))
-            # Print
-            # print(u"Max f1 score of {} with threshold {}".format(best_f1_score, best_threshold))
+                # Compute F1
+                f1_test_score = 2.0 * ((precision * recall) / (precision + recall))
+            except ZeroDivisionError:
+                f1_test_score = 0.0
+            # end try
 
             # Save result
-            xp.add_result(best_f1_score)
+            xp.add_result(f1_test_score)
         # end for
 
         # Delete classifier
