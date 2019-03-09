@@ -117,9 +117,13 @@ for k in range(10):
     # Prediction for each threshold
     n_threshold = 100
     thresholds = torch.linspace(0.0, 1.0, n_threshold)
-    train_truth_vector = np.zeros((len(sfgram_loader_train)), dtype=np.int32)
-    train_prediction_vector = np.zeros((n_threshold, len(sfgram_loader_train)), dtype=np.int32)
-    train_f1_scores = torch.zeros(n_threshold)
+
+    # Validation threshold
+    if k == 0:
+        validation_threshold = 0.0
+    elif k == 2:
+        validation_threshold /= 2.0
+    # end if
 
     # Get training data for this fold
     for i, data in enumerate(sfgram_loader_train):
@@ -158,79 +162,14 @@ for k in range(10):
     # Train
     text_clf.fit(samples, classes)
 
-    # Get test data for this fold
-    for i, data in enumerate(sfgram_loader_train):
-        # Sample
-        inputs, label = data
-
-        # Present or not
-        author_label = u"F"
-        for j in label:
-            if int(j) == 1:
-                author_label = u"T"
-                train_truth_vector[i] = 1
-            # end if
-        # end for
-
-        # Clean inputs
-        inputs = inputs[0][0]
-        inputs = inputs.replace(u"SFGRAM_START_ASIMOV", u"")
-        inputs = inputs.replace(u"SFGRAM_STOP_ASIMOV", u"")
-        inputs = inputs.replace(u"SFGRAM_START_DICK", u"")
-        inputs = inputs.replace(u"SFGRAM_STOP_DICK", u"")
-        inputs = inputs.replace(u"SFGRAM_START_SILVERBERG", u"")
-        inputs = inputs.replace(u"SFGRAM_STOP_SILVERBERG", u"")
-        inputs = inputs.lower()
-        inputs = inputs.replace(u"isaac", u"")
-        inputs = inputs.replace(u"asimov", u"")
-        inputs = inputs.replace(u"philip", u"")
-        inputs = inputs.replace(u"dick", u"")
-        inputs = inputs.replace(u"robert", u"")
-        inputs = inputs.replace(u"silverberg", u"")
-
-        # Predict
-        prediction = text_clf.predict([inputs])[0]
-
-        # For each threshold
-        for j, threshold in enumerate(thresholds):
-            # Above threshold
-            if prediction >= threshold:
-                # Set as detected
-                train_prediction_vector[j, i] = 1.0
-            # end if
-        # end for
-    # end for
-
-    # For each threshold
-    for j, threshold in enumerate(thresholds):
-        try:
-            # F1 score
-            tp_fp = float(np.sum(train_prediction_vector[j, :]))
-            tp_fn = float(np.sum(train_truth_vector))
-            mask = train_prediction_vector[j, :] == 1
-            tp = float(np.sum(train_truth_vector[mask]))
-
-            # Precision and recall
-            precision = tp / tp_fp
-            recall = tp / tp_fn
-
-            # Compute F1
-            train_f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
-        except ZeroDivisionError:
-            train_f1_scores[j] = 0.0
-        # end try
-    # end for
-
-    # Best f1 score
-    best_train_f1_score = torch.max(train_f1_scores)
-    best_train_threshold = thresholds[torch.argmax(train_f1_scores)]
-
-    # Print
-    print(u"Best train threshold : {} with {}".format(best_train_threshold, best_train_f1_score))
-
     # Prediction for each threshold
     truth_vector = np.zeros(len(sfgram_loader_test), dtype=np.int32)
-    prediction_vector = np.zeros(len(sfgram_loader_test), dtype=np.int32)
+    if k == 0 or k == 1:
+        prediction_vector = np.zeros((n_threshold, len(sfgram_loader_test)), dtype=np.int32)
+        f1_scores = torch.zeros(n_threshold)
+    else:
+        prediction_vector = np.zeros(len(sfgram_loader_test), dtype=np.int32)
+    # end if
 
     # Get test data for this fold
     for i, data in enumerate(sfgram_loader_test):
@@ -265,34 +204,76 @@ for k in range(10):
         # Predict
         prediction = text_clf.predict([inputs])[0]
 
-        # Prediction
-        if prediction > best_train_threshold:
-            prediction_vector[i] = 1.0
+        # For each threshold
+        if k == 0 or k == 1:
+            for j, threshold in enumerate(thresholds):
+                # Above threshold
+                if prediction >= threshold:
+                    # Set as detected
+                    prediction_vector[j, i] = 1.0
+                # end if
+            # end for
+        else:
+            if prediction >= validation_threshold:
+                prediction_vector[i] = 1.0
+            # end if
         # end if
     # end for
 
-    try:
-        # F1 score
-        tp_fp = float(np.sum(prediction_vector))
-        tp_fn = float(np.sum(truth_vector))
-        mask = prediction_vector == 1
-        tp = float(np.sum(truth_vector[mask]))
+    if k == 0 or k == 1:
+        # For each threshold
+        for j, threshold in enumerate(thresholds):
+            try:
+                # F1 score
+                tp_fp = float(np.sum(prediction_vector[j, :]))
+                tp_fn = float(np.sum(truth_vector))
+                mask = prediction_vector[j, :] == 1
+                tp = float(np.sum(truth_vector[mask]))
 
-        # Precision and recall
-        precision = tp / tp_fp
-        recall = tp / tp_fn
+                # Precision and recall
+                precision = tp / tp_fp
+                recall = tp / tp_fn
 
-        # Compute F1
-        f1_score = 2.0 * ((precision * recall) / (precision + recall))
-    except ZeroDivisionError:
-        f1_score = 0.0
-    # end try
+                # Compute F1
+                f1_scores[j] = 2.0 * ((precision * recall) / (precision + recall))
+            except ZeroDivisionError:
+                f1_scores[j] = 0.0
+            # end try
+        # end for
 
-    # Print
-    # print(u"Best test threshold : {} with {}".format(best_threshold, best_f1_score))
+        # Best f1 score
+        best_f1_score = torch.max(f1_scores)
+        best_threshold = thresholds[torch.argmax(f1_scores)]
+
+        # Validation threshold
+        validation_threshold += best_f1_score
+
+        # Print
+        print(u"Best test threshold : {} with {}".format(best_threshold, best_f1_score))
+    else:
+        try:
+            # F1 score
+            tp_fp = float(np.sum(prediction_vector))
+            tp_fn = float(np.sum(truth_vector))
+            mask = prediction_vector == 1
+            tp = float(np.sum(truth_vector[mask]))
+
+            # Precision and recall
+            precision = tp / tp_fp
+            recall = tp / tp_fn
+
+            # Compute F1
+            f1_scores = 2.0 * ((precision * recall) / (precision + recall))
+        except ZeroDivisionError:
+            f1_scores = 0.0
+        # end try
+
+        # Best f1 score
+        best_f1_score = f1_scores
+    # end if
 
     # Print success rate
-    xp.add_result(f1_score)
+    xp.add_result(best_f1_score)
 # end for
 
 xp.save()
