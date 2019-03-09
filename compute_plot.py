@@ -23,6 +23,7 @@
 #
 
 import argparse
+import numpy as np
 
 
 parser = argparse.ArgumentParser()
@@ -43,6 +44,7 @@ l = open(args.labels, 'r')
 
 # Timeseries
 timeserie = list()
+# timeserie_values = list()
 downsampled = list()
 
 # For each line
@@ -52,20 +54,28 @@ for line in lines:
 
     # Timestep and
     timeserie.append((int(data[0]), float(data[1])))
+    # timeserie_values.append( float(data[1]))
 # end for
+
+# Mean and std
+"""timeserie_values_np = np.array(timeserie_values)
+timeserie_mean = np.average(timeserie_values_np)
+timeserie_std = np.std(timeserie_values_np)"""
 
 # For each entry
 sum = 0.0
 timestep = 0
 for i, (t, s) in enumerate(timeserie):
+    # s_norm = (s - 0.0349) / 0.1272
+    s_norm = (s - 0.0349) / 0.5088
     if i % args.step == 0 and i != 0:
         averaged_value = sum / float(args.step)
         o.write("({}, {})\n".format(timestep, averaged_value))
         downsampled.append((timestep, averaged_value))
-        sum = s
+        sum = s_norm
         timestep += 1
     else:
-        sum += s
+        sum += s_norm
     # end if
 # end for
 
