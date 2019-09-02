@@ -168,6 +168,12 @@ for author in ["ASIMOV", "DICK", "SILVERBERG"]:
                             part_index += 1
                         # end for
                     # end if
+                else:
+                    # Lis le fichier
+                    document_text = codecs.open(os.path.join(args.dataset, data_file), 'r', encoding='utf-8').read()
+
+                    # Ecrit le fichier
+                    codecs.open(os.path.join(val_directory, "{}.txt".format(file_index)), 'w', encoding='utf-8').write(document_text)
                 # end if
 
                 # Next file index
