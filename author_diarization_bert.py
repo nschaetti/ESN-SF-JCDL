@@ -1,0 +1,125 @@
+
+# Import
+import ktrain
+from ktrain import text
+import numpy as np
+import os
+import codecs
+import argparse
+
+# Classes
+classes = ['false', 'true']
+
+# Arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--datadir", type=str)
+parser.add_argument("--author", type=str, default="ASIMOV")
+parser.add_argument("--k", default=1)
+args = parser.parse_args()
+
+# Average accuracy
+average_accuracy = np.zeros(args.k)
+
+# For each fold
+for k in range(args.k):
+    # Author directory
+    author_dir = os.path.join(args.datadir, args.author)
+
+    # Fold directory
+    fold_dir = os.path.join(author_dir, "k{}".format(k))
+
+    # Train, test, val
+    train_dir = os.path.join(fold_dir, "train")
+    test_dir = os.path.join(fold_dir, "test")
+    val_dir = os.path.join(fold_dir, "val")
+
+    # Load training and validation data from a folder
+    (x_train, y_train), (x_test, y_test), preproc = text.texts_from_folder(
+        fold_dir,
+        maxlen=512,
+        preprocess_mode='bert',
+        classes=classes
+    )
+
+    # Load BERT
+    learner = ktrain.get_learner(
+        text.text_classifier('bert', (x_train, y_train)),
+        train_data=(x_train, y_train),
+        val_data=(x_test, y_test),
+        batch_size=16
+    )
+
+    # Get good learning rate
+    learner.lr_find()
+
+    # Plot
+    learner.lr_plot()
+
+    # Train the model
+    learner.fit(2e-5, 20, early_stopping=5)
+    # learner.fit_onecycle(2e-5, 1)
+
+    # Get the predictor
+    predictor = ktrain.get_predictor(learner.model, preproc)
+
+    # F-1 score per threshold
+    fscore_per_threshold = np.zeros(20)
+
+    # Thresholds
+    thresholds = np.arange(0.0, 1.0, 20)
+
+    # For each threshold between 0.0 and 1.0
+    for i, threshold in enumerate(thresholds):
+        # List of prediction and truths
+        predicted_class = list()
+        truth_class = list()
+
+        # For false and true
+        for test_class in ["false", "true"]:
+            # Final dir
+            final_dir = os.path.join(test_dir, test_class)
+
+            # For each file in test
+            for test_file in os.listdir(test_dir):
+                # Read the file
+                document_text = codecs.open(os.path.join(final_dir, test_file), 'r', encoding='utf-8')
+
+                # Predict class
+                pred = predictor.predict([document_text])
+
+                # Above theshold ?
+                if pred[0, 1] > threshold:
+                    predicted_class.append(1)
+                else:
+                    predicted_class.append(0)
+                # end if
+
+                # Truth class
+                if test_class == "false":
+                    truth_class.append(0)
+                else:
+                    truth_class.append(1)
+                # end if
+            # end for
+        # end for
+
+        # Predicted class vector, truth class vector
+        predicted_class_vector = np.array(predicted_class)
+        truth_class_vector = np.array(truth_class)
+
+        # Confusion matrix
+        tp_fp = float(np.sum(predicted_class_vector))
+        tp_fn = float(np.sum(truth_class_vector))
+        tp = float(np.sum(truth_class_vector[predicted_class_vector]))
+
+        # Precision and recall
+        precision = tp / tp_fp
+        recall = tp / tp_fn
+
+        # Compute F1
+        f1_test_scores = 2.0 * ((precision * recall) / (precision + recall))
+
+        # Save
+        fscore_per_threshold[i] = f1_test_scores
+    # end for
+# end for
