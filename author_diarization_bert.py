@@ -6,6 +6,48 @@ import numpy as np
 import os
 import codecs
 import argparse
+import re
+
+
+##################################################
+# FUNCTIONS
+##################################################
+
+
+# Compute truth for a document
+def compute_truth_for_document(doc_text, author):
+    """
+    Cmpute truth for a document
+    :param doc_text:
+    :param author:
+    :return:
+    """
+    # Find all start
+    start_matches = [(m.start(0), m.end(0)) for m in re.finditer(r'SFGRAM_START_{}'.format(author), doc_text)]
+    stop_matches = [(m.start(0), m.end(0)) for m in re.finditer(r'SFGRAM_STOP_{}'.format(author), doc_text)]
+
+    # Document truths
+    document_truths = np.zeros(len(doc_text))
+
+    # If the author is inside
+    if len(start_matches) > 0:
+        # For each part
+        for j, (start1, start2) in enumerate(start_matches):
+            # Ending
+            (end1, end2) = stop_matches[j]
+
+            # Put part to 1
+            document_truths[start2:end1] = 1
+        # end for
+    # end if
+
+    return document_truths
+# end compute_truth_for_document
+
+
+##################################################
+# MAIN
+##################################################
 
 # Classes
 classes = ['false', 'true']
@@ -129,9 +171,9 @@ for k in range(args.k):
     # Get the best threshold
     best_threshold = thresholds[np.argmax(fscore_per_threshold)]
 
-    # List of prediction and truths
-    predicted_class = list()
-    truth_class = list()
+    # Average F1-score
+    average_f1_score = 0
+    f1_score_count = 0
 
     # For each validation files
     for val_file in os.listdir(val_dir):
@@ -158,11 +200,31 @@ for k in range(args.k):
             document_probs /= 2.0
 
             # Document classes
-            document_classes = document_probs >= best_threshold
-            document_classes[document_classes] = 1
-            document_classes[not document_classes] = 0
+            document_predicted_classes = document_probs >= best_threshold
+            document_predicted_classes[document_predicted_classes] = 1
+            document_predicted_classes[not document_predicted_classes] = 0
 
+            # Compute document truths
+            document_truth_classes = compute_truth_for_document(document_text, args.author)
 
+            # Confusion matrix
+            tp_fp = float(np.sum(document_predicted_classes))
+            tp_fn = float(np.sum(document_truth_classes))
+            tp = float(np.sum(document_truth_classes[document_predicted_classes]))
+
+            # Precision and recall
+            precision = tp / tp_fp
+            recall = tp / tp_fn
+
+            # Compute F1
+            f1_val_score = 2.0 * ((precision * recall) / (precision + recall))
+
+            # Save
+            average_f1_score += f1_val_score
+            f1_score_count += 1
         # end if
     # end for
+
+    # Show average F-1
+    print("AVERAGE F-1 SCORE : {}".format(average_f1_score / f1_score_count))
 # end for
