@@ -15,6 +15,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--datadir", type=str)
 parser.add_argument("--author", type=str, default="ASIMOV")
 parser.add_argument("--k", default=1)
+parser.add_argument("--skip", type=int, default=1536)
 args = parser.parse_args()
 
 # Average accuracy
@@ -81,24 +82,26 @@ for k in range(args.k):
 
             # For each file in test
             for test_file in os.listdir(test_dir):
-                # Read the file
-                document_text = codecs.open(os.path.join(final_dir, test_file), 'r', encoding='utf-8')
+                if test_file[-4:] == ".txt":
+                    # Read the file
+                    document_text = codecs.open(os.path.join(final_dir, test_file), 'r', encoding='utf-8')
 
-                # Predict class
-                pred = predictor.predict([document_text])
+                    # Predict class
+                    pred = predictor.predict([document_text])
 
-                # Above theshold ?
-                if pred[0, 1] > threshold:
-                    predicted_class.append(1)
-                else:
-                    predicted_class.append(0)
-                # end if
+                    # Above theshold ?
+                    if pred[0, 1] > threshold:
+                        predicted_class.append(1)
+                    else:
+                        predicted_class.append(0)
+                    # end if
 
-                # Truth class
-                if test_class == "false":
-                    truth_class.append(0)
-                else:
-                    truth_class.append(1)
+                    # Truth class
+                    if test_class == "false":
+                        truth_class.append(0)
+                    else:
+                        truth_class.append(1)
+                    # end if
                 # end if
             # end for
         # end for
@@ -121,5 +124,45 @@ for k in range(args.k):
 
         # Save
         fscore_per_threshold[i] = f1_test_scores
+    # end for
+
+    # Get the best threshold
+    best_threshold = thresholds[np.argmax(fscore_per_threshold)]
+
+    # List of prediction and truths
+    predicted_class = list()
+    truth_class = list()
+
+    # For each validation files
+    for val_file in os.listdir(val_dir):
+        if val_file[-4:] == ".txt":
+            # Read the file
+            document_text = codecs.open(os.path.join(val_dir, val_file), 'r', encoding='utf-8')
+
+            # Document probabilities
+            document_probs = np.zeros(len(document_text))
+
+            # For each part
+            for pos in range(0, len(document_text), args.skip):
+                # Part text
+                part_text = document_text[pos:pos+args.skip*2]
+
+                # Predict class
+                pred = predictor.predict([part_text])
+
+                # Add probs
+                document_probs[pos:pos+args.skip*2] += pred[0, 1]
+            # end for
+
+            # Normalized
+            document_probs /= 2.0
+
+            # Document classes
+            document_classes = document_probs >= best_threshold
+            document_classes[document_classes] = 1
+            document_classes[not document_classes] = 0
+
+
+        # end if
     # end for
 # end for
