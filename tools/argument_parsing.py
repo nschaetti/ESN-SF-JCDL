@@ -24,6 +24,8 @@ def parser_esn_training():
     args.add_argument(command="--dataset", name="dataset", type=str, default="data/",
                       help="JSON file with the file description for each authors", required=False, extended=False)
     args.add_argument(command="--k", name="k", type=int, help="K-Fold Cross Validation", extended=False, default=10)
+    args.add_argument(command="--inverse-dev-test", name="inverse_dev_test", action='store_true', help="Inverse dev and test set?", extended=False, default=False)
+    args.add_argument(command="--seed", name="seed", type=int, help="Random number generator initialisation", extended=False, default=1)
 
     # Author parameters
     args.add_argument(command="--author", name="author", type=str, help="Author to test", extended=False)

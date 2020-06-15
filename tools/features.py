@@ -8,7 +8,7 @@ import sys
 import torchlanguage.transforms
 import os
 import torch
-import settings
+from . import settings
 
 
 # Create tokenizer

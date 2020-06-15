@@ -110,7 +110,6 @@ for k in range(10):
     text_clf = Pipeline([('vec', count_vec),
                          ('tfidf', tf_transformer),
                          ('clf', classifier)])
-
     # Choose the right transformer
     sfgram_dataset.transform = None
 

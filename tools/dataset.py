@@ -5,7 +5,6 @@
 # Imports
 import torchlanguage.transforms
 import torch
-import settings
 
 
 #########################################
